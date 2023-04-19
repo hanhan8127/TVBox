@@ -6,7 +6,7 @@
 
 
 {
-	"spider": "clan://TVbox/fm.jar",
+	"spider": "https://raw.githubusercontent.com/hanhan8127/TVBox/main/Yoursmile.jar",
 
 	"lives": [{
 		    "group": "redirect",

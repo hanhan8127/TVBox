@@ -20,8 +20,8 @@
 {"key":"Qtv","name":"腾腾官源","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"360","name":"360影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_SP360","name":"360官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://toscode.gitee.com/shenghan99/tvbox/raw/master/json/360xbpq.json"},
-//{"key":"Itv","name":"奇艺官源","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
-{"key":"drpy_异果","name":"奇艺影院","type":3,"api":"http://8.210.232.168/tv/box/js/lib/drpy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://8.210.232.168/tv/box/js/奇珍异兽.js"},
+//{"key":"Itv","name":"奇艺官源2","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
+{"key":"drpy_异果","name":"奇艺官源","type":3,"api":"https://toscode.gitee.com/shenghan99/tvbox/raw/master/json/drpy.min.js","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://toscode.gitee.com/shenghan99/tvbox/raw/master/json/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js"},
 
 {"key":"BuLei1","name":"布雷蓝光1","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://饭太硬.ga/$$$auto$$$sdlw1111$$$qqaa1122"},
 {"key":"BuLei2","name":"布雷蓝光2","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy02.bulei.cc$$$auto$$$sdlw1111$$$qqaa1122"},
@@ -57,10 +57,8 @@
 {"key":"csp_XYQHiker_农民影视","name":"农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1, "ext": "https://toscode.gitee.com/shenghan99/tvbox/raw/master/json/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json","jar":"https://toscode.gitee.com/shenghan99/tvbox/raw/master/jar/xzy1029.jar"},
 //{"key":"dr_Nmys","name":"农民影视2","type": 3,"api": "http://8.210.232.168/tv/box/js/lib/drpy2.min.js","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://8.210.232.168/tv/box/js/%E5%86%9C%E6%B0%91.js"}, 
 
-
-{"key":"csp_XYQ_lu1","name":"电视直播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xpath/zb.json","jar":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/zb.zip"},
 //{"key":"csp_Xinsj2","name":"新视觉2","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://k6080.com/"},
-{"key":"csp_Xinsj","name":"视觉影视","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy1.com/","playurl": "https://jx.777jiexi.com/player/?url="},
+{"key":"csp_Xinsj","name":"新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy1.com/","playurl": "https://jx.777jiexi.com/player/?url="},
 //{"key":"csp_AppTT","name":"图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"dldYWXFObkhNTWlsV1pMdFNSSyN0ME1JdzVJQVJyY3I=$$$Q2hpbko5UzdvNnNZbU1WTQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 
 {"key":"zy_明明影视","name":"明明影视","type":1,"api":"https://ys.md214.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["大陆剧","电影","连续剧","综艺","动漫"]},
@@ -126,6 +124,9 @@
 {"key":"csp_Anime1","name":"日本动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"动漫巴士","type": 3,"api":"csp_Dm84","searchable":1,"quickSearch":1, "filterable":1},
 {"key": "戏曲", "name": "戏 曲", "type": 3, "api": "csp_Bili", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json" },
+
+
+{"key":"csp_XYQ_lu1","name":"电视直播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xpath/zb.json","jar":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/zb.zip"},
 
 {"key": "直播","name":"电视直播","type": 3,"api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/直播转点播.js",
 "ext": "南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"}

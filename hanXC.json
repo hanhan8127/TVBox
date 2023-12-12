@@ -5,7 +5,7 @@
     //"spider":"http://154.31.24.32:26143/down/y0yzKUbFzW8s.jar;md5;3c0b64cb4a1deeb5e8cd3fba0ed12dee",
     //http://tvbox.emokjy.com/.emokj/emokj.json
 	//"spider":"https://gitee.com/shenghan99/tvbox/raw/master/jar/Yoursmile.jar",
-    "spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;80DD966C54126CED9D5C7AF0AA0D6B53",
+    "spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/shenghan.jar",
    
     "lives": [{"name": "live","type": 0,
             //"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",

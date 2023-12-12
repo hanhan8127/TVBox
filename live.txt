@@ -4,18 +4,18 @@
 CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 
 CCTV-1综合,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv1HD
-CCTV-1-4K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
-CCTV-1-4K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+CCTV综合-4K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+CCTV综合-4K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 CCTV-2财经,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv2HD
 CCTV-3综艺,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv3HD
 CCTV-4国际,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv4HD
 CCTV-5体育,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv5HD
-CCTV-5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV体育-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV-5+赛事,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv5SportHD
 CCTV-6电影,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv6HD
 CCTV-7军事,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv7HD
 CCTV-8电视剧,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv8HD
-CCTV-8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228578/index.m3u8
+CCTV电视-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228578/index.m3u8
 CCTV-9纪录,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv9HD
 CCTV-10科教,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv10HD
 CCTV-11戏曲,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv11HD
@@ -494,26 +494,11 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3
 纯享4K,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 
-五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 CCTV4K,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
-
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
 CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 CCTV4K,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=CCTV4K
-
-CCTV-1-4K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
-CCTV-1-4K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
-CCTV-5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-CCTV-8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228578/index.m3u8
-CCTV-16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-CCTV-16-4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
-CCTV-16-4K,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=CCTV16_4K
-CCTV-16-4K,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
-CCTV-16-4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
-CCTV-16-4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
-CCTV-16-4K,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=CCTV16_4K
-CCTV-16-4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 
 CCTV4K,http://nas.jdshipin.com:8801/fmm.php?id=cctv4k
 CCTV4K,http://r.jdshipin.com/krMB5
@@ -1282,15 +1267,8 @@ FOX NEWS,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 CHC高清电影,http://hls.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 CHC动作电影,http://hls.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
-风云剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
-风云音乐,http://hls.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
-风云足球,http://hls.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
-央视台球,http://hls.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8
-怀旧剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
-第一剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
-高尔夫网球,http://hls.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8
-文化精品,http://hls.live.cqccn.com/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8
-兵器科技,http://hls.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
+
+五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 CGTN,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cgtnSD
 生活时尚,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=shenghuo
 百姓健康,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=jiankangSD
@@ -1387,8 +1365,6 @@ CGTN,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cgtnSD
 嘉佳卡通,https://cntv.lat/tv?auth=202311030915&id=jjkt
 财富天下,https://cntv.lat/tv?auth=202311030915&id=cftx
 中国天气,https://cntv.lat/tv?auth=202311030915&id=zgtq
-
-
 都市剧场,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/dsjc8m/8000000/mnf.m3u8
 欢笑剧场,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/hxjc8m/8000000/mnf.m3u8
 东方影视,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/dfyshd8m/8000000/mnf.m3u8
@@ -1430,15 +1406,12 @@ CGTN,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cgtnSD
 极速汽车,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/jsqc8m/8000000/mnf.m3u8
 游戏风云,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/yxfy8m/8000000/mnf.m3u8
 陶瓷频道,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/taocihd/8000000/mnf.m3u8
-
 环球旅游,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=huanqiulvyou
 环球旅游,https://live.goodiptv.club/api/cqyx.php?id=huanqiulvyou
 环球奇观,http://113.117.74.40:8081/hls/110/index.m3u8
 环球奇观,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=car
 环球奇观,https://live.goodiptv.club/api/cqyx.php?id=car
-
 纪实科教,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=bjayjsSD
-
 纪实科教,https://live.goodiptv.club/api/cqyx.php?id=bjayjsSD
 纪实人文,http://8.210.232.168/bs1.php?id=28
 求索science,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=qiusuokexueHD_7000
@@ -1464,7 +1437,6 @@ CGTN,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cgtnSD
 上海纪实,http://183.65.9.200:8888/udp/235.254.199.122:7980
 摄影频道,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=sheying
 摄影频道,https://live.goodiptv.club/api/cqyx.php?id=sheying
-
 生活时尚,http://125.82.171.210:8888/udp/235.254.197.160:7980
 生活时尚,http://183.65.9.200:8888/udp/235.254.197.160:7980
 生活时尚,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=shenghuo
@@ -1477,7 +1449,6 @@ CGTN,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cgtnSD
 书画频道,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=shuhua
 书画频道,https://live.goodiptv.club/api/cqyx.php?id=shuhua
 书画频道,http://113.117.74.40:8081/hls/107/index.m3u8
-
 第一财经,http://8.210.232.168/bs1.php?id=21
 东方财经,http://8.210.232.168/bs1.php?id=26
 东方财经,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=dfcj
@@ -1496,7 +1467,6 @@ CGTN,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cgtnSD
 新 动 漫,https://live.goodiptv.club/api/cqyx.php?id=dongman
 早期教育,https://live.goodiptv.club/api/cqyx.php?id=zaojiaoHD
 早期教育,http://183.234.194.165:8888/udp/239.21.0.106:3764
-
 金鹰纪实,http://183.234.194.165:8888/udp/239.20.0.196:2190
 优优宝贝,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=youxi
 优优宝贝,https://live.goodiptv.club/api/cqyx.php?id=youxi
@@ -1504,7 +1474,6 @@ CGTN,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cgtnSD
 中华特产,https://live.goodiptv.club/api/cqyx.php?id=techan
 中 学 生,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=qicai
 中 学 生,https://live.goodiptv.club/api/cqyx.php?id=qicai
-
 金鹰卡通,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=jinyingSD
 金鹰卡通,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=jinyingSD
 金鹰卡通,https://live.goodiptv.club/api/cqyx.php?id=jinyingSD
@@ -1571,7 +1540,6 @@ CHC家庭影院,http://8.210.232.168/php/migu.php?id=chcjtyy
 卡酷少儿,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=bjkakuSD
 金鹰卡通,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=jinyingSD
 生活时尚,http://www.191919.xyz:8888/udp/238.1.78.155:7112
-
 卡酷少儿,http://www.191919.xyz:8888/udp/238.1.78.97:6648
 哈哈炫动,http://www.191919.xyz:8888/udp/238.1.78.82:6528
 金鹰卡通,http://www.191919.xyz:8888/udp/238.1.78.100:6672
@@ -1583,7 +1551,6 @@ CHC家庭影院,http://8.210.232.168/php/migu.php?id=chcjtyy
 游戏风云,http://www.191919.xyz:8888/udp/238.1.78.81:6520
 法治天地,http://www.191919.xyz:8888/udp/238.1.78.84:6544
 七彩戏剧,http://www.191919.xyz:8888/udp/238.1.78.85:6552
-
 海豚生活,http://www.191919.xyz:8888/udp/238.1.79.50:4512
 海豚少儿,http://www.191919.xyz:8888/udp/238.1.79.32:4368
 海豚健康,http://www.191919.xyz:8888/udp/238.1.79.33:4376
@@ -1599,7 +1566,6 @@ CHC家庭影院,http://8.210.232.168/php/migu.php?id=chcjtyy
 超级电视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 潮妈辣婆,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 潮妈辣婆,https://epg.pw/stream/b8b258c3f487a0ca6e3485c53298c0c86cba21b9603aecc6b36a1fec95e6db85.m3u8
-
 直播中国,#genre#
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 直播中国精编直播,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8

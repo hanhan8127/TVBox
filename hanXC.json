@@ -69,8 +69,7 @@
 //{"key":"6U资源","name":"6U资源","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php","playUrl":"","searchable":1,"quickSearch":1,"categories": ["内地剧","综艺","动漫","动作","喜剧","科幻","恐怖","爱情","剧情","战争","文艺","美国剧","犯罪","香港剧","韩国剧","台湾剧","日本剧","泰国剧","其他","悬疑","奇幻","武侠","青春","古装","历史","枪战","伦理"]},
 //{"key":"明帝","name":"明帝资源","type":1,"api":"https://ys.md214.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories": ["今日更新","电影","连续剧","综艺","动漫","日韩动漫","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","欧美剧","犯罪片","中国香港","韩国","中国台湾","日本","泰国","美国","悬疑片","奇幻片","动画片","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
 //{"key":"人人影视","name":"人人影视","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["电影","电视剧","国产剧", "综艺","大陆综艺","动漫","国产动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片", "悬疑片", "犯罪片", "动画片", "奇幻片", "冒险片","惊悚片","港台剧","欧美剧", "日韩剧"]},
-{"key": "XBPQ_葡萄","name":"网络短剧1","type": 3,"api": "csp_XBPQ","ext": {"数组": "class=\"stui-vodlist__box&&</li","分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html","分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}},
-{"key": "csp_XBPQ_aoaotv","name":"网络短剧2","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html","分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"}},
+{"key": "csp_XBPQ_aoaotv","name":"网络短剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html","分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"}},
 {"key":"速播资源","name":"速播资源","type":1,"api":"https://subocaiji.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1 , "categories": ["大陆剧", "综艺","动漫","中国动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片","动漫电影","港澳剧","台湾剧","韩剧",  "日剧",  "美剧","泰剧", "伦理片","日本动漫"] },
 {"key":"虎牙资源","name":"虎牙资源","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1, "categories": ["内地剧","综艺","中国动漫","动画片","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片","记录片", "香港剧","韩剧","日剧","马泰剧","台湾剧", "伦理片","日本动漫","欧美剧" ] },
 //{"key":"夸克资源","name":"夸克资源","type":1,"api":"http://kuakezy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -95,8 +94,8 @@
 
 {"key":"csp_DiDuan","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key":"csp_Lgyy","name":"蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip/"},
-{"key":"csp_Lib","name":"LibVio影视","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.fun/"},
+//{"key":"csp_Lgyy","name":"蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip/"},
+{"key":"csp_Lib","name":"LibVio影视","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pro/"},
 
 {"key":"zy_鸡婆","name": "鸡婆影视", "type": 1, "api": "https://www.jipo.tv/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "categories":  ["国产剧", "大陆综艺","国产动漫","日韩综艺", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片", "悬疑片", "犯罪片", "动画片", "奇幻片", "冒险片","惊悚片","港台剧","欧美剧", "日韩剧","伦理片"]},
 {"key":"csp_MeiJu69","name":"69美剧","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
@@ -162,8 +161,7 @@
 {"key":"CK资源","name":"CK资源","type":1, "api":"https://ckzy.me/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["国产剧", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "记录片", "悬疑片", "犯罪片","奇幻片", "港台剧","欧美剧", "日韩剧", "伦理片"]},
 //{"key":"dr_Qfitv","name": "起飞影院","type": 3,"api": "http://8.210.232.168/tv/box/js/lib/drpy2.min.js","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://8.210.232.168/tv/box/js/起飞影院.js"},
 
-//{"key":"csp_Zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipmv.cc/"},
-{"key":"在线之家","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://vipmv.cc/"},
+{"key":"在线之家","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.zxzja.com/"},
 //www.zxzj.site
 {"key":"TX","name":"腾腾(官)","type":3,"api":"http://vip.weixine.link:88/js/lib/drpy2.min.js","ext":"http://vip.weixine.link:88/js/tengxun.js"},
 {"key":"SG","name":"狗狗(官)","type":3,"api":"http://vip.weixine.link:88/js/lib/drpy2.min.js","ext":"http://vip.weixine.link:88/js/caigou.js"},

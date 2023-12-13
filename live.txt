@@ -57,6 +57,30 @@ CCTV电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 CCTV央视台球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV高尔夫网球,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
 CCTV高尔夫网球,http://hz752.live:63/6770/cqyx.php?id=golfHD
+CCTV-1综合,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=cctv1 
+CCTV-1综合,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=cctv1b 
+CCTV-2财经,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=cctv2 
+CCTV-3综艺,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=cctv3 
+CCTV-4国际,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=cctv4 
+CCTV-5体育,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=cctv5 
+CCTV-5体育,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=cctv5b
+CCTV-5+赛事,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=cctv5p
+CCTV-5+赛事,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=cctv5p2 
+CCTV-6电影,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=cctv6 
+CCTV-7军事,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=cctv7 
+CCTV-8电视剧,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=cctv8 
+CCTV-9纪录,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=cctv9 
+CCTV-10科教,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=cctv10 
+CCTV-11戏曲,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=cctv11 
+CCTV-12社会,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=cctv12 
+CCTV-13新闻,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=cctv13 
+CCTV-14少儿,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=cctv14
+CCTV-15音乐,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=cctv15 
+CCTV-1综合,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
+CCTV-2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+CCTV-3综艺,http://47.242.38.45:9999/小果.php?id=CCTV-3H265_4000&Cf.m3u8
+CCTV-6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901_fhd.m3u8#http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
+
 CCTV-1综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV-1综合,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
@@ -507,7 +531,6 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105
 
 CCTV4K,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
-CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 CCTV4K,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=CCTV4K
 
@@ -639,6 +662,27 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 贵州卫视,http://183.94.40.49:9901/tsfile/live/0120_1.m3u8?key=txiptv&url=tvzb.com
 东南卫视,http://183.94.40.49:9901/tsfile/live/0137_2.m3u8?key=txiptv&url=tvzb.com
 
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+安徽卫视,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829313317020.m3u8
+吉林卫视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
+北京卫视,http://222.134.57.82:8154/tsfile/live/0122_1.m3u8
+东方卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=东方卫视HD 
+东方卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=东方卫视HD2 
+重庆卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=重庆卫视 
+吉林卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=吉林卫视 
+辽宁卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=辽宁卫视HD 
+内蒙古卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=内蒙古卫视 
+宁夏卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=宁夏卫视 
+甘肃卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=甘肃卫视 
+青海卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=青海卫视 
+陕西卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=陕西卫视HD 
+山东卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=山东卫视HD 
+湖北卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=湖北卫视HD 
+湖南卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=湖南卫视HD 
+江西卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=江西卫视HD 
+江苏卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=江苏卫视HD 
+广东卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=广东卫视HD 
+广东卫视,http://www.biaozhun114.com/dl/dl666/gy.php?key=爱看mg&id=广东卫视HD2
 
 北京卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw2542426131_1585848046/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8?icpid=3&RTS=1668597336&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3

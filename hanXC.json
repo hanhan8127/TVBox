@@ -50,7 +50,7 @@
 {"key":"drpy_js_菜狗","name":"搜狗","type":3,"api":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js/菜狗.js"},     
 {"key":"drpy_js_优酷","name":"优酷","type":3,"api":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js/优酷.js"},     
 {"key": "csp_AppYsV2_Mxone","name": "MX影院","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"},
-
+{"key": "VS影院","name": "VS影院","type": 3,"api": "csp_XBPQ","ext": {"分类": "短剧$5#电影$1#电视剧$2#综艺$3#动漫$4","分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","免嗅": "0","嗅探词": "m3u8","简介": "myui-panel_bd\">&&</p>"}},
 {"key": "qq2k","name":"莫名影院","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 
 {"key": "索尼资源","name": "索尼资源","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/","categories": ["国产剧","大陆综艺","国产动漫","动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","纪录片","日韩综艺","港台综艺","欧美综艺","日韩动漫","欧美动漫","港台动漫","海外动漫","演唱会","体育赛事","篮球","足球","预告片","斯诺克","影视解说"],"searchable": 1,"quickSearch": 1},
@@ -92,8 +92,9 @@
 //555电影发布页：https://www.555dyy.top/   笔盒18：https://beabox.xyz/；最新地址发布页beabox.tv，https://bihek.vip/，无法访问可发送邮件至beabox@email.com
 //{"key":"csp_Xinsj2","name":"新视觉2","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://k6080.com/"},
 {"key":"csp_Xinsj","name":"新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy1.com/"},
+{"key": "csp_Xinsj","name": "🐼新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.hdmyy.com/"},
 //新视觉发布页：https://www.5280.fun/
-
+{"key": "csp_www.cz01.vip","name": "厂长影视","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.czzy33.com/"},
 {"key":"csp_xBPQ_Voflix","name":"️Voflix影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.voflix.me/show/{cateId}-{area}-time-{class}-{lang}----{catePg}---{year}.html;;lr","分类":"电影$1#连续剧$2#综艺$3#动漫$4"}},
 
 //{"key":"csp_Cokemv","name":"Cokemv影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
@@ -152,7 +153,8 @@
 {"key":"csp_xBPQ_爱看影院","name":"️爱看影院2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.3wyy.com/vodshow/{cateId}-{area}-time-{class}-{lang}----{catePg}---{year}.html;;lr","分类":"电影$1#连续剧$2#综艺$3#动漫$4"}},
 {"key":"闪电资源", "name": "闪电资源", "type": 1, "api": "http://sdzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "categories": ["国产剧", "大陆综艺","国产动漫",  "日韩综艺","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片", "悬疑片", "犯罪片", "动画片", "奇幻片", "港台剧","欧美剧", "日韩剧", "其他剧" ] },
 {"key":"zy_忆梦","name":"忆梦资源","type":1,"api": "https://gnpt.net/api.php/provide/vod/","searchable": 1, "quickSearch": 1} ,
-
+{"key": "csp_Auete","name": "奥特影视┃","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://haozhansou.com/"},
+//奥特影视:https://auete.site/
     
 {"key":"zy_云解析","name":"步步资源1", "type":1, "api":"https://api.yparse.com/api/m3u8/json", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories":  [ "国产剧", "综艺","动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片","动画片", "香港剧",  "台湾剧","日本剧",  "韩国剧", "泰国剧", "欧美剧", "海外剧","伦理片" ] },
 //{"key":"zy_步步高2","name":"步步资源2", "type":1, "api":"https://api.yparse.com/api/youku/xml", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories":  [ "" ] },

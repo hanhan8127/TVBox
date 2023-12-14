@@ -1226,6 +1226,15 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
 
+凤凰中文,http://47.242.38.45:9999/twjd678-1.php?id=68
+凤凰资讯,http://47.242.38.45:9999/twjd678-1.php?id=67
+中天綜合HD,http://47.242.38.45:9999/twjd678-1.php?id=25
+中天新聞HD,http://47.242.38.45:9999/twjd678-2.php?id=31
+壹新聞,http://47.242.38.45:9999/twjd678-1.php?id=49
+壹新聞,http://47.242.38.45:9999/twjd678-2.php?id=35
+衛視中文HD,http://47.242.38.45:9999/twjd678-2.php?id=26
+台視HD,http://47.242.38.45:9999/twjd678-2.php?id=14
+
 中天綜合HD,http://47.242.38.45:9999/twjd678-2.php?id=76
 中天綜合HD,http://47.242.38.45:9999/twjd678-1.php?id=25
 中天娛樂HD,http://47.242.38.45:9999/twjd678-2.php?id=77

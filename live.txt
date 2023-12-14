@@ -1,28 +1,7 @@
 
 央视频道,#genre#
 
-看看,http://113.207.84.197/session/9be2e118-9a25-11ee-9016-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cctv10HD/__op/default/__f/1/a48k/index.m3u8
-
 CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-
-1CCTV-1综合,http://cfss.cc/ds/ysp/qp.php?id=cctv1&Cf.m3u8
-1CCTV-2财经,http://cfss.cc/ds/ysp/qp.php?id=cctv2&Cf.m3u8
-1CCTV-3综艺,http://cfss.cc/ds/ysp/qp.php?id=cctv3&Cf.m3u8
-1CCTV-4国际,http://cfss.cc/ds/ysp/qp.php?id=cctv4&Cf.m3u8
-1CCTV-5体育,http://cfss.cc/ds/ysp/qp.php?id=cctv5&Cf.m3u8
-1CCTV-5+赛事,http://cfss.cc/ds/ysp/qp.php?id=cctv5p&Cf.m3u8
-1CCTV-6电影,http://cfss.cc/ds/ysp/qp.php?id=cctv6&Cf.m3u8
-1CCTV-7军事,http://cfss.cc/ds/ysp/qp.php?id=cctv7&Cf.m3u8
-1CCTV-8电视剧,http://cfss.cc/ds/ysp/qp.php?id=cctv8&Cf.m3u8
-1CCTV-9纪录,http://cfss.cc/ds/ysp/qp.php?id=cctv9&Cf.m3u8
-1CCTV-10科教,http://cfss.cc/ds/ysp/qp.php?id=cctv10&Cf.m3u8
-1CCTV-11戏曲,http://cfss.cc/ds/ysp/qp.php?id=cctv11&Cf.m3u8
-1CCTV-12社会,http://cfss.cc/ds/ysp/qp.php?id=cctv12&Cf.m3u8
-1CCTV-13新闻,http://cfss.cc/ds/ysp/qp.php?id=cctv13&Cf.m3u8
-1CCTV-14少儿,http://cfss.cc/ds/ysp/qp.php?id=cctv14&Cf.m3u8
-1CCTV-15音乐,http://cfss.cc/ds/ysp/qp.php?id=cctv15&Cf.m3u8
-1CCTV-16奥运,http://cfss.cc/ds/ysp/qp.php?id=cctv16&Cf.m3u8
-1CCTV-16农村,http://cfss.cc/ds/ysp/qp.php?id=cctv17&Cf.m3u8
 
 CCTV-1综合,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv1HD
 CCTV综合4K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
@@ -121,6 +100,25 @@ CCTV-17农村,http://www.biaozhun114.com/dl/dl666/gy.php?key=豆豆&id=CCTV17HD
 
 CCTV奥运4K,http://www.biaozhun114.com/dl/dl666/gy.php?key=豆豆&id=4010
 
+CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+CCTV-2财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+CCTV-3综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+CCTV-4国际,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
+CCTV-5体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV-5+赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+CCTV-6电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
+CCTV-7军事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+CCTV-8电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-9纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV-11戏曲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+CCTV-12社会,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV-15音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+CCTV-16奥运,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV-17农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
 CCTV-1综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV-1综合,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
@@ -147,24 +145,26 @@ CCTV-15音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3
 CCTV-16奥运,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV-16奥运,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 
-CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-CCTV-2财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-CCTV-3综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-CCTV-4国际,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
-CCTV-5体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV-5+赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-CCTV-6电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
-CCTV-7军事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV-8电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV-9纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV-10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV-11戏曲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
-CCTV-12社会,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV-15音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-CCTV-16奥运,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-CCTV-17农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV-1综合,http://cfss.cc/ds/ysp/qp.php?id=cctv1&Cf.m3u8
+CCTV-2财经,http://cfss.cc/ds/ysp/qp.php?id=cctv2&Cf.m3u8
+CCTV-3综艺,http://cfss.cc/ds/ysp/qp.php?id=cctv3&Cf.m3u8
+CCTV-4国际,http://cfss.cc/ds/ysp/qp.php?id=cctv4&Cf.m3u8
+CCTV-5体育,http://cfss.cc/ds/ysp/qp.php?id=cctv5&Cf.m3u8
+CCTV-5+赛事,http://cfss.cc/ds/ysp/qp.php?id=cctv5p&Cf.m3u8
+CCTV-6电影,http://cfss.cc/ds/ysp/qp.php?id=cctv6&Cf.m3u8
+CCTV-7军事,http://cfss.cc/ds/ysp/qp.php?id=cctv7&Cf.m3u8
+CCTV-8电视剧,http://cfss.cc/ds/ysp/qp.php?id=cctv8&Cf.m3u8
+CCTV-9纪录,http://cfss.cc/ds/ysp/qp.php?id=cctv9&Cf.m3u8
+CCTV-10科教,http://cfss.cc/ds/ysp/qp.php?id=cctv10&Cf.m3u8
+CCTV-11戏曲,http://cfss.cc/ds/ysp/qp.php?id=cctv11&Cf.m3u8
+CCTV-12社会,http://cfss.cc/ds/ysp/qp.php?id=cctv12&Cf.m3u8
+CCTV-13新闻,http://cfss.cc/ds/ysp/qp.php?id=cctv13&Cf.m3u8
+CCTV-14少儿,http://cfss.cc/ds/ysp/qp.php?id=cctv14&Cf.m3u8
+CCTV-15音乐,http://cfss.cc/ds/ysp/qp.php?id=cctv15&Cf.m3u8
+CCTV-16奥运,http://cfss.cc/ds/ysp/qp.php?id=cctv16&Cf.m3u8
+CCTV-17农村,http://cfss.cc/ds/ysp/qp.php?id=cctv17&Cf.m3u8
+
+
 
 CCTV-1综合,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 CCTV-2财经,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8

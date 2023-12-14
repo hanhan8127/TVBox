@@ -1,6 +1,8 @@
 
 央视频道,#genre#
 
+看看,http://113.207.84.197/session/9be2e118-9a25-11ee-9016-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cctv10HD/__op/default/__f/1/a48k/index.m3u8
+
 CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 
 CCTV-1综合,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv1HD

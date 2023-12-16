@@ -65,7 +65,7 @@
 {"key":"csp_Kunyu77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"可可APP","name": "可可APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://4k.953365.cn:8090/xgapp.php/v3/"},
 //可可APP：https://zjos.tv/
-
+{"key": "49zy","name": "四九资源","type": 1,"api": "https://49zyw.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"categories": ["国产剧","纪录片","欧美剧","香港剧","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","韩国剧","动漫","电影","大陆综艺","港台综艺","日韩综艺","欧美综艺","台湾剧","国产动漫","日本动漫","欧美动漫","泰国剧","日剧","电影解说","奇幻片","灾难片","悬疑片","其他片","体育赛事","海外剧"]},
 {"key": "csp_QQ","name":"腾讯视频","type": 1,"playerType": 2,"api": "http://tvbox-1-g5221611.deta.app/vod/qq","playUrl": " json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=","categories": ["电影","电视剧","动漫","综艺"]},
 {"key": "csp_艺艺","name":"奇艺视频","type": 1,"playerType": 2,"api": "http://tvbox-1-g5221611.deta.app/vod/iqiyi","playUrl": " json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=","categories": ["电影","电视剧","动漫","综艺"]},
   

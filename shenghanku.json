@@ -7,7 +7,7 @@
        
         {"url": "https://gitee.com/hongfeiq/cfg/raw/master/online.json","name": "鸿飞"},
 
-        {"url": "https://gh-proxy.com/https://raw.githubusercontent.com/lxhfans/TV/master/tv.txt","name":"乐享汇"},
+        {"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/lxhfans/TV/master/tv.txt","name":"乐享汇"},
 
         {"url": "http://xhww.fun:63/小米/DEMO.json","name": "小米"},
       
@@ -15,17 +15,13 @@
 
         {"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "南风"},
 
-        {"url": "http://8.210.232.168/xc.json","name": "玉玉"},
+        {"url": "https://lgz.2.hk3.345123.xyz/","name": "有货"},
 
         {"url": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/tvbox","name": "影视家"},
 
-		{"url": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/tvbox.json","name": "影视家2"},
+	{"url": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/tvbox.json","name": "影视家2"},
 
-		{"url": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/yszj/yszj.josn","name": "爱奇艺"},
-
-		{"url": "http://152.136.125.181:81/MM/dianbos/MultiLine/JiuYing/BBB.json","name": "特殊节目"},
-
-		{"url": "http://52bsj.vip:81/api/v3/file/get/173203/hanOS.json?sign=IUze3HAPvVdL1u7Kn0NRlaHxqxqswMqvEHn73NC5xH8%3D%3A0","name": "走走"},
+	{"url": "http://152.136.125.181:81/MM/dianbos/MultiLine/JiuYing/BBB.json","name": "特殊节目"},
         
         {"url": "https://agit.ai/guot54/ygbh/raw/branch/master/prox.json","name": "prox"},
 
@@ -33,17 +29,17 @@
 
         {"url": "https://agit.ai/guot54/ygbh/raw/branch/master/pro原.json","name": "pro原"},
 
-		{"url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json","name": "PRO"},
+	{"url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json","name": "PRO"},
 
-		{"url": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name": "js"},
+	{"url": "https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name": "js"},
+	
+	{"url": "https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json","name": "XBPQ"},
 
-		{"url": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json","name": "XBPQ"},
+	{"url": "https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json","name": "XYQ"},
 
-		{"url": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json","name": "XYQ"},
+	{"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "XC"},
 
-		{"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "XC"},
-
-		{"url": "https://bjson.cf/balabala","name": "巴不巴拉"},
+	{"url": "https://bjson.cf/balabala","name": "巴不巴拉"},
  
         {"url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json","name": "t4"},
  

@@ -1,7 +1,7 @@
 
 央视频道,#genre#
 
-信号测试1 6M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
+胜寒预览,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
 
 CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV-1综合,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv1HD
@@ -931,11 +931,11 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 
 凤凰中文,http://47.242.38.45:9999/twjd678-1.php?id=68
 凤凰资讯,http://47.242.38.45:9999/twjd678-1.php?id=67
-中天綜合HD,http://47.242.38.45:9999/twjd678-1.php?id=25
-中天新聞HD,http://47.242.38.45:9999/twjd678-2.php?id=31
+中天綜合,http://47.242.38.45:9999/twjd678-1.php?id=25
+中天新聞,http://47.242.38.45:9999/twjd678-2.php?id=31
 壹新聞,http://47.242.38.45:9999/twjd678-1.php?id=49
 壹新聞,http://47.242.38.45:9999/twjd678-2.php?id=35
-衛視中文HD,http://47.242.38.45:9999/twjd678-2.php?id=26
+衛視中文,http://47.242.38.45:9999/twjd678-2.php?id=26
 台視HD,http://47.242.38.45:9999/twjd678-2.php?id=14
 MTV音樂,http://47.242.38.45:9999/twjd678-2.php?id=49
 中天綜合,http://47.242.38.45:9999/twjd678-2.php?id=76
@@ -998,7 +998,7 @@ MTV音樂,http://47.242.38.45:9999/twjd678-2.php?id=49
 年代新聞,http://47.242.38.45:9999/twjd678-2.php?id=89
 年代新聞,http://47.242.38.45:9999/twjd678-2.php?id=29
 年代新聞,http://47.242.38.45:9999/twjd678-1.php?id=38
-尼克兒童頻道,http://47.242.38.45:9999/twjd678-2.php?id=47
+兒童頻道,http://47.242.38.45:9999/twjd678-2.php?id=47
 民視新聞,http://47.242.38.45:9999/twjd678-2.php?id=92
 民視新聞,http://47.242.38.45:9999/twjd678-1.php?id=41
 民視HD,http://47.242.38.45:9999/twjd678-2.php?id=56
@@ -1008,10 +1008,10 @@ MTV音樂,http://47.242.38.45:9999/twjd678-2.php?id=49
 旅遊生活,http://47.242.38.45:9999/twjd678-1.php?id=11
 龍華戲劇,http://47.242.38.45:9999/twjd678-2.php?id=84
 龍華戲劇,http://47.242.38.45:9999/twjd678-1.php?id=33
-龍華日韓劇,http://47.242.38.45:9999/twjd678-2.php?id=85
-龍華日韓劇,http://47.242.38.45:9999/twjd678-1.php?id=34
-龍華偶像劇,http://47.242.38.45:9999/twjd678-2.php?id=86
-龍華偶像劇,http://47.242.38.45:9999/twjd678-1.php?id=35
+龍華日韓,http://47.242.38.45:9999/twjd678-2.php?id=85
+龍華日韓,http://47.242.38.45:9999/twjd678-1.php?id=34
+龍華偶像,http://47.242.38.45:9999/twjd678-2.php?id=86
+龍華偶像,http://47.242.38.45:9999/twjd678-1.php?id=35
 龍華卡通,http://47.242.38.45:9999/twjd678-2.php?id=67
 龍華卡通,http://47.242.38.45:9999/twjd678-1.php?id=16
 龍華電影,http://47.242.38.45:9999/twjd678-2.php?id=106
@@ -1022,8 +1022,8 @@ MTV音樂,http://47.242.38.45:9999/twjd678-2.php?id=49
 華視HD,http://47.242.38.45:9999/twjd678-2.php?id=55
 華視HD,http://47.242.38.45:9999/twjd678-1.php?id=3
 湖南衛視,http://47.242.38.45:9999/twjd678-2.php?id=123
-好消息頻道,http://47.242.38.45:9999/twjd678-2.php?id=60
-好消息 TV,http://47.242.38.45:9999/twjd678-1.php?id=8
+好消息TV,http://47.242.38.45:9999/twjd678-2.php?id=60
+好消息TV,http://47.242.38.45:9999/twjd678-1.php?id=8
 好萊塢電影,http://47.242.38.45:9999/twjd678-2.php?id=104
 好萊塢電影,http://47.242.38.45:9999/twjd678-1.php?id=53
 海峽衛視,http://47.242.38.45:9999/twjd678-2.php?id=120

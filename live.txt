@@ -4,6 +4,7 @@
 胜寒预览,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
 
 CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+
 CCTV-1综合,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv1HD
 CCTV综合4K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 CCTV-2财经,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv2HD
@@ -58,8 +59,7 @@ CCTV高尔夫网球,http://hz752.live:63/6770/cqyx.php?id=golfHD
 
 CCTV-1综合,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 CCTV-2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-CCTV-3综艺,http://47.242.38.45:9999/小果.php?id=CCTV-3H265_4000&Cf.m3u8
-CCTV-6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901_fhd.m3u8#http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
+
 
 
 CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
@@ -155,7 +155,7 @@ CCTV-14少儿,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/i
 CCTV-15音乐,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
 CCTV-16奥运,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8
 CCTV-17农业农村,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
-CCTV-奥运4K,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
+CCTV-16奥运,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
 
 CCTV-1综合,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001022/index.m3u8?love=freedom
 CCTV-2财经,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001220/index.m3u8?love=freedom
@@ -194,37 +194,6 @@ CCTV-14少儿,http://cfss.cc/ds/ysp/qp.php?id=cctv14&Cf.m3u8
 CCTV-15音乐,http://cfss.cc/ds/ysp/qp.php?id=cctv15&Cf.m3u8
 CCTV-16奥运,http://cfss.cc/ds/ysp/qp.php?id=cctv16&Cf.m3u8
 CCTV-17农村,http://cfss.cc/ds/ysp/qp.php?id=cctv17&Cf.m3u8
-
-CCTV-1综合,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
-CCTV-2财经,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
-CCTV-3综艺,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
-CCTV-4国际,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
-CCTV-5体育,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
-CCTV-5+赛事,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
-CCTV-6电影,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
-CCTV-7军事,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
-CCTV-8电视剧,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
-CCTV-9纪录,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
-CCTV-10科教,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
-CCTV-11戏曲,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
-CCTV-12社会,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
-CCTV-13新闻,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
-CCTV-14少儿,http://hls.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8
-CCTV-15音乐,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
-CCTV-16奥运,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
-CCTV-17农村,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
-CCTV发现之旅,http://hls.live.cqccn.com/__cl/cg:live/__c/faxian/__op/default/__f/index.m3u8
-CCTV风云剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
-CCTV风云音乐,http://hls.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
-CCTV风云足球,http://hls.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
-CCTV央视台球,http://hls.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8
-CCTV怀旧剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
-CCTV第一剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
-CCTV高尔夫网球,http://hls.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8
-CCTV文化精品,http://hls.live.cqccn.com/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8
-CCTV兵器科技,http://hls.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
-CCTV女性时尚,http://hls.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/default/__f/index.m3u8
-
 
 都市剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/dsjcHD/__op/default/__f/index.m3u8
 动漫秀场,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=dmxcHD
@@ -366,7 +335,6 @@ CCTV女性时尚,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 CCTV风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 CCTV电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 
-
 CCTV-1综合,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 CCTV-2财经,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 CCTV-3综艺,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
@@ -386,10 +354,8 @@ CCTV-15音乐,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live
 CCTV-16奥运,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 CCTV-17农村,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 
-
 CCTV世界地理,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/001/2012513303.m3u8
 CCTV央视台球,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/001/2012513703.m3u8
-
 
 CCTV-1综合,http://www.namewee.xyz/gudou.php?id=1402_4500
 CCTV-2财经,http://www.namewee.xyz/gudou.php?id=CCTV2HD_7000
@@ -430,7 +396,6 @@ CCTV-15音乐,http://www.hezw.top:7412/rtp/239.21.2.4:5002
 CCTV-16奥运,http://beifeng.site:4000/rtp/239.3.1.184:8001
 CCTV-17农村,http://www.hezw.top:7412/rtp/239.21.1.186:5002
 
-
 CCTV-1综合,http://1.195.111.251:11190/tsfile/live/0001_1.m3u8
 CCTV-2财经,http://1.195.111.251:11190/tsfile/live/0002_1.m3u8
 CCTV-3综艺,http://1.195.111.251:11190/tsfile/live/0003_1.m3u8
@@ -447,8 +412,6 @@ CCTV-13新闻,http://1.195.111.251:11190/tsfile/live/0013_1.m3u8
 CCTV-14少儿,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
 CCTV-15音乐,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
 
-
-
 CCTV-1综合,rtmp://202.204.52.116:1935/livetv/cctv1hd
 CCTV-2财经,rtmp://202.204.52.116:1935/livetv/cctv2hd
 CCTV-3综艺,rtmp://202.204.52.116:1935/livetv/cctv3hd
@@ -464,6 +427,36 @@ CCTV-13新闻,rtmp://202.204.52.116:1935/livetv/cctv13hd
 CCTV-14少儿,rtmp://202.204.52.116:1935/livetv/cctv14hd
 CCTV-17农村,rtmp://202.204.52.116:1935/livetv/cctv17hd
 
+
+CCTV-1综合,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
+CCTV-2财经,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
+CCTV-3综艺,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
+CCTV-4国际,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
+CCTV-5体育,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
+CCTV-5+赛事,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
+CCTV-6电影,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
+CCTV-7军事,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
+CCTV-8电视剧,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
+CCTV-9纪录,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
+CCTV-10科教,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
+CCTV-11戏曲,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
+CCTV-12社会,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
+CCTV-13新闻,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
+CCTV-14少儿,http://hls.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8
+CCTV-15音乐,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
+CCTV-16奥运,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
+CCTV-17农村,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
+CCTV发现之旅,http://hls.live.cqccn.com/__cl/cg:live/__c/faxian/__op/default/__f/index.m3u8
+CCTV风云剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
+CCTV风云音乐,http://hls.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
+CCTV风云足球,http://hls.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
+CCTV央视台球,http://hls.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8
+CCTV怀旧剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
+CCTV第一剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
+CCTV高尔夫网球,http://hls.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8
+CCTV文化精品,http://hls.live.cqccn.com/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8
+CCTV兵器科技,http://hls.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
+CCTV女性时尚,http://hls.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/default/__f/index.m3u8
 
 CETV教育-1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
 CETV教育-2,http://txycsbl.centv.cn/zb/0822cetv2.m3u8
@@ -515,6 +508,14 @@ CCTV4K,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=CCTV4K
 欢笑剧场4K,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
 华数4K,http://r.jdshipin.com/Lqdwf
 华数4K,http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000003000004748&amp;livemode=1&amp;stbId=3
+电视剧,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw677754739_-1516035370/ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8?icpid=3&RTS=1674380793&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+儿童动漫1,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw4207711491_582058613/ott.mobaibox.com/PLTV/3/224/3221228463/index.m3u8?icpid=3&RTS=1674371438&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
+儿童动漫2,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw2443156656_-1125659309/ott.mobaibox.com/PLTV/3/224/3221228460/index.m3u8?icpid=3&RTS=1674369673&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
+儿童动漫3,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2443039727_1258033443/ott.mobaibox.com/PLTV/3/224/3221228456/index.m3u8?icpid=3&RTS=1674369673&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb23_80&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+儿童动漫4,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw698941571_-1832672106/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8?icpid=3&RTS=1674380814&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+儿童动漫5,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2444245842_-988657747/ott.mobaibox.com/PLTV/3/224/3221228539/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
+儿童动漫6,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2444135891_2133795787/ott.mobaibox.com/PLTV/3/224/3221228536/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+
 CHC动作电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8

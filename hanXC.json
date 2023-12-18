@@ -18,6 +18,8 @@
 
     "sites": [
 
+{"key": "csp_Cs1369","name":"胜寒推荐","type": 3,"api": "csp_Cs1369","ext": "https://www.cs1369.com"},
+{"key": "lvdou_zhuiyi","name":"胜寒推荐","type": 3,"api": "csp_LvDou","playerType": 1,"ext": {"server": "http://tvbox.aleoe.cc","version": "3.4.231117"}},	    
 {"key":"csp_DouDou","name":"胜寒精选","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key": "废物影院","name":"️废物影院","type":1,"api":"http://playersll.gaoxin155.com.cn/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","综艺","日韩剧","惊悚片","犯罪片","冒险片","动作片","科幻片","奇幻片","喜剧片","爱情片", "恐怖片","战争片","悬疑片","剧情片","记录片","港台剧","欧美剧","动漫"]},
 {"key":"zy_新浪","name":"新浪影视","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["大陆剧","综艺","动漫","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},

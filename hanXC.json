@@ -15,8 +15,8 @@
     "sites": [
 	    
 {"key":"csp_DouDou","name":"豆瓣精选","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
-{"key": "lvdou_zhuiyi","name":"胜寒推荐1","type": 3,"api": "csp_LvDou","playerType": 1,"ext": {"server": "http://tvbox.aleoe.cc","version": "3.5.231120"}, "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/my_spider.jar"},
-{"key": "csp_Cs1369","name":"胜寒推荐2","type": 3,"api": "csp_Cs1369","ext": "https://www.cs1369.com","jar":"https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/my_spider.jar"},
+{"key": "lvdou_zhuiyi","name":"胜寒推荐","type": 3,"api": "csp_LvDou","playerType": 1,"ext": {"server": "http://tvbox.aleoe.cc","version": "3.5.231120"}, "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/my_spider.jar"},
+{"key": "csp_Cs1369","name":"胜寒推荐","type": 3,"api": "csp_Cs1369","ext": "https://www.cs1369.com","jar":"https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/my_spider.jar"},
 {"key":"zy_10801","name":"1080影视","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php","playUrl": "https://vip.zykbf.com/?url=","categories": ["国产剧","大陆综艺","国产动漫","日韩综艺","日韩动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片","纪录片","剧情片","动画片","战争片"]},
 //优质影视网址：优质资源主域名:yzzy.tv hdzyk.com（备用网址): 1080zyk1.com 至 1080zyk10.com
 {"key":"盼盼","name":"盼盼影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://8.217.66.92:8811/api.php/app/"},
@@ -137,7 +137,7 @@
 
 {"key":"zy_卧龙1", "name": "卧龙资源", "type": 1, "api": "https://collect.wolongzyw.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "categories": ["国产剧", "大陆综艺","动漫","国产动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "悬疑片", "犯罪片", "古装片", "历史片","香港剧", "韩国剧","台湾剧", "欧美剧",  "日本剧", "海外剧","韩国综艺", "港台综艺", "欧美综艺", "日本动漫", "欧美动漫"] },
 //{"key":"zy_卧龙2", "name":"卧龙资源", "type": 1, "api": "https://collect.wolongzyw.com/api.php/wlseaxml/vod/", "searchable": 1, "quickSearch": 1, "categories": [ "国产剧", "大陆综艺","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片", "悬疑片", "犯罪片", "动画片", "奇幻片", "香港剧", "台湾剧", "美国剧", "韩国剧", "日本剧","日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "其他剧" ] },
-//{"key":"zy_樱花资源", "name": "樱花资源", "type": 1, "api": "https://m3u8.apiyhzy.com/api.php/provide/vod//?ac=list", "searchable": 1, "quickSearch": 1},
+{"key":"zy_樱花资源", "name": "樱花资源", "type": 1, "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1},
 //樱花影视https://www.yhh888.cn/zxtype/23.html
 {"key":"极速资源lz","name": "极速资源","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","大陆综艺","国产动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","韩国剧","欧美剧","记录片","台湾剧", "日本剧", "海外剧","泰国剧","港台综艺","日韩综艺","欧美综艺",  "日韩动漫", "欧美动漫","港台动漫","海外动漫","电影解说"]},
 {"key":"zy_无尽", "name": "无尽资源", "type": 1, "api": "https://api.wujinapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "categories":["国产剧", "综艺", "大陆综艺", "动漫","国产动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "动画片","奇幻片","灾难片","韩国剧","香港剧", "台湾剧", "日本剧","泰国剧","美国剧", "日韩综艺", "港台综艺", "欧美综艺",  "日韩动漫", "欧美动漫" ] },
@@ -166,11 +166,10 @@
 {"key":"csp_xBPQ_爱看影院","name":"️爱看影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.3wyy.com/vodshow/{cateId}-{area}-time-{class}-{lang}----{catePg}---{year}.html;;lr","分类":"电影$1#连续剧$2#综艺$3#动漫$4"}},
 {"key":"闪电资源", "name": "闪电资源", "type": 1, "api": "http://sdzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "categories": ["国产剧", "大陆综艺","国产动漫",  "日韩综艺","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片", "悬疑片", "犯罪片", "动画片", "奇幻片", "港台剧","欧美剧", "日韩剧", "其他剧" ] },
 {"key":"zy_忆梦","name":"忆梦资源","type":1,"api": "https://gnpt.net/api.php/provide/vod/","searchable": 1, "quickSearch": 1} ,
-{"key": "csp_Auete","name": "奥特影视┃","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://haozhansou.com/"},
+{"key": "csp_Auete","name": "奥特影视","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://haozhansou.com/"},
 //奥特影视:https://auete.site/
     
 {"key":"zy_云解析","name":"步步资源", "type":1, "api":"https://api.yparse.com/api/m3u8/json", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories":  [ "国产剧", "综艺","动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片","动画片", "香港剧",  "台湾剧","日本剧",  "韩国剧", "泰国剧", "欧美剧", "海外剧","伦理片" ] },
-//{"key":"zy_步步高2","name":"步步资源", "type":1, "api":"https://api.yparse.com/api/youku/xml", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories":  [ "" ] },
 
 {"key":"CK资源","name":"CK资源","type":1, "api":"https://ckzy.me/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["国产剧", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "记录片", "悬疑片", "犯罪片","奇幻片", "港台剧","欧美剧", "日韩剧", "伦理片"]},
 //{"key":"dr_Qfitv","name": "起飞影院","type": 3,"api": "http://8.210.232.168/tv/box/js/lib/drpy2.min.js","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://8.210.232.168/tv/box/js/起飞影院.js"},

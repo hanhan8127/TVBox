@@ -1,7 +1,9 @@
+胜寒预览,#genre#
+
+胜寒预览1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
+胜寒预览2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
 
 央视频道,#genre#
-
-胜寒预览,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
 
 CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 
@@ -12,7 +14,7 @@ CCTV-3综艺,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000000
 CCTV-4国际,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-4国际,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-5体育,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-5赛事,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-5+赛事,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-6电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-6电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-7军事,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -36,8 +38,8 @@ CCTV-3综艺,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index
 CCTV-3综艺,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-5体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225818/index.m3u8
 CCTV-5体育,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV-5赛事,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225507/index.m3u8
-CCTV-5赛事,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-5+赛事,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225507/index.m3u8
+CCTV-5+赛事,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV-6电影,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV-6电影,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225814/index.m3u8
 CCTV-7军事,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225671/index.m3u8
@@ -58,17 +60,17 @@ CCTV-17农村,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225708/inde
 
 
 CCTV-1综合,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv1HD
-CCTV综合4K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+CCTV-1综合4K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 CCTV-2财经,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv2HD
 CCTV-3综艺,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv3HD
 CCTV-4国际,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv4HD
 CCTV-5体育,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv5HD
-CCTV体育4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV-5体育4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV-5+赛事,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv5SportHD
 CCTV-6电影,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv6HD
 CCTV-7军事,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv7HD
 CCTV-8电视剧,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv8HD
-CCTV电视4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228578/index.m3u8
+CCTV-8电视剧4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228578/index.m3u8
 CCTV-9纪录,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv9HD
 CCTV-10科教,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv10HD
 CCTV-11戏曲,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv11HD
@@ -77,13 +79,13 @@ CCTV-13新闻,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CCTVNew
 CCTV-14少儿,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctvseHD
 CCTV-15音乐,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv15HD
 CCTV-16奥运,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv16HD
-CCTV奥运4K,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CCTV16_4K
-CCTV奥运4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-CCTV奥运4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
-CCTV奥运4K,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=CCTV16_4K
-CCTV奥运4K,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
-CCTV奥运4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
-CCTV奥运4K,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=CCTV16_4K
+CCTV-16奥运4K,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CCTV16_4K
+CCTV-16奥运4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+CCTV-16奥运4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
+CCTV-16奥运4K,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=CCTV16_4K
+CCTV-16奥运4K,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+CCTV-16奥运4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
+CCTV-16奥运4K,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=CCTV16_4K
 CCTV-17农村,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv17HD
 
 CCTV风云剧场,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=fyjcHD
@@ -203,17 +205,8 @@ CCTV-13新闻,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/i
 CCTV-14少儿,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
 CCTV-15音乐,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
 CCTV-16奥运,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8
-CCTV-17农业农村,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
+CCTV-17农村,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
 CCTV-16奥运,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
-
-
-动漫秀场,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=dmxcHD
-魅力足球,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=mlzqHD
-求索纪录,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=qsjlHD
-游戏风云,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=yxfyHD
-欢笑剧场4K,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=hxjc_4K
-
-
 
 CCTV-1综合,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 CCTV-2财经,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
@@ -315,39 +308,6 @@ CCTV世界地理,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/001/2012513303
 CCTV央视台球,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/001/2012513703.m3u8
 
 
-
-
-
-CCTV-1综合,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
-CCTV-2财经,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
-CCTV-3综艺,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
-CCTV-4国际,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
-CCTV-5体育,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
-CCTV-5+赛事,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
-CCTV-6电影,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
-CCTV-7军事,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
-CCTV-8电视剧,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
-CCTV-9纪录,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
-CCTV-10科教,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
-CCTV-11戏曲,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
-CCTV-12社会,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
-CCTV-13新闻,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
-CCTV-14少儿,http://hls.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8
-CCTV-15音乐,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
-CCTV-16奥运,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
-CCTV-17农村,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
-CCTV发现之旅,http://hls.live.cqccn.com/__cl/cg:live/__c/faxian/__op/default/__f/index.m3u8
-CCTV风云剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
-CCTV风云音乐,http://hls.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
-CCTV风云足球,http://hls.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
-CCTV央视台球,http://hls.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8
-CCTV怀旧剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
-CCTV第一剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
-CCTV高尔夫网球,http://hls.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8
-CCTV文化精品,http://hls.live.cqccn.com/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8
-CCTV兵器科技,http://hls.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
-CCTV女性时尚,http://hls.live.cqccn.com/__cl/cg:live/__c/nvxing/__op/default/__f/index.m3u8
-
 CETV教育-1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
 CETV教育-2,http://txycsbl.centv.cn/zb/0822cetv2.m3u8
 CETV教育-3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
@@ -410,7 +370,7 @@ BesTV 4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/000000010000000600000000000
 纯享 4K,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 纯享 4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
+欢笑剧场4K,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=hxjc_4K
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 纯享4K,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 电影4K,http://mmitv.top/pltv/source.php?id=4kdy&token=da6b935e269f

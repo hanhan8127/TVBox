@@ -2,7 +2,8 @@
 
 {
 
-   "spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/shenghan.jar#https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/shenghan.jar",
+"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;BC2ADDDA493B092086F9EDA452AD2E66",
+//"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/shenghan.jar#https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/shenghan.jar",
 // "spider":"https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/my_spider.jar",
     "lives": [{"name": "live","type": 0,
             "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt#https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt",
@@ -14,8 +15,9 @@
 	    
 //{"key":"csp_DouDou","name":"豆瓣精选","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 
-//{"key": "csp_Ysgc","name": "胜寒推荐", "type": 3,"api": "csp_Ysgc", "searchable": 1, "quickSearch": 1,"filterable": 1},
-{"key": "csp_www.cz01.vip","name": "胜寒推荐","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.czzy33.com/"},
+{"key": "csp_Ysgc","name": "胜寒推荐", "type": 3,"api": "csp_Ysgc", "searchable": 1, "quickSearch": 1,"filterable": 1},
+{"key": "csp_www.cz01.vip","name": "胜寒推荐","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.czzy66.com/"},
+//厂长影视发布页www.cz01.vip
 {"key": "快看","name": "快看影视","type": 3,"api": "csp_Kuaikan", "searchable": 1,"quickSearch": 1,"filterable": 1}, 
 {"key": "csp_Cs1369","name":"996影视","type": 3,"api": "csp_Cs1369","ext": "https://www.cs1369.com","jar":"https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/my_spider.jar"},
 {"key": "lvdou_zhuiyi","name":"追忆影院","type": 3,"api": "csp_LvDou","playerType": 1,"ext": {"server": "http://tvbox.aleoe.cc","version": "3.5.231120"}, "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/my_spider.jar"},

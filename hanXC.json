@@ -16,11 +16,12 @@
 	    
 //{"key":"csp_DouDou","name":"豆瓣精选","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 
-{"key": "csp_Ysgc","name": "胜寒推荐", "type": 3,"api": "csp_Ysgc", "searchable": 1, "quickSearch": 1,"filterable": 1},
-{"key": "csp_www.cz01.vip","name": "厂长影视","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.czzy33.com/"},
+//{"key": "csp_Ysgc","name": "胜寒推荐", "type": 3,"api": "csp_Ysgc", "searchable": 1, "quickSearch": 1,"filterable": 1},
+{"key": "csp_www.cz01.vip","name": "胜寒推荐","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.czzy33.com/"},
 {"key": "快看","name": "快看影视","type": 3,"api": "csp_Kuaikan", "searchable": 1,"quickSearch": 1,"filterable": 1}, 
-{"key": "lvdou_zhuiyi","name":"胜寒推荐1","type": 3,"api": "csp_LvDou","playerType": 1,"ext": {"server": "http://tvbox.aleoe.cc","version": "3.5.231120"}, "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/my_spider.jar"},
-{"key": "csp_Cs1369","name":"胜寒推荐2","type": 3,"api": "csp_Cs1369","ext": "https://www.cs1369.com","jar":"https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/my_spider.jar"},
+{"key": "csp_Cs1369","name":"996影视","type": 3,"api": "csp_Cs1369","ext": "https://www.cs1369.com","jar":"https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/my_spider.jar"},
+{"key": "lvdou_zhuiyi","name":"追忆影院","type": 3,"api": "csp_LvDou","playerType": 1,"ext": {"server": "http://tvbox.aleoe.cc","version": "3.5.231120"}, "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/my_spider.jar"},
+
 {"key":"csp_xBPQ_量子","name":"️量子影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"http://quanji456.com/index.php/vod/show/area/{area}/by/time/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html;;lr","分类":"电影$1#连续剧$2#综艺$4#动漫$3"}},	    
 {"key": "毛驴","name": "毛驴影视","type": 3,"api": "csp_MLYS","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.maolvys.com/"},
 {"key":"csp_MYYS","name":"蚂蚁影视","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},

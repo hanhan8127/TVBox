@@ -5,9 +5,10 @@
 
 央视频道,#genre#
 
-CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
 CCTV-1综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV-2财经,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-2财经,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-3综艺,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -110,8 +111,34 @@ CCTV电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 CCTV央视台球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV高尔夫网球,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
 CCTV高尔夫网球,http://hz752.live:63/6770/cqyx.php?id=golfHD
-
-CCTV-2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+CCTV电视指南,http://www.biaozhun114.com/dl/dl666/gzyd.php?5673
+CCTV怀旧剧场,http://www.biaozhun114.com/dl/dl666/gzyd.php?5765
+CCTV兵器科技,http://www.biaozhun114.com/dl/dl666/gzyd.php?5676
+CCTV中央文化精品,http://www.biaozhun114.com/dl/dl666/gzyd.php?5675
+CCTV世界地理,http://www.biaozhun114.com/dl/dl666/gzyd.php?5731
+CCTV高尔夫网球,http://www.biaozhun114.com/dl/dl666/gzyd.php?5733
+CCTV第一剧场,http://www.biaozhun114.com/dl/dl666/gzyd.php?5702
+CCTV女性时尚,http://www.biaozhun114.com/dl/dl666/gzyd.php?5699
+CCTV风云剧场,http://www.biaozhun114.com/dl/dl666/gzyd.php?5700
+CCTV风云音乐,http://www.biaozhun114.com/dl/dl666/gzyd.php?5698
+CCTV风云足球,http://www.biaozhun114.com/dl/dl666/gzyd.php?5734
+CCTV风云音乐,http://www.biaozhun114.com/dl/dl666/gzyd.php?6083
+CCTV风云剧场,http://www.biaozhun114.com/dl/dl666/gzyd.php?6107
+CCTV女性时尚,http://www.biaozhun114.com/dl/dl666/gzyd.php?6104
+CCTV第一剧场,http://www.biaozhun114.com/dl/dl666/gzyd.php?6315
+CCTV风云音乐,http://www.biaozhun114.com/dl/dl666/gzyd.php?6308
+CCTV世界地理,http://www.biaozhun114.com/dl/dl666/gzyd.php?6071
+CCTV文化精品,http://www.biaozhun114.com/dl/dl666/gzyd.php?6100
+CCTV怀旧剧场,http://www.biaozhun114.com/dl/dl666/gzyd.php?6097
+CCTV高尔夫网球,http://www.biaozhun114.com/dl/dl666/gzyd.php?6114
+CCTV第一剧场,http://www.biaozhun114.com/dl/dl666/gzyd.php?6124
+CCTV央视台球,http://www.biaozhun114.com/dl/dl666/gzyd.php?6117
+CCTV央视台球,http://www.biaozhun114.com/dl/dl666/gzyd.php?6156
+CCTV风云足球,http://www.biaozhun114.com/dl/dl666/gzyd.php?6153
+CCTV电视指南,http://www.biaozhun114.com/dl/dl666/gzyd.php?6120
+CCTV兵器科技,http://www.biaozhun114.com/dl/dl666/gzyd.php?6111
+CCTV女性时尚,http://www.biaozhun114.com/dl/dl666/gzyd.php?6311
+CCTV中视购物,http://www.biaozhun114.com/dl/dl666/gzyd.php?6335
 
 CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV-2财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
@@ -285,24 +312,6 @@ CCTV女性时尚,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 CCTV风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 CCTV电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 
-CCTV-1综合,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-CCTV-2财经,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV-3综艺,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
-CCTV-4国际,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV-5体育,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv5hd8m/8000000/mnf.m3u8
-CCTV-5+赛事,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-CCTV-6电影,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
-CCTV-7军事,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-CCTV-8电视剧,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
-CCTV-9纪录,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-CCTV-10科教,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-CCTV-11戏曲,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
-CCTV-12社会,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-CCTV-13新闻,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-CCTV-14少儿,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
-CCTV-15音乐,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCTV-16奥运,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-CCTV-17农村,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 
 CCTV世界地理,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/001/2012513303.m3u8
 CCTV央视台球,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/001/2012513703.m3u8
@@ -439,26 +448,7 @@ iHOT爱动漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/600000000600
 精品剧场,http://[2409:8087:7001:20:1000::95]:6610/000000001000/8230197131234717902/index.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=3
 欧美影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
 亚洲影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
-超级综艺,http://111.13.111.242/000000001000PLTV/88888888/224/3221235747/1.m3u8?HlsProfileId=
-超级电影,http://111.13.111.242/000000001000PLTV/88888888/224/3221235755/1.m3u8?HlsProfileId=
-超级电视剧,http://111.13.111.242/000000001000PLTV/88888888/224/3221235788/1.m3u8?HlsProfileId=
-炫舞未来,http://111.13.111.242/000000001000PLTV/88888888/224/3221235764/1.m3u8?HlsProfileId=
-潮妈辣婆,http://111.13.111.242/000000001000PLTV/88888888/224/3221236059/1.m3u8?HlsProfileId=
-农业致富,http://111.13.111.242/000000001000PLTV/88888888/224/3221236147/1.m3u8?HlsProfileId=
-精品纪录,http://111.13.111.242/000000001000PLTV/88888888/224/3221236204/1.m3u8?HlsProfileId=
-精品大剧,http://111.13.111.242/000000001000PLTV/88888888/224/3221236205/1.m3u8?HlsProfileId=
-动作电影,http://111.13.111.242/000000001000PLTV/88888888/224/3221236207/1.m3u8?HlsProfileId=
-怡伴健康,http://111.13.111.242/000000001000PLTV/88888888/224/3221236209/1.m3u8?HlsProfileId=
-海外剧场,http://111.13.111.242/000000001000PLTV/88888888/224/3221236211/1.m3u8?HlsProfileId=
-古装剧场,http://111.13.111.242/000000001000PLTV/88888888/224/3221236213/1.m3u8?HlsProfileId=
-军事评论,http://111.13.111.242/000000001000PLTV/88888888/224/3221236210/1.m3u8?HlsProfileId=
-家庭剧场,http://111.13.111.242/000000001000PLTV/88888888/224/3221236206/1.m3u8?HlsProfileId=
-军旅剧场,http://111.13.111.242/000000001000PLTV/88888888/224/3221236212/1.m3u8?HlsProfileId=
-中国功夫,http://111.13.111.242/000000001000PLTV/88888888/224/3221236214/1.m3u8?HlsProfileId=
-爱情喜剧,http://111.13.111.242/000000001000PLTV/88888888/224/3221236215/1.m3u8?HlsProfileId=
-武搏世界,http://111.13.111.242/000000001000PLTV/88888888/224/3221236216/1.m3u8?HlsProfileId=
-精品体育,http://111.13.111.242/000000001000PLTV/88888888/224/3221236208/1.m3u8?HlsProfileId=
-超级体育,http://111.13.111.242/000000001000PLTV/88888888/224/3221235751/1.m3u8?HlsProfileId=
+
 
 华数电影4K,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3&HlsProfileId=
 精彩影视,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3&HlsProfileId=
@@ -530,10 +520,8 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 
 重庆卫视,https://sjlivecdn9.cbg.cn/202308010841/app_2/_definst_/ls_2.stream/chunklist.m3u8
 重庆卫视,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
 
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 北京卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw2542426131_1585848046/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8?icpid=3&RTS=1668597336&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/1.m3u8
@@ -713,6 +701,42 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 浙江卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225959/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225963/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+
+湖南卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1026
+东方卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1013
+江苏卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1033
+浙江卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1023
+广东卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1032
+北京卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1029
+山东卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1028
+天津卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1036
+河北卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1229
+山西卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1070
+内蒙卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1068
+辽宁卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1035
+吉林卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1225
+龙江卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1031
+安徽卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1037
+东南卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1201
+江西卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1034
+河南卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1222
+湖北卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1027
+广西卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1224
+海南卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1183
+重庆卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1129
+四川卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1130
+贵州卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1184
+云南卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1223
+西藏卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1072
+陕西卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1067
+甘肃卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1298
+青海卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1082
+宁夏卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1074
+新疆卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1065
+深圳卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1030
+三沙卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1185
+兵团卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1066#http://116.11.140.52:8181/tsfile/live/1011_1.m3u8
+
 
 吉林卫视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
 重庆卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=chongqingHD
@@ -1063,11 +1087,11 @@ FOX新闻,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 重庆卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cqws8m/8000000/mnf.m3u8
 重庆卫视,http://221.2.36.34:8888/newlive/live/hls/31/live.m3u8
 重庆卫视,http://39.184.224.99:9080/newlive/live/hls/28/live.m3u8
+重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
 重庆新闻,https://sjlivecdn9.cbg.cn/202308010841/app_2/_definst_/ls_3.stream/chunklist.m3u8
 重庆新闻,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_3.stream/chunklist.m3u8
 重庆新闻,http://183.65.9.200:8888/udp/235.254.197.199:7980
 重庆新闻,http://125.82.171.210:8888/udp/235.254.197.199:7980
-
 
 重庆新闻,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CQTVNewsHD
 重庆影视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cqyingshiHD

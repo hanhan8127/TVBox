@@ -91,6 +91,36 @@ CCTV-16奥运,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/inde
 CCTV-16奥运,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17农村,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225708/index.m3u8
 
+CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+CCTV-2财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+CCTV-3综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+CCTV-4国际,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
+CCTV-5体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV-5+赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+CCTV-6电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
+CCTV-7军事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+CCTV-8电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-9纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV-11戏曲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+CCTV-12社会,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV-15音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+CCTV-16奥运,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV-17农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
+CCTV兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
+CCTV央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
+CCTV文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8
+CCTV怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
+CCTV电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
+CCTV第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8
+CCTV风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
+CCTV风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
+CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
+CCTV高尔夫网球,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1439464013_-1071136747/ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8?icpid=3&RTS=1674381554&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+CCTV高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
 
 
 CCTV世界地理,http://111.20.40.160/PLTV/88888893/224/3221226947/index.m3u8
@@ -136,37 +166,25 @@ CCTV兵器科技,http://www.biaozhun114.com/dl/dl666/gzyd.php?6111
 CCTV女性时尚,http://www.biaozhun114.com/dl/dl666/gzyd.php?6311
 CCTV中视购物,http://www.biaozhun114.com/dl/dl666/gzyd.php?6335
 
-CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-CCTV-2财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-CCTV-3综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-CCTV-4国际,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
-CCTV-5体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV-5+赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-CCTV-6电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
-CCTV-7军事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV-8电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV-9纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV-10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV-11戏曲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
-CCTV-12社会,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV-15音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-CCTV-16奥运,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-CCTV-17农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
-CCTV兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
-CCTV央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
-CCTV文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8
-CCTV怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
-CCTV电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
-CCTV第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8
-CCTV风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
-CCTV风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
-CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
-CCTV高尔夫网球,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1439464013_-1071136747/ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8?icpid=3&RTS=1674381554&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-CCTV高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
 
+CCTV-1综合,https://live.metshop.top/msp.php?id=cctv1
+CCTV-2财经,https://live.metshop.top/msp.php?id=cctv2
+CCTV-3综艺,https://live.metshop.top/msp.php?id=cctv3
+CCTV-4国际,https://live.metshop.top/msp.php?id=cctv4
+CCTV-5体育,https://live.metshop.top/msp.php?id=cctv5
+CCTV-5+赛事,https://live.metshop.top/msp.php?id=cctv5p
+CCTV-6电影,https://live.metshop.top/msp.php?id=cctv6
+CCTV-7军事,https://live.metshop.top/msp.php?id=cctv7
+CCTV-8电视剧,https://live.metshop.top/msp.php?id=cctv8
+CCTV-9纪录,https://live.metshop.top/msp.php?id=cctv9
+CCTV-10科教,https://live.metshop.top/msp.php?id=cctv10
+CCTV-11戏曲,https://live.metshop.top/msp.php?id=cctv11
+CCTV-12社会,https://live.metshop.top/msp.php?id=cctv12
+CCTV-13新闻,https://live.metshop.top/msp.php?id=cctv13
+CCTV-14少儿,https://live.metshop.top/msp.php?id=cctv14
+CCTV-15音乐,https://live.metshop.top/msp.php?id=cctv15
+CCTV-16奥运,https://live.metshop.top/msp.php?id=cctv16
+CCTV-17农村,https://live.metshop.top/msp.php?id=cctv17
 
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
@@ -736,6 +754,29 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 三沙卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1185
 兵团卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1066#http://116.11.140.52:8181/tsfile/live/1011_1.m3u8
 
+北京卫视,https://live.metshop.top/msp.php?id=bjws
+东方卫视,https://live.metshop.top/msp.php?id=dfws
+天津卫视,https://live.metshop.top/msp.php?id=tjws
+重庆卫视,https://live.metshop.top/msp.php?id=cqws
+黑龙江卫视,https://live.metshop.top/msp.php?id=hljws
+辽宁卫视,https://live.metshop.top/msp.php?id=lnws
+河北卫视,https://live.metshop.top/msp.php?id=hbws
+山东卫视,https://live.metshop.top/msp.php?id=sdws
+安徽卫视,https://live.metshop.top/msp.php?id=ahws
+河南卫视,https://live.metshop.top/msp.php?id=hnws
+湖北卫视,https://live.metshop.top/msp.php?id=hubws
+湖南卫视,https://live.metshop.top/msp.php?id=hunws
+江西卫视,https://live.metshop.top/msp.php?id=jxws
+江苏卫视,https://live.metshop.top/msp.php?id=jsws
+浙江卫视,https://live.metshop.top/msp.php?id=zjws
+东南卫视,https://live.metshop.top/msp.php?id=dnws
+广东卫视,https://live.metshop.top/msp.php?id=gdws
+深圳卫视,https://live.metshop.top/msp.php?id=szws
+广西卫视,https://live.metshop.top/msp.php?id=gxws
+贵州卫视,https://live.metshop.top/msp.php?id=gzws
+四川卫视,https://live.metshop.top/msp.php?id=scws
+新疆卫视,https://live.metshop.top/msp.php?id=xjws
+海南卫视,https://live.metshop.top/msp.php?id=hinws
 
 吉林卫视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
 重庆卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=chongqingHD
@@ -828,8 +869,18 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 
 港澳台外,#genre#
 
+凤凰中文,https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/index.m3u8
+凤凰中文,https://edge1.laotv.la/live/PhxChinese/sc-gaFECQ/index.m3u8
+凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰资讯,http://www.biaozhun114.com/dl/dl666/jdgdjy.php?10
+凤凰中文,http://www.biaozhun114.com/dl/dl666/jdgdjy.php?11
+凤凰资讯,https://edge1.laotv.la/live/PhoenixNews/sc-gaFECQ/index.m3u8
+凤凰资讯,https://edge2.laotv.la/live/PhoenixNews/sc-gaFECQ/index.m3u8
+凤凰资讯,https://udnhls.skilldns.com/fhzx.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
@@ -838,13 +889,8 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb26]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
-凤凰中文,http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/phoenixch.m3u8
-凤凰资讯,http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/phoenixif.m3u8
-凤凰资讯,https://edge1.laotv.la/live/PhoenixNews/sc-gaFECQ/index.m3u8
-凤凰资讯,https://udnhls.skilldns.com/fhzx.m3u8
-凤凰中文,https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/index.m3u8
-凤凰资讯,http://www.biaozhun114.com/dl/dl666/jdgdjy.php?10
-凤凰中文,http://www.biaozhun114.com/dl/dl666/jdgdjy.php?11
+
+
 凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
 凤凰中文,http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/phoenixch.m3u8
@@ -852,218 +898,6 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 
 凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
-凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-
-
-凤凰中文,http://47.242.38.45:9999/twjd678-1.php?id=68
-凤凰资讯,http://47.242.38.45:9999/twjd678-1.php?id=67
-中天綜合,http://47.242.38.45:9999/twjd678-1.php?id=25
-中天新聞,http://47.242.38.45:9999/twjd678-2.php?id=31
-壹新聞,http://47.242.38.45:9999/twjd678-1.php?id=49
-壹新聞,http://47.242.38.45:9999/twjd678-2.php?id=35
-衛視中文,http://47.242.38.45:9999/twjd678-2.php?id=26
-台視HD,http://47.242.38.45:9999/twjd678-2.php?id=14
-MTV音樂,http://47.242.38.45:9999/twjd678-2.php?id=49
-中天綜合,http://47.242.38.45:9999/twjd678-2.php?id=76
-中天綜合,http://47.242.38.45:9999/twjd678-1.php?id=25
-中天娛樂,http://47.242.38.45:9999/twjd678-2.php?id=77
-中天娛樂,http://47.242.38.45:9999/twjd678-2.php?id=27
-中天娛樂,http://47.242.38.45:9999/twjd678-1.php?id=26
-中天新聞,http://47.242.38.45:9999/twjd678-2.php?id=91
-中天新聞,http://47.242.38.45:9999/twjd678-2.php?id=31
-中天新聞,http://47.242.38.45:9999/twjd678-1.php?id=40
-中視HD,http://47.242.38.45:9999/twjd678-2.php?id=54
-中視HD,http://47.242.38.45:9999/twjd678-1.php?id=2
-壹新聞,http://47.242.38.45:9999/twjd678-2.php?id=35
-壹新聞,http://47.242.38.45:9999/twjd678-2.php?id=100
-壹新聞,http://47.242.38.45:9999/twjd678-1.php?id=49
-亞洲旅遊,http://47.242.38.45:9999/twjd678-2.php?id=64
-亞洲旅遊,http://47.242.38.45:9999/twjd678-1.php?id=13
-衛視中文,http://47.242.38.45:9999/twjd678-2.php?id=73
-衛視中文,http://47.242.38.45:9999/twjd678-2.php?id=26
-衛視中文,http://47.242.38.45:9999/twjd678-1.php?id=22
-衛視中文,http://47.242.38.45:9999/twjd678-2.php?id=46
-衛視中文,http://47.242.38.45:9999/twjd678-2.php?id=133
-衛視電影,http://47.242.38.45:9999/twjd678-2.php?id=38
-衛視電影,http://47.242.38.45:9999/twjd678-2.php?id=103
-衛視電影,http://47.242.38.45:9999/twjd678-1.php?id=52
-衛視電影,http://47.242.38.45:9999/twjd678-2.php?id=134
-衛視電影,http://47.242.38.45:9999/twjd678-2.php?id=10
-緯來綜合,http://47.242.38.45:9999/twjd678-2.php?id=68
-緯來綜合,http://47.242.38.45:9999/twjd678-2.php?id=22
-緯來綜合,http://47.242.38.45:9999/twjd678-1.php?id=17
-緯來育樂,http://47.242.38.45:9999/twjd678-2.php?id=112
-緯來育樂,http://47.242.38.45:9999/twjd678-1.php?id=61
-緯來戲劇,http://47.242.38.45:9999/twjd678-2.php?id=83
-緯來戲劇,http://47.242.38.45:9999/twjd678-1.php?id=32
-緯來體育,http://47.242.38.45:9999/twjd678-2.php?id=42
-緯來體育,http://47.242.38.45:9999/twjd678-2.php?id=113
-緯來體育,http://47.242.38.45:9999/twjd678-1.php?id=62
-緯來日本,http://47.242.38.45:9999/twjd678-2.php?id=87
-緯來日本,http://47.242.38.45:9999/twjd678-1.php?id=36
-緯來電影,http://47.242.38.45:9999/twjd678-2.php?id=105
-緯來電影,http://47.242.38.45:9999/twjd678-1.php?id=54
-台視HD,http://47.242.38.45:9999/twjd678-2.php?id=52
-台視HD,http://47.242.38.45:9999/twjd678-2.php?id=14
-台視HD,http://47.242.38.45:9999/twjd678-1.php?id=1
-三立新聞,http://47.242.38.45:9999/twjd678-2.php?id=93
-三立新聞,http://47.242.38.45:9999/twjd678-2.php?id=32
-三立新聞,http://47.242.38.45:9999/twjd678-1.php?id=42
-三立新聞,http://47.242.38.45:9999/twjd678-2.php?id=13
-三立台灣,http://47.242.38.45:9999/twjd678-2.php?id=71
-三立台灣,http://47.242.38.45:9999/twjd678-2.php?id=24
-三立台灣,http://47.242.38.45:9999/twjd678-1.php?id=20
-三立台灣,http://47.242.38.45:9999/twjd678-2.php?id=11
-三立都會,http://47.242.38.45:9999/twjd678-2.php?id=72
-三立都會,http://47.242.38.45:9999/twjd678-2.php?id=25
-三立都會,http://47.242.38.45:9999/twjd678-1.php?id=21
-人間衛視,http://47.242.38.45:9999/twjd678-2.php?id=58
-人間衛視,http://47.242.38.45:9999/twjd678-2.php?id=2
-人間衛視,http://47.242.38.45:9999/twjd678-1.php?id=6
-年代新聞,http://47.242.38.45:9999/twjd678-2.php?id=12
-年代新聞,http://47.242.38.45:9999/twjd678-2.php?id=89
-年代新聞,http://47.242.38.45:9999/twjd678-2.php?id=29
-年代新聞,http://47.242.38.45:9999/twjd678-1.php?id=38
-兒童頻道,http://47.242.38.45:9999/twjd678-2.php?id=47
-民視新聞,http://47.242.38.45:9999/twjd678-2.php?id=92
-民視新聞,http://47.242.38.45:9999/twjd678-1.php?id=41
-民視HD,http://47.242.38.45:9999/twjd678-2.php?id=56
-民視HD,http://47.242.38.45:9999/twjd678-1.php?id=4
-旅遊生活,http://47.242.38.45:9999/twjd678-2.php?id=62
-旅遊生活,http://47.242.38.45:9999/twjd678-2.php?id=18
-旅遊生活,http://47.242.38.45:9999/twjd678-1.php?id=11
-龍華戲劇,http://47.242.38.45:9999/twjd678-2.php?id=84
-龍華戲劇,http://47.242.38.45:9999/twjd678-1.php?id=33
-龍華日韓,http://47.242.38.45:9999/twjd678-2.php?id=85
-龍華日韓,http://47.242.38.45:9999/twjd678-1.php?id=34
-龍華偶像,http://47.242.38.45:9999/twjd678-2.php?id=86
-龍華偶像,http://47.242.38.45:9999/twjd678-1.php?id=35
-龍華卡通,http://47.242.38.45:9999/twjd678-2.php?id=67
-龍華卡通,http://47.242.38.45:9999/twjd678-1.php?id=16
-龍華電影,http://47.242.38.45:9999/twjd678-2.php?id=106
-龍華電影,http://47.242.38.45:9999/twjd678-1.php?id=55
-寰宇新聞,http://47.242.38.45:9999/twjd678-2.php?id=99
-寰宇新聞,http://47.242.38.45:9999/twjd678-2.php?id=34
-寰宇新聞,http://47.242.38.45:9999/twjd678-1.php?id=48
-華視HD,http://47.242.38.45:9999/twjd678-2.php?id=55
-華視HD,http://47.242.38.45:9999/twjd678-1.php?id=3
-湖南衛視,http://47.242.38.45:9999/twjd678-2.php?id=123
-好消息TV,http://47.242.38.45:9999/twjd678-2.php?id=60
-好消息TV,http://47.242.38.45:9999/twjd678-1.php?id=8
-好萊塢電影,http://47.242.38.45:9999/twjd678-2.php?id=104
-好萊塢電影,http://47.242.38.45:9999/twjd678-1.php?id=53
-海峽衛視,http://47.242.38.45:9999/twjd678-2.php?id=120
-國家地理,http://47.242.38.45:9999/twjd678-2.php?id=53
-國家地理,http://47.242.38.45:9999/twjd678-2.php?id=16
-國家地理,http://47.242.38.45:9999/twjd678-1.php?id=9
-國家地理,http://47.242.38.45:9999/twjd678-2.php?id=9
-國家地理,http://47.242.38.45:9999/twjd678-2.php?id=132
-公視,http://47.242.38.45:9999/twjd678-2.php?id=57
-公視,http://47.242.38.45:9999/twjd678-1.php?id=5
-鳯凰資訊,http://47.242.38.45:9999/twjd678-2.php?id=124
-鳯凰資訊,http://47.242.38.45:9999/twjd678-1.php?id=67
-鳯凰中文,http://47.242.38.45:9999/twjd678-2.php?id=125
-鳯凰中文,http://47.242.38.45:9999/twjd678-1.php?id=68
-非凡新聞,http://47.242.38.45:9999/twjd678-2.php?id=96
-非凡新聞,http://47.242.38.45:9999/twjd678-1.php?id=45
-非凡商業,http://47.242.38.45:9999/twjd678-2.php?id=97
-非凡商業,http://47.242.38.45:9999/twjd678-1.php?id=46
-動物星球,http://47.242.38.45:9999/twjd678-2.php?id=63
-動物星球,http://47.242.38.45:9999/twjd678-2.php?id=19
-動物星球,http://47.242.38.45:9999/twjd678-1.php?id=12
-東森綜合,http://47.242.38.45:9999/twjd678-2.php?id=74
-東森綜合,http://47.242.38.45:9999/twjd678-1.php?id=23
-東森幼幼,http://47.242.38.45:9999/twjd678-2.php?id=66
-東森幼幼,http://47.242.38.45:9999/twjd678-2.php?id=21
-東森幼幼,http://47.242.38.45:9999/twjd678-1.php?id=15
-東森新聞,http://47.242.38.45:9999/twjd678-2.php?id=90
-東森新聞,http://47.242.38.45:9999/twjd678-2.php?id=30
-東森新聞,http://47.242.38.45:9999/twjd678-1.php?id=39
-東森戲劇,http://47.242.38.45:9999/twjd678-2.php?id=80
-東森戲劇,http://47.242.38.45:9999/twjd678-1.php?id=29
-東森財經,http://47.242.38.45:9999/twjd678-2.php?id=98
-東森財經,http://47.242.38.45:9999/twjd678-2.php?id=33
-東森財經,http://47.242.38.45:9999/twjd678-1.php?id=47
-東風衛視,http://47.242.38.45:9999/twjd678-2.php?id=78
-東風衛視,http://47.242.38.45:9999/twjd678-1.php?id=27
-東方衛視,http://47.242.38.45:9999/twjd678-2.php?id=122
-大愛電視,http://47.242.38.45:9999/twjd678-2.php?id=59
-大愛電視,http://47.242.38.45:9999/twjd678-2.php?id=15
-大愛電視,http://47.242.38.45:9999/twjd678-1.php?id=7
-達文西頻道,http://47.242.38.45:9999/twjd678-2.php?id=50
-寵物頻道,http://47.242.38.45:9999/twjd678-2.php?id=51
-超視HD,http://47.242.38.45:9999/twjd678-2.php?id=75
-超視HD,http://47.242.38.45:9999/twjd678-1.php?id=24
-博斯運動一,http://47.242.38.45:9999/twjd678-2.php?id=43
-博斯運動一,http://47.242.38.45:9999/twjd678-2.php?id=114
-博斯運動一,http://47.242.38.45:9999/twjd678-1.php?id=63
-八大綜合,http://47.242.38.45:9999/twjd678-2.php?id=70
-八大綜合,http://47.242.38.45:9999/twjd678-2.php?id=23
-八大綜合,http://47.242.38.45:9999/twjd678-1.php?id=19
-八大戲劇,http://47.242.38.45:9999/twjd678-2.php?id=81
-八大戲劇,http://47.242.38.45:9999/twjd678-1.php?id=30
-八大第一,http://47.242.38.45:9999/twjd678-2.php?id=69
-八大第一,http://47.242.38.45:9999/twjd678-2.php?id=3
-八大第一,http://47.242.38.45:9999/twjd678-1.php?id=18
-TVBS新聞,http://47.242.38.45:9999/twjd678-2.php?id=94
-TVBS新聞,http://47.242.38.45:9999/twjd678-1.php?id=43
-TVBS歡樂,http://47.242.38.45:9999/twjd678-2.php?id=82
-TVBS歡樂,http://47.242.38.45:9999/twjd678-1.php?id=31
-TVBS HD,http://47.242.38.45:9999/twjd678-2.php?id=95
-TVBS HD,http://47.242.38.45:9999/twjd678-1.php?id=44
-Taiwan Plus,http://47.242.38.45:9999/twjd678-2.php?id=88
-Taiwan Plus,http://47.242.38.45:9999/twjd678-1.php?id=37
-Star World,http://47.242.38.45:9999/twjd678-2.php?id=45
-Star World,http://47.242.38.45:9999/twjd678-2.php?id=128
-Star World,http://47.242.38.45:9999/twjd678-2.php?id=111
-Star World,http://47.242.38.45:9999/twjd678-2.php?id=1
-Star World,http://47.242.38.45:9999/twjd678-1.php?id=60
-STAR MOVIES,http://47.242.38.45:9999/twjd678-2.php?id=41
-STAR MOVIES,http://47.242.38.45:9999/twjd678-2.php?id=131
-STAR MOVIES,http://47.242.38.45:9999/twjd678-2.php?id=110
-STAR MOVIES,http://47.242.38.45:9999/twjd678-1.php?id=59
-Nickjr小尼克,http://47.242.38.45:9999/twjd678-2.php?id=48
-NHK世界,http://47.242.38.45:9999/twjd678-2.php?id=37
-NHK世界,http://47.242.38.45:9999/twjd678-2.php?id=102
-NHK世界,http://47.242.38.45:9999/twjd678-1.php?id=51
-MUCH TV,http://47.242.38.45:9999/twjd678-2.php?id=79
-MUCH TV,http://47.242.38.45:9999/twjd678-2.php?id=28
-MUCH TV,http://47.242.38.45:9999/twjd678-1.php?id=28
-
-momo親子台,http://47.242.38.45:9999/twjd678-2.php?id=65
-momo親子台,http://47.242.38.45:9999/twjd678-2.php?id=20
-momo親子台,http://47.242.38.45:9999/twjd678-1.php?id=14
-momo綜合台,http://47.242.38.45:9999/twjd678-2.php?id=44
-momo綜合台,http://47.242.38.45:9999/twjd678-2.php?id=115
-momo綜合台,http://47.242.38.45:9999/twjd678-1.php?id=64
-HBO,http://47.242.38.45:9999/twjd678-2.php?id=5
-HBO,http://47.242.38.45:9999/twjd678-2.php?id=107
-HBO,http://47.242.38.45:9999/twjd678-1.php?id=56
-FOX MOVIES,http://47.242.38.45:9999/twjd678-2.php?id=8
-ELEVEN SPORTS 2 HD,http://47.242.38.45:9999/twjd678-2.php?id=7
-ELEVEN SPORTS 2 HD,http://47.242.38.45:9999/twjd678-2.php?id=130
-ELEVEN SPORTS 2 HD,http://47.242.38.45:9999/twjd678-2.php?id=117
-ELEVEN SPORTS 2 HD,http://47.242.38.45:9999/twjd678-1.php?id=66
-ELEVEN SPORTS 1 HD,http://47.242.38.45:9999/twjd678-2.php?id=6
-ELEVEN SPORTS 1 HD,http://47.242.38.45:9999/twjd678-2.php?id=129
-ELEVEN SPORTS 1 HD,http://47.242.38.45:9999/twjd678-2.php?id=116
-ELEVEN SPORTS 1 HD,http://47.242.38.45:9999/twjd678-1.php?id=65
-DISCOVERY,http://47.242.38.45:9999/twjd678-2.php?id=61
-DISCOVERY,http://47.242.38.45:9999/twjd678-2.php?id=17
-DISCOVERY,http://47.242.38.45:9999/twjd678-1.php?id=10
-CNBC,http://47.242.38.45:9999/twjd678-2.php?id=4
-CNBC,http://47.242.38.45:9999/twjd678-2.php?id=127
-CINEMAX HD,http://47.242.38.45:9999/twjd678-2.php?id=40
-CINEMAX HD,http://47.242.38.45:9999/twjd678-2.php?id=109
-CINEMAX HD,http://47.242.38.45:9999/twjd678-1.php?id=58
-Bloomberg News,http://47.242.38.45:9999/twjd678-2.php?id=36
-Bloomberg News,http://47.242.38.45:9999/twjd678-2.php?id=101
-Bloomberg News,http://47.242.38.45:9999/twjd678-1.php?id=50
-AXN,http://47.242.38.45:9999/twjd678-2.php?id=39
-AXN,http://47.242.38.45:9999/twjd678-2.php?id=108
-AXN,http://47.242.38.45:9999/twjd678-1.php?id=57
-ANIMAX通動畫,http://47.242.38.45:9999/twjd678-2.php?id=126
 
 
 翡翠财经,https://tvp22.sky4k.top/index2.php

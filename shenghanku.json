@@ -2,12 +2,11 @@
     "urls": [
 
        	{"url": "https://raw.gitmirror.com/hanhan8127/TVBox/main/hanXC.json","name": "胜寒1"},
-
-       	{"url": "https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json","name": "胜寒2"},
 	    
-	{"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json","name": "胜寒3"},
+	{"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json","name": "胜寒2"},
 
-       
+       	{"url": "https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json","name": "胜寒3"},
+	    
         {"url": "https://gitee.com/hongfeiq/cfg/raw/master/online.json","name": "鸿飞"},
 
         {"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/lxhfans/TV/master/tv.txt","name":"乐享汇"},

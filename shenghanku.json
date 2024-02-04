@@ -1,21 +1,16 @@
 {
     "urls": [
 
-       	{"url": "https://raw.gitmirror.com/hanhan8127/TVBox/main/hanXC.json","name": "胜寒1"},
+	{"url": "https://raw.yzuu.cf/hanhan8127/TVBox/main/hanXC.json","name": "胜寒1"},
+	    
+       	{"url": "https://raw.gitmirror.com/hanhan8127/TVBox/main/hanXC.json","name": "胜寒2"},
 	    
 	{"url": "https://raw.yzuu.cf/hanhan8127/TVBox/main/hanXC.json","name": "胜寒2"},
 
 	{"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "南风"},
       
-        {"url": "https://100km.top/0","name": "100看"}
+        {"url": "https://100km.top/0","name": "100看"},
 
-
-
+	{"url": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/tvbox.json","name": "默认"}
     ],
-    "vip": [
-        {
-            "url": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/tvbox.json",
-            "name": "默认"
-        }
-    ]
 }

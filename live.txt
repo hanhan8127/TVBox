@@ -1,7 +1,9 @@
 
 央视频道,#genre#
 
-CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+胜寒预览1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
+胜寒预览2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
+CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 
 CCTV-1综合,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv1HD
 CCTV-2财经,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv2HD
@@ -530,8 +532,7 @@ http://r.jdshipin.com/OeHMu
 M1905电影,
 http://nas.jdshipin.com:8801/1905.php?id=1905dy
 
-胜寒预览1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
-胜寒预览2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
+
 
 卫视频道,#genre#
 
@@ -719,64 +720,47 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 重庆卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225963/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 
-湖南卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1026
-东方卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1013
-江苏卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1033
-浙江卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1023
-广东卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1032
-北京卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1029
-山东卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1028
-天津卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1036
-河北卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1229
-山西卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1070
-内蒙卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1068
-辽宁卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1035
-吉林卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1225
-龙江卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1031
-安徽卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1037
-东南卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1201
-江西卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1034
-河南卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1222
-湖北卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1027
-广西卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1224
-海南卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1183
-重庆卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1129
-四川卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1130
-贵州卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1184
-云南卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1223
-西藏卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1072
-陕西卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1067
-甘肃卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1298
-青海卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1082
-宁夏卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1074
-新疆卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1065
-深圳卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1030
-三沙卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1185
-兵团卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1066#http://116.11.140.52:8181/tsfile/live/1011_1.m3u8
+湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+浙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+北京卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+江苏卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+安徽卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+重庆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228133/index.m3u8
+东南卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225950/index.m3u8
+甘肃卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001059/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+广东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+广西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/ott.mobaibox.com/PLTV/4/224/3221228183/index.m3u8
+贵州卫视,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228136/index.m3u8
+海南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228139/index.m3u8
+河北卫视,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/ott.mobaibox.com/PLTV/4/224/3221228106/index.m3u8
+黑龙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+河南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/3221228221/index.m3u8
+湖北卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+江西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221228109/index.m3u8
+吉林卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/ott.mobaibox.com/PLTV/4/224/3221228130/index.m3u8
+辽宁卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+山东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/ott.mobaibox.com/PLTV/4/224/3221227517/index.m3u8
+深圳卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+四川卫视,http://[2409:8087:2001:20:2800:0:df6e:eb08]:80/ott.mobaibox.com/PLTV/4/224/3221228171/index.m3u8
+天津卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+云南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001046/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
+三沙卫视,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8
+青海卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001033/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+山西卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001038/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+西藏卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001302/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+内蒙古卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001035/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+宁夏卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001061/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+兵团卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001304/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+安多卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001311/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+康巴卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001313/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+大湾区卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+农林卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001312/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+延边卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001307/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+厦门卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-北京卫视,https://live.metshop.top/msp.php?id=bjws
-东方卫视,https://live.metshop.top/msp.php?id=dfws
-天津卫视,https://live.metshop.top/msp.php?id=tjws
-重庆卫视,https://live.metshop.top/msp.php?id=cqws
-黑龙江卫视,https://live.metshop.top/msp.php?id=hljws
-辽宁卫视,https://live.metshop.top/msp.php?id=lnws
-河北卫视,https://live.metshop.top/msp.php?id=hbws
-山东卫视,https://live.metshop.top/msp.php?id=sdws
-安徽卫视,https://live.metshop.top/msp.php?id=ahws
-河南卫视,https://live.metshop.top/msp.php?id=hnws
-湖北卫视,https://live.metshop.top/msp.php?id=hubws
-湖南卫视,https://live.metshop.top/msp.php?id=hunws
-江西卫视,https://live.metshop.top/msp.php?id=jxws
-江苏卫视,https://live.metshop.top/msp.php?id=jsws
-浙江卫视,https://live.metshop.top/msp.php?id=zjws
-东南卫视,https://live.metshop.top/msp.php?id=dnws
-广东卫视,https://live.metshop.top/msp.php?id=gdws
-深圳卫视,https://live.metshop.top/msp.php?id=szws
-广西卫视,https://live.metshop.top/msp.php?id=gxws
-贵州卫视,https://live.metshop.top/msp.php?id=gzws
-四川卫视,https://live.metshop.top/msp.php?id=scws
-新疆卫视,https://live.metshop.top/msp.php?id=xjws
-海南卫视,https://live.metshop.top/msp.php?id=hinws
 
 吉林卫视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
 重庆卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=chongqingHD
@@ -869,17 +853,17 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 
 港澳台外,#genre#
 
-凤凰中文,https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/index.m3u8
-凤凰中文,https://edge1.laotv.la/live/PhxChinese/sc-gaFECQ/index.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+
+
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰资讯,http://www.biaozhun114.com/dl/dl666/jdgdjy.php?10
-凤凰中文,http://www.biaozhun114.com/dl/dl666/jdgdjy.php?11
-凤凰资讯,https://edge1.laotv.la/live/PhoenixNews/sc-gaFECQ/index.m3u8
-凤凰资讯,https://edge2.laotv.la/live/PhoenixNews/sc-gaFECQ/index.m3u8
+
 凤凰资讯,https://udnhls.skilldns.com/fhzx.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
@@ -888,8 +872,6 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb26]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-
-
 
 凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8

@@ -13,9 +13,9 @@
 
     "sites": [
 	    
-{"key":"csp_DouDou","name":"豆瓣精选","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"csp_DouDou","name":"胜寒精选","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 
-{"key": "csp_www.cz01.vip","name": "胜寒推荐","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.czzy55.com/"},
+//{"key": "csp_www.cz01.vip","name": "胜寒推荐","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.czzy55.com/"},
 //厂长影视发布页www.cz01.vip
 
 {"key":"csp_YQKan","name":"一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},

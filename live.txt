@@ -3,7 +3,8 @@
 
 胜寒预览1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
 胜寒预览2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
-CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=1635962688
+CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8?auth_key=1635962688
 
 CCTV-1综合,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv1HD
 CCTV-2财经,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv2HD
@@ -166,9 +167,6 @@ CCTV-14少儿,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225674/inde
 CCTV-16奥运,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
 CCTV-16奥运,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17农村,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225708/index.m3u8
-
-
-
 
 CCTV世界地理,http://111.20.40.160/PLTV/88888893/224/3221226947/index.m3u8
 CCTV电视指南,http://111.20.40.160/PLTV/88888893/224/3221226987/index.m3u8
@@ -775,7 +773,7 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-
+凤凰资讯,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156407
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
 凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
@@ -839,8 +837,8 @@ FOX新闻,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 重庆卫视,http://221.2.36.34:8888/newlive/live/hls/31/live.m3u8
 重庆卫视,http://39.184.224.99:9080/newlive/live/hls/28/live.m3u8
 重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
-重庆新闻,https://sjlivecdn9.cbg.cn/202308010841/app_2/_definst_/ls_3.stream/chunklist.m3u8
 重庆新闻,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_3.stream/chunklist.m3u8
+
 重庆新闻,http://183.65.9.200:8888/udp/235.254.197.199:7980
 重庆新闻,http://125.82.171.210:8888/udp/235.254.197.199:7980
 
@@ -857,6 +855,8 @@ FOX新闻,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 重庆移动,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=mryyHD
 重广融媒,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cqrongmei
 
+重庆科教,http://123.145.56.79:8004/udp/225.0.4.193:7980
+重庆影视,http://123.145.56.79:8004/udp/225.0.4.192:7980
 
 重庆新闻,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=CQTVNewsHD
 重庆影视,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cqyingshiHD

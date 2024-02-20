@@ -15,8 +15,7 @@
 	    
 {"key":"csp_DouDou","name":"胜寒精选","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 
-//{"key": "csp_www.cz01.vip","name": "胜寒推荐","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.czzy55.com/"},
-//厂长影视发布页www.cz01.vip
+
 {"key": "49zy","name": "胜寒资源","type": 1,"api": "https://49zyw.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"categories": ["国产剧","大陆综艺","国产动漫","日本动漫","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","纪录片","欧美剧","香港剧","韩国剧","动漫","港台综艺","日韩综艺","欧美综艺","台湾剧","欧美动漫","泰国剧","日剧","电影解说","奇幻片","灾难片","悬疑片","其他片","体育赛事","海外剧"]},
 {"key":"csp_YQKan","name":"一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_NanGua","name":"南瓜影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},

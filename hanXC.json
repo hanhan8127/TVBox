@@ -13,8 +13,8 @@
 
     "sites": [
 	    
-{"key":"csp_DouDou","name":"胜寒精选","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
-{"key": "49zy","name": "胜寒资源","type": 1,"api": "https://49zyw.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"categories": ["国产剧","大陆综艺","国产动漫","日本动漫","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","纪录片","欧美剧","香港剧","韩国剧","动漫","港台综艺","日韩综艺","欧美综艺","台湾剧","欧美动漫","泰国剧","日剧","电影解说","奇幻片","灾难片","悬疑片","其他片","体育赛事","海外剧"]},
+{"key":"csp_DouDou","name":"豆瓣精选","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
+{"key": "49zy","name": "胜寒推荐","type": 1,"api": "https://49zyw.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"categories": ["国产剧","大陆综艺","国产动漫","日本动漫","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","纪录片","欧美剧","香港剧","韩国剧","动漫","港台综艺","日韩综艺","欧美综艺","台湾剧","欧美动漫","泰国剧","日剧","电影解说","奇幻片","灾难片","悬疑片","其他片","体育赛事","海外剧"]},
 {"key":"csp_YQKan","name":"一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "酷影APP","name": "TV酷影","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},  
 {"key": "meowtv_mlys","name": "毛驴影视","type": 3,"api": "csp_MLYS","jar":" https://jihulab.com/meows/s/-/raw/main/meow1.jar;md5;4129656A621683A8CAB496E02ACC94CD","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.maolvys.com/"},
@@ -68,17 +68,15 @@
 {"key":"drpy_js_奇珍异兽","name":"爱奇艺","type":3,"api":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js/奇珍异兽.js"},     
 {"key":"drpy_js_优酷","name":"优酷","type":3,"api":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js/优酷.js"},     
 {"key": "csp_AppYsV2_Mxone","name": "MX影院","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"},
-//{"key": "VS影院","name": "VS影院","type": 3,"api": "csp_XBPQ","ext": {"分类": "短剧$5#电影$1#电视剧$2#综艺$3#动漫$4","分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","免嗅": "0","嗅探词": "m3u8","简介": "myui-panel_bd\">&&</p>"}},
+{"key": "VS影院","name": "VS影院","type": 3,"api": "csp_XBPQ","ext": {"分类": "短剧$5#电影$1#电视剧$2#综艺$3#动漫$4","分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","免嗅": "0","嗅探词": "m3u8","简介": "myui-panel_bd\">&&</p>"}},
 //{"key": "csp_XBPQ_vstv","name": "VS影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html","分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},
 
-//{"key":"tuhao","name":"土豪影视","type": 0,"api": "https://www.tuhao.tv/api.php/provide/vod/","searchable": 0,"quickSearch": 0,"filterable": 0,"categories": ["国产剧","大陆综艺","国产动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片", "武侠片","奇幻片", "泰国剧","日韩动漫","日韩综艺","伦理片"]},
+{"key":"tuhao","name":"土豪影视","type": 0,"api": "https://www.tuhao.tv/api.php/provide/vod/","searchable": 0,"quickSearch": 0,"filterable": 0,"categories": ["国产剧","大陆综艺","国产动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片", "武侠片","奇幻片", "泰国剧","日韩动漫","日韩综艺","伦理片"]},
 
 {"key": "csp_暴风","name": "暴风资源","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"categories": ["国产剧","大陆综艺","国产动漫","日韩动漫","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","欧美剧","犯罪片","香港剧","韩国剧","台湾剧","日本剧","海外剧","其他片","悬疑片","奇幻片","动画片","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
 
 //{"key":"zy_ax88","name":"佚名影院","type":1,"api": "http://iqy.ax88.site/api.php/provide/vod/provide/vod/", "searchable": 1, "quickSearch": 1, "categories": ["国产剧", "综艺","动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "惊悚片", "犯罪片", "港台剧",  "日韩剧", "欧美剧" ] },
 {"key":"zy_八戒", "name":"八戒资源", "type": 1, "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable": 1, "quickSearch": 1, "categories": ["国产剧", "大陆综艺","国产动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片",  "香港剧", "台湾剧", "韩国剧", "日本剧","泰国剧", "欧美剧", "日韩综艺", "港台综艺", "欧美综艺",  "日韩动漫", "欧美动漫", "港台动漫", "伦理片" ] },
-
-
 
 {"key":"6U资源","name":"6U资源","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php","playUrl":"","searchable":1,"quickSearch":1,"categories": ["内地剧","综艺","动漫","动作","喜剧","科幻","恐怖","爱情","剧情","战争","文艺","美国剧","犯罪","香港剧","韩国剧","台湾剧","日本剧","泰国剧","其他","悬疑","奇幻","武侠","青春","古装","历史","枪战","伦理"]},
 //{"key":"明帝","name":"明帝资源","type":1,"api":"https://ys.md214.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories": ["今日更新","电影","连续剧","综艺","动漫","日韩动漫","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","欧美剧","犯罪片","中国香港","韩国","中国台湾","日本","泰国","美国","悬疑片","奇幻片","动画片","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
@@ -146,7 +144,8 @@
 
 {"key": "csp_秋秋","name": "🐧腾讯","type": 1,"playerType": 2,"api": "http://tvbox-1-g5221611.deta.app/vod/qq","categories": ["电影","电视剧","动漫","综艺"]},
 {"key": "csp_艺艺","name": "💜奇艺","type": 1,"playerType": 2,"api": "http://tvbox-1-g5221611.deta.app/vod/iqiyi", "playUrl": "json:http://119.91.123.253:2345/Api/yun.php?url=","categories": ["电影","电视剧","动漫","综艺"]},
-{"key": "csp_搜搜","name": "🦊搜狐","type": 1,"playerType": 2,"api": "http://tvbox-1-g5221611.deta.app/vod/sohu","searchable": 1,"quickSearch": 1,"filterable": 1}
+{"key": "csp_搜搜","name": "🦊搜狐","type": 1,"playerType": 2,"api": "http://tvbox-1-g5221611.deta.app/vod/sohu","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_hanhan","name": "请勿相信影片中广告！","type": 1,"playerType": 2,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1}
 
 ],
 

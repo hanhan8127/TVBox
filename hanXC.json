@@ -6,7 +6,7 @@
 //"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/shenghan.jar#https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/shenghan.jar",
 // "spider":"https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/my_spider.jar",
     "lives": [{"name": "live","type": 0,
-            "url": "https://raw.gitmirror.com/hanhan8127/TVBox/main/live.txt#https://raw.yzuu.cf/hanhan8127/TVBox/main/live.txt#https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt#https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt",
+            "url": "https://raw.gitmirror.com/hanhan8127/TVBox/main/live.txt#https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt#https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt",
             "epg":"http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         }],
@@ -17,10 +17,11 @@
 {"key": "49zy","name": "胜寒推荐","type": 1,"api": "https://49zyw.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"categories": ["国产剧","大陆综艺","国产动漫","日本动漫","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","纪录片","欧美剧","香港剧","韩国剧","动漫","港台综艺","日韩综艺","欧美综艺","台湾剧","欧美动漫","泰国剧","日剧","电影解说","奇幻片","灾难片","悬疑片","其他片","体育赛事","海外剧"]},
 {"key": "csp_www.cz01.vip","name": "厂长资源","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.czzy55.com/"},
 //厂长影视发布页www.cz01.vip
+	    
 {"key":"csp_YQKan","name":"一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "酷影APP","name": "TV酷影","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},  
 {"key": "meowtv_mlys","name":"毛驴影视","type": 3,"api": "csp_MLYS","jar":" https://jihulab.com/meows/s/-/raw/main/meow1.jar;md5;4129656A621683A8CAB496E02ACC94CD","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.maolvys.com/"},
-{"key":"csp_MLYS","name":"🐴毛驴","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"https://www.maolvys.com/"},
+{"key":"csp_MLYS","name":"🐴毛驴","type":3,"api":"csp_MLYS2","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"https://www.maolvys.com/"},
 {"key":"csp_NanGua","name":"南瓜影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key": "csp_Xinsj1","name": "新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.hdmyy.com/"},
 //新视觉发布页：https://www.5280.fun/
@@ -36,14 +37,14 @@
 {"key":"zy_10801","name":"1080影视","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php","playUrl": "https://vip.zykbf.com/?url=","categories": ["国产剧","大陆综艺","国产动漫","日韩综艺","日韩动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片","纪录片","剧情片","动画片","战争片"]},
 {"key":"zy_1080","name":"HD影视","type": 1,"api": "https://api.hdzykapi.com/inc/apijson.php","playUrl": "https://vip.zykbf.com/?url=","categories": ["国产剧","大陆综艺","国产动漫","日韩综艺","日韩动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片","纪录片","剧情片","动画片","战争片"]},
 //优质影视网址：优质资源主域名:yzzy.tv hdzyk.com（备用网址): 1080zyk1.com 至 1080zyk10.com,
-//{"key":"360-01","name":"360影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+
 {"key":"zy_光速", "name": "光速资源", "type": 1, "api": "https://api.guangsuapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "categories":  ["大陆剧", "综艺","动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片","港澳剧", "台湾剧", "欧美剧", "韩剧", "日剧","泰剧" ] }, 	 
 //{"key":"影图资源","name":"影图资源","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1, "categories": [ "电影","连续剧","国产剧", "综艺","动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片",  "港台剧", "日韩剧", "欧美剧" ]},
 
 //{"key": "短劇","name": "网络短剧","type": 3,"api": "csp_Duanju","searchable": 1,"changeable": 0,"jar": "https://tvbox.cainisi.cf/jar/fm1214.jar;md5;430c09fd9d279d1b5d1fdebbae7e1d67"},
 {"key": "种子短剧","name":"种子短剧","type": 1,"api": "http://zzdj.cc/api.php/provide/vod"},
 {"key":"在线之家","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.zxzja.com/"},
-//www.zxzj.site
+//在线之家发布页:www.zxzj.site
 
 //{"key": "废物影院","name":"️废物影院","type":1,"api":"http://playersll.gaoxin155.com.cn/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","综艺","日韩剧","惊悚片","犯罪片","冒险片","动作片","科幻片","奇幻片","喜剧片","爱情片", "恐怖片","战争片","悬疑片","剧情片","记录片","港台剧","欧美剧","动漫"]},
 
@@ -56,8 +57,7 @@
 {"key":"zy_非凡","name":"非凡资源","type":1,"api": "http://cj.ffzyapi.com/api.php/provide/vod/","playurl": "json:https://ffzyplayer.com/?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":  ["短剧","国产剧", "大陆综艺","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片",  "香港剧", "台湾剧", "美国剧", "韩国剧", "日本剧", "泰国剧","日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫","伦理片"]},
 //非凡资源备用网址:ffzy1.tv ffzy2.tv ffzy3.tv ffzy4.tv ffzy5.tv；http://cj.ffzyapi.com/api.php/provide/vod/at/xml/
 
-{"key":"zy_淘片","name":"淘片资源","type": 1,"api": "https://taopianapi.com/cjapi/mc/vod/json.html","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":
- ["电视剧/国产剧","综艺/大陆综艺","动漫/国产动漫","电视剧/韩国剧","综艺/日韩综艺","动漫/日本动漫","电影/动作片","电影/科幻片", "电影/奇幻片", "电影/喜剧片", "电影/爱情片", "电影/惊悚片", "电影/恐怖片","电影/纪录片","剧情片","电影/动画片","电影/冒险片","电影/战争片"]},
+{"key":"zy_淘片","name":"淘片资源","type": 1,"api": "https://taopianapi.com/cjapi/mc/vod/json.html","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["电视剧/国产剧","综艺/大陆综艺","动漫/国产动漫","电视剧/韩国剧","综艺/日韩综艺","动漫/日本动漫","电影/动作片","电影/科幻片", "电影/奇幻片", "电影/喜剧片", "电影/爱情片", "电影/惊悚片", "电影/恐怖片","电影/纪录片","剧情片","电影/动画片","电影/冒险片","电影/战争片"]},
 //https://taopianapi.com/cjapi/sda/vod/json/iframe.html
 {"key":"zy_百度","name":"百度资源","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"categories": ["大陆剧","大陆综艺","国产动漫","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动画电影","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","悬疑片","奇幻片","动画片","体育赛事","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
 {"key":"刘公子","name":"酷影影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/","categories":["短剧","电影","电视剧","动漫","综艺","记录","体育"]},
@@ -94,7 +94,7 @@
 {"key":"天翼资源","name":"天翼资源","type":1,"api":"https://www.911ysw.top/tianyi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1 , "categories": ["国产剧", "综艺","动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片","惊悚片","犯罪片","悬疑片","惊悚片",  "港台剧",  "日韩剧","泰国剧", "伦理片","欧美剧" ] },
  
 {"key":"csp_AppYsV2_555","name":"555影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://5flixs.net/api.php/app/"},
-//555电影发布页：https://www.555dyy.top/   笔盒18：https://beabox.xyz/；最新地址发布页beabox.tv，https://bihek.vip/，无法访问可发送邮件至beabox@email.com
+//555电影发布页：https://www.555dyy.top/ 笔盒18：https://beabox.xyz/；最新地址发布页beabox.tv，https://bihek.vip/,无法访问可发送邮件至beabox@email.com
 
 {"key":"csp_xBPQ_Voflix","name":"️Voflix影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.voflix.me/show/{cateId}-{area}-time-{class}-{lang}----{catePg}---{year}.html;;lr","分类":"电影$1#连续剧$2#综艺$3#动漫$4"}},
 

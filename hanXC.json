@@ -20,13 +20,7 @@
 {"key": "49zy","name": "胜寒资源","type": 1,"api": "https://49zyw.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"categories": ["国产剧","大陆综艺","国产动漫","日本动漫","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","纪录片","欧美剧","香港剧","韩国剧","动漫","港台综艺","日韩综艺","欧美综艺","台湾剧","欧美动漫","泰国剧","日剧","电影解说","奇幻片","灾难片","悬疑片","其他片","体育赛事","海外剧"]},
 {"key":"csp_YQKan","name":"一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_NanGua","name":"南瓜影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key": "csp_Xinsj1","name": "新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.hdmyy.com/"},
-//新视觉发布页：https://www.5280.fun/
-{"key":"阿里影视","name":"阿里影视","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_Kuaikan","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"zy_新浪","name":"新浪影视","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["大陆剧","综艺","动漫","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
-{"key":"爱坤资源","name":"爱坤资源","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1, "categories": ["爽文短剧","国产剧","大陆综艺","国产动漫","日韩综艺","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片","惊悚片","家庭片","古装片","犯罪片","悬疑片", "香港剧","韩国剧","日本剧","泰剧", "伦理片","欧美剧" ] },
-//https://ikunzyapi.com/
+
  
 {"key":"csp_Anime1","name":"日本动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1}
 

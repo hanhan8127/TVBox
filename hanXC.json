@@ -119,12 +119,12 @@
 {"key":"zy_飞速2", "name": "飞速资源", "type": 1, "api": "https://www.feisuzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "categories":  [ "国产剧", "综艺", "大陆综艺","动漫", "国产动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片", "动画片","香港剧", "台湾剧", "欧美剧", "韩国剧", "日本剧","泰国剧","日韩综艺", "港台综艺", "欧美综艺", "日韩动漫", "欧美动漫", "其他片" ] },
 //飞速资源:http://feisuzy.cc/,飞速 feisuzy.com、（fszy1-10）.com、feisuzy.cc（总有一条可以打开）
 {"key": "zy_鱼乐", "name": "鱼乐资源", "type": 1, "api": "https://api.ylzy.me/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": [ "国产剧", "大陆综艺","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片", "悬疑片", "犯罪片", "动画片", "奇幻片", "香港剧", "台湾剧", "美国剧", "韩国剧", "日本剧","日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫",  "伦理片","欧美动漫" ] },
-//https://api.ylzy.me/api.php/provide/vod/at/xmlsea/；鱼乐资源网主站：ylzy.cc、ylzy.me、ylzy.tv；网备用地址 ：  ylzy11.com--ylzy20.com （总有一条可以打开）
+//https://api.ylzy.me/api.php/provide/vod/at/xmlsea/；鱼乐资源网主站:ylzy.cc、ylzy.me、ylzy.tv；网备用地址:ylzy11.com--ylzy20.com （总有一条可以打开）
 
 {"key":"zy_卧龙1", "name": "卧龙资源", "type": 1, "api": "https://collect.wolongzyw.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "categories": ["国产剧", "大陆综艺","动漫","国产动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "悬疑片", "犯罪片", "古装片", "历史片","香港剧", "韩国剧","台湾剧", "欧美剧",  "日本剧", "海外剧","韩国综艺", "港台综艺", "欧美综艺", "日本动漫", "欧美动漫"] },
 //{"key":"zy_卧龙2", "name":"卧龙资源", "type": 1, "api": "https://collect.wolongzyw.com/api.php/wlseaxml/vod/", "searchable": 1, "quickSearch": 1, "categories": [ "国产剧","大陆综艺","动作片","喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片", "悬疑片", "犯罪片", "动画片", "奇幻片", "香港剧", "台湾剧", "美国剧", "韩国剧", "日本剧","日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "其他剧" ]},
 {"key":"zy_樱花资源", "name": "樱花资源", "type": 1, "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1,"categories": [ "国产剧","大陆综艺","动作片","喜剧片","爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片", "悬疑片", "犯罪片", "动画片", "奇幻片", "香港剧", "台湾剧", "美国剧", "韩国剧", "日本剧","日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫" ]},
-//樱花影视https://www.yhh888.cn/zxtype/23.html
+////樱花影视https://www.yhh888.cn/zxtype/23.html
 	    
 {"key":"zy_无尽", "name": "无尽资源","type": 1, "api": "https://api.wujinapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "categories":["国产剧", "综艺", "大陆综艺", "动漫","国产动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "动画片","奇幻片","灾难片","韩国剧","香港剧", "台湾剧", "日本剧","泰国剧","美国剧", "日韩综艺", "港台综艺", "欧美综艺",  "日韩动漫", "欧美动漫" ]},
 
@@ -137,7 +137,7 @@
 
 {"key":"csp_xBPQ_爱看影院","name":"️爱看影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.3wyy.com/vodshow/{cateId}-{area}-time-{class}-{lang}----{catePg}---{year}.html;;lr","分类":"电影$1#连续剧$2#综艺$3#动漫$4"}},
 {"key":"闪电资源", "name": "闪电资源", "type": 1, "api": "http://sdzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "categories": ["国产剧", "大陆综艺","国产动漫",  "日韩综艺","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片", "悬疑片", "犯罪片", "动画片", "奇幻片", "港台剧","欧美剧", "日韩剧", "其他剧" ] },
-{"key":"zy_忆梦","name":"忆梦资源","type":1,"api": "https://gnpt.net/api.php/provide/vod/","searchable": 1, "quickSearch": 1} ,
+{"key":"zy_忆梦","name":"忆梦资源","type":1,"api": "https://gnpt.net/api.php/provide/vod/","searchable": 1, "quickSearch": 1},
 
 //{"key":"zy_云解析","name":"步步资源", "type":1, "api":"https://api.yparse.com/api/m3u8/json", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories":  [ "国产剧", "综艺","动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片","动画片", "香港剧",  "台湾剧","日本剧",  "韩国剧", "泰国剧", "欧美剧", "海外剧","伦理片" ] },
 

@@ -62,7 +62,7 @@
 {"key": "飞云","name": "👑飞云资源👑","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"ext": "http://122.228.84.103:6117/api.php/app/"},
 //https://atomgit.com/xymz/ymz/raw/master/Xymz.json
 
-{"key": "532短剧","name": "532影视","type": 3,   "searchable": 1,"api": "csp_XBPQ","ext": "分类url:http://admin.532kan.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html"},
+{"key": "532短剧","name": "532影视","type": 3,   "searchable": 1,"api": "csp_XBPQ","ext": "分类url:http://admin.532kan.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html","分类名称": "电影&电视剧&综艺&动漫&短剧"},
 
 
 

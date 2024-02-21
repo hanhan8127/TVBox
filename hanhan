@@ -34,7 +34,7 @@
  {"key": "drpy_js_大师兄影视","name": "大师兄影视","type": 3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大师兄影视.js"},
 
 
-  {"key":"drpy_js_菜狗","name":"👑狗狗官源👑","type":3,"playerType":2,"api":"./drpy2.min.js","ext":"./%E8%8F%9C%E7%8B%97.js"}, 
+  {"key":"drpy_js_菜狗","name":"👑狗狗官源👑","type":3,"playerType":2,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/%E8%8F%9C%E7%8B%97.js"}, 
 //https://atomgit.com/xymz/ymz/raw/master/Xymz.json
 
 {"key":"csp_SP360","name":"👑360官源👑","type":3,"playerType":2,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},

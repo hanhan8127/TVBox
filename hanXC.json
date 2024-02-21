@@ -17,12 +17,11 @@
 {"key": "app_快看1","name": "️胜寒推荐","searchable":1,"type": 1,"playerType":2,"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list","categories":["网络电影","国产剧", "国产综艺","国产动漫", "动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","日本动漫","韩国剧","港台剧","欧美剧","港台综艺"]},	
 {"key": "49zy","name": "胜寒推荐","type": 1,"api": "https://49zyw.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"categories": ["国产剧","大陆综艺","国产动漫","日本动漫","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","纪录片","欧美剧","香港剧","韩国剧","动漫","港台综艺","日韩综艺","欧美综艺","台湾剧","欧美动漫","泰国剧","日剧","电影解说","奇幻片","灾难片","悬疑片","其他片","体育赛事","海外剧"]},
 
-{"key": "乐乐","name": "乐乐影视","type": 1,"api": "https://leshizyapi.com/api.php/provide/vod/at/json/","searchable": 1,"quickSearch": 1,"filterable": 0,"categories":["短剧","国产剧", "大陆综艺","国产动漫","纪录片","动作片","爱情片","科幻片","恐怖片","喜剧片","剧情片","战争片","动画片","犯罪片","韩国剧","泰国剧","日剧","欧美剧","日韩综艺","港台综艺"]},
+{"key": "乐乐1","name": "乐乐影视","type": 1,"api": "https://leshizyapi.com/api.php/provide/vod/at/json/","searchable": 1,"quickSearch": 1,"filterable": 0,"categories":["短剧","国产剧", "大陆综艺","国产动漫","纪录片","动作片","爱情片","科幻片","恐怖片","喜剧片","剧情片","战争片","动画片","犯罪片","韩国剧","泰国剧","日剧","欧美剧","日韩综艺","港台综艺"]},
 {"key": "夜猫聚合","name": "夜猫聚合","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.newdays.cc/api.php/app/"},
 
-{"key":"drpy_js_大师兄影视","name":"大师兄影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"api":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/js/lib/drpy.min.js","ext":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/js/jspy/大师兄影视.js"},	    
-
-{"key": "drpy_js_大师兄影视2","name": "大师兄影视","type": 3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大师兄影视.js"},
+{"key":"drpy_js_大师兄影视","name":"大师兄影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"api":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/js/lib/drpy.min.js","ext":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/js/jspy/大师兄影视.js"},
+{"key": "大师兄影视2","name": "大师兄影视","type": 3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大师兄影视.js"},
 {"key":"drpy_js_菜狗","name":"狗狗官源","type":3,"playerType":2,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/%E8%8F%9C%E7%8B%97.js"}, 
 
 {"key": "自营","name": "蓝光APP","type": 3,"api": "csp_AppYsV2","ext": "http://122.228.84.103:5822/api.php/app/","searchable": 1,"quickSearch": 1,"changeable": 0},
@@ -158,13 +157,11 @@
 //{"key":"zy_云解析","name":"步步资源", "type":1, "api":"https://api.yparse.com/api/m3u8/json", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories":  [ "国产剧", "综艺","动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片","动画片", "香港剧",  "台湾剧","日本剧",  "韩国剧", "泰国剧", "欧美剧", "海外剧","伦理片" ] },
 
 {"key":"CK资源","name":"CK资源","type":1, "api":"https://ckzy.me/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["国产剧", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "记录片", "悬疑片", "犯罪片","奇幻片", "港台剧","欧美剧", "日韩剧", "伦理片"]},
-
 {"key": "csp_秋秋","name": "🐧腾讯","type": 1,"playerType": 2,"api": "http://tvbox-1-g5221611.deta.app/vod/qq","categories": ["电影","电视剧","动漫","综艺"]},
 {"key": "csp_艺艺","name": "💜奇艺","type": 1,"playerType": 2,"api": "http://tvbox-1-g5221611.deta.app/vod/iqiyi", "playUrl": "json:http://119.91.123.253:2345/Api/yun.php?url=","categories": ["电影","电视剧","动漫","综艺"]},
 {"key": "csp_搜搜","name": "🦊搜狐","type": 1,"playerType": 2,"api": "http://tvbox-1-g5221611.deta.app/vod/sohu","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-
-{"key": "csp_hanhan","name": "请勿相信影片中广告！","type": 1,"playerType": 2,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1}
+{"key": "csp_hanhan","name": "胜寒提醒：请勿相信影片中广告！","type": 1,"playerType": 2,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1}
 
 ],
 
@@ -176,7 +173,7 @@
         {"name":"聚合","type":3,"url":"Demo"},
 
         {"name": "胜寒超解", "type": 1, "url": "https://api.json.icu/api/?key=0bfb59b5928233f5665db10ebcade96f&url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SMD","YuMi","luanzi","AliS","dxzy","bilibili","QEYSS","xigua", "西瓜视频", "腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],"header":{"User-Agent":"Dart/2.18 (dart:io)"}}},  
-        {"name": "胜寒聚合", "type": 1, "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频",乐视视频"],"header": {"User-Agent": "Lavf/58.12.100"}}},  	  
+        {"name": "胜寒聚合", "type": 1, "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],"header": {"User-Agent": "Lavf/58.12.100"}}},  	  
         {"name":"胜寒","type": 1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext": {"flag": ["qq","iqiyi","youku","mgtv"]}},
         {"name":"胜0","type":1,"url":"http://vip.wpsseo.cn/jx/?url="},
         {"name":"胜1","type":1,"url":"https://www.8090g.cn/?url="},

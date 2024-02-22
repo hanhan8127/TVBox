@@ -15,7 +15,14 @@
 	    
 {"key":"csp_DouDou","name":"胜寒精选","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 
-
+{"key":"zy_155","name":"155资源","type":1,"api": "https://155api.com/api.php/provide/vod/?ac=list","searchable": 1, "quickSearch": 1},
+{"key":"zy_maomao","name":"猫猫资源","type":1,"api": "https://caiji.semaozy.net/inc/apijson_vod.php","searchable": 1, "quickSearch": 1},
+{"key":"zy_naixx","name":"香香资源","type":1,"api": "https://naixxzy.com/api.php/provide/vod/?ac=list","searchable": 1, "quickSearch": 1},
+{"key":"zy_msnii","name":"美美资源","type":1,"api": "https://www.msnii.com/api/xml.php","searchable": 1, "quickSearch": 1},
+{"key":"zy_xrbsp","name":"甜甜资源","type":1,"api": "https://www.xrbsp.com/api/xml.php","searchable": 1, "quickSearch": 1},	    
+{"key":"zy_pgxdy","name":"飘飘资源","type":1,"api": "https://www.pgxdy.com/api/xml.php","searchable": 1, "quickSearch": 1},
+{"key":"zy_kxgav","name":"亮亮资源","type":1,"api": "https://www.kxgav.com/api/xml.php","searchable": 1, "quickSearch": 1},
+{"key":"zy_afasu","name":"AF资源","type":1,"api": "https://www.afasu.com/api/xml.php","searchable": 1, "quickSearch": 1},
 
 
 

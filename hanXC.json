@@ -162,14 +162,7 @@
 {"key": "csp_艺艺","name": "💜奇艺","type": 1,"playerType": 2,"api": "http://tvbox-1-g5221611.deta.app/vod/iqiyi", "playUrl": "json:http://119.91.123.253:2345/Api/yun.php?url=","categories": ["电影","电视剧","动漫","综艺"]},
 {"key": "csp_搜搜","name": "🦊搜狐","type": 1,"playerType": 2,"api": "http://tvbox-1-g5221611.deta.app/vod/sohu","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"zy_155","name":"155资源","type":1,"api": "https://155api.com/api.php/provide/vod/?ac=list","searchable": 1, "quickSearch": 1},
-{"key":"zy_maomao","name":"猫猫资源","type":1,"api": "https://caiji.semaozy.net/inc/apijson_vod.php","searchable": 1, "quickSearch": 1},
-{"key":"zy_naixx","name":"香香资源","type":1,"api": "https://naixxzy.com/api.php/provide/vod/?ac=list","searchable": 1, "quickSearch": 1},
-{"key":"zy_msnii","name":"美美资源","type":1,"api": "https://www.msnii.com/api/xml.php","searchable": 1, "quickSearch": 1},
-{"key":"zy_xrbsp","name":"甜甜资源","type":1,"api": "https://www.xrbsp.com/api/xml.php","searchable": 1, "quickSearch": 1},	    
-{"key":"zy_pgxdy","name":"飘飘资源","type":1,"api": "https://www.pgxdy.com/api/xml.php","searchable": 1, "quickSearch": 1},
-{"key":"zy_kxgav","name":"亮亮资源","type":1,"api": "https://www.kxgav.com/api/xml.php","searchable": 1, "quickSearch": 1},
-{"key":"zy_afasu","name":"AF资源","type":1,"api": "https://www.afasu.com/api/xml.php","searchable": 1, "quickSearch": 1},
+
 	    
 	    
 {"key": "csp_hanhan","name": "胜寒提醒：请勿相信影片中广告！","type": 1,"playerType": 2,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1}

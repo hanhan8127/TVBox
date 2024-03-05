@@ -22,7 +22,7 @@
 {"key": "乐乐1","name": "胜寒推荐","type": 1,"api": "https://leshizyapi.com/api.php/provide/vod/at/json/","searchable": 1,"quickSearch": 1,"filterable": 0,"categories":["短剧","国产剧", "大陆综艺","国产动漫","纪录片","动作片","爱情片","科幻片","恐怖片","喜剧片","剧情片","战争片","动画片","犯罪片","韩国剧","泰国剧","日剧","欧美剧","日韩综艺","港台综艺"]},
 {"key":"csp_YQKan","name":"一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "酷影APP","name": "TV酷影","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},  	    
-{"key": "夜猫聚合","name": "夜猫聚合","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.newdays.cc/api.php/app/"},
+//{"key": "夜猫聚合","name": "夜猫聚合","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.newdays.cc/api.php/app/"},
 {"key": "csp_www.cz01.vip","name": "厂长资源","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.czzy77.com/"},
 //厂长影视发布页www.cz01.vip
 {"key": "csp_Xinsj1","name": "新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.hdmyy.com/"},

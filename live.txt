@@ -997,6 +997,21 @@ AXN台频道,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcf
 中视新闻,http://ali.hlspull.yximgs.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv 
 台视新闻,http://ali.hlspull.yximgs.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv 
 寰宇新闻,http://ali.hlspull.yximgs.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
+凤凰香港,https://s2.pub/cctv-1
+凤凰中文,https://s2.pub/cctv-2
+凤凰资讯,https://s2.pub/cctv-3
+香港翡翠,https://s2.pub/cctv-4
+香港V2,https://s2.pub/cctv-5
+翡翠英文,https://s2.pub/cctv-6
+HOY娱乐,https://s2.pub/cctv-9
+HOY资讯,https://s2.pub/cctv-10
+纬来体育,https://s2.pub/cctv-13
+纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+TVB星河,https://s2.pub/cctv-16
+TVB娱乐新闻,https://s2.pub/cctv-19
+香港武侠,https://s2.pub/cctv-20
+翡翠综合,https://s2.pub/cctv-23
+翡翠财经,https://s2.pub/cctv-24
 
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -1065,6 +1080,9 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 
 数字频道,#genre#
 
+纬来体育,https://s2.pub/cctv-13
+纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 风尚音乐,http://zteres.sn.chinamobile.com:6060/000000001000/5529729098703832176/1.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
 劲爆体育,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
 劲爆体育,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3

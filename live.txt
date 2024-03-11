@@ -1,38 +1,12 @@
 
 央视频道,#genre#
 
+胜寒预览1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
 胜寒预览1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
+
 胜寒预览2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
 CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=1635962688
 CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8?auth_key=1635962688
-CCTV-16奥运4K,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CCTV16_4K
-CCTV-16奥运4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-CCTV-16奥运4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
-CCTV-16奥运4K,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=CCTV16_4K
-CCTV-16奥运4K,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
-CCTV-16奥运4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
-CCTV-16奥运4K,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=CCTV16_4K
-
-
-CCTV-1综合,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3
-CCTV-2财经,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000023315/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
-CCTV-3综艺,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000022313/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022313&livemode=1&stbId=3
-CCTV-4国际,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031102/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3
-CCTV-5体育,http://zteres.sn.chinamobile.com:6060/000000001000/1000000003000030177/1.m3u8?channel-id=ystenlive&Contentid=1000000003000030177&livemode=1&stbId=3
-CCTV-5+赛事,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018504/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3
-CCTV-6电影,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=3
-CCTV-7军事,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000009055/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009055&livemode=1&stbId=3
-CCTV-8电视剧,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000031433/1.m3u8?channel-id=ystenlive&Contentid=1000000001000031433&livemode=1&stbId=3
-CCTV-9纪录,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3
-CCTV-10科教,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000016738/1.m3u8?channel-id=bestzb&Contentid=5000000010000016738&livemode=1&stbId=3
-CCTV-11戏曲,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031106/1.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3
-CCTV-12社会,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000022586/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022586&livemode=1&stbId=3
-CCTV-13新闻,http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000001827/1.m3u8?channel-id=bestzb&Contentid=5000000005000001827&livemode=1&stbId=3
-CCTV-14少儿,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000013647/1.m3u8?channel-id=wasusyt&Contentid=6000000001000013647&livemode=1&stbId=3
-CCTV-15音乐,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265014/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=3
-CCTV-16奥运,http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
-CCTV-17农村,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3
-
 
 CCTV-1综合,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv1HD#https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8#https://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8?aliyun_uuid=b3b8e538-3470-4fa0-b6ed-2b138e5f5fef&auth_key=2145888000-0-0-fda7ddb73d3cb5ac5bddf4eeba9b665e
 CCTV-2财经,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8#http://180.174.54.152:8801/tsfile/live/0002_1.m3u8?key=txiptv#http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv2HD
@@ -51,8 +25,8 @@ CCTV-13新闻,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CCTVNew
 CCTV-14少儿,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctvseHD
 CCTV-15音乐,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv15HD
 CCTV-16奥运,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv16HD
-
 CCTV-17农村,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv17HD
+
 CCTV风云剧场,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=fyjcHD
 CCTV兵器科技,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=bqkjHD
 CCTV怀旧剧场,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=hjjcHD
@@ -98,20 +72,22 @@ CCTV-15音乐,http://zteres.sn.chinamobile.com:6060/000000001000/100000000500026
 CCTV-16奥运,http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 CCTV-17农村,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3
 
-
-
 CCTV-1综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV-1综合,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+CCTV-3综艺,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 CCTV-3综艺,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 CCTV-4国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
+CCTV-4国际,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
 CCTV-5体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
 CCTV-5体育,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
 CCTV-5+赛事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 CCTV-5+赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 CCTV-6电影,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+CCTV-6电影,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
 CCTV-7军事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
+CCTV-7军事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
 CCTV-8电视剧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
 CCTV-8电视剧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
 CCTV-8电视剧,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
@@ -134,16 +110,16 @@ CCTV-5体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index
 CCTV-5+赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
 CCTV-6电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 CCTV-7军事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV-8电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV-9纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-8电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+CCTV-9纪录,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV-10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV-11戏曲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
-CCTV-12社会,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV-12社会,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+CCTV-13新闻,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV-14少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 CCTV-15音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV-16奥运,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-CCTV-17农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV-17农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 CCTV世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
 CCTV兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
 CCTV央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
@@ -156,6 +132,40 @@ CCTV风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/i
 CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
 CCTV高尔夫网球,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1439464013_-1071136747/ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8?icpid=3&RTS=1674381554&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 CCTV高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
+
+CCTV-1综合,http://171.223.215.229:4000/udp/239.93.0.184:5140
+CCTV-2财经,http://202.103.213.192:8888/udp/239.81.0.115:4056
+CCTV-3综艺,http://171.223.215.229:4000/udp/239.93.1.11:2223
+CCTV-3综艺,http://202.103.213.192:8888/udp/239.81.0.231:4056
+CCTV-4国际,http://202.103.213.192:8888/udp/239.81.0.96:4056
+CCTV-5体育,http://171.223.215.229:4000/udp/239.93.1.12:2224
+CCTV-5体育,http://202.103.213.192:8888/udp/239.81.0.232:4056
+CCTV-5+赛事,http://202.103.213.192:8888/udp/239.81.0.101:4056
+CCTV-6电影,http://171.223.215.229:4000/udp/239.93.1.13:2226
+CCTV-6电影,http://202.103.213.192:8888/udp/239.81.0.233:4056
+CCTV-7军事,http://202.103.213.192:8888/udp/239.81.0.116:4056
+CCTV-8电视剧,http://171.223.215.229:4000/udp/239.93.42.39:5140
+CCTV-8电视剧,http://202.103.213.192:8888/udp/239.81.0.234:4056
+CCTV-9记录,http://202.103.213.192:8888/udp/239.81.0.117:4056
+CCTV-10科教,http://202.103.213.192:8888/udp/239.81.0.118:4056
+CCTV-11戏曲,http://202.103.213.192:8888/udp/239.81.0.229:4056
+CCTV-12法律,http://202.103.213.192:8888/udp/239.81.0.119:4056
+CCTV-13新闻,http://202.103.213.192:8888/udp/239.81.0.206:4056
+CCTV-14少儿,http://202.103.213.192:8888/udp/239.81.0.120:4056
+CCTV-15音乐,http://202.103.213.192:8888/udp/239.81.0.230:4056
+CCTV-16奥运,http://202.103.213.192:8888/udp/239.81.0.142:4056
+CCTV-17农业,http://202.103.213.192:8888/udp/239.81.0.228:4056
+CCTV央视台球,http://110.178.52.190:8085/udp/239.1.1.100:8100
+CCTV风云足球,http://110.178.52.190:8085/udp/239.1.1.101:8101
+CCTV高尔夫网球,http://110.178.52.190:8085/udp/239.1.1.102:8102
+CCTV女性时尚,http://110.178.52.190:8085/udp/239.1.1.89:8089
+CCTV风云音乐,http://110.178.52.190:8085/udp/239.1.1.96:8096
+CCTV风云剧场,http://110.178.52.190:8085/udp/239.1.1.93:8093
+CCTV第一剧场,http://110.178.52.190:8085/udp/239.1.1.94:8094
+CCTV怀旧剧场,http://110.178.52.190:8085/udp/239.1.1.95:8095
+CCTV兵器科技,http://110.178.52.190:8085/udp/239.1.1.97:8097
+CCTV世界地理,http://110.178.52.190:8085/udp/239.1.1.99:8099
+CCTV文化精品,http://110.178.52.190:8085/udp/239.1.1.91:8091
 
 CCTV-1综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
@@ -321,6 +331,71 @@ CCTV女性时尚,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 CCTV风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 CCTV电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 
+CCTV-1综合,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+CCTV-2财经,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+CCTV-3综艺,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+CCTV-4国际,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
+CCTV-5体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV-5+赛事,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+CCTV-6电影,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
+CCTV-7军事,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+CCTV-8电视剧,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+CCTV-9纪录,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV-10科教,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV-11戏曲,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+CCTV-12社会,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+CCTV-13新闻,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV-14少儿,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CCTV-15音乐,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+CCTV-16奥运,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV-17农村,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+CCTV世界地理,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
+CCTV兵器科技,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
+CCTV央视台球,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
+CCTV文化精品,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8
+CCTV怀旧剧场,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
+CCTV电视指南,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
+CCTV第一剧场,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8
+CCTV风云剧场,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
+CCTV风云足球,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
+CCTV风云音乐,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
+
+CCTV-1综合,http://222.223.119.21:8888/newlive/live/hls/2/live.m3u8
+CCTV-2财经,http://222.223.119.21:8888/newlive/live/hls/3/live.m3u8
+CCTV-3综艺,http://222.223.119.21:8888/newlive/live/hls/4/live.m3u8
+CCTV-4国际,http://222.223.119.21:8888/newlive/live/hls/5/live.m3u8
+CCTV-5体育,http://222.223.119.21:8888/newlive/live/hls/6/live.m3u8
+CCTV-5+赛事,http://222.223.119.21:8888/newlive/live/hls/7/live.m3u8
+CCTV-6电影,http://222.223.119.21:8888/newlive/live/hls/8/live.m3u8
+CCTV-7军事,http://222.223.119.21:8888/newlive/live/hls/9/live.m3u8
+CCTV-8电视剧,http://222.223.119.21:8888/newlive/live/hls/10/live.m3u8
+CCTV-9纪录,http://222.223.119.21:8888/newlive/live/hls/11/live.m3u8
+CCTV-10科教,http://222.223.119.21:8888/newlive/live/hls/12/live.m3u8
+CCTV-11戏曲,http://222.223.119.21:8888/newlive/live/hls/13/live.m3u8
+CCTV-12社会,http://222.223.119.21:8888/newlive/live/hls/14/live.m3u8
+CCTV-13新闻,http://222.223.119.21:8888/newlive/live/hls/15/live.m3u8
+CCTV-14少儿,http://222.223.119.21:8888/newlive/live/hls/16/live.m3u8
+CCTV-15音乐,http://222.223.119.21:8888/newlive/live/hls/17/live.m3u8
+
+CCTV-1综合,http://221.213.43.82:8888/newlive/live/hls/2/live.m3u8
+CCTV-2财经,http://221.213.43.82:8888/newlive/live/hls/3/live.m3u8
+CCTV-3综艺,http://221.213.43.82:8888/newlive/live/hls/4/live.m3u8
+CCTV-4国际,http://221.213.43.82:8888/newlive/live/hls/5/live.m3u8
+CCTV-5体育,http://221.213.43.82:8888/newlive/live/hls/6/live.m3u8
+CCTV-5+赛事,http://221.213.43.82:8888/newlive/live/hls/7/live.m3u8
+CCTV-6电影,http://221.213.43.82:8888/newlive/live/hls/8/live.m3u8
+CCTV-7军事,http://221.213.43.82:8888/newlive/live/hls/9/live.m3u8
+CCTV-8电视剧,http://221.213.43.82:8888/newlive/live/hls/10/live.m3u8
+CCTV-9纪录,http://221.213.43.82:8888/newlive/live/hls/11/live.m3u8
+CCTV-10科教,http://221.213.43.82:8888/newlive/live/hls/12/live.m3u8
+CCTV-11戏曲,http://221.213.43.82:8888/newlive/live/hls/13/live.m3u8
+CCTV-12社会,http://221.213.43.82:8888/newlive/live/hls/14/live.m3u8
+CCTV-13新闻,http://221.213.43.82:8888/newlive/live/hls/15/live.m3u8
+CCTV-14少儿,http://221.213.43.82:8888/newlive/live/hls/16/live.m3u8
+CCTV-15音乐,http://221.213.43.82:8888/newlive/live/hls/17/live.m3u8
+CCTV-16奥运,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV-17农村,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+
 
 CCTV世界地理,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/001/2012513303.m3u8
 CCTV央视台球,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/001/2012513703.m3u8
@@ -372,6 +447,14 @@ CCTV4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLT
 CCTV4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV4K超高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CCTV4K
+
+CCTV-16奥运4K,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CCTV16_4K
+CCTV-16奥运4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+CCTV-16奥运4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
+CCTV-16奥运4K,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=CCTV16_4K
+CCTV-16奥运4K,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+CCTV-16奥运4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
+CCTV-16奥运4K,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=CCTV16_4K
 
 江苏 8K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 苏州 4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
@@ -967,6 +1050,74 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 河北卫视,http://219.146.90.158:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://219.146.90.158:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 
+东方卫视,http://125.210.152.21:9121/live/hzgq-dftvgq-h264.m3u8
+江苏卫视,http://125.210.152.21:9121/live/hzgq-jswsgq-h264.m3u8
+浙江卫视,http://125.210.152.21:9121/live/hzgq-zjwsgq-h264.m3u8
+东南卫视,http://125.210.152.21:9121/live/hzgq-fjwsgq-h264.m3u8
+湖北卫视,http://125.210.152.21:9121/live/hzgq-hbwsgq-h264.m3u8
+四川卫视,http://125.210.152.21:9121/live/hszx-sctv-h264.m3u8
+天津卫视,http://125.210.152.21:9121/live/hzgq-tjwsgq-h264.m3u8
+深圳卫视,http://125.210.152.21:9121/live/hzgq-szwsgq-h264.m3u8
+安徽卫视,http://125.210.152.21:9121/live/hzgq-ahwsgq-h264.m3u8
+江西卫视,http://125.210.152.21:9121/live/hzgq-jxwsgq-h264.m3u8
+山东卫视,http://125.210.152.21:9121/live/hzgq-sdwsgq-h264.m3u8
+辽宁卫视,http://125.210.152.21:9121/live/hzgq-lnwsgq-h264.m3u8
+贵州卫视,http://125.210.152.21:9121/live/hszx-gztv-h264.m3u8
+黑龙江卫视,http://125.210.152.21:9121/live/hzgq-hljwsgq-h264.m3u8
+厦门卫视,http://36.62.111.102:10001/udp/238.1.78.246:7840
+重庆卫视,http://125.210.152.21:9121/live/hzgq-cqwsgq-h264.m3u8
+吉林卫视,http://125.210.152.21:9121/live/hzgq-jlwsgq-h264.m3u8
+云南卫视,http://125.210.152.21:9121/live/hzgq-ynwsgq-h264.m3u8
+海南卫视,http://125.210.152.21:9121/live/hszx-lytv-h264.m3u8
+山西卫视,http://125.210.152.21:9121/live/hszx-shanxitv-h264.m3u8
+甘肃卫视,http://125.210.152.21:9121/live/hszx-gstv-h264.m3u8
+河北卫视,http://125.210.152.21:9121/live/hzgq-hbwsgq1-h264.m3u8
+陕西卫视,http://125.210.152.21:9121/live/hszx-sxtv-h264.m3u8
+河南卫视,http://125.210.152.21:9121/live/hzgq-henanwsgq-h264.m3u8
+内蒙古卫视,http://125.210.152.21:9121/live/hszx-nmgtv-h264.m3u8
+广西卫视,http://125.210.152.21:9121/live/hszx-gxtv-h264.m3u8
+宁夏卫视,http://125.210.152.21:9121/live/hszx-nxtv-h264.m3u8
+西藏卫视,http://125.210.152.21:9121/live/hszx-xztv-h264.m3u8
+青海卫视,http://125.210.152.21:9121/live/hszx-qhtv-h264.m3u8
+兵团卫视,http://125.210.152.21:9121/live/hszx-bttv-h264.m3u8
+新疆卫视,http://125.210.152.21:9121/live/hszx-xjtv-h264.m3u8
+三沙卫视,http://125.210.152.21:9121/live/hzgq-ssws-h264.m3u8
+宁夏卫视,http://221.213.43.82:8888/newlive/live/hls/40/live.m3u8
+新疆卫视,http://221.213.43.82:8888/newlive/live/hls/38/live.m3u8
+甘肃卫视,http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8
+
+北京卫视,http://222.223.119.21:8888/newlive/live/hls/19/live.m3u8
+东方卫视,http://222.223.119.21:8888/newlive/live/hls/20/live.m3u8
+广东卫视,http://222.223.119.21:8888/newlive/live/hls/21/live.m3u8
+江苏卫视,http://222.223.119.21:8888/newlive/live/hls/22/live.m3u8
+湖南卫视,http://222.223.119.21:8888/newlive/live/hls/23/live.m3u8
+浙江卫视,http://222.223.119.21:8888/newlive/live/hls/24/live.m3u8
+安徽卫视,http://222.223.119.21:8888/newlive/live/hls/25/live.m3u8
+广西卫视,http://222.223.119.21:8888/newlive/live/hls/26/live.m3u8
+云南卫视,http://222.223.119.21:8888/newlive/live/hls/27/live.m3u8
+深证卫视,http://222.223.119.21:8888/newlive/live/hls/28/live.m3u8
+贵州卫视,http://222.223.119.21:8888/newlive/live/hls/29/live.m3u8
+山东卫视,http://222.223.119.21:8888/newlive/live/hls/30/live.m3u8
+重庆卫视,http://222.223.119.21:8888/newlive/live/hls/31/live.m3u8
+四川卫视,http://222.223.119.21:8888/newlive/live/hls/32/live.m3u8
+河南卫视,http://222.223.119.21:8888/newlive/live/hls/33/live.m3u8
+湖北卫视,http://222.223.119.21:8888/newlive/live/hls/34/live.m3u8
+吉林卫视,http://222.223.119.21:8888/newlive/live/hls/35/live.m3u8
+甘肃卫视,http://222.223.119.21:8888/newlive/live/hls/36/live.m3u8
+西藏卫视,http://222.223.119.21:8888/newlive/live/hls/37/live.m3u8
+新疆卫视,http://222.223.119.21:8888/newlive/live/hls/38/live.m3u8
+青海卫视,http://222.223.119.21:8888/newlive/live/hls/39/live.m3u8
+宁夏卫视,http://222.223.119.21:8888/newlive/live/hls/40/live.m3u8
+陕西卫视,http://222.223.119.21:8888/newlive/live/hls/41/live.m3u8
+东南卫视,http://222.223.119.21:8888/newlive/live/hls/42/live.m3u8
+天津卫视,http://222.223.119.21:8888/newlive/live/hls/43/live.m3u8
+辽宁卫视,http://222.223.119.21:8888/newlive/live/hls/44/live.m3u8
+黑龙江卫视,http://222.223.119.21:8888/newlive/live/hls/45/live.m3u8
+江西卫视,http://222.223.119.21:8888/newlive/live/hls/46/live.m3u8
+山西卫视,http://222.223.119.21:8888/newlive/live/hls/47/live.m3u8
+河北卫视,http://222.223.119.21:8888/newlive/live/hls/48/live.m3u8
+卡酷少儿,http://222.223.119.21:8888/newlive/live/hls/56/live.m3u8
+金鹰卡通,http://222.223.119.21:8888/newlive/live/hls/57/live.m3u8
 
 河北卫视,http://event.pull.hebtv.com/jishi/weishipindao.m3u8
 河南卫视,http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
@@ -1024,7 +1175,9 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb26]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+凤凰中文,http://39.134.18.196:80/wh7f454c46tw2172490011_-1360941031/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8?icpid=88888890&RTS=1707328982&from=20&ocs=2_111.20.45.169_80&hms_devid=8368&online=1707328982&vqe=3
 
+凤凰资讯,http://39.134.18.196:80/wh7f454c46tw2280983051_-1501544638/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8?icpid=88888890&RTS=1707329090&from=20&ocs=2_111.20.45.166_80&hms_devid=8368&online=1707329090&vqe=3
 凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
 凤凰中文,http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/phoenixch.m3u8
@@ -1786,6 +1939,392 @@ yy小品,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354931503
 yy小品2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382741642
 yy小品3,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936198
 经典小品,http://epg.112114.xyz/douyu/9067836
+
+无奇不有,#genre#
+
+蜱虫.隐秘的吸血鬼.被咬一口终身不能吃肉,https://vd4.bdstatic.com/mda-pmedi1x3tmq4xfr3/sc/cae_h264/1702715128038744266/mda-pmedi1x3tmq4xfr3.mp4?v_from_s=hkapp-haokan-hna&auth_key=1704451158-0-0-286185120aa8751368549b0c2630f4cf&bcevod_channel=searchbox_feed&cr=2&cd=0&pd=1&pt=3&logid=2358091795&vid=2293833754138066988&klogid=2358091795&abtest=
+咖啡的秘密,https://vd4.bdstatic.com/mda-pmc2nzudy1m1b7er/sc/cae_h264/1702444325326190338/mda-pmc2nzudy1m1b7er.mp4?v_from_s=bdapp-resbox-zan-hna
+从山海经到吕洞宾 道家PhD们到底在研究什么,https://vd4.bdstatic.com/mda-phib3aenqk178r7r/sc/cae_h264/1692631661600571587/mda-phib3aenqk178r7r.mp4?v_from_s=bdapp-feedserver-hna
+熊猫 真实存在的上古恐惧,https://vd2.bdstatic.com/mda-pem3n3i5jr18zqrh/sc/cae_h264/1684895093472499490/mda-pem3n3i5jr18zqrh.mp4?v_from_s=bdapp-landingpage-api-hna
+猴子真的能变成人吗,https://vd2.bdstatic.com/mda-pe727jbi8kau80h6/sc/cae_h264/1683727861806606662/mda-pe727jbi8kau80h6.mp4?v_from_s=bdapp-landingpage-api-hna
+2023年7月一个机器人竟然白了人类一眼,https://vd4.bdstatic.com/mda-phebt0jxfuwzw203/sc/cae_h264/1692256847156051179/mda-phebt0jxfuwzw203.mp4?v_from_s=bdapp-author-hna
+最离奇的鱼,https://vd3.bdstatic.com/mda-pma6jdq87a8wck8w/sc/cae_h264/1702272380899418024/mda-pma6jdq87a8wck8w.mp4?v_from_s=bdapp-bdappcore-feed-hnb
+用乐高理财,https://vd2.bdstatic.com/mda-pm824ma0p9em0exn/sc/cae_h264/1702117662456001901/mda-pm824ma0p9em0exn.mp4?v_from_s=bdapp-bdappcore-hna
+人与动物究竟是谁驯化了谁,https://vd4.bdstatic.com/mda-pm51s44js24j1p8q/sc/cae_h264/1701884374937277387/mda-pm51s44js24j1p8q.mp4?v_from_s=bdapp-landingpage-api-hna
+ChatGPT背后的故事 似乎有一个声音在说——不要模仿上帝,https://vd2.bdstatic.com/mda-pd23dgikeu8ivtrb/sc/cae_h264/1680495502641109547/mda-pd23dgikeu8ivtrb.mp4?v_from_s=bdapp-resbox-zan-hna
+1932年 一个英国小伙儿发现了灵魂的秘密,https://vd3.bdstatic.com/mda-pan7qrtp0qkfqw47/sc/cae_h264/1674453502270792428/mda-pan7qrtp0qkfqw47.mp4?v_from_s=bdapp-author-hnb
+120年前 这位少女开发了一款反垄断的游戏 销量堪比圣经,https://vd4.bdstatic.com/mda-paf2kat73uxjzh90/sc/cae_h264/1673864329825287021/mda-paf2kat73uxjzh90.mp4?v_from_s=bdapp-author-hnb
+一个疯子和一个民科 完成了一本要花1000年才能写的书,https://vd2.bdstatic.com/mda-pcsai4r6avcbst6v/sc/cae_h264/1679903367786129578/mda-pcsai4r6avcbst6v.mp4?v_from_s=bdapp-author-hnb
+鳌拜=all buy 为什么说他才是圣诞节的终极密码,https://vd2.bdstatic.com/mda-ph45q8qz48rd8d4e/sc/cae_h264/1691273815687821165/mda-ph45q8qz48rd8d4e.mp4?v_from_s=bdapp-author-hnb
+被篡改的道德经,https://vd2.bdstatic.com/mda-pm363ggc64yd757e/sc/cae_h264/1701721150434994188/mda-pm363ggc64yd757e.mp4?v_from_s=bdapp-feedserver-hna
+入侵物种=天降美食,https://vd3.bdstatic.com/mda-pm0bbdpyksa6jrrb/sc/cae_h264/1701588023921987945/mda-pm0bbdpyksa6jrrb.mp4?v_from_s=bdapp-landingpage-api-hna
+感染还是寄居-胃癌的元凶,https://vd4.bdstatic.com/mda-pku2fga14y3p4jkq/sc/cae_h264/1701358671420618445/mda-pku2fga14y3p4jkq.mp4?v_from_s=bdapp-resbox-zan-hna
+狮子睁眼瞎,https://vd2.bdstatic.com/mda-pks3e5iiqdwthfjx/sc/cae_h264/1701059878932856556/mda-pks3e5iiqdwthfjx.mp4?v_from_s=bdapp-feedserver-hnb
+ChatGPT竟拥有灵魂,https://vd4.bdstatic.com/mda-pkpdtybnhbpvsks8/sc/cae_h264/1700886431148775125/mda-pkpdtybnhbpvsks8.mp4?v_from_s=bdapp-resbox-hnb
+香烟如何一步步征服全球,https://vd4.bdstatic.com/mda-pkm34wq20fsrc304/sc/cae_h264/1700634029272250398/mda-pkm34wq20fsrc304.mp4?v_from_s=bdapp-resbox-hnb
+1995年济南郊村挖出离奇古墓村民或死或疯诅咒降临,https://vd4.bdstatic.com/mda-pkj6rfh7f1m9hiyn/sc/cae_h264/1700464157157230820/mda-pkj6rfh7f1m9hiyn.mp4?v_from_s=bdapp-landingpage-api-hna
+千里饿殍折叠时空科幻与历史重合,https://vd4.bdstatic.com/mda-pkgdb21iu2zwcqea/sc/cae_h264/1700302851274019152/mda-pkgdb21iu2zwcqea.mp4?v_from_s=bdapp-landingpage-api-hna
+震惊的第七类外星人接触事件,https://vd3.bdstatic.com/mda-pke3g211srn55b8j/720p/h264/1700016072175373728/mda-pke3g211srn55b8j.mp4?v_from_s=bdapp-feedserver-hna
+为什么买鲳鱼就像买彩票一样,https://vd4.bdstatic.com/mda-pkc38dyegdb4paxy/sc/cae_h264/1699871781818201304/mda-pkc38dyegdb4paxy.mp4?v_from_s=bdapp-landingpage-api-hna
+吃屎可以长高猪脑移植人脑原理竟然与炼金术有关,https://vd2.bdstatic.com/mda-pk9eiqbpx4iann1q/sc/cae_h264/1699829249660405348/mda-pk9eiqbpx4iann1q.mp4?v_from_s=bdapp-landingpage-api-hnb
+阿尔法狗成神之路人类是否真的一败涂地,https://vd3.bdstatic.com/mda-pk743ezjkumf1ymy/sc/cae_h264/1699426266194810057/mda-pk743ezjkumf1ymy.mp4?v_from_s=bdapp-author-hnb
+易经能否预知未来？挖出失传的易经还破解了秦始皇的秘密,https://vd2.bdstatic.com/mda-pk54njuq9buwm2qi/sc/cae_h264/1699247496889181747/mda-pk54njuq9buwm2qi.mp4?v_from_s=bdapp-feedserver-hna
+从活祭到烧纸钱在宗教与战争背后,https://vd2.bdstatic.com/mda-pk2e9900e5rx9b7k/sc/cae_h264/1699072245055687961/mda-pk2e9900e5rx9b7k.mp4?v_from_s=bdapp-feedserver-hna
+心盲 为什么2%的人不怕鬼这竟然还与特斯拉和乔布斯有关,https://vd2.bdstatic.com/mda-pk04vcsctbpb8hsj/sc/cae_h264/1698816310945270507/mda-pk04vcsctbpb8hsj.mp4?v_from_s=bdapp-landingpage-api-hnb
+哈尔滨出土一尊蒙面王妃她背后隐藏著一个惊悚的真相,https://vd4.bdstatic.com/mda-pjv68d3r4xbwxwdk/sc/cae_h264/1698651612546003045/mda-pjv68d3r4xbwxwdk.mp4?v_from_s=bdapp-bdappcore-feed-hnb
+金瓶梅竟是状元备考文章,https://vd2.bdstatic.com/mda-pjsee49pmhm5criz/sc/cae_h264/1698471454104226945/mda-pjsee49pmhm5criz.mp4?v_from_s=bdapp-author-hnb
+百余人沦陷绝境无人区最终走出了一代湘西王,https://vd4.bdstatic.com/mda-pjk2ki60xkieuaty/sc/cae_h264/1697910755449446550/mda-pjk2ki60xkieuaty.mp4?v_from_s=bdapp-feedserver-hnb
+人性泯灭因果报应却逃不过藏女的宿命湘西王留下了半生尘梦,https://vd2.bdstatic.com/mda-pjq36v7wjnqjaidy/sc/cae_h264/1698270265907094322/mda-pjq36v7wjnqjaidy.mp4?v_from_s=bdapp-resbox-hnb
+秦始皇除了出海寻仙也为自己布置了尸解成仙的法门,https://vd2.bdstatic.com/mda-pjn36d0qg43k547i/sc/cae_h264/1698043148620856941/mda-pjn36d0qg43k547i.mp4?v_from_s=bdapp-landingpage-api-hna
+大唐诗仙竟是最强赘婿,https://vd3.bdstatic.com/mda-pjh3w2wewhnh7h19/720p/h264/1697597376620934802/mda-pjh3w2wewhnh7h19.mp4?v_from_s=bdapp-author-hnb
+殖民星际四种结局科学家已从南岛人远征太平洋的故事中有所预见,https://vd4.bdstatic.com/mda-pjf4mpq01ny2huyg/sc/cae_h264/1697433379321455865/mda-pjf4mpq01ny2huyg.mp4?v_from_s=bdapp-feedserver-hnb
+耶稣在大唐也有故事,https://vd4.bdstatic.com/mda-pjdb1m22ebtjkytp/sc/cae_h264/1697313842331422399/mda-pjdb1m22ebtjkytp.mp4?v_from_s=bdapp-bdappcore-feed-hna
+在越南只要够出色就能成仙还坐拥千万信众膜拜,https://vd4.bdstatic.com/mda-pja3jp191qpn15s8/720p/h264/1696992475733250514/mda-pja3jp191qpn15s8.mp4?v_from_s=bdapp-author-hnb
+原来挖掘地层探索星空我们不过是时间和空间的双重囚徒,https://vd2.bdstatic.com/mda-pj84mzkfyqc1vdii/sc/cae_h264/1696872761745448760/mda-pj84mzkfyqc1vdii.mp4?v_from_s=bdapp-landingpage-api-hnb
+一年只放三天假迟到一天被砍头历史上的假期来之不易,https://vd3.bdstatic.com/mda-pj64ad7166dgdqkg/sc/cae_h264/1696654740031853845/mda-pj64ad7166dgdqkg.mp4?v_from_s=bdapp-landingpage-api-hnb
+300%死亡率的手术手术的发展史如此惊悚,https://vd4.bdstatic.com/mda-piubtb5dgbur6tsh/sc/cae_h264/1696394261754525918/mda-piubtb5dgbur6tsh.mp4?v_from_s=bdapp-resbox-hna
+1984年一个工程师破解了金字塔的原理那不是陵墓,https://vd4.bdstatic.com/mda-piugsa8uzv154v98/sc/cae_h264/1696220202808161415/mda-piugsa8uzv154v98.mp4?v_from_s=bdapp-resbox-hnb
+专业背锅父子盗墓夫妻采珠奇葩职业,https://vd2.bdstatic.com/mda-pisdapinzxugm6z0/sc/cae_h264/1695826082239749557/mda-pisdapinzxugm6z0.mp4?v_from_s=bdapp-author-hnb
+进化论为何被推上神坛,https://vd3.bdstatic.com/mda-piq4ns1ia6uyiqnj/sc/cae_h264/1695652660187669053/mda-piq4ns1ia6uyiqnj.mp4?v_from_s=bdapp-resbox-zan-hna
+70年前竟然有人用核燃料做了一款玩具,https://vd2.bdstatic.com/mda-pik4e3qqncipchdp/sc/cae_h264/1695276735689902834/mda-pik4e3qqncipchdp.mp4?v_from_s=bdapp-bdappcore-feed-hnb
+一个疯子割掉了自己的耳朵 死后变成了被全世界追捧的天才,https://vd4.bdstatic.com/mda-pih4zm3rzufq1fax/sc/cae_h264/1695056535752011446/mda-pih4zm3rzufq1fax.mp4?v_from_s=bdapp-landingpage-api-hnb
+不准洗澡禁止厕所历史上还有哪些国王们的奇葩爱好,https://vd3.bdstatic.com/mda-pic52c3xaivg5bhm/sc/cae_h264/1694712114708278250/mda-pic52c3xaivg5bhm.mp4?v_from_s=bdapp-author-hnb
+埃德加凯西号称最伟大预言家的男人,https://vd4.bdstatic.com/mda-pia2xgtgb1c567av/sc/cae_h264/1694457227930291920/mda-pia2xgtgb1c567av.mp4?v_from_s=bdapp-author-hnb
+九转大还丹保你三日之内飞升成仙,https://vd2.bdstatic.com/mda-pi5dznuvduzk6ha9/sc/cae_h264/1694111059128058768/mda-pi5dznuvduzk6ha9.mp4?v_from_s=bdapp-bdappcore-feed-hnb
+作家三毛一次次生离死别,https://vd4.bdstatic.com/mda-pi1dhbyt398px2uk/sc/cae_h264/1693826390074724240/mda-pi1dhbyt398px2uk.mp4?v_from_s=bdapp-author-hnb
+LK-99还有大戏它背后6个男人的相爱相杀,https://vd2.bdstatic.com/mda-phvbh2gwfrqt9p9k/sc/cae_h264/1693484413842887121/mda-phvbh2gwfrqt9p9k.mp4?v_from_s=bdapp-author-hnb
+钢刀如何成为了部落的圣物,https://vd2.bdstatic.com/mda-phpdgd78emd15d11/sc/cae_h264/1692934231445249965/mda-phpdgd78emd15d11.mp4?v_from_s=bdapp-landingpage-api-hnb
+本拉登奥巴马最喜欢的神秘武器,https://vd4.bdstatic.com/mda-phgbzabpy3jhjd8v/720p/h264/1692261055967156500/mda-phgbzabpy3jhjd8v.mp4?v_from_s=bdapp-resbox-zan-hna
+潜入地球上最幽深的地方 发现一个来自基因的恐惧,https://vd3.bdstatic.com/mda-phb8zqms4kjzxiw3/sc/cae_h264/1691995527399819295/mda-phb8zqms4kjzxiw3.mp4?v_from_s=bdapp-bdappcore-feed-hnb
+人类到底做过哪些重口味的事情,https://vd4.bdstatic.com/mda-ph9e62e0vw1cg3fi/sc/cae_h264/1691679356505616963/mda-ph9e62e0vw1cg3fi.mp4?v_from_s=bdapp-bdappcore-feed-hnb
+132年前 火山专家深入爪哇森林 他发现了无法解释的古代遗迹,https://vd2.bdstatic.com/mda-ph4awcg3mabtkt7a/sc/cae_h264/1691453925434251768/mda-ph4awcg3mabtkt7a.mp4?v_from_s=bdapp-author-hnb
+500年前的大明朝 竟然已经有十二星座圣斗士,https://vd2.bdstatic.com/mda-pgw3nyrtdfkxmpqb/sc/cae_h264/1692753849892727478/mda-pgw3nyrtdfkxmpqb.mp4?v_from_s=bdapp-bdappcore-feed-hna
+1972年3个小伙儿潜入甘蔗湾水墙 突然遭遇深海鲨鱼袭击,https://vd4.bdstatic.com/mda-pgmakj2s0vk9wask/sc/cae_h264/1690203902431912179/mda-pgmakj2s0vk9wask.mp4?v_from_s=bdapp-author-hnb
+藏地最诡异的女妖传说,https://vd4.bdstatic.com/mda-pgec5pr7gs6cp6dc/sc/cae_h264/1689678900929674457/mda-pgec5pr7gs6cp6dc.mp4?v_from_s=bdapp-author-hnb
+宇宙的黑暗真相 现实or虚幻,https://vd3.bdstatic.com/mda-pg79ydhnkffhjxme/sc/cae_h264/1688964222072957699/mda-pg79ydhnkffhjxme.mp4?v_from_s=bdapp-landingpage-api-hna
+喜马拉雅山的尽头 一座十分美艳的妖山 它被藏民预言为末日神山,https://vd3.bdstatic.com/mda-pg240icz0qh9tbqd/sc/cae_h264/1688403087847838526/mda-pg240icz0qh9tbqd.mp4?v_from_s=bdapp-resbox-zan-hna
+一种海洋里的未知力量 科学家本来根本不相信它的存在,https://vd4.bdstatic.com/mda-pfr4hh8ff0j8z2j4/sc/cae_h264/1687751506602867290/mda-pfr4hh8ff0j8z2j4.mp4?v_from_s=bdapp-landingpage-api-hna
+大自然竟然用最柔弱的方式 塑造出最凶悍的武器,https://vd4.bdstatic.com/mda-pfi4668hngwss8yx/sc/cae_h264/1687154026735091482/mda-pfi4668hngwss8yx.mp4?v_from_s=bdapp-author-hna
+继承八戒遗志的人 那年62岁 却选择像八戒一样走进大漠和雪山,https://vd2.bdstatic.com/mda-pfb4uwpzvu6ah2bh/sc/cae_h264/1686546869427069968/mda-pfb4uwpzvu6ah2bh.mp4?v_from_s=bdapp-feedserver-hnb
+小燕子往南飞 一个被忽略的神奇故事,https://vd3.bdstatic.com/mda-pf43u94u976hccdu/sc/cae_h264/1685955048755125923/mda-pf43u94u976hccdu.mp4?v_from_s=bdapp-landingpage-api-hna
+传说达芬奇是第一个破解圣杯秘密的人 但他只敢在画中留下密码,https://vd2.bdstatic.com/mda-peu46axbenpp7xh4/sc/cae_h264/1685576266335810529/mda-peu46axbenpp7xh4.mp4?v_from_s=bdapp-resbox-zan-hna
+达芬奇 一颗穿越而来的火种 他一生究竟有哪些不为人知的故事,https://vd2.bdstatic.com/mda-pee2vpp4wi9fh4p8/sc/cae_h264/1684211232160748629/mda-pee2vpp4wi9fh4p8.mp4?v_from_s=bdapp-landingpage-api-hna
+秦始皇陵又挖出了什么秘密 2023年4月挖掘成果公布,https://vd3.bdstatic.com/mda-pdt8i9zir2ay7ir5/sc/cae_h264/1683011232014405884/mda-pdt8i9zir2ay7ir5.mp4?v_from_s=bdapp-author-hnb
+巫医驱魔竟真实存在,https://vd2.bdstatic.com/mda-pdn4rck5bh256wvh/sc/cae_h264/1682310984456967461/mda-pdn4rck5bh256wvh.mp4?v_from_s=bdapp-author-hnb
+透视1650层 发现达芬奇留在《蒙娜丽莎》中的幽灵,https://vd4.bdstatic.com/mda-pdg3qw6gpqudgyxs/sc/cae_h264/1681707054849457889/mda-pdg3qw6gpqudgyxs.mp4?v_from_s=bdapp-resbox-zan-hna
+《戴珍珠耳环的少女》差点被当假画扔掉,https://vd2.bdstatic.com/mda-pd92pjznn20kt4ds/sc/cae_h264/1681100324376933912/mda-pd92pjznn20kt4ds.mp4?v_from_s=bdapp-landingpage-api-hna
+78年前这位博士把炼狱带到人间,https://vd4.bdstatic.com/mda-pcj46vmdybvvunie/sc/cae_h264/1679285190137065798/mda-pcj46vmdybvvunie.mp4?v_from_s=bdapp-author-hnb
+鸠摩罗什 是他让佛的智慧在我们文化中扎根 只是一个翻译家吗,https://vd4.bdstatic.com/mda-pcc45ct6emvgercd/sc/cae_h264/1678682790115079842/mda-pcc45ct6emvgercd.mp4?v_from_s=bdapp-author-hnb
+牛顿的上帝密码,https://vd2.bdstatic.com/mda-pdq5su5kznjt3axf/720p/h264/1682395514695391957/mda-pdq5su5kznjt3axf.mp4?v_from_s=bdapp-unicomment-hna
+泰坦尼克的恐怖真相,https://vd4.bdstatic.com/mda-pc535viwh14r4p9p/sc/cae_h264/1678076039056481366/mda-pc535viwh14r4p9p.mp4?v_from_s=bdapp-resbox-zan-hna
+鸭子的真相，也许超乎你的想象,https://vd2.bdstatic.com/mda-pbs3unv7iupipnb8/sc/cae_h264/1677472101533572235/mda-pbs3unv7iupipnb8.mp4?v_from_s=bdapp-author-hnb
+1967年 这个小伙儿悍然起诉美国政府 3年后政府败诉,https://vd3.bdstatic.com/mda-pbj5v0zjhaj5nqyv/sc/cae_h264/1676869243700296889/mda-pbj5v0zjhaj5nqyv.mp4?v_from_s=bdapp-author-hnb
+味精 你为什么恐惧它 也许 这背后还有一个你值得知道的故事,https://vd4.bdstatic.com/mda-pbc5y7g4tcjrsqmw/sc/cae_h264/1676262601277527559/mda-pbc5y7g4tcjrsqmw.mp4?v_from_s=bdapp-author-hnb
+1666年 英国小伙破译了上帝的语言 然后炼金术士们消失了,https://vd3.bdstatic.com/mda-nmb5kes3x6d1zbhm/sc/cae_h264/1670818727571863932/mda-nmb5kes3x6d1zbhm.mp4?v_from_s=bdapp-author-hna
+400年前 17名修女被恶魔附身 案件轰动欧洲 驱魔师轮番上阵,https://vd2.bdstatic.com/mda-pb53gue05m267v7a/sc/cae_h264/1675657132715788972/mda-pb53gue05m267v7a.mp4?v_from_s=bdapp-resbox-zan-hna
+2005年 欧洲发现活着的金字塔竟与特斯拉的预言吻合,https://vd2.bdstatic.com/mda-pav4vegmqyj604mb/sc/cae_h264/1675052430096963209/mda-pav4vegmqyj604mb.mp4?v_from_s=bdapp-author-hnb
+少年派的真相 11年前的经典故事 最近又有人解读出了终极的答案,https://vd3.bdstatic.com/mda-pa84nfvi3bbg91mn/sc/cae_h264/1673247453339879175/mda-pa84nfvi3bbg91mn.mp4?v_from_s=bdapp-author-hnb
+他有一种古老的球技 64年前他打破了偏见却让自己陷入风波,https://vd2.bdstatic.com/mda-pa109c4kem280yh8/sc/cae_h264/1672725860764579758/mda-pa109c4kem280yh8.mp4?v_from_s=bdapp-author-hnb
+1965年太平洋上发生一起荒岛大逃杀事件,https://vd4.bdstatic.com/mda-nmr5gg9mm9p0jv39/sc/cae_h264/1672030424465189444/mda-nmr5gg9mm9p0jv39.mp4?v_from_s=bdapp-author-hna
+山就在那里这句名言的背后 也许还有一个你不知道的献祭故事,https://vd4.bdstatic.com/mda-nm42depvacha44jn/sc/cae_h264/1670213830542572218/mda-nm42depvacha44jn.mp4?v_from_s=bdapp-author-hna
+这个男人发现了一个的化学阴谋 死磕50年帮你我赢下化学之战,https://vd3.bdstatic.com/mda-nkk38cfw698erdx9/sc/cae_h264/1669014456738295947/mda-nkk38cfw698erdx9.mp4?v_from_s=bdapp-author-hna
+130年前 一个天才少年来到纽约 他撕毁300亿美元 只为点亮世界,https://vd2.bdstatic.com/mda-nk62w8cj6ysp5r4q/sc/cae_h264/1667794768611417183/mda-nk62w8cj6ysp5r4q.mp4?v_from_s=bdapp-bdappcore-hna
+费米悖论 为什么我们找不到外星人 乌鸦竟然可以解释这个问题,https://vd2.bdstatic.com/mda-njw6iu15gnm9kg5j/sc/cae_h264/1667192756473444518/mda-njw6iu15gnm9kg5j.mp4?v_from_s=bdapp-resbox-zan-hnb
+一群人闯入蒙古妖山 遭遇山难 27年后幸存者才讲出当年的细节,https://vd4.bdstatic.com/mda-njp5wcphn0nvysaw/sc/cae_h264/1666594698458248853/mda-njp5wcphn0nvysaw.mp4?v_from_s=bdapp-author-hna
+从2亿年不进化的王者 到比黄金还贵的食物,https://vd2.bdstatic.com/mda-nj8evea5ju489q3s/sc/cae_h264/1665383599828868881/mda-nj8evea5ju489q3s.mp4?v_from_s=bdapp-author-hna
+哥斯拉的传说 它的由来位于太平洋的小岛上 这里即将被淹没,https://vd3.bdstatic.com/mda-nj23tkrb0hdwz2x9/720p/h264/1664765325768944513/mda-nj23tkrb0hdwz2x9.mp4?v_from_s=bdapp-author-hna
+20年前 教授深入复活节岛 破解石像谜团 竟发现地球监狱的真相,https://vd2.bdstatic.com/mda-nir385ppuq4xist8/sc/cae_h264/1664165327544424752/mda-nir385ppuq4xist8.mp4?v_from_s=bdapp-bdappcore-hnb
+非洲发现三万年前的人类壁画 竟是仍然存活的地球第一批人类所为,https://vd4.bdstatic.com/mda-nii4udf4wjmuv4wb/sc/cae_h264/1663569376666242210/mda-nii4udf4wjmuv4wb.mp4?v_from_s=bdapp-author-hna
+层层剖析多重人格的悬案 原来真正的意识主宰隐藏在更深的地方,https://vd4.bdstatic.com/mda-nib2d747qqvbgqs4/sc/cae_h264/1662971087190549098/mda-nib2d747qqvbgqs4.mp4?v_from_s=bdapp-author-hna
+成都挖出扁鹊墓 失传千年的扁鹊医书重见天日,https://vd3.bdstatic.com/mda-ni45a4h9tuuw66zd/sc/cae_h264/1662350576023887438/mda-ni45a4h9tuuw66zd.mp4?v_from_s=bdapp-author-hna
+龟蛇大战是摆拍 破解乌龟的谜团,https://vd3.bdstatic.com/mda-nhu4g2h4igv1viyx/sc/cae_h264/1661746546996500906/mda-nhu4g2h4igv1viyx.mp4?v_from_s=bdapp-resbox-zan-hnb
+达芬奇手稿中的飞桥 穿越到400年前 竟中出现清明上河图中,https://vd3.bdstatic.com/mda-nhm3nkj5pq1db9g5/sc/cae_h264/1661174437525852896/mda-nhm3nkj5pq1db9g5.mp4?v_from_s=bdapp-author-hna
+北极32℃ 中东暴雨地球怎么了 原来山海经的传说一直存在,https://vd3.bdstatic.com/mda-nhe4jmu3kvij4uuk/sc/cae_h264/1660536161613180672/mda-nhe4jmu3kvij4uuk.mp4?v_from_s=bdapp-author-hna
+美洲发现甲骨文 河南挖出白令海蓝鲸 原来商朝的真相远不止如此,https://vd4.bdstatic.com/mda-nh74n095v8vw32fw/sc/cae_h264/1659931842745308297/mda-nh74n095v8vw32fw.mp4?v_from_s=bdapp-feedserver-hnb
+国际卫生条例因它而生 面对病菌 该如何压制它们的软肋,https://vd4.bdstatic.com/mda-nh058emhs44isffv/sc/cae_h264/1659366275282049442/mda-nh058emhs44isffv.mp4?v_from_s=bdapp-feedserver-hnb
+潜入海底深渊 去发现一个来自基因深处的秘密,https://vd2.bdstatic.com/mda-ngq5dyswyi387jhc/sc/cae_h264/1658725412039874178/mda-ngq5dyswyi387jhc.mp4?v_from_s=bdapp-author-hna
+鉴真 本中一带而过的和尚 他到底是一个什么样的人,https://vd2.bdstatic.com/mda-ngg3m50inpe8bmi9/sc/cae_h264/1658030814606809547/mda-ngg3m50inpe8bmi9.mp4?v_from_s=bdapp-author-hna
+2300米下发现未知鱿鱼 慢慢破解悬案 发现了南极深海巨物的秘密,https://vd4.bdstatic.com/mda-ng91f4rznawzf8fe/sc/cae_h264/1657448052436847998/mda-ng91f4rznawzf8fe.mp4?v_from_s=bdapp-author-hna
+无害的石斑鱼在海洋里有多生猛,https://vd4.bdstatic.com/mda-ng23ezhtm8if6e8h/sc/cae_h264/1656820355503503092/mda-ng23ezhtm8if6e8h.mp4?v_from_s=bdapp-author-hna
+失落的道家黑科技 来自7000年前的仿生学 今天的技术无法复制,https://vd4.bdstatic.com/mda-nfr5i44e6gbu3qm2/sc/cae_h264/1656216795236248569/mda-nfr5i44e6gbu3qm2.mp4?v_from_s=bdapp-author-hna
+出现在西安的1300岁的麦田怪圈 竟隐藏着有关帝国命运的风水密码,https://vd3.bdstatic.com/mda-nfi4j1bxrfszm8eh/sc/cae_h264/1655610025601736583/mda-nfi4j1bxrfszm8eh.mp4?v_from_s=bdapp-resbox-zan-hna
+40年前 嵩山上发现武则天的日记 女皇晚年承认了自己一生的原罪,https://vd2.bdstatic.com/mda-nfb4qx7r9xk4mrau/sc/cae_h264/1679646053825406088/mda-nfb4qx7r9xk4mrau.mp4?v_from_s=bdapp-author-hnb
+考古队意外闯入古堡 一个延续700年的神秘家族终于浮现,https://vd4.bdstatic.com/mda-njp5wcphn0nvysaw/sc/cae_h264/1666594698458248853/mda-njp5wcphn0nvysaw.mp4?v_from_s=bdapp-author-hna
+吃大闸蟹会上瘾？真假螃蟹 为什么帝王是虫子而不是螃蟹,https://vd2.bdstatic.com/mda-neu45469d6fypm9m/sc/cae_h264/1653799300662987095/mda-neu45469d6fypm9m.mp4?v_from_s=bdapp-author-hnb
+真实的唐僧到底有多强悍 一切真实的故事 从一场考古发现说起,https://vd2.bdstatic.com/mda-nem3wnbr2ue1qt8s/sc/cae_h264/1653794334352208784/mda-nem3wnbr2ue1qt8s.mp4?v_from_s=bdapp-author-hnb
+从小龙虾到大花龙 我们吃的到底是什么生物,https://vd2.bdstatic.com/mda-nee1vtwha78m1v4f/sc/cae_h264/1652587851642005122/mda-nee1vtwha78m1v4f.mp4?v_from_s=bdapp-author-hnb
+秦始皇的真面目,https://vd2.bdstatic.com/mda-ne74r1q1zipasjvj/sc/cae_h264/1651984351126403194/mda-ne74r1q1zipasjvj.mp4?v_from_s=bdapp-author-hnb
+鲤鱼的秘密,https://vd3.bdstatic.com/mda-ne049afuraqgha9c/sc/cae_h264_delogo/1651382698941463439/mda-ne049afuraqgha9c.mp4?v_from_s=bdapp-author-hnb
+史前避难所,https://vd2.bdstatic.com/mda-ndrb3kz44gkrf1j0/sc/cae_h264_delogo/1650970678782076074/mda-ndrb3kz44gkrf1j0.mp4?v_from_s=bdapp-author-hnb
+会飞的中国人,https://vd4.bdstatic.com/mda-ndg5vwqjzp6gwycp/sc/cae_h264_delogo/1650169608534670199/mda-ndg5vwqjzp6gwycp.mp4?v_from_s=bdapp-author-hnb
+七星封印棺 出现时空错位的遗物 线索却牵连出西方人,https://vd2.bdstatic.com/mda-nd95mp5dtqifstx8/sc/cae_h264_delogo/1649564670170849052/mda-nd95mp5dtqifstx8.mp4?v_from_s=bdapp-author-hnb
+吸血鬼的真相,https://vd4.bdstatic.com/mda-nd1cx99f10e6v7a3/sc/cae_h264_delogo/1648960561137604105/mda-nd1cx99f10e6v7a3.mp4?v_from_s=bdapp-author-hnb
+喜马拉雅密道,https://vd4.bdstatic.com/mda-ncr4uzt4yskv5htq/sc/cae_h264_delogo/1648353722169413260/mda-ncr4uzt4yskv5htq.mp4?v_from_s=bdapp-resbox-zan-hna
+超级血液 器官再生 百毒不侵 这就是人们认为它是仙兽真正原因,https://vd4.bdstatic.com/mda-nck5xp3i5adduw78/sc/cae_h264_delogo/1647840268787437295/mda-nck5xp3i5adduw78.mp4?v_from_s=bdapp-author-hnb
+镇魔塔的真相,https://vd3.bdstatic.com/mda-ncd53edp9w459gs6/sc/cae_h264_delogo/1647231788295184554/mda-ncd53edp9w459gs6.mp4?v_from_s=bdapp-author-hnb
+千年镇水兽 都江堰背后隐藏着一个被删除的上古故事,https://vd2.bdstatic.com/mda-nc65d7wvwac7zhkt/sc/cae_h264_delogo/1646626090282993281/mda-nc65d7wvwac7zhkt.mp4?v_from_s=bdapp-author-hnb
+越王剑的秘密,https://vd2.bdstatic.com/mda-nbk4yr94z152x293/sc/cae_h264_nowatermark_delogo/1645416770059590491/mda-nbk4yr94z152x293.mp4?v_from_s=bdapp-author-hnb
+改变世界的鳕鱼,https://vd2.bdstatic.com/mda-nbe9i0vh4i2mnvt2/sc/cae_h264_nowatermark_delogo/1644909110729556273/mda-nbe9i0vh4i2mnvt2.mp4?v_from_s=bdapp-author-hnb
+秦始皇的武器,https://vd3.bdstatic.com/mda-nb5id1srmss2ieu5/sc/cae_h264_nowatermark_delogo/1644207707731590392/mda-nb5id1srmss2ieu5.mp4?v_from_s=bdapp-author-hnb
+鲍鱼的秘密,https://vd4.bdstatic.com/mda-navmq2z78s4gzbg4/sc/cae_h264_nowatermark_delogo/1643601734986121163/mda-navmq2z78s4gzbg4.mp4?v_from_s=bdapp-resbox-zan-hnb
+大鹅的真实面貌超出你想象,https://vd2.bdstatic.com/mda-nag5rn25kdy93f2g/sc/cae_h264_nowatermark_delogo/1642393382327434603/mda-nag5rn25kdy93f2g.mp4?v_from_s=bdapp-author-hnb
+不可思议的黑科技,https://vd4.bdstatic.com/mda-nap4u8qg2aasqgm6/sc/cae_h264_nowatermark_delogo/1642997717977814749/mda-nap4u8qg2aasqgm6.mp4?v_from_s=bdapp-resbox-zan-hnb
+秦始皇陵真相,https://vd3.bdstatic.com/mda-na9652meqnadutn3/sc/cae_h264_nowatermark_delogo/1642090537873097971/mda-na9652meqnadutn3.mp4?v_from_s=bdapp-author-hnb
+入侵海外的魔王 竟是云南人的宠物 三针蛰死牛 却被大量养殖,https://vd4.bdstatic.com/mda-na35syffmb40bvsv/sc/cae_h264/1680118046061291980/mda-na35syffmb40bvsv.mp4?v_from_s=bdapp-author-hnb
+从4毛一斤到价比黄金,https://vd3.bdstatic.com/mda-mms3sq00a31bkqnb/sc/cae_h264_delogo/1643399256298270996/mda-mms3sq00a31bkqnb.mp4?v_from_s=bdapp-author-hnb
+为什么中年会发福 糖尿病越来越高发 也许是你祖先留下的咒语,https://vd2.bdstatic.com/mda-mmj5pc8jt3mej3bj/sc/cae_h264_nowatermark/1640002780973121675/mda-mmj5pc8jt3mej3bj.mp4?v_from_s=bdapp-author-hnb
+婴儿实验 华生与小艾伯特的悲剧,https://vd4.bdstatic.com/mda-pmd8zacy8d2s7muw/720p/h264/1702534838492949923/mda-pmd8zacy8d2s7muw.mp4?v_from_s=bdapp-landingpage-api-hna
+发现免疫的秘密 原来寄生虫使用三角诅咒控制人类,https://vd4.bdstatic.com/mda-mmc6zaf3z6568yw1/sc/cae_h264_nowatermark/1639639335220937015/mda-mmc6zaf3z6568yw1.mp4?v_from_s=bdapp-author-hna
+真假三文鱼,https://vd2.bdstatic.com/mda-mm55ax1ztx7dpccy/sc/cae_h264_nowatermark/1638763870401741508/mda-mm55ax1ztx7dpccy.mp4?v_from_s=bdapp-author-hna
+曜变天目碗 装着整碗宇宙,https://vd4.bdstatic.com/mda-njg43umruimi9b2a/sc/cae_h264/1665982425315594000/mda-njg43umruimi9b2a.mp4?v_from_s=bdapp-author-hna
+被誉为第五大发明的中国帆,https://vd4.bdstatic.com/mda-nkd4n65nz4fa1zwy/sc/cae_h264/1668398675486175703/mda-nkd4n65nz4fa1zwy.mp4?v_from_s=bdapp-author-hna
+中国末代皇后,https://vd3.bdstatic.com/mda-nmi2rebetpa7rx0j/sc/cae_h264/1671424472946026065/mda-nmi2rebetpa7rx0j.mp4?v_from_s=bdapp-author-hna
+三项新计划 自说自话的总裁,https://vd3.bdstatic.com/mda-pa3d6fy8uirmv204/720p/h264/1672823963430533994/mda-pa3d6fy8uirmv204.mp4?v_from_s=bdapp-author-hnb
+
+最诡异的气体.隐藏在我们每个人体内让地球变成紫色,https://vd3.bdstatic.com/mda-pmh368d86nu9wqzk/wzdash/bd264/1702907321603378999/mda-pmh368d86nu9wqzk/dash-sc.mp4?cr=1&cd=1&abtest=&logid=0466493215&pd=1&pt=3&vid=217780460936061040
+AI七宗罪.人工智能三大定律竟有致命漏洞,https://vd3.bdstatic.com/mda-qa24427jznhs9ep1/wzdash/bd264/1704271706142650151/mda-qa24427jznhs9ep1/dash-sc.mp4?cr=1&cd=1&abtest=&logid=3439144129&pd=1&pt=3&vid=17670337982169203629
+为什么说猫能看到子弹时间,https://vd3.bdstatic.com/mda-pmuafahuta65t7kp/haokan_t/dash/1704100665635930072/mda-pmuafahuta65t7kp-2.mp4?cr=1&cd=1&abtest=&logid=0214553165&pd=1&pt=3&vid=7359454693523538634
+人类学家深入非洲部落竟为啤酒折服,https://vd3.bdstatic.com/mda-pmj36vevi7y9wdaq/haokan_t/dash/1703064277605376003/mda-pmj36vevi7y9wdaq-2.mp4?cr=1&cd=1&abtest=&logid=0552756458&pd=1&pt=3&vid=18251812286794829726
+镜像神经元.难道真的是心灵扬升的阶梯,https://vd3.bdstatic.com/mda-pmu4f47p5qds9gjm/wzdash/bd264/1703926096907462094/mda-pmu4f47p5qds9gjm/dash-sc.mp4?cr=1&cd=1&abtest=&logid=0640039060&pd=1&pt=3&vid=14378213100650277019
+爱真的只是激素吗.当灵魂超脱肉体人类又能否逃离天罚,https://vd3.bdstatic.com/mda-pmmc13a0d7a61e3p/wzdash/bd264/1703317734318724060/mda-pmmc13a0d7a61e3p/dash-sc.mp4?cr=1&cd=1&abtest=&logid=0822969545&pd=1&pt=3&vid=12296698270595153357
+人类永远无法战胜的初代魔王,https://vd3.bdstatic.com/mda-pms2r66z1r4zb0uz/wzdash/bd264/1703677742817233974/mda-pms2r66z1r4zb0uz/dash-sc.mp4?cr=1&cd=1&abtest=&logid=0694707666&pd=1&pt=3&vid=16921080726777024397
+从苏美到波斯.最后的阿努纳奇,https://vd3.bdstatic.com/mda-pmq3t061x660vczz/wzdash/bd264/1703494150019374666/mda-pmq3t061x660vczz/dash-sc.mp4?cr=1&cd=1&abtest=&logid=0747062273&pd=1&pt=3&vid=8328585407203761469
+
+新自说01,https://vd4.bdstatic.com/mda-pdg3qw6gpqudgyxs/sc/cae_h264/1681707054849457889/mda-pdg3qw6gpqudgyxs.mp4?v_from_s=hkapp-haokan-hna&auth_key=1681973683-0-0-1e44e6d342f0f124e76755979b0cee13&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1482963109&vid=17042604252896865625&abtest=109159_2-109432_1&klogid=1482963109
+新自说02,https://vd2.bdstatic.com/mda-pd92pjznn20kt4ds/sc/cae_h264/1681100324376933912/mda-pd92pjznn20kt4ds.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681973721-0-0-7f1c652dfd888af46d3b09f0dd1c11a0&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1521046439&vid=10538665691469106150&abtest=109159_2-109432_1&klogid=1521046439
+新自说03,https://vd2.bdstatic.com/mda-pd23dgikeu8ivtrb/sc/cae_h264/1680495502641109547/mda-pd23dgikeu8ivtrb.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681973764-0-0-97e504a1d9119399d476befb134db645&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1564432401&vid=7817594092261070030&abtest=109159_2-109432_1&klogid=1564432401
+新自说04,https://vd2.bdstatic.com/mda-pcsai4r6avcbst6v/sc/cae_h264/1679903367786129578/mda-pcsai4r6avcbst6v.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681973830-0-0-af61edd1a83510d1f33c1bd4f2399bc8&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1630523597&vid=6611253814682418386&abtest=109159_2-109432_1&klogid=1630523597
+新自说05,https://vd4.bdstatic.com/mda-pcj46vmdybvvunie/sc/cae_h264/1679285190137065798/mda-pcj46vmdybvvunie.mp4?v_from_s=hkapp-haokan-hna&auth_key=1681973858-0-0-ad9063b4483176d4e8ce87318dfb340b&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1658765402&vid=15578322996510432942&abtest=109159_2-109432_1&klogid=1658765402
+新自说06,https://vd4.bdstatic.com/mda-pcc45ct6emvgercd/sc/cae_h264/1678682790115079842/mda-pcc45ct6emvgercd.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681973891-0-0-a8d54a9484578f0e07cb63d611196873&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1690801967&vid=8780633955103144668&abtest=109159_2-109432_1&klogid=1690801967
+新自说07,https://vd4.bdstatic.com/mda-pc535viwh14r4p9p/sc/cae_h264/1678076039056481366/mda-pc535viwh14r4p9p.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681973927-0-0-3d50a836e112aeeaf3c1fcd418b5938c&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1727899883&vid=11769502336393389658&abtest=109159_2-109432_1&klogid=1727899883
+新自说08,https://vd2.bdstatic.com/mda-pbs3unv7iupipnb8/sc/cae_h264/1677472101533572235/mda-pbs3unv7iupipnb8.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681973954-0-0-4968fc6c496532053b7453b9ce3bb7c9&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1754164168&vid=2782884529330091840&abtest=109159_2-109432_1&klogid=1754164168
+新自说09,https://vd3.bdstatic.com/mda-pbj5v0zjhaj5nqyv/sc/cae_h264/1676869243700296889/mda-pbj5v0zjhaj5nqyv.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681974010-0-0-527a08d56f8835cdf31349316af5547d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1809987749&vid=13914247293509377137&abtest=109159_2-109432_1&klogid=1809987749
+新自说10,https://vd4.bdstatic.com/mda-pbc5y7g4tcjrsqmw/sc/cae_h264/1676262601277527559/mda-pbc5y7g4tcjrsqmw.mp4?v_from_s=hkapp-haokan-hna&auth_key=1681974030-0-0-db89b1512acf3869699c320ebe6cc00d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1830496188&vid=16532207713096526492&abtest=109159_2-109432_1&klogid=1830496188
+新自说11,https://vd2.bdstatic.com/mda-pb53gue05m267v7a/sc/cae_h264/1675657132715788972/mda-pb53gue05m267v7a.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681974063-0-0-e063b362f951c990441c938f5029e8f6&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1863155051&vid=10559831749953664960&abtest=109159_2-109432_1&klogid=1863155051
+新自说12,https://vd2.bdstatic.com/mda-pav4vegmqyj604mb/sc/cae_h264/1675052430096963209/mda-pav4vegmqyj604mb.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681974094-0-0-71efe2ba42627e287f0ca41b5089d574&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1894809345&vid=9117148723354775776&abtest=109159_2-109432_1&klogid=1894809345
+新自说13,https://vd3.bdstatic.com/mda-pan7qrtp0qkfqw47/sc/cae_h264/1674453502270792428/mda-pan7qrtp0qkfqw47.mp4?v_from_s=hkapp-haokan-hna&auth_key=1681974125-0-0-94da04d2904329a41caa36afa635a49b&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1925213779&vid=8487580833214426177&abtest=109159_2-109432_1&klogid=1925213779
+新自说14,https://vd4.bdstatic.com/mda-paf2kat73uxjzh90/sc/cae_h264/1673864329825287021/mda-paf2kat73uxjzh90.mp4?v_from_s=hkapp-haokan-hna&auth_key=1681974160-0-0-af5acfb479b43cfb0adc74545dd8cc84&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1960555483&vid=17298578519183490715&abtest=109159_2-109432_1&klogid=1960555483
+新自说15,https://vd3.bdstatic.com/mda-pa84nfvi3bbg91mn/sc/cae_h264/1673247453339879175/mda-pa84nfvi3bbg91mn.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681974220-0-0-caa8b365ac3cb6bc3ce03716f2b2d30e&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2019888176&vid=390054137072561691&abtest=109159_2-109432_1&klogid=2019888176
+新自说16,https://vd2.bdstatic.com/mda-pa109c4kem280yh8/sc/cae_h264/1672725860764579758/mda-pa109c4kem280yh8.mp4?v_from_s=hkapp-haokan-hna&auth_key=1681974265-0-0-cd6987e405ee6e4321c4e7489e9fb278&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2065700823&vid=10758397567358076746&abtest=109159_2-109432_1&klogid=2065700823
+新自说17,https://vd4.bdstatic.com/mda-nmr5gg9mm9p0jv39/sc/cae_h264/1672030424465189444/mda-nmr5gg9mm9p0jv39.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681974327-0-0-e81e7cf0ed8e2eae99bab312f561346d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2127308403&vid=17888248882922826518&abtest=109159_2-109432_1&klogid=2127308403
+新自说18,https://vd3.bdstatic.com/mda-nmi2rebetpa7rx0j/sc/cae_h264/1671424472946026065/mda-nmi2rebetpa7rx0j.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681974349-0-0-a8e67992bbb686c417e6f55789b3e9d1&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2148954550&vid=8109788975201701384&abtest=109159_2-109432_1&klogid=2148954550
+新自说19,https://vd3.bdstatic.com/mda-nmb5kes3x6d1zbhm/sc/cae_h264/1670818727571863932/mda-nmb5kes3x6d1zbhm.mp4?v_from_s=hkapp-haokan-hna&auth_key=1681974374-0-0-29b9b50dfe567a663fe05c3bae95cad5&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2174750325&vid=4884473731863313874&abtest=109159_2-109432_1&klogid=2174750325
+新自说20,https://vd4.bdstatic.com/mda-nm42depvacha44jn/sc/cae_h264/1670213830542572218/mda-nm42depvacha44jn.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681974432-0-0-2f4fabad879c57f57ceb989405b04882&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2231877576&vid=4023839588443877228&abtest=109159_2-109432_1&klogid=2231877576
+新自说21,https://vd3.bdstatic.com/mda-nkk38cfw698erdx9/sc/cae_h264/1669014456738295947/mda-nkk38cfw698erdx9.mp4?v_from_s=hkapp-haokan-hna&auth_key=1681974470-0-0-ff6e083f78a00db42414db2e4e385fd4&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2270142565&vid=6438810100490987431&abtest=109159_2-109432_1&klogid=2270142565
+新自说22,https://vd4.bdstatic.com/mda-nkd4n65nz4fa1zwy/sc/cae_h264/1668398675486175703/mda-nkd4n65nz4fa1zwy.mp4?v_from_s=hkapp-haokan-hna&auth_key=1681974492-0-0-eeea2212db5cd9262f5fb611c79527ba&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2292094502&vid=16104618775600876658&abtest=109159_2-109432_1&klogid=2292094502
+新自说23,https://vd2.bdstatic.com/mda-nk62w8cj6ysp5r4q/sc/cae_h264/1667794768611417183/mda-nk62w8cj6ysp5r4q.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681974518-0-0-341915667db1e2219eee492fe0657139&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2318548457&vid=6733219853099956056&abtest=109159_2-109432_1&klogid=2318548457
+新自说24,https://vd2.bdstatic.com/mda-njw6iu15gnm9kg5j/sc/cae_h264/1667192756473444518/mda-njw6iu15gnm9kg5j.mp4?v_from_s=hkapp-haokan-hna&auth_key=1681974547-0-0-a8f5fd1c5fcf3474ecb0807d91d73655&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2347689302&vid=15830132617829913539&abtest=109159_2-109432_1&klogid=2347689302
+新自说25,https://vd4.bdstatic.com/mda-njp5wcphn0nvysaw/sc/cae_h264/1666594698458248853/mda-njp5wcphn0nvysaw.mp4?v_from_s=hkapp-haokan-hna&auth_key=1681974593-0-0-894cd99396c9d5735a75d5fd0781dd9c&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2393718104&vid=5019990744137111585&abtest=109159_2-109432_1&klogid=2393718104
+新自说26,https://vd4.bdstatic.com/mda-njg43umruimi9b2a/sc/cae_h264/1665982425315594000/mda-njg43umruimi9b2a.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681974630-0-0-94b5ca1287f44f734b36c32e49e72b09&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2430416701&vid=1943991125898592458&abtest=109159_2-109432_1&klogid=2430416701
+新自说27,https://vd2.bdstatic.com/mda-nj8evea5ju489q3s/sc/cae_h264/1665383599828868881/mda-nj8evea5ju489q3s.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681974650-0-0-57a076f2413407a09ae248580e882eaa&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2450059123&vid=14198328039444696813&abtest=109159_2-109432_1&klogid=2450059123
+新自说28,https://vd3.bdstatic.com/mda-nj23tkrb0ᴴᴰwz2x9/720p/h264/1664765325768944513/mda-nj23tkrb0ᴴᴰwz2x9.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681974679-0-0-a1d26d3d77ac5806be251a0a47cb8851&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2479233552&vid=9160431766710437567&abtest=109159_2-109432_1&klogid=2479233552
+新自说29,https://vd2.bdstatic.com/mda-nir385ppuq4xist8/sc/cae_h264/1664165327544424752/mda-nir385ppuq4xist8.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681974708-0-0-92dfdc102a126cf24b89bd8b0654dc58&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2508311162&vid=16402741243510100173&abtest=109159_2-109432_1&klogid=2508311162
+新自说30,https://vd4.bdstatic.com/mda-nii4udf4wjmuv4wb/sc/cae_h264/1663569376666242210/mda-nii4udf4wjmuv4wb.mp4?v_from_s=hkapp-haokan-hna&auth_key=1681974754-0-0-d5b191e5f1d13604bfb0910892a2c4a5&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2554344820&vid=6819260030639755725&abtest=109159_2-109432_1&klogid=2554344820
+新自说31,https://vd4.bdstatic.com/mda-nib2d747qqvbgqs4/sc/cae_h264/1662971087190549098/mda-nib2d747qqvbgqs4.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681974775-0-0-5e19aa6f59b89077dd6555994b3aed45&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2575226023&vid=5343104415969605558&abtest=109159_2-109432_1&klogid=2575226023
+新自说32,https://vd3.bdstatic.com/mda-ni45a4h9tuuw66zd/sc/cae_h264/1662350576023887438/mda-ni45a4h9tuuw66zd.mp4?v_from_s=hkapp-haokan-hna&auth_key=1681974803-0-0-b67be5c2eef2f8b36e5a92505f9e4c61&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2603154328&vid=11974214801465053061&abtest=109159_2-109432_1&klogid=2603154328
+新自说33,https://vd3.bdstatic.com/mda-nhu4g2h4igv1viyx/sc/cae_h264/1661746546996500906/mda-nhu4g2h4igv1viyx.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681974849-0-0-1c1d4d8e2037cf4e3d3ffc41cb658eda&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2649213721&vid=10023304589632324394&abtest=109159_2-109432_1&klogid=2649213721
+新自说34,https://vd3.bdstatic.com/mda-nhm3nkj5pq1db9g5/sc/cae_h264/1661174437525852896/mda-nhm3nkj5pq1db9g5.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681974870-0-0-bdbb61a20dac08706db20e05156678f4&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2669944923&vid=6980646853092730914&abtest=109159_2-109432_1&klogid=2669944923
+新自说35,https://vd3.bdstatic.com/mda-nhe4jmu3kvij4uuk/sc/cae_h264/1660536161613180672/mda-nhe4jmu3kvij4uuk.mp4?v_from_s=hkapp-haokan-hna&auth_key=1681974897-0-0-2366d90b0f5ecbc54f4f924e68a76062&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2697118637&vid=13045594269164819814&abtest=109159_2-109432_1&klogid=2697118637
+新自说36,https://vd4.bdstatic.com/mda-nh74n095v8vw32fw/sc/cae_h264/1659931842745308297/mda-nh74n095v8vw32fw.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681974923-0-0-adccf24d977abddab4a5749ec5626e74&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2723389531&vid=13579612258002534402&abtest=109159_2-109432_1&klogid=2723389531
+新自说37,https://vd4.bdstatic.com/mda-nh058emhs44isffv/sc/cae_h264/1659366275282049442/mda-nh058emhs44isffv.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681974967-0-0-cd13f53ba0b1e13dd6549ac92abd4bb8&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2767175850&vid=17781424674723290828&abtest=109159_2-109432_1&klogid=2767175850
+新自说38,https://vd2.bdstatic.com/mda-ngq5dyswyi387jhc/sc/cae_h264/1658725412039874178/mda-ngq5dyswyi387jhc.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681974987-0-0-e6055653cbf09078abc74fd39aaf1483&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2787417282&vid=13085027970508417679&abtest=109159_2-109432_1&klogid=2787417282
+新自说39,https://vd2.bdstatic.com/mda-ngg3m50inpe8bmi9/sc/cae_h264/1658030814606809547/mda-ngg3m50inpe8bmi9.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681975017-0-0-e368a250d23aadf3a5ab7f9140f62ec0&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2817000846&vid=6934779476866203243&abtest=109159_2-109432_1&klogid=2817000846
+新自说40,https://vd4.bdstatic.com/mda-ng91f4rznawzf8fe/sc/cae_h264/1657448052436847998/mda-ng91f4rznawzf8fe.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681975045-0-0-bdb37d2af2f10077d918f88de9b79414&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2845599813&vid=7830632339739700238&abtest=109159_2-109432_1&klogid=2845599813
+新自说41,https://vd4.bdstatic.com/mda-ng23ezhtm8if6e8h/sc/cae_h264/1656820355503503092/mda-ng23ezhtm8if6e8h.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681975082-0-0-fc31525a9ae9f19fdb36f37bc51b5d57&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2881917538&vid=2802443770262556988&abtest=109159_2-109432_1&klogid=2881917538
+新自说42,https://vd4.bdstatic.com/mda-nfr5i44e6gbu3qm2/sc/cae_h264/1656216795236248569/mda-nfr5i44e6gbu3qm2.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681975125-0-0-635d84d7d62e9ca6293d51961d7df984&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2925359713&vid=6981787391454348912&abtest=109159_2-109432_1&klogid=2925359713
+新自说43,https://vd3.bdstatic.com/mda-nfi4j1bxrfszm8eh/sc/cae_h264/1655610025601736583/mda-nfi4j1bxrfszm8eh.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681975144-0-0-868394ef6130596f31417d835ccb4595&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2944766704&vid=8602244613308365111&abtest=109159_2-109432_1&klogid=2944766704
+新自说44,https://vd2.bdstatic.com/mda-nfb4qx7r9xk4mrau/sc/cae_h264/1679646053825406088/mda-nfb4qx7r9xk4mrau.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681975176-0-0-60295e89b47653b08bc772d012f360ec&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2975958400&vid=4116676730791028300&abtest=109159_2-109432_1&klogid=2975958400
+新自说45,https://vd2.bdstatic.com/mda-neu45469d6fypm9m/sc/cae_h264/1653799300662987095/mda-neu45469d6fypm9m.mp4?v_from_s=hkapp-haokan-hna&auth_key=1681975202-0-0-49dcac20ad3dafd03e172ba5ef7f8f68&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3002678630&vid=1050996118758183243&abtest=109159_2-109432_1&klogid=3002678630
+新自说46,https://vd2.bdstatic.com/mda-nem3wnbr2ue1qt8s/sc/cae_h264/1653794334352208784/mda-nem3wnbr2ue1qt8s.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681975235-0-0-b4259bb02fdf4548da3bcf7901d47432&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3035112754&vid=4439339204019389090&abtest=109159_2-109432_1&klogid=3035112754
+新自说47,https://vd2.bdstatic.com/mda-nee1vtwha78m1v4f/sc/cae_h264/1652587851642005122/mda-nee1vtwha78m1v4f.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681975260-0-0-5233cc0a159f8e173e4fbf5b3c147535&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3060177283&vid=18439364514349037006&abtest=109159_2-109432_1&klogid=3060177283
+新自说48,https://vd2.bdstatic.com/mda-ne74r1q1zipasjvj/sc/cae_h264/1651984351126403194/mda-ne74r1q1zipasjvj.mp4?v_from_s=hkapp-haokan-hna&auth_key=1681975289-0-0-9652b34bbe88e2ed591429f831faac08&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3089528379&vid=1777603584796534600&abtest=109159_2-109432_1&klogid=3089528379
+新自说49,https://vd3.bdstatic.com/mda-ne049afuraqgha9c/sc/cae_h264_delogo/1651382698941463439/mda-ne049afuraqgha9c.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681975334-0-0-a7687f6e2f151a4a02c593742ac0f349&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3134899354&vid=6975864639843358397&abtest=109159_2-109432_1&klogid=3134899354
+新自说50,https://vd2.bdstatic.com/mda-ndrb3kz44gkrf1j0/sc/cae_h264_delogo/1650970678782076074/mda-ndrb3kz44gkrf1j0.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681975352-0-0-dccafa25397181f7869647b6135b132c&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3152786322&vid=15819730794781069356&abtest=109159_2-109432_1&klogid=3152786322
+新自说51,https://vd4.bdstatic.com/mda-ndg5vwqjzp6gwycp/sc/cae_h264_delogo/1650169608534670199/mda-ndg5vwqjzp6gwycp.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681975419-0-0-d54e6961d001f3a40e7cc25d4f2131f4&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3219414102&vid=10481826992343221382&abtest=109159_2-109432_1&klogid=3219414102
+新自说52,https://vd2.bdstatic.com/mda-nd95mp5dtqifstx8/sc/cae_h264_delogo/1649564670170849052/mda-nd95mp5dtqifstx8.mp4?v_from_s=hkapp-haokan-hna&auth_key=1681975465-0-0-8582fe0eebb8c2bab594ba5f661865b9&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3265485131&vid=9751714536642629473&abtest=109159_2-109432_1&klogid=3265485131
+新自说53,https://vd4.bdstatic.com/mda-nd1cx99f10e6v7a3/sc/cae_h264_delogo/1648960561137604105/mda-nd1cx99f10e6v7a3.mp4?v_from_s=hkapp-haokan-hna&auth_key=1681975503-0-0-29ad805f034b0023e8e15d9f591e9aaf&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3303615798&vid=18366815205199090152&abtest=109159_2-109432_1&klogid=3303615798
+新自说54,https://vd4.bdstatic.com/mda-ncr4uzt4yskv5htq/sc/cae_h264_delogo/1648353722169413260/mda-ncr4uzt4yskv5htq.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681975544-0-0-3e0e33b1b732a815b94c9a531398c2e4&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3344003382&vid=12502006543784937528&abtest=109159_2-109432_1&klogid=3344003382
+新自说55,https://vd4.bdstatic.com/mda-nck5xp3i5adduw78/sc/cae_h264_delogo/1647840268787437295/mda-nck5xp3i5adduw78.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681975567-0-0-03b9a1f1e6d8d459fe76cdfca12d1c08&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3367105004&vid=4380233937395886498&abtest=109159_2-109432_1&klogid=3367105004
+新自说56,https://vd3.bdstatic.com/mda-ncd53edp9w459gs6/sc/cae_h264_delogo/1647231788295184554/mda-ncd53edp9w459gs6.mp4?v_from_s=hkapp-haokan-hna&auth_key=1681975609-0-0-560760f317b776ebec109e3aff74b177&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3409028152&vid=5040428190677461861&abtest=109159_2-109432_1&klogid=3409028152
+新自说57,https://vd2.bdstatic.com/mda-nc65d7wvwac7zhkt/sc/cae_h264_delogo/1646626090282993281/mda-nc65d7wvwac7zhkt.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681975628-0-0-35c36b574e0b93f989b852a010e0da6a&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3428561624&vid=962627725475804270&abtest=109159_2-109432_1&klogid=3428561624
+新自说58,https://vd2.bdstatic.com/mda-nbk4yr94z152x293/sc/cae_h264_nowatermark_delogo/1645416770059590491/mda-nbk4yr94z152x293.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681975657-0-0-a3fd6f097e087c4ff7b330e6fba988b9&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3457321593&vid=6780927903001026366&abtest=109159_2-109432_1&klogid=3457321593
+新自说59,https://vd2.bdstatic.com/mda-nbe9i0vh4i2mnvt2/sc/cae_h264_nowatermark_delogo/1644909110729556273/mda-nbe9i0vh4i2mnvt2.mp4?v_from_s=hkapp-haokan-hna&auth_key=1681975681-0-0-b4675feeef69e57e0854008354263311&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3481110855&vid=17396673092851061019&abtest=109159_2-109432_1&klogid=3481110855
+新自说60,https://vd3.bdstatic.com/mda-nb5id1srmss2ieu5/sc/cae_h264_nowatermark_delogo/1644207707731590392/mda-nb5id1srmss2ieu5.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681975711-0-0-32ffb93d9e6f27e8c224c2d0bb3e1214&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3511435035&vid=1936681669490004591&abtest=109159_2-109432_1&klogid=3511435035
+新自说61,https://vd4.bdstatic.com/mda-navmq2z78s4gzbg4/sc/cae_h264_nowatermark_delogo/1643601734986121163/mda-navmq2z78s4gzbg4.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681975737-0-0-5fe9a5369f1d14c02f3b464ed5fe58f6&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3537727176&vid=7949672255508994952&abtest=109159_2-109432_1&klogid=3537727176
+新自说62,https://vd4.bdstatic.com/mda-nap4u8qg2aasqgm6/sc/cae_h264_nowatermark_delogo/1642997717977814749/mda-nap4u8qg2aasqgm6.mp4?v_from_s=hkapp-haokan-hna&auth_key=1681975772-0-0-3bbc6ade239a5be8007f8f06f88abb12&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3572074591&vid=15350314177220699835&abtest=109159_2-109432_1&klogid=3572074591
+新自说63,https://vd2.bdstatic.com/mda-nag5rn25kdy93f2g/sc/cae_h264_nowatermark_delogo/1642393382327434603/mda-nag5rn25kdy93f2g.mp4?v_from_s=hkapp-haokan-hna&auth_key=1681975814-0-0-b9ed34d7e24d47dd44be0b085ec9dd26&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0014238250&vid=10153376430696831403&abtest=109159_2-109432_1&klogid=0014238250
+新自说64,https://vd3.bdstatic.com/mda-na9652meqnadutn3/sc/cae_h264_nowatermark_delogo/1642090537873097971/mda-na9652meqnadutn3.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681975847-0-0-2f8d2b22049d0507c1184ef220213061&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0046986040&vid=17768624661112244774&abtest=109159_2-109432_1&klogid=0046986040
+新自说65,https://vd4.bdstatic.com/mda-na35syffmb40bvsv/sc/cae_h264/1680118046061291980/mda-na35syffmb40bvsv.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681975874-0-0-328388963210f560ddddacad6f43f421&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0074158173&vid=14695537481427550235&abtest=109159_2-109432_1&klogid=0074158173
+新自说66,https://vd3.bdstatic.com/mda-mms3sq00a31bkqnb/sc/cae_h264_delogo/1643399256298270996/mda-mms3sq00a31bkqnb.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681975906-0-0-3cfaef80abed459361534c4d16f45492&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0106013542&vid=2475888157245032177&abtest=109159_2-109432_1&klogid=0106013542
+新自说67,https://vd2.bdstatic.com/mda-mmj5pc8jt3mej3bj/sc/cae_h264_nowatermark/1640002780973121675/mda-mmj5pc8jt3mej3bj.mp4?v_from_s=hkapp-haokan-hna&auth_key=1681975934-0-0-e93880a8ad939742a5362a256508e997&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0134563731&vid=18443113498020182770&abtest=109159_2-109432_1&klogid=0134563731
+新自说68,https://vd4.bdstatic.com/mda-mmc6zaf3z6568yw1/sc/cae_h264_nowatermark/1639639335220937015/mda-mmc6zaf3z6568yw1.mp4?v_from_s=hkapp-haokan-hna&auth_key=1681975967-0-0-86713d2e944f49d5b76e96100d5fb812&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0167397059&vid=11639484355200248695&abtest=109159_2-109432_1&klogid=0167397059
+新自说69,https://vd2.bdstatic.com/mda-mm55ax1ztx7dpccy/sc/cae_h264_nowatermark/1638763870401741508/mda-mm55ax1ztx7dpccy.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681975992-0-0-0c93967ef19f6e791772bb633225ce2b&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0192809870&vid=1232091663837673943&abtest=109159_2-109432_1&klogid=0192809870
+新自说70,https://vd2.bdstatic.com/mda-mku4ykx5d86crbkx/sc/cae_h264_nowatermark/1638161727883351408/mda-mku4ykx5d86crbkx.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1681976019-0-0-cf81eee081f9de55af23dbb971453930&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0219392583&vid=4088727347096230156&abtest=109159_2-109432_1&klogid=0219392583
+新自话01,https://vd2.bdstatic.com/mda-pd23dgikeu8ivtrb/sc/cae_h264/1680495502641109547/mda-pd23dgikeu8ivtrb.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680931744-0-0-1261b1b0ccb96542549aa140987f9553&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3544446776&vid=7817594092261070030&abtest=107353_1-109133_1&klogid=3544446776
+新自话02,https://vd2.bdstatic.com/mda-pcsai4r6avcbst6v/sc/cae_h264/1679903367786129578/mda-pcsai4r6avcbst6v.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680931783-0-0-5b9441e57b91e8d3b128727d42ed228b&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3583827949&vid=6611253814682418386&abtest=107353_1-109133_1&klogid=3583827949
+新自话03,https://vd4.bdstatic.com/mda-pcj46vmdybvvunie/sc/cae_h264/1679285190137065798/mda-pcj46vmdybvvunie.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680931813-0-0-82aea49231ff768e3217bf8903030964&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0013347879&vid=15578322996510432942&abtest=107353_1-109133_1&klogid=0013347879
+新自话04,https://vd4.bdstatic.com/mda-pcc45ct6emvgercd/sc/cae_h264/1678682790115079842/mda-pcc45ct6emvgercd.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680931834-0-0-40f8f63957044b52189c5a2f4fe640e3&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0034740112&vid=8780633955103144668&abtest=107353_1-109133_1&klogid=0034740112
+新自话05,https://vd4.bdstatic.com/mda-pc535viwh14r4p9p/sc/cae_h264/1678076039056481366/mda-pc535viwh14r4p9p.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680931858-0-0-abcf982d8cb498f1a33d38afbdf3636b&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0058617694&vid=11769502336393389658&abtest=107353_1-109133_1&klogid=0058617694
+新自话06,https://vd2.bdstatic.com/mda-pbs3unv7iupipnb8/sc/cae_h264/1677472101533572235/mda-pbs3unv7iupipnb8.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680931873-0-0-6acc6bf8688a432e210a4c3fed4045a5&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0073922451&vid=2782884529330091840&abtest=107353_1-109133_1&klogid=0073922451
+新自话07,https://vd3.bdstatic.com/mda-pbj5v0zjhaj5nqyv/sc/cae_h264/1676869243700296889/mda-pbj5v0zjhaj5nqyv.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680931891-0-0-b6d675c4e0d630518f65d83b72910f8e&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0091020407&vid=13914247293509377137&abtest=107353_1-109133_1&klogid=0091020407
+新自话08,https://vd4.bdstatic.com/mda-pbc5y7g4tcjrsqmw/sc/cae_h264/1676262601277527559/mda-pbc5y7g4tcjrsqmw.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680931911-0-0-37c0871bd07ea3c551657576ad997f7a&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0111152102&vid=16532207713096526492&abtest=107353_1-109133_1&klogid=0111152102
+新自话09,https://vd2.bdstatic.com/mda-pb53gue05m267v7a/sc/cae_h264/1675657132715788972/mda-pb53gue05m267v7a.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680931929-0-0-a8afd7321ccdd1e4a1c5be3f3b4f9ed4&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0129099399&vid=10559831749953664960&abtest=107353_1-109133_1&klogid=0129099399
+新自话10,https://vd2.bdstatic.com/mda-pav4vegmqyj604mb/sc/cae_h264/1675052430096963209/mda-pav4vegmqyj604mb.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680931959-0-0-e917dd9a24c01d1594f8a2c79da553e0&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0159599671&vid=9117148723354775776&abtest=107353_1-109133_1&klogid=0159599671
+新自话11,https://vd3.bdstatic.com/mda-pan7qrtp0qkfqw47/sc/cae_h264/1674453502270792428/mda-pan7qrtp0qkfqw47.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680931978-0-0-913d6cbad104387812e2f0d79e5c7a66&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0178234267&vid=8487580833214426177&abtest=107353_1-109133_1&klogid=0178234267
+新自话12,https://vd4.bdstatic.com/mda-paf2kat73uxjzh90/sc/cae_h264/1673864329825287021/mda-paf2kat73uxjzh90.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932009-0-0-65cfe9b4c50e7bc8c3b89fcb0ed6cca5&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0209446523&vid=17298578519183490715&abtest=107353_1-109133_1&klogid=0209446523
+新自话13,https://vd3.bdstatic.com/mda-pa84nfvi3bbg91mn/sc/cae_h264/1673247453339879175/mda-pa84nfvi3bbg91mn.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680932034-0-0-9f2dedb266329a941d747b3ecc9cced0&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0234387689&vid=390054137072561691&abtest=107353_1-109133_1&klogid=0234387689
+新自话14,https://vd2.bdstatic.com/mda-pa109c4kem280yh8/sc/cae_h264/1672725860764579758/mda-pa109c4kem280yh8.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932118-0-0-751ba7dc98c40af48c7a0948f492e2b7&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0318211379&vid=10758397567358076746&abtest=107353_1-109133_1&klogid=0318211379
+新自话15,https://vd7.bdstatic.com/mda-nmr5gg9mm9p0jv39/sc/cae_h264/1672030424465189444/mda-nmr5gg9mm9p0jv39.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932142-0-0-3e2e55914f4d74b427b7efe169eeefbe&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0341934293&vid=17888248882922826518&abtest=107353_1-109133_1&klogid=0341934293&sdk_xcdn=1
+新自话16,https://vd3.bdstatic.com/mda-nmi2rebetpa7rx0j/sc/cae_h264/1671424472946026065/mda-nmi2rebetpa7rx0j.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932161-0-0-d0ee8670fd9b9723e4f3d93d8ee1864d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0361934981&vid=8109788975201701384&abtest=107353_1-109133_1&klogid=0361934981
+新自话17,https://vd3.bdstatic.com/mda-nmb5kes3x6d1zbhm/sc/cae_h264/1670818727571863932/mda-nmb5kes3x6d1zbhm.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932177-0-0-f207bb15efe2cc98be8528d2df13861e&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0377622717&vid=4884473731863313874&abtest=107353_1-109133_1&klogid=0377622717
+新自话18,https://vd4.bdstatic.com/mda-nm42depvacha44jn/sc/cae_h264/1670213830542572218/mda-nm42depvacha44jn.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932194-0-0-ef8f369ff3b5c1f1dbe0f836c872217d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0394769924&vid=4023839588443877228&abtest=107353_1-109133_1&klogid=0394769924
+新自话19,https://vd3.bdstatic.com/mda-nkk38cfw698erdx9/sc/cae_h264/1669014456738295947/mda-nkk38cfw698erdx9.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932224-0-0-8876cd5fde217bd2875d1d8f1d581173&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0424629157&vid=6438810100490987431&abtest=107353_1-109133_1&klogid=0424629157
+新自话20,https://vd4.bdstatic.com/mda-nkd4n65nz4fa1zwy/sc/cae_h264/1668398675486175703/mda-nkd4n65nz4fa1zwy.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932269-0-0-1b0cc46c4a50a9d1237d109e521e79e5&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0469627076&vid=16104618775600876658&abtest=107353_1-109133_1&klogid=0469627076
+新自话21,https://vd2.bdstatic.com/mda-nk62w8cj6ysp5r4q/sc/cae_h264/1667794768611417183/mda-nk62w8cj6ysp5r4q.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932285-0-0-27f2c3ae4915c9aae27f81420d069294&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0484970764&vid=6733219853099956056&abtest=107353_1-109133_1&klogid=0484970764
+新自话22,https://vd2.bdstatic.com/mda-njw6iu15gnm9kg5j/sc/cae_h264/1667192756473444518/mda-njw6iu15gnm9kg5j.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932301-0-0-64f0295188d3464e5c70b87acaef7799&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0501675219&vid=15830132617829913539&abtest=107353_1-109133_1&klogid=0501675219
+新自话23,https://vd4.bdstatic.com/mda-njp5wcphn0nvysaw/sc/cae_h264/1666594698458248853/mda-njp5wcphn0nvysaw.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932318-0-0-a7239c0fdba595e553f37189ae94a208&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0518933976&vid=5019990744137111585&abtest=107353_1-109133_1&klogid=0518933976
+新自话24,https://vd4.bdstatic.com/mda-njg43umruimi9b2a/sc/cae_h264/1665982425315594000/mda-njg43umruimi9b2a.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932336-0-0-e4294cf07143c3eadf98c06d7cffa16d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0536055475&vid=1943991125898592458&abtest=107353_1-109133_1&klogid=0536055475
+新自话25,https://vd2.bdstatic.com/mda-nj8evea5ju489q3s/sc/cae_h264/1665383599828868881/mda-nj8evea5ju489q3s.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932351-0-0-bc4c23fa561d32636c29ba72c5ff8023&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0551756784&vid=14198328039444696813&abtest=107353_1-109133_1&klogid=0551756784
+新自话26,https://vd3.bdstatic.com/mda-nj23tkrb0ᴴᴰwz2x9/720p/h264/1664765325768944513/mda-nj23tkrb0ᴴᴰwz2x9.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932366-0-0-4c3f32a4b804c1f5350bb77ae6af43ab&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0566648622&vid=9160431766710437567&abtest=107353_1-109133_1&klogid=0566648622
+新自话27,https://vd2.bdstatic.com/mda-nir385ppuq4xist8/sc/cae_h264/1664165327544424752/mda-nir385ppuq4xist8.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932383-0-0-088282b65e558ecf50e5b8258796055b&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0583018306&vid=16402741243510100173&abtest=107353_1-109133_1&klogid=0583018306
+新自话28,https://vd4.bdstatic.com/mda-nii4udf4wjmuv4wb/sc/cae_h264/1663569376666242210/mda-nii4udf4wjmuv4wb.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680932396-0-0-740dcc94d0b8aa470ac76dd0fbe416e3&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0596881436&vid=6819260030639755725&abtest=107353_1-109133_1&klogid=0596881436
+新自话29,https://vd4.bdstatic.com/mda-nii4udf4wjmuv4wb/sc/cae_h264/1663569376666242210/mda-nii4udf4wjmuv4wb.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680932413-0-0-da0c7fc8cf4bb1ead1cfa04e93242dcb&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0613267306&vid=6819260030639755725&abtest=107353_1-109133_1&klogid=0613267306
+新自话30,https://vd4.bdstatic.com/mda-nib2d747qqvbgqs4/sc/cae_h264/1662971087190549098/mda-nib2d747qqvbgqs4.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932472-0-0-9e6e6c2804baad84e4282fd4c9adbae2&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0672519574&vid=5343104415969605558&abtest=107353_1-109133_1&klogid=0672519574
+新自话31,https://vd3.bdstatic.com/mda-ni45a4h9tuuw66zd/sc/cae_h264/1662350576023887438/mda-ni45a4h9tuuw66zd.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680932491-0-0-5969c3a3caa10916365deac58a51fb6e&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0691528279&vid=11974214801465053061&abtest=107353_1-109133_1&klogid=0691528279
+新自话32,https://vd3.bdstatic.com/mda-nhu4g2h4igv1viyx/sc/cae_h264/1661746546996500906/mda-nhu4g2h4igv1viyx.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680932505-0-0-0d9809a7cc53fe9579e8ddaee1803dc9&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0705187105&vid=10023304589632324394&abtest=107353_1-109133_1&klogid=0705187105
+新自话33,https://vd3.bdstatic.com/mda-nhm3nkj5pq1db9g5/sc/cae_h264/1661174437525852896/mda-nhm3nkj5pq1db9g5.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932522-0-0-45ac3be199e8df28f21352ef4ba76735&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0721994278&vid=6980646853092730914&abtest=107353_1-109133_1&klogid=0721994278
+新自话34,https://vd3.bdstatic.com/mda-nhe4jmu3kvij4uuk/sc/cae_h264/1660536161613180672/mda-nhe4jmu3kvij4uuk.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932539-0-0-ca366ee442d37e70e7313bdfa6ef1bed&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0739648678&vid=13045594269164819814&abtest=107353_1-109133_1&klogid=0739648678
+新自话35,https://vd4.bdstatic.com/mda-nh74n095v8vw32fw/sc/cae_h264/1659931842745308297/mda-nh74n095v8vw32fw.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932558-0-0-707e39294fd8e3a58ecac215f7c34606&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0758848707&vid=13579612258002534402&abtest=107353_1-109133_1&klogid=0758848707
+新自话36,https://vd4.bdstatic.com/mda-nh058emhs44isffv/sc/cae_h264/1659366275282049442/mda-nh058emhs44isffv.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680932582-0-0-897557eb8d4f6f4775b9d4a966e6124e&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0782285137&vid=17781424674723290828&abtest=107353_1-109133_1&klogid=0782285137
+新自话37,https://vd2.bdstatic.com/mda-ngq5dyswyi387jhc/sc/cae_h264/1658725412039874178/mda-ngq5dyswyi387jhc.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932606-0-0-f0278fd7c2be185635a341b6088b2d31&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0805869330&vid=13085027970508417679&abtest=107353_1-109133_1&klogid=0805869330
+新自话38,https://vd2.bdstatic.com/mda-ngg3m50inpe8bmi9/sc/cae_h264/1658030814606809547/mda-ngg3m50inpe8bmi9.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680932620-0-0-611ec821206704240eb9954a9087e590&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0820604673&vid=6934779476866203243&abtest=107353_1-109133_1&klogid=0820604673
+新自话39,https://vd4.bdstatic.com/mda-ng91f4rznawzf8fe/sc/cae_h264/1657448052436847998/mda-ng91f4rznawzf8fe.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932644-0-0-368de6010152ac14eab8e23924edbe15&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0844859455&vid=7830632339739700238&abtest=107353_1-109133_1&klogid=0844859455
+新自话40,https://vd4.bdstatic.com/mda-ng23ezhtm8if6e8h/sc/cae_h264/1656820355503503092/mda-ng23ezhtm8if6e8h.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680932662-0-0-2873a651d0e8da3ff4a76e65e2b50716&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0862673254&vid=2802443770262556988&abtest=107353_1-109133_1&klogid=0862673254
+新自话41,https://vd7.bdstatic.com/mda-nfr5i44e6gbu3qm2/sc/cae_h264/1656216795236248569/mda-nfr5i44e6gbu3qm2.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932679-0-0-d8c29e7366757f61af6316a3cc577018&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0879802902&vid=6981787391454348912&abtest=107353_1-109133_1&klogid=0879802902&sdk_xcdn=1
+新自话42,https://vd3.bdstatic.com/mda-nfi4j1bxrfszm8eh/sc/cae_h264/1655610025601736583/mda-nfi4j1bxrfszm8eh.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932698-0-0-fa7b44402a88fcd632d9a9a83dabac29&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0898724285&vid=8602244613308365111&abtest=107353_1-109133_1&klogid=0898724285
+新自话43,https://vd2.bdstatic.com/mda-nfb4qx7r9xk4mrau/sc/cae_h264/1679646053825406088/mda-nfb4qx7r9xk4mrau.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932722-0-0-92073e514b27d578cb4bcf0cd215d1ad&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0922313640&vid=4116676730791028300&abtest=107353_1-109133_1&klogid=0922313640
+新自话44,https://vd2.bdstatic.com/mda-nfb4qx7r9xk4mrau/sc/cae_h264/1679646053825406088/mda-nfb4qx7r9xk4mrau.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932742-0-0-177109c0ceba35579d2571f5e80013fe&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0942329683&vid=4116676730791028300&abtest=107353_1-109133_1&klogid=0942329683
+新自话45,https://vd3.bdstatic.com/mda-nf30286t199ry02e/sc/cae_h264/1654315897032338152/mda-nf30286t199ry02e.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680932761-0-0-caf683212b2eae020f6fc4aa2ba9a656&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0961268793&vid=12019336688557030774&abtest=107353_1-109133_1&klogid=0961268793
+新自话46,https://vd2.bdstatic.com/mda-neu45469d6fypm9m/sc/cae_h264/1653799300662987095/mda-neu45469d6fypm9m.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932778-0-0-d41445b1967d24de3d0c674ba012f5c3&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0978490648&vid=1050996118758183243&abtest=107353_1-109133_1&klogid=0978490648
+新自话47,https://vd2.bdstatic.com/mda-nem3wnbr2ue1qt8s/sc/cae_h264/1653794334352208784/mda-nem3wnbr2ue1qt8s.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932791-0-0-1447864daa37811d21fce6c93527c39f&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=0991579931&vid=4439339204019389090&abtest=107353_1-109133_1&klogid=0991579931
+新自话48,https://vd2.bdstatic.com/mda-nee1vtwha78m1v4f/sc/cae_h264/1652587851642005122/mda-nee1vtwha78m1v4f.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932808-0-0-63a919e330183b2102f19628fe013c08&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1008797334&vid=18439364514349037006&abtest=107353_1-109133_1&klogid=1008797334
+新自话49,https://vd2.bdstatic.com/mda-ne74r1q1zipasjvj/sc/cae_h264/1651984351126403194/mda-ne74r1q1zipasjvj.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932822-0-0-b92e4021b5392904d2983eaa140aa979&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1022271229&vid=1777603584796534600&abtest=107353_1-109133_1&klogid=1022271229
+新自话50,https://vd3.bdstatic.com/mda-ne049afuraqgha9c/sc/cae_h264_delogo/1651382698941463439/mda-ne049afuraqgha9c.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932846-0-0-15f9a1cde65375023de53067f6d041a4&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1046009832&vid=6975864639843358397&abtest=107353_1-109133_1&klogid=1046009832
+新自话51,https://vd2.bdstatic.com/mda-ndrb3kz44gkrf1j0/sc/cae_h264_delogo/1650970678782076074/mda-ndrb3kz44gkrf1j0.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680932863-0-0-3631fd56690823a24c8be29b964266e5&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1062796509&vid=15819730794781069356&abtest=107353_1-109133_1&klogid=1062796509
+新自话52,https://vd4.bdstatic.com/mda-ndg5vwqjzp6gwycp/sc/cae_h264_delogo/1650169608534670199/mda-ndg5vwqjzp6gwycp.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680932880-0-0-b25930c1d912ccf3fe2522aa4c6ec3e5&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1080533391&vid=10481826992343221382&abtest=107353_1-109133_1&klogid=1080533391
+新自话53,https://vd2.bdstatic.com/mda-nd95mp5dtqifstx8/sc/cae_h264_delogo/1649564670170849052/mda-nd95mp5dtqifstx8.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932976-0-0-6c86e543b9df8151004dba744aa6776b&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1176586348&vid=9751714536642629473&abtest=107353_1-109133_1&klogid=1176586348
+新自话54,https://vd4.bdstatic.com/mda-nd1cx99f10e6v7a3/sc/cae_h264_delogo/1648960561137604105/mda-nd1cx99f10e6v7a3.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680932994-0-0-f5280fc213d41136838d8fac1a6bf952&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1194478356&vid=18366815205199090152&abtest=107353_1-109133_1&klogid=1194478356
+新自话55,https://vd4.bdstatic.com/mda-ncr4uzt4yskv5htq/sc/cae_h264_delogo/1648353722169413260/mda-ncr4uzt4yskv5htq.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933013-0-0-c31c00b1bd87f0bab2dcca85bf9da645&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1213090899&vid=12502006543784937528&abtest=107353_1-109133_1&klogid=1213090899
+新自话56,https://vd4.bdstatic.com/mda-nck5xp3i5adduw78/sc/cae_h264_delogo/1647840268787437295/mda-nck5xp3i5adduw78.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933030-0-0-fb7c78acfe4ad61e22de3862657355c7&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1230477628&vid=4380233937395886498&abtest=107353_1-109133_1&klogid=1230477628
+新自话57,https://vd3.bdstatic.com/mda-ncd53edp9w459gs6/sc/cae_h264_delogo/1647231788295184554/mda-ncd53edp9w459gs6.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933072-0-0-991714a48562efdc13188fc0fca01d0c&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1271938527&vid=5040428190677461861&abtest=107353_1-109133_1&klogid=1271938527
+新自话58,https://vd2.bdstatic.com/mda-nc65d7wvwac7zhkt/sc/cae_h264_delogo/1646626090282993281/mda-nc65d7wvwac7zhkt.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933088-0-0-7f5e8eccc91832d2cfb3e5ffbfa7eaf5&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1288616947&vid=962627725475804270&abtest=107353_1-109133_1&klogid=1288616947
+新自话59,https://vd2.bdstatic.com/mda-nbk4yr94z152x293/sc/cae_h264_nowatermark_delogo/1645416770059590491/mda-nbk4yr94z152x293.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933107-0-0-281a64bc1ac3663f141db57e9d794c88&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1307118789&vid=6780927903001026366&abtest=107353_1-109133_1&klogid=1307118789
+新自话60,https://vd2.bdstatic.com/mda-nbe9i0vh4i2mnvt2/sc/cae_h264_nowatermark_delogo/1644909110729556273/mda-nbe9i0vh4i2mnvt2.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933126-0-0-0a39b56bc88e3e6bc959f64c146ace57&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1326557549&vid=17396673092851061019&abtest=107353_1-109133_1&klogid=1326557549
+新自话61,https://vd3.bdstatic.com/mda-nb5id1srmss2ieu5/sc/cae_h264_nowatermark_delogo/1644207707731590392/mda-nb5id1srmss2ieu5.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933144-0-0-9cbd0777337c93ede3f78b346f8492b0&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1343788350&vid=1936681669490004591&abtest=107353_1-109133_1&klogid=1343788350
+新自话62,https://vd4.bdstatic.com/mda-navmq2z78s4gzbg4/sc/cae_h264_nowatermark_delogo/1643601734986121163/mda-navmq2z78s4gzbg4.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933167-0-0-3e0c620e0128af02b65c5ec9c1770ba4&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1366838122&vid=7949672255508994952&abtest=107353_1-109133_1&klogid=1366838122
+新自话63,https://vd4.bdstatic.com/mda-nap4u8qg2aasqgm6/sc/cae_h264_nowatermark_delogo/1642997717977814749/mda-nap4u8qg2aasqgm6.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680933184-0-0-7fbb6a68f26e76170a3a26c28910d9fb&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1384130403&vid=15350314177220699835&abtest=107353_1-109133_1&klogid=1384130403
+新自话64,https://vd2.bdstatic.com/mda-nag5rn25kdy93f2g/sc/cae_h264_nowatermark_delogo/1642393382327434603/mda-nag5rn25kdy93f2g.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680933202-0-0-86c4c754d5cc4736e0f4dde675ea72a5&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1402797044&vid=10153376430696831403&abtest=107353_1-109133_1&klogid=1402797044
+新自话65,https://vd3.bdstatic.com/mda-na9652meqnadutn3/sc/cae_h264_nowatermark_delogo/1642090537873097971/mda-na9652meqnadutn3.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680933218-0-0-16d51c28f01a4aec51b54384378989e1&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1418046060&vid=17768624661112244774&abtest=107353_1-109133_1&klogid=1418046060
+新自话66,https://vd4.bdstatic.com/mda-na35syffmb40bvsv/sc/cae_h264/1680118046061291980/mda-na35syffmb40bvsv.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933236-0-0-d92a825e81b70adbb8f4a86000abd3bb&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1436147446&vid=14695537481427550235&abtest=107353_1-109133_1&klogid=1436147446
+新自话67,https://vd3.bdstatic.com/mda-mms3sq00a31bkqnb/sc/cae_h264_delogo/1643399256298270996/mda-mms3sq00a31bkqnb.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680933254-0-0-8ad4f04bd4a3f92e5de2f8aa45f126c4&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1454720005&vid=2475888157245032177&abtest=107353_1-109133_1&klogid=1454720005
+新自话68,https://vd2.bdstatic.com/mda-mmj5pc8jt3mej3bj/sc/cae_h264_nowatermark/1640002780973121675/mda-mmj5pc8jt3mej3bj.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933270-0-0-9a9f0e7646c823af31221ab94d400a47&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1469805960&vid=18443113498020182770&abtest=107353_1-109133_1&klogid=1469805960
+新自话69,https://vd4.bdstatic.com/mda-mmc6zaf3z6568yw1/sc/cae_h264_nowatermark/1639639335220937015/mda-mmc6zaf3z6568yw1.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933293-0-0-f3b4b8260a4acdd82ab5660c13b507d6&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1492941865&vid=11639484355200248695&abtest=107353_1-109133_1&klogid=1492941865
+新自话70,https://vd2.bdstatic.com/mda-mm55ax1ztx7dpccy/sc/cae_h264_nowatermark/1638763870401741508/mda-mm55ax1ztx7dpccy.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933309-0-0-f31910ccf7725e4a70611b285e7a1c8d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1509695980&vid=1232091663837673943&abtest=107353_1-109133_1&klogid=1509695980
+新自话71,https://vd2.bdstatic.com/mda-mku4ykx5d86crbkx/sc/cae_h264_nowatermark/1638161727883351408/mda-mku4ykx5d86crbkx.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933330-0-0-216eb6f9b81d6070be124a084062d386&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1529937686&vid=4088727347096230156&abtest=107353_1-109133_1&klogid=1529937686
+新自话72,https://vd2.bdstatic.com/mda-mkm4aq145g9czc10/sc/cae_h264_nowatermark/1637556578879984741/mda-mkm4aq145g9czc10.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933345-0-0-297974803b1d91df7eaa7810f9470615&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1545784494&vid=5781614215111695393&abtest=107353_1-109133_1&klogid=1545784494
+新自话73,https://vd3.bdstatic.com/mda-mke52mh9eri1u7x4/sc/cae_h264_nowatermark/1636949436788126624/mda-mke52mh9eri1u7x4.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933591-0-0-afee9d3e478a62ad435a107fb25cb0a6&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1791176562&vid=9955684293704914464&abtest=107353_1-109133_1&klogid=1791176562
+新自话74,https://vd3.bdstatic.com/mda-mk750ruebmu1ba23/sc/cae_h264_nowatermark/1636344503755900472/mda-mk750ruebmu1ba23.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933606-0-0-a3df0bb23a5aa7a96d1deacfce82721d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1806676010&vid=11600819603793736951&abtest=107353_1-109133_1&klogid=1806676010
+新自话75,https://vd4.bdstatic.com/mda-mk053y4tg0znbws4/sc/cae_h264_nowatermark/1635740118276937174/mda-mk053y4tg0znbws4.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933630-0-0-c48f5e8ac86e17af09b649f8081f45c5&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1830414897&vid=6070126761849727718&abtest=107353_1-109133_1&klogid=1830414897
+新自话76,https://vd7.bdstatic.com/mda-mjq61wjb958svrvz/sc/cae_h264/1679660184579043505/mda-mjq61wjb958svrvz.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680933646-0-0-9474e281bc4a8eb2c718e638e113aaa1&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1846446979&vid=14052076563442889919&abtest=107353_1-109133_1&klogid=1846446979&sdk_xcdn=1
+新自话77,https://vd2.bdstatic.com/mda-mjm7nxgphpk0ccpb/sc/cae_h264_nowatermark/1634881252380955877/mda-mjm7nxgphpk0ccpb.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933661-0-0-fa354a0e4d97c6e30525524e6c29f12b&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1861407791&vid=8016163502382732670&abtest=107353_1-109133_1&klogid=1861407791
+新自话78,https://vd2.bdstatic.com/mda-mjh36rnpa322awxx/sc/cae_h264_nowatermark/1634529419770863262/mda-mjh36rnpa322awxx.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680933685-0-0-95586feb48c19a32dc9ded5ebe13c742&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1885331290&vid=8863858754643928879&abtest=107353_1-109133_1&klogid=1885331290
+新自话79,https://vd2.bdstatic.com/mda-mj364ktadp98grax/sc/cae_h264_nowatermark/1633330692677856715/mda-mj364ktadp98grax.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933712-0-0-7d982cb0cc0f7981cffb6e8efe6364ad&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1912477774&vid=6714086073766311049&abtest=107353_1-109133_1&klogid=1912477774
+新自话80,https://vd3.bdstatic.com/mda-mir4autg5cxydm6m/sc/cae_h264_nowatermark/1632638466321792495/mda-mir4autg5cxydm6m.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933726-0-0-07eea6e5ea8122ef6bb15a1da0cdaffb&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1926057168&vid=8662472193532039637&abtest=107353_1-109133_1&klogid=1926057168
+新自话81,https://vd3.bdstatic.com/mda-mij4jfm8p0izjnmf/sc/cae_h264/1632124932884593069/mda-mij4jfm8p0izjnmf.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680933747-0-0-8fc89b742a1d34a6b45c5aef389b9caf&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1947396613&vid=9575971754490534201&abtest=107353_1-109133_1&klogid=1947396613
+新自话82,https://vd2.bdstatic.com/mda-mic67ak8antnp7ag/sc/cae_h264_nowatermark/1631509918030659714/mda-mic67ak8antnp7ag.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680933760-0-0-c4068f9a58838482543779a82ff9edd9&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1960366448&vid=3029796867641369759&abtest=107353_1-109133_1&klogid=1960366448
+新自话83,https://vd4.bdstatic.com/mda-mi560ez28wkfid5a/sc/cae_h264_nowatermark/1630902640741912065/mda-mi560ez28wkfid5a.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933776-0-0-3426562b7b09c52e595a7a0cf7471f4f&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1976809410&vid=9719222162751003215&abtest=107353_1-109133_1&klogid=1976809410
+新自话84,https://vd3.bdstatic.com/mda-mi1ekcmazw00v4ku/sc/cae_h264_nowatermark/1630578946027812079/mda-mi1ekcmazw00v4ku.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680933791-0-0-3f3406d0bedfbca7ec8ccdd41f792aa1&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1991505129&vid=16725100290525679287&abtest=107353_1-109133_1&klogid=1991505129
+新自话85,https://vd4.bdstatic.com/mda-mi1b6kbt17qgi9g9/sc/cae_h264_nowatermark/1630570925155964369/mda-mi1b6kbt17qgi9g9.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680933813-0-0-d5c3c71944216c80fc3ebb8a9f9af080&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2013334417&vid=13597191218036911498&abtest=107353_1-109133_1&klogid=2013334417
+新自话86,https://vd2.bdstatic.com/mda-mhqein1p9bbfew00/sc/cae_h264_nowatermark/1629890005836388787/mda-mhqein1p9bbfew00.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933828-0-0-cc9b21eb34a348b00497b7370273fa8f&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2028878525&vid=9085014824822900169&abtest=107353_1-109133_1&klogid=2028878525
+新自话87,https://vd4.bdstatic.com/mda-mhf96zizy53qsew2/sc/cae_h264_nowatermark/1629109508032081275/mda-mhf96zizy53qsew2.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933855-0-0-dc7e2d60fb921ccb86bdb1678cfe3331&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2055043664&vid=4935685659962849748&abtest=107353_1-109133_1&klogid=2055043664
+新自话88,https://vd2.bdstatic.com/mda-mh87tg962h2xgv2z/sc/cae_h264_nowatermark/1628503213874081881/mda-mh87tg962h2xgv2z.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933872-0-0-ca0545439f752612f5d310bc8f9535cf&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2072482145&vid=324444659625684500&abtest=107353_1-109133_1&klogid=2072482145
+新自话89,https://vd2.bdstatic.com/mda-mgr5s8sie6djx0yy/sc/cae_h264_nowatermark/1627293740527381190/mda-mgr5s8sie6djx0yy.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933889-0-0-2a40a9cca747528e5ccb268f1acf1194&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2089647235&vid=13572784959500236799&abtest=107353_1-109133_1&klogid=2089647235
+新自话90,https://vd2.bdstatic.com/mda-mgi8v8ma0uymnurw/sc/cae_h264_nowatermark/1626689311744874888/mda-mgi8v8ma0uymnurw.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933910-0-0-779ca270ceff3b831a9f2d09459b1093&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2110713681&vid=12612603415976388309&abtest=107353_1-109133_1&klogid=2110713681
+新自话91,https://vd2.bdstatic.com/mda-mgb5h655t0m2nefa/sc/cae_h264_nowatermark/1626082296128140413/mda-mgb5h655t0m2nefa.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933925-0-0-92806d8ede317a22f58474f26772d78a&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2125255201&vid=7503560940014731556&abtest=107353_1-109133_1&klogid=2125255201
+新自话92,https://vd2.bdstatic.com/mda-mg44htwba0i1gfu5/sc/cae_h264_nowatermark/1625477469750077797/mda-mg44htwba0i1gfu5.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933944-0-0-0278d83d6a30b36feebaa54e46b492fc&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2144839821&vid=17695066839290865230&abtest=107353_1-109133_1&klogid=2144839821
+新自话93,https://vd4.bdstatic.com/mda-mft9rzwukziiz6ie/sc/cae_h264_nowatermark/1624874649842306966/mda-mft9rzwukziiz6ie.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933971-0-0-8e07bf89abced320fc514dcf35c80c46&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2171134275&vid=1983849014389126872&abtest=107353_1-109133_1&klogid=2171134275
+新自话94,https://vd2.bdstatic.com/mda-mfm7gk7weyvg51zn/720p/h264/1624339362434765023/mda-mfm7gk7weyvg51zn.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680933984-0-0-befb35829ee706e8061f4aab019e5647&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2184633401&vid=11222280370928084910&abtest=107353_1-109133_1&klogid=2184633401
+新自话95,https://vd2.bdstatic.com/mda-mff3n7aebd7372ma/sc/cae_h264_nowatermark/1623835863175770370/mda-mff3n7aebd7372ma.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680934000-0-0-e5fb8b2b5345e399d25ced97d60874c7&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2200788699&vid=12504243369953602279&abtest=107353_1-109133_1&klogid=2200788699
+新自话96,https://vd4.bdstatic.com/mda-mf9h8wjwb0m33siq/sc/cae_h264_nowatermark/1623382287595204106/mda-mf9h8wjwb0m33siq.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680934016-0-0-02362700097d461a5429ff74a63c918c&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2216315704&vid=4887389395815060042&abtest=107353_1-109133_1&klogid=2216315704
+新自话97,https://vd2.bdstatic.com/mda-mf3ffqryvmvt9xws/sc/cae_h264_nowatermark/1623036659455307035/mda-mf3ffqryvmvt9xws.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680934029-0-0-bcf4cf0cfef0e16232df4b8b34d9db1a&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2229471770&vid=7153438430961181453&abtest=107353_1-109133_1&klogid=2229471770
+新自话98,https://vd4.bdstatic.com/mda-mf0hkjzas05p3f2r/sc/cae_h264_nowatermark/1622626345407406293/mda-mf0hkjzas05p3f2r.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680934044-0-0-92831e2b4954e31152484aa0ac871a88&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2244728492&vid=4156696634880029728&abtest=107353_1-109133_1&klogid=2244728492
+新自话99,https://vd4.bdstatic.com/mda-mewm908r6391sqq8/sc/cae_h264_nowatermark/1622507398802472070/mda-mewm908r6391sqq8.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680934060-0-0-8c0df2a25f2273e0e1b6e528fb30130b&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2260170443&vid=3177094765181187272&abtest=107353_1-109133_1&klogid=2260170443
+新自话100,https://vd3.bdstatic.com/mda-mep3jnny0962csgs/sc/cae_h264_nowatermark/1621830254887680504/mda-mep3jnny0962csgs.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680934080-0-0-f7a7defc4284cd2aae0c421990cb9b48&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2280612876&vid=5129447712081051331&abtest=107353_1-109133_1&klogid=2280612876
+新自话101,https://vd2.bdstatic.com/mda-medf392s15bfipar/sc/cae_h264_delogo/1644341660461323231/mda-medf392s15bfipar.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680934098-0-0-d1b4c8cc90489b6dcd9a0e80ccd6e6f6&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2298279310&vid=17519148001884867259&abtest=107353_1-109133_1&klogid=2298279310
+新自话102,https://vd4.bdstatic.com/mda-me98v6ty1sfggx3b/sc/cae_h264_nowatermark/1621390968021805768/mda-me98v6ty1sfggx3b.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680934115-0-0-131081853418e95c2421949f57f8e281&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2315699153&vid=8411277005080613458&abtest=107353_1-109133_1&klogid=2315699153
+新自话103,https://vd7.bdstatic.com/mda-mdva37d25ife79yh/sc/cae_h264_nowatermark/1619928663537512173/mda-mdva37d25ife79yh.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680934127-0-0-50cecd4e57cf3ea5215f0c15ee97a5b3&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2327476851&vid=15836877245105626871&abtest=107353_1-109133_1&klogid=2327476851&sdk_xcdn=1
+新自话104,https://vd2.bdstatic.com/mda-mdqrcbnfxj7rmzf1/sc/cae_h264_nowatermark/1619345338/mda-mdqrcbnfxj7rmzf1.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680934147-0-0-9a759c5872e519ec38d1d85ddbb7f067&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2347615281&vid=712435976098199730&abtest=107353_1-109133_1&klogid=2347615281
+新自话105,https://vd2.bdstatic.com/mda-mdi6hiywqcge5fch/sc/cae_h264_nowatermark/1618808975/mda-mdi6hiywqcge5fch.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680934164-0-0-b3c732f6f364b4df2cae3f1a3a25128b&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2364006166&vid=4892187374543090496&abtest=107353_1-109133_1&klogid=2364006166
+新自话106,https://vd2.bdstatic.com/mda-mdbmw0d5uvs5u653/sc/cae_h264_nowatermark/1618214941/mda-mdbmw0d5uvs5u653.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680934177-0-0-cb6db3c4ecbe1b2ad30126c150eb3399&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2377683195&vid=10714545913761794673&abtest=107353_1-109133_1&klogid=2377683195
+新自话107,https://vd3.bdstatic.com/mda-md8h5tfgu685zdx1/v1-hknm/sc/mda-md8h5tfgu685zdx1.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680934200-0-0-b3262c8c120ea15beb40c79e3ffa9b0d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2400181466&vid=1438408413686483571&abtest=107353_1-109133_1&klogid=2400181466
+新自话108,https://vd2.bdstatic.com/mda-mcnhjtq0qqe0p05h/v1-hknm/sc/mda-mcnhjtq0qqe0p05h.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680934214-0-0-2cbc70cb37ddd44676213936edf25766&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2414027120&vid=11918440510267155090&abtest=107353_1-109133_1&klogid=2414027120
+新自话109,https://vd4.bdstatic.com/mda-mcfmgv1in4eiam8v/v1-hknm/sc/mda-mcfmgv1in4eiam8v.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680934355-0-0-c91599c20c19e17ee0b1e12f2cfb3dd7&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2555895181&vid=52801192826747418&abtest=107353_1-109133_1&klogid=2555895181
+新自话110,https://vd2.bdstatic.com/mda-mcbeaxyhtudqj9de/sc/cae_h264_nowatermark/1615516133/mda-mcbeaxyhtudqj9de.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680934372-0-0-34c319b7526c05c389c33da35ca4a75f&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2572426664&vid=1412327792195472250&abtest=107353_1-109133_1&klogid=2572426664
+新自话111,https://vd3.bdstatic.com/mda-mc4hfe09kwzb1w8i/v1-hknm/sc/mda-mc4hfe09kwzb1w8i.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680934391-0-0-862aca93905c2f4897fbc0273c7dac66&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2591231903&vid=8021195367016907671&abtest=107353_1-109133_1&klogid=2591231903
+新自话112,https://vd4.bdstatic.com/mda-mc0fk2ce4ahpsb64/sc/cae_h264_nowatermark/1614569375/mda-mc0fk2ce4ahpsb64.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680934409-0-0-206acea1d129c6177cece23afe4faa0e&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2609545313&vid=6779384390778205592&abtest=107353_1-109133_1&klogid=2609545313
+新自话113,https://vd4.bdstatic.com/mda-mb7maksmp8x3a7e0/v1-hknm/sc/mda-mb7maksmp8x3a7e0.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680934427-0-0-ef972e6513c9e99602c79650aff8212b&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2626936085&vid=606320896683843875&abtest=107353_1-109133_1&klogid=2626936085
+新自话114,https://vd4.bdstatic.com/mda-mb1e3m1d6a2zzxh8/sc/cae_h264_nowatermark/1612236449/mda-mb1e3m1d6a2zzxh8.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680934452-0-0-b5c894efd93497f6a1b7039e1ba8a926&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2652550777&vid=1139616112915314958&abtest=107353_1-109133_1&klogid=2652550777
+新自话115,https://vd2.bdstatic.com/mda-marh2r07sgwiapfe/v1-hknm/sc/mda-marh2r07sgwiapfe.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680934466-0-0-00316605376d400d7d297019cc0d7a14&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2666286992&vid=12738642138621530680&abtest=107353_1-109133_1&klogid=2666286992
+新自话116,https://vd4.bdstatic.com/mda-maifhtcif4g8ddv8/sc/cae_h264_nowatermark/1611028169/mda-maifhtcif4g8ddv8.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680934479-0-0-a93743d021579d9f1da8123474c87dd8&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2679840516&vid=2849922409975033315&abtest=107353_1-109133_1&klogid=2679840516
+新自话117,https://vd4.bdstatic.com/mda-ma6gh9avpcqwp4jw/sc/cae_h264_nowatermark/1610000127/mda-ma6gh9avpcqwp4jw.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680934497-0-0-1bd19c17fc0c6880314bc70fdb320ac3&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2696981209&vid=13978742408704621625&abtest=107353_1-109133_1&klogid=2696981209
+新自话118,https://vd4.bdstatic.com/mda-ma4fs00thha1r5rz/sc/cae_h264_nowatermark/1609819934/mda-ma4fs00thha1r5rz.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680934517-0-0-2bdc1be39e63bd64af5e7d515bbe1fc1&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2717749468&vid=11297617831023388628&abtest=107353_1-109133_1&klogid=2717749468
+新自话119,https://vd4.bdstatic.com/mda-kmtg5ma92f2xxt9b/sc/cae_h264_nowatermark/1609193379/mda-kmtg5ma92f2xxt9b.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680934531-0-0-5f2605316d75d950c50589712017c9ba&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2731249486&vid=5340720743128782528&abtest=107353_1-109133_1&klogid=2731249486
+新自话120,https://vd4.bdstatic.com/mda-kmmk8unewze759u6/v2-hknm/sc/mda-kmmk8unewze759u6.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680934548-0-0-9cbce616c4f48a13f760f215b180d612&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2748581301&vid=9791218871811947582&abtest=107353_1-109133_1&klogid=2748581301
+新自话121,https://vd2.bdstatic.com/mda-kmegf24zpivz8488/sc/cae_h264_nowatermark/1608005110/mda-kmegf24zpivz8488.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680934564-0-0-68536d17500f2efc1d35518d5becef97&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2764323605&vid=18022141823212015063&abtest=107353_1-109133_1&klogid=2764323605
+新自话122,https://vd4.bdstatic.com/mda-kkgh9bpqm1m0d3f4/sc/cae_h264_nowatermark/1605588327/mda-kkgh9bpqm1m0d3f4.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680934577-0-0-1278df4852e203f32e25695f68a63418&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2777186026&vid=1293709389487959535&abtest=107353_1-109133_1&klogid=2777186026
+新自话123,https://vd3.bdstatic.com/mda-kk4ffc2xr7yuzwra/sc/cae_h264_nowatermark/1604546376/mda-kk4ffc2xr7yuzwra.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680934591-0-0-592df80888eebbde097ee72367fffb2d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2791552511&vid=2494690503657133284&abtest=107353_1-109133_1&klogid=2791552511
+新自话124,https://vd2.bdstatic.com/mda-kk1f9hvvmxgctfhz/sc/cae_h264/1679850671516936516/mda-kk1f9hvvmxgctfhz.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680934611-0-0-f3d27c9a07cab064b4edc24de7e0ebdd&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2811220002&vid=9890821779515170969&abtest=107353_1-109133_1&klogid=2811220002
+新自话125,https://vd2.bdstatic.com/mda-kjrk8xk5q95r6n9q/sc/cae_h264_nowatermark/1603695366/mda-kjrk8xk5q95r6n9q.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680934631-0-0-a4471aa38186f85b084f4fa792c37080&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2830987574&vid=6875447892768399733&abtest=107353_1-109133_1&klogid=2830987574
+新自话126,https://vd2.bdstatic.com/mda-kjnnu575xuveqnn5/sc/cae_h264_nowatermark/1603849866/mda-kjnnu575xuveqnn5.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680934644-0-0-4bfcf28b0eafd81ef3e7b67db95d565c&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2844407195&vid=16716461414121311870&abtest=107353_1-109133_1&klogid=2844407195
+新自话127,https://vd2.bdstatic.com/mda-kjnnkauqs2x5wqx8/v1-cae/sc/mda-kjnnkauqs2x5wqx8.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680934663-0-0-484a0a47a14654a2f5e42f927e4dbf01&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2863754457&vid=8539645949545857456&abtest=107353_1-109133_1&klogid=2863754457
+新自话128,https://vd4.bdstatic.com/mda-kjnneemr1w7f607i/sc/cae_h264_nowatermark/1605604630/mda-kjnneemr1w7f607i.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680934684-0-0-4950f84cf328d71f5505fcd71b93e866&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2884419303&vid=14359641618775316855&abtest=107353_1-109133_1&klogid=2884419303
+新自话129,https://vd3.bdstatic.com/mda-kjnkq2nymvpk8t8m/v1-cae/sc/mda-kjnkq2nymvpk8t8m.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680934733-0-0-6b5eb2300cc894b7c09bfca207c66b71&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2932948745&vid=5315515336162451627&abtest=107353_1-109133_1&klogid=2932948745
+新自话130,https://vd2.bdstatic.com/mda-kjkgp9ma556mk36q/v1-cae/sc/mda-kjkgp9ma556mk36q.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680934747-0-0-9fa7234b9d6ebd63fd88190c45344a9f&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2947013710&vid=15942455919156002206&abtest=107353_1-109133_1&klogid=2947013710
+新自话131,https://vd4.bdstatic.com/mda-kjiniab04urffuy7/sc/cae_h264/1679690986608443390/mda-kjiniab04urffuy7.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680934760-0-0-196328023b843df77ef55c0b7366e9ea&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2960299741&vid=11044529350291844725&abtest=107353_1-109133_1&klogid=2960299741
+新自话132,https://vd3.bdstatic.com/mda-kjfegwu4na7kfhvy/v1-cae/sc/mda-kjfegwu4na7kfhvy.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680934783-0-0-1b7aaf071dacb763577dd34316aacc99&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2983413815&vid=291132708189512251&abtest=107353_1-109133_1&klogid=2983413815
+新自话133,https://vd3.bdstatic.com/mda-kjsj5epd658rtsds/v1-cae/sc/mda-kjsj5epd658rtsds.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680929327-0-0-8fc8c8c1ddedea738139a916b0d85577&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1127728630&vid=14185709593651951941&abtest=107353_1-109133_1&klogid=1127728630
+新自话134,https://vd2.bdstatic.com/mda-kjtcumihrp808h2c/sc/cae_h264/1679576092432964773/mda-kjtcumihrp808h2c.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680929400-0-0-af2e8addfe82bb4f7d73f41e75c3de6c&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1200055818&vid=9242429682871347479&abtest=107353_1-109133_1&klogid=1200055818
+新自话135,https://vd3.bdstatic.com/mda-kjtp2yvii6a2jhfn/v1-cae/sc/mda-kjtp2yvii6a2jhfn.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680929423-0-0-0ff6efc3e4f535eacd0de86d65981a61&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1223376721&vid=9102135303823516664&abtest=107353_1-109133_1&klogid=1223376721
+新自话136,https://vd4.bdstatic.com/mda-kjwgakru066t3mmj/v1-cae/sc/mda-kjwgakru066t3mmj.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680929459-0-0-4e89c4908c7c580594e8857468145386&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1259071726&vid=17890336518091456765&abtest=107353_1-109133_1&klogid=1259071726
+新自话137,https://vd3.bdstatic.com/mda-kk1fkt445cj041gd/v1-cae/sc/mda-kk1fkt445cj041gd.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680929481-0-0-e7b0db37a621fb195edd876ddd723e21&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1281560305&vid=11949962461475167151&abtest=107353_1-109133_1&klogid=1281560305
+新自话138,https://vd4.bdstatic.com/mda-kk5ca4r14bzyqpsp/v1-cae/sc/mda-kk5ca4r14bzyqpsp.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680929507-0-0-755969da9815f40bfd8ba862aef6ec6d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1307831463&vid=8248407897960307135&abtest=107353_1-109133_1&klogid=1307831463
+新自话139,https://vd2.bdstatic.com/mda-kk5ca7355mrt9k54/v1-cae/sc/mda-kk5ca7355mrt9k54.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680929532-0-0-f346a28f1445c1c38a640fb7323770e8&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1332753978&vid=8982034461923795136&abtest=107353_1-109133_1&klogid=1332753978
+新自话140,https://vd2.bdstatic.com/mda-kk6f9brqepy5j5yh/v1-cae/sc/mda-kk6f9brqepy5j5yh.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680929553-0-0-d10f70ea216f7c161048ea89ebf45afe&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1353072251&vid=8856422376847782530&abtest=107353_1-109133_1&klogid=1353072251
+新自话141,https://vd3.bdstatic.com/mda-kk8dp90ccyeaq8ra/v1-cae/sc/mda-kk8dp90ccyeaq8ra.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680929575-0-0-8af22322e007a545efae6526b763c2cc&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1375820225&vid=4689220652675920037&abtest=107353_1-109133_1&klogid=1375820225
+新自话142,https://vd2.bdstatic.com/mda-kk9e6wejwyfxx3gw/v1-cae/sc/mda-kk9e6wejwyfxx3gw.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680929597-0-0-6e31136d292090aec823fa211b242876&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1397912923&vid=2505822985983112536&abtest=107353_1-109133_1&klogid=1397912923
+新自话143,https://vd2.bdstatic.com/mda-kkad3g2yn32uav3u/v1-cae/sc/mda-kkad3g2yn32uav3u.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680929619-0-0-c4c7787de1a2390185c2847dd8d20fdb&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1419852245&vid=11366134133051384930&abtest=107353_1-109133_1&klogid=1419852245
+新自话144,https://vd2.bdstatic.com/mda-kkdiup091hrv8vag/v1-cae/sc/mda-kkdiup091hrv8vag.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680929639-0-0-ed9871c0b4601837118fff11f924392d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1439203165&vid=2049653650266685843&abtest=107353_1-109133_1&klogid=1439203165
+新自话145,https://vd3.bdstatic.com/mda-kkdkm4catnyi7hkm/v1-cae/sc/mda-kkdkm4catnyi7hkm.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680929665-0-0-007895b32274ac70d6663633b02e1b79&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1465540290&vid=6835565344810035557&abtest=107353_1-109133_1&klogid=1465540290
+新自话146,https://vd2.bdstatic.com/mda-kkff3hr8csnia08p/v1-cae/sc/mda-kkff3hr8csnia08p.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680929682-0-0-137f75df03638a597900ad4f1f67460b&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1482061653&vid=15796105587502420440&abtest=107353_1-109133_1&klogid=1482061653
+新自话147,https://vd7.bdstatic.com/mda-kkgmrpditpatuudb/v1-cae/sc/mda-kkgmrpditpatuudb.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680929725-0-0-c2e80cf9979c96540c358dda2b5065d3&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1525167221&vid=14303756299551232105&abtest=107353_1-109133_1&klogid=1525167221&sdk_xcdn=1
+新自话148,https://vd2.bdstatic.com/mda-kknj87kjmzsved2m/v1-cae/sc/mda-kknj87kjmzsved2m.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680929743-0-0-df7bf2271d97bcb2c6b2e266c7e96c6c&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1543450036&vid=7007620516174184476&abtest=107353_1-109133_1&klogid=1543450036
+新自话149,https://vd2.bdstatic.com/mda-kknnv9sa5qh2f83m/sc/cae_h264_nowatermark/1610479372/mda-kknnv9sa5qh2f83m.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680929767-0-0-e52383cfd609c3c5b898d28da61db839&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1567663722&vid=7645614328212593289&abtest=107353_1-109133_1&klogid=1567663722
+新自话150,https://vd2.bdstatic.com/mda-kkqj7si3c1d4mi6q/sc/cae_h264_nowatermark/1606290137/mda-kkqj7si3c1d4mi6q.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680929808-0-0-f0c38e760243fee80ef3104724dcb868&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1608357728&vid=11661147303527679986&abtest=107353_1-109133_1&klogid=1608357728
+新自话151,https://vd3.bdstatic.com/mda-kkrjh4a28y3920ga/v1-cae/sc/mda-kkrjh4a28y3920ga.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680929823-0-0-02b232c0818a2e25fe331e5f326ee1d2&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1623126776&vid=5401350360215039544&abtest=107353_1-109133_1&klogid=1623126776
+新自话152,https://vd4.bdstatic.com/mda-kkrjgwdys4y4a0uj/sc/cae_h264_nowatermark/1606461458/mda-kkrjgwdys4y4a0uj.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680929841-0-0-23c57a735d45a43af9114d364ce982d9&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1641833693&vid=255117916992150008&abtest=107353_1-109133_1&klogid=1641833693
+新自话153,https://vd3.bdstatic.com/mda-kktf7qj14k6ujnyn/sc/cae_h264_nowatermark/1606532566/mda-kktf7qj14k6ujnyn.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680929870-0-0-8cf931c07fef919912b3f0c2a8fc00a7&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1670061140&vid=16997046164713234714&abtest=107353_1-109133_1&klogid=1670061140
+新自话154,https://vd2.bdstatic.com/mda-kktmq5ief8c888je/sc/cae_h264_nowatermark/1606734608/mda-kktmq5ief8c888je.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680929885-0-0-b1391e5d8d517caf79881f556bdb0b54&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1685754214&vid=2157078184044230576&abtest=107353_1-109133_1&klogid=1685754214
+新自话155,https://vd4.bdstatic.com/mda-km2kgt50ewpmk09c/sc/cae_h264_nowatermark/1606984830/mda-km2kgt50ewpmk09c.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680929911-0-0-21a3616970e44173e7e866227c72d6d6&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1711259242&vid=4839931335197527882&abtest=107353_1-109133_1&klogid=1711259242
+新自话156,https://vd3.bdstatic.com/mda-km6njv245edvjbz7/sc/mda-km6njv245edvjbz7.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680929935-0-0-0e28e571ee97c21d536687a17a6d1158&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1735673254&vid=6590210747362515921&abtest=107353_1-109133_1&klogid=1735673254
+新自话157,https://vd4.bdstatic.com/mda-km6nrwru72v8gx3i/sc/cae_h264_nowatermark/1607501923/mda-km6nrwru72v8gx3i.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680929962-0-0-9cb97817d1f165c3f58ecf287e1ed9de&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1762147190&vid=12239467067710042748&abtest=107353_1-109133_1&klogid=1762147190
+新自话158,https://vd2.bdstatic.com/mda-km6pa47fmkni1ca5/sc/mda-km6pa47fmkni1ca5.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680929978-0-0-b2230a0af6f0791407cdecf1471e84f8&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1778496606&vid=13715768459901883670&abtest=107353_1-109133_1&klogid=1778496606
+新自话159,https://vd2.bdstatic.com/mda-kmbkgcapanx5vn4m/sc/cae_h264_nowatermark/1607760287/mda-kmbkgcapanx5vn4m.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680930001-0-0-dcb92d1fc7d76533b1ac41a38313ef93&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1800988113&vid=10902956958808438500&abtest=107353_1-109133_1&klogid=1800988113
+新自话160,https://vd4.bdstatic.com/mda-kmenmwvgaz5ca8f8/sc/cae_h264_nowatermark/1608025848/mda-kmenmwvgaz5ca8f8.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680930022-0-0-f32af967c5fd32bfb95157243a1057d6&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1822677167&vid=15413456000966817155&abtest=107353_1-109133_1&klogid=1822677167
+新自话161,https://vd3.bdstatic.com/mda-kmgnz57xz9w9ebgk/sc/cae_h264_nowatermark/1608198693/mda-kmgnz57xz9w9ebgk.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680930083-0-0-13ec07e46901967fab9448e9341c0f0f&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1883686824&vid=14147685957927508241&abtest=107353_1-109133_1&klogid=1883686824
+新自话162,https://vd4.bdstatic.com/mda-mabv58jcc6ghwp56/sc/cae_h264_nowatermark/1610455993/mda-mabv58jcc6ghwp56.mp4?v_from_s=hkapp-haokan-hna&auth_key=1680930112-0-0-4c45d4dee5550be56875ca9796c7036d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1912110202&vid=11405604815297488235&abtest=107353_1-109133_1&klogid=1912110202
+新自话163,https://vd2.bdstatic.com/mda-mb8ve8idjyegc4u0/sc/mda-mb8ve8idjyegc4u0.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680930132-0-0-e769fcee0dd527d659e5a09319b34fd2&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1932227250&vid=16764350192024804339&abtest=107353_1-109133_1&klogid=1932227250
+新自话164,https://vd4.bdstatic.com/mda-mbff1wdnbx89pkcm/v1-cae/sc/mda-mbff1wdnbx89pkcm.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1680930173-0-0-0b7be78c0f3ecfbdf95c33b89aeeae6b&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=1973553728&vid=15930535145290790365&abtest=107353_1-109133_1&klogid=1973553728
+
 
 直播中国,#genre#
 

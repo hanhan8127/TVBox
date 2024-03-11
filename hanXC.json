@@ -50,17 +50,19 @@
 {"key":"csp_YQKan","name":"一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},  
 {"key":"360影视","name":"360影视","type":3,"api":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js/360影视.js"},	    
 {"key":"360影视","name":"360影视","type":3,"api":"csp_SP33","jar":"https://notabug.org/qdpdwjx/ziyuan/raw/master/JAR/fan1108.jar;md5;F6CE0CE7BD8B398540BE062EBEF7051D","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+
+{"key": "Qtv","name": "腾腾","type": 3,"api": "csp_Qtv", "searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://jihulab.com/yinhe/whk/-/raw/main//jar/yinhe.jar"},	    
+{"key": "js_奇珍异兽","name": "奇艺","type": 3,"api": "./json/yinhe.js","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "https://jihulab.com/yinhe/whk/-/raw/main/json/奇异.js"},
+	    	    
 {"key":"csp_Qtv","name":"腾腾","type": 3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"changeable":1,"jar":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/0606.jar"},
 {"key":"csp_Mtv","name":"芒芒","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"changeable":1,"jar":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/0606.jar"},
-{"key":"csp_Itv1","name":"奇艺","type":3,"api":"csp_Itv","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"changeable":1,"jar":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/0606.jar"},
+//{"key":"js_奇珍异兽","name":"奇艺","type":3,"api":"csp_Itv","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"changeable":1,"jar":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/0606.jar"},
 
 {"key":"csp_Qtv","name":"腾腾","type":3,"api":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js/腾云驾雾.js"},          
 {"key":"csp_Mtv","name":"芒芒","type":3,"api":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js/百忙无果.js"},     
-{"key":"csp_Itv2","name":"奇艺","type":3,"api":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js/奇珍异兽.js"},     
+//{"key":"js_奇珍异兽","name":"奇艺","type":3,"api":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js/奇珍异兽.js"},     
 
-{"key": "js_奇珍异兽","name": "奇艺","type": 3,"api": "./json/yinhe.js","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "https://jihulab.com/yinhe/whk/-/raw/main//json/奇异.js"},
-{"key": "Qtv","name": "腾腾","type": 3,"api": "csp_Qtv", "searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://jihulab.com/yinhe/whk/-/raw/main//jar/yinhe.jar"},	    
-	    
+
 {"key":"drpy_js_优酷","name":"优酷","type":3,"api":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js/优酷.js"},     
 
    

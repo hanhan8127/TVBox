@@ -4,7 +4,7 @@
 "搜索url":"http://www.qiyoudy1.com/search.php;post;searchword={wd}",
 "搜索模式":"1",
 "分类url":"http://www.qiyoudy1.com/list/{cateId}_{catePg}.html",
-"分类":"电影$1#电视剧$2#动漫$3#综艺$4#午夜剧场$6",
+"分类":"电影$1#电视剧$2#动漫$3#综艺$4#",
 "筛选":
 {
 "1":[

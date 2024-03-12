@@ -1,9 +1,6 @@
 
 央视频道,#genre#
 
-//胜寒预览1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
-//胜寒预览1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
-//胜寒预览2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
 CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=1635962688
 CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8?auth_key=1635962688
 

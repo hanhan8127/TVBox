@@ -429,6 +429,7 @@ CCTV8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLT
 CCTV8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/4/224/3221228132/1.m3u8
 CCTV8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/3221228132/1.m3u8
 
+CCTV4K超高清,http://159.75.85.63:5679/cctv4k.php
 CCTV4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?icpid=3&RTS=1658389916&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 CCTV4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
@@ -1132,6 +1133,9 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 
 港澳台外,#genre#
 
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+
 凤凰中文,http://fzcds.cn:8822/hls/81/index.m3u8
 凤凰资讯,http://fzcds.cn:8822/hls/80/index.m3u8
 凤凰中文,http://wg.lloydind.cn:9999/udp/233.50.200.42:5140 
@@ -1184,6 +1188,7 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 
 中天新闻,http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
 壹新闻,http://ali.hlspull.yximgs.com/live/twlivemzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw.flv
+
 镜新闻,http://ali.hlspull.yximgs.com/live/twliveexcvzzocvuozxucfdexzpzzyxchvlzxzfezhcelethzzdxw.flv
 TVBS新闻,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
 TVBS频道,http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv

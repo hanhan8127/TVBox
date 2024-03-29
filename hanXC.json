@@ -166,8 +166,9 @@
         {"name":"Web","type": 3,"url":"Web"}, 
         {"name":"聚合","type":3,"url":"Demo"},
 
-        {"name": "胜寒聚合", "type": 1, "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],"header": {"User-Agent": "Lavf/58.12.100"}}},  	  
-        {"name":"胜寒","type": 1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext": {"flag": ["qq","iqiyi","youku","mgtv"]}},
+        {"name":"胜寒1", "type": 1, "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],"header": {"User-Agent": "Lavf/58.12.100"}}},  	  
+        {"name":"胜寒2","type": 1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext": {"flag": ["qq","iqiyi","youku","mgtv"]}},
+        {"name":"胜寒3","type":1,"url":"https://49zyplayerurl.com/?url="},
         {"name":"胜0","type":1,"url":"http://vip.wpsseo.cn/jx/?url="},
         {"name":"胜1","type":1,"url":"https://www.8090g.cn/?url="},
 	{"name":"胜2","type":1,"url":"https://svip.bljiex.cc/?v="},

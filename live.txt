@@ -8,8 +8,6 @@ CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mbd.m3u8?aut
 CCTV-1综合,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv1HD
 CCTV-2财经,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV-2财经,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv2HD
-
-
 CCTV-3综艺,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv3HD
 CCTV-4国际,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv4HD
 CCTV-5体育,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv5HD
@@ -36,6 +34,25 @@ CCTV央视台球,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=ystq
 CCTV风云足球,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=fyzqHD
 CCTV文化精品,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=yswhHD
 CCTV高尔夫网球,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=golfHD
+
+CCTV-1综合,https://itv.lat/tv/live.php?&line=1&id=cctv1
+CCTV-2财经,https://itv.lat/tv/live.php?&line=1&id=cctv2
+CCTV-3综艺,https://itv.lat/tv/live.php?&line=1&id=cctv3
+CCTV-4国际,https://itv.lat/tv/live.php?&line=1&id=cctv4
+CCTV-5体育,https://itv.lat/tv/live.php?&line=1&id=cctv5
+CCTV-5+赛事,https://itv.lat/tv/live.php?&line=1&id=cctv5p
+CCTV-6电影,https://itv.lat/tv/live.php?&line=1&id=cctv6
+CCTV-7军事,https://itv.lat/tv/live.php?&line=1&id=cctv7
+CCTV-8电视剧,https://itv.lat/tv/live.php?&line=1&id=cctv8
+CCTV-9纪录,https://itv.lat/tv/live.php?&line=1&id=cctv9
+CCTV-10科教,https://itv.lat/tv/live.php?&line=1&id=cctv10
+CCTV-11戏曲,https://itv.lat/tv/live.php?&line=1&id=cctv11
+CCTV-12社会,https://itv.lat/tv/live.php?&line=1&id=cctv12
+CCTV-13新闻,https://itv.lat/tv/live.php?&line=1&id=cctv13
+CCTV-14少儿,https://itv.lat/tv/live.php?&line=1&id=cctv14
+CCTV-15音乐,https://itv.lat/tv/live.php?&line=1&id=cctv15
+CCTV-16奥运,https://itv.lat/tv/live.php?&line=1&id=cctv16
+CCTV-17农村,https://itv.lat/tv/live.php?&line=1&id=cctv17
 
 CCTV1-综合,http://58.19.182.187:9901/tsfile/live/0001_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
 CCTV2-财经,http://58.19.182.187:9901/tsfile/live/0002_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
@@ -518,9 +535,14 @@ CETV教育-4，http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=
 CCTV4K超高清,http://159.75.85.63:5679/cctv4k.php
 CCTV4K超高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CCTV4K
 CCTV4K超高清,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv4k 
+CCTV4K超高清,https://itv.lat/tv/live.php?&line=1&id=cctv4k
+
+CCTV4K超高清,https://tv.cry33.com/ys4k.php?id=4k
+
+CCTV-16奥运4K,https://itv.lat/tv/live.php?&line=1&id=cctv164k
+
 CCTV-16奥运4K,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv164k 
 欢笑剧场4K,http://tvbox6.com/tv/dl/dl668/bestv.php?id=hxjc4k
-
 CCTV-16奥运4K,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CCTV16_4K
 CCTV-16奥运4K,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=CCTV16_4K
 CCTV8K超清,https://tv.cry33.com/ys4k.php?id=8k25
@@ -539,6 +561,7 @@ CCTV-16奥运4K,https://tv.cry33.com/ys4k.php?id=16-4k
 爱上 4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 爱上 4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 4K 修复,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+4k 修复,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 BesTV 4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 纯享 4K,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 纯享 4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
@@ -561,7 +584,29 @@ BesTV 4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/000000010000000600000000000
 欢笑剧场4K,http://125.82.171.210:8888/udp/235.254.196.150:7980
 欢笑剧场4K,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
 华数 4K,http://r.jdshipin.com/Lqdwf
-
+第一财经,https://itv.lat/tv/live.php?&line=1&id=dycj
+纪实科教,https://itv.lat/tv/live.php?&line=1&id=bjjskj
+纪实人文,https://itv.lat/tv/live.php?&line=1&id=shjsrw
+动漫秀场,https://itv.lat/tv/live.php?&line=1&id=dmxc
+哈哈炫动,https://itv.lat/tv/live.php?&line=1&id=hhxd
+欢笑剧场,https://itv.lat/tv/live.php?&line=1&id=hxjc
+欢笑剧场4K,https://itv.lat/tv/live.php?&line=1&id=hxjc4k
+都市剧场,https://itv.lat/tv/live.php?&line=1&id=dsjc
+五星体育,https://itv.lat/tv/live.php?&line=1&id=wxty
+劲爆体育,https://itv.lat/tv/live.php?&line=1&id=jbty
+新视觉,https://itv.lat/tv/live.php?&line=1&id=xsj
+游戏风云,https://itv.lat/tv/live.php?&line=1&id=yxfy
+生活时尚,https://itv.lat/tv/live.php?&line=1&id=shss
+金色学堂,https://itv.lat/tv/live.php?&line=1&id=jspd
+乐游,https://itv.lat/tv/live.php?&line=1&id=qjs
+魅力足球,https://itv.lat/tv/live.php?&line=1&id=mlzq
+茶频道,https://itv.lat/tv/live.php?&line=1&id=cpd
+快乐垂钓,https://itv.lat/tv/live.php?&line=1&id=klcd
+金鹰纪实,https://itv.lat/tv/live.php?&line=1&id=jyjs
+金鹰卡通,https://itv.lat/tv/live.php?&line=1&id=jykt
+嘉佳卡通,https://itv.lat/tv/live.php?&line=1&id=jjkt
+财富天下,https://itv.lat/tv/live.php?&line=1&id=cftx
+中国天气,https://itv.lat/tv/live.php?&line=1&id=zgtq
 淘电影,http://tvbox6.com/tv/bjltzb.php?id=36 
 每日影院,http://tvbox6.com/tv/bjltzb.php?id=37 
 星影,http://tvbox6.com/tv/bjltzb.php?id=38 
@@ -721,6 +766,44 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 教育卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=sdjiaoyuSD
 新疆卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=xinjiangSD
 西藏卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=xizangSD
+
+北京卫视,https://itv.lat/tv/live.php?&line=1&id=bjws
+东方卫视,https://itv.lat/tv/live.php?&line=1&id=dfws
+天津卫视,https://itv.lat/tv/live.php?&line=1&id=tjws
+重庆卫视,https://itv.lat/tv/live.php?&line=1&id=cqws
+黑龙江卫视,https://itv.lat/tv/live.php?&line=1&id=hljws
+吉林卫视,https://itv.lat/tv/live.php?&line=1&id=jlws
+辽宁卫视,https://itv.lat/tv/live.php?&line=1&id=lnws
+内蒙古卫视,https://itv.lat/tv/live.php?&line=1&id=nmws
+宁夏卫视,https://itv.lat/tv/live.php?&line=1&id=nxws
+甘肃卫视,https://itv.lat/tv/live.php?&line=1&id=gsws
+青海卫视,https://itv.lat/tv/live.php?&line=1&id=qhws
+陕西卫视,https://itv.lat/tv/live.php?&line=1&id=sxws
+河北卫视,https://itv.lat/tv/live.php?&line=1&id=hbws
+山西卫视,https://itv.lat/tv/live.php?&line=1&id=sxiws
+山东卫视,https://itv.lat/tv/live.php?&line=1&id=sdws
+安徽卫视,https://itv.lat/tv/live.php?&line=1&id=ahws
+河南卫视,https://itv.lat/tv/live.php?&line=1&id=hnws
+湖北卫视,https://itv.lat/tv/live.php?&line=1&id=hubws
+湖南卫视,https://itv.lat/tv/live.php?&line=1&id=hunws
+江西卫视,https://itv.lat/tv/live.php?&line=1&id=jxws
+江苏卫视,https://itv.lat/tv/live.php?&line=1&id=jsws
+浙江卫视,https://itv.lat/tv/live.php?&line=1&id=zjws
+东南卫视,https://itv.lat/tv/live.php?&line=1&id=dnws
+海峡卫视,https://itv.lat/tv/live.php?&line=1&id=hxws
+厦门卫视,https://itv.lat/tv/live.php?&line=1&id=xmws
+广东卫视,https://itv.lat/tv/live.php?&line=1&id=gdws
+深圳卫视,https://itv.lat/tv/live.php?&line=1&id=szws
+广西卫视,https://itv.lat/tv/live.php?&line=1&id=gxws
+云南卫视,https://itv.lat/tv/live.php?&line=1&id=ynws
+贵州卫视,https://itv.lat/tv/live.php?&line=1&id=gzws
+四川卫视,https://itv.lat/tv/live.php?&line=1&id=scws
+康巴卫视,https://itv.lat/tv/live.php?&line=1&id=kbws
+海南卫视,https://itv.lat/tv/live.php?&line=1&id=hinws
+三沙卫视,https://itv.lat/tv/live.php?&line=1&id=ssws
+新疆卫视,https://itv.lat/tv/live.php?&line=1&id=xjws
+兵团卫视,https://itv.lat/tv/live.php?&line=1&id=btws
+西藏卫视,https://itv.lat/tv/live.php?&line=1&id=xzws
 
 湖南卫视,http://58.19.182.187:9901/tsfile/live/0128_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
 东方卫视,http://58.19.182.187:9901/tsfile/live/0107_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
@@ -1170,21 +1253,7 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 新疆卫视,http://221.213.43.82:8888/newlive/live/hls/38/live.m3u8
 甘肃卫视,http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8
 
-CCTV-1综合,http://124.128.73.58:9901/tsfile/live/0001_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
-CCTV-2财经,http://124.128.73.58:9901/tsfile/live/0002_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
-CCTV-3综艺,http://124.128.73.58:9901/tsfile/live/0003_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
-CCTV-4国际,http://124.128.73.58:9901/tsfile/live/0004_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
-CCTV-5体育,http://124.128.73.58:9901/tsfile/live/0005_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
-CCTV-6电影,http://124.128.73.58:9901/tsfile/live/0006_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
-CCTV-7军农,http://124.128.73.58:9901/tsfile/live/0007_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
-CCTV-8电视剧,http://124.128.73.58:9901/tsfile/live/0008_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
-CCTV-9纪录,http://124.128.73.58:9901/tsfile/live/0009_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
-CCTV-10科教,http://124.128.73.58:9901/tsfile/live/0010_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
-CCTV-11戏曲,http://124.128.73.58:9901/tsfile/live/0011_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
-CCTV-12社会,http://124.128.73.58:9901/tsfile/live/0012_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
-CCTV-13新闻,http://124.128.73.58:9901/tsfile/live/0013_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
-CCTV-14少儿,http://124.128.73.58:9901/tsfile/live/0014_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
-CCTV-15音乐,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8?key=tvbox6_com&playlive=1&authid=0 
+
 
 黑龙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226327/index.m3u8 
 黑龙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226421/index.m3u8 
@@ -1301,7 +1370,8 @@ CCTV-15音乐,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8?key=tvbox6_com&p
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-
+凤凰资讯,http://113.64.145.195:8081/hls/36/index.m3u8
+凤凰中文,http://113.64.145.195:8081/hls/37/index.m3u8
 凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 凤凰中文,http://fzcds.cn:8822/hls/81/index.m3u8
 凤凰资讯,http://fzcds.cn:8822/hls/80/index.m3u8
@@ -1486,6 +1556,9 @@ ELEVEN1,http://ali.hlspull.yximgs.com/live/huanqiuhklivejjojjxcvyhjsjhtejwfhfvjj
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来体育,https://epg.pw/stream/e5507bbdc9dfef925338d5e3be29d249880f5702d13b4519c7def49163aa386b.m3u8
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
+
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 中天新闻,http://165.1.79.200:9000/live.m3u8?c=64
 TVBS新闻,http://165.1.79.200:9000/live.m3u8?c=67

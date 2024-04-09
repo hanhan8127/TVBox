@@ -1,23 +1,22 @@
 {
     "urls": [
-	    
-	{"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json","name": "胜寒"},
-	    
-	{"url": "https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json","name": "胜寒1"},
-	    
-       	{"url": "https://raw.gitmirror.com/hanhan8127/TVBox/main/hanXC.json","name": "胜寒2"},
 
+       	{"url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json","name": "胜寒"},	    
+	    
+	{"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json","name": "胜寒1"},
+	    
+	{"url": "https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json","name": "胜寒2"},
+	    
        	{"url": "https://raw.yzuu.cf/hanhan8127/TVBox/main/hanXC.json","name": "胜寒3"},
-	    
-       	{"url": "https://raw.kkgithub.com/hanhan8127/TVBox/main/hanXC.json","name": "胜寒4"},	
 
-	{"url": "https://100km.top/0","name": "胜寒5"},
+	{"url": "https://100km.top/0","name": "胜寒4"},
+
+	{"url": "http://ygbhbox.3vfree.club/pg/jsm.json","name": "宝盒"},	
 	    
 	{"url": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xiaomeitv.json","name": "小米1"},
 
 	{"url": "http://xhww.fun:63/小米/DEMO.json","name": "小米2"},	    
 	    
-
 
 	{"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "南风"},
 

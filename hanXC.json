@@ -12,8 +12,8 @@
 // "spider":"https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/my_spider.jar",
     "lives": [
 	    {"name": "live","type": 0,
-            "url": "https://raw.gitmirror.com/hanhan8127/TVBox/main/live.txt#https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt#https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt",
-           	
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt#https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt",
+            "url": "https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt",	
 	    "epg":"http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
            }],

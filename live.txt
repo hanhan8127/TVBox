@@ -1,4 +1,7 @@
-
+测试,#genre#
+CCTV-2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+CCTV-2财经2,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022576702.m3u8
+CCTV-2财经3,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022576703.m3u8
 央视频道,#genre#
 
 CCTV-13新闻,http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews

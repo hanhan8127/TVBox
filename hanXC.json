@@ -24,12 +24,11 @@
 {"key":"csp_DouDou","name":"豆瓣推荐","type":3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 {"key": "csp_hanhan","name": "胜寒提醒：请勿相信影片中广告！","type": 1,"playerType": 2,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1},	
-//{"key":"csp_gofilm","name":"GoFilm","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://m.mubai.link/index"},	    
+    
 //{"key": "乐乐1","name": "胜寒推荐","type": 1,"api": "https://leshizyapi.com/api.php/provide/vod/at/json/","searchable": 1,"quickSearch": 1,"filterable": 0,"categories":["短剧","国产剧", "大陆综艺","国产动漫","纪录片","动作片","爱情片","科幻片","恐怖片","喜剧片","剧情片","战争片","动画片","犯罪片","韩国剧","泰国剧","日剧","欧美剧","日韩综艺","港台综艺"]},
 {"key": "Aid","name": "急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},	    
-{"key":"zy_新浪","name":"胜寒推荐","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["大陆剧","综艺","动漫","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
-{"key":"zy_新浪","name":"胜寒推荐","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["大陆剧","综艺","动漫","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
-{"key":"zy_最大资源","name": "胜寒推荐","type":1,"api":"https://zuidazy.co//api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "categories": ["国产剧","港剧","美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","悬疑片","犯罪片"]},
+{"key":"南瓜影院","name": "胜寒推荐","type": 3,"api": "csp_NanGua","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},	
+{"key":"zy_最大资源","name":"胜寒推荐","type":1,"api":"https://zuidazy.co//api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "categories": ["国产剧","港剧","美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","悬疑片","犯罪片"]},
 //资源站域名：zuidazy.me，zuidazy.co，zuida.xyz;zuidazy.me，zuidazy.co，zuida.xyz；https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/at/xml/
 
 {"key":"zy_10801","name":"胜寒推荐","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php","playUrl": "https://vip.zykbf.com/?url=","categories": ["国产剧","大陆综艺","国产动漫","日韩综艺","日韩动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片","纪录片","剧情片","动画片","战争片"]},
@@ -37,28 +36,29 @@
 {"key": "app_快看1","name": "️胜寒推荐","searchable":1,"type": 1,"playerType":2,"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list","categories":["网络电影","国产剧", "国产综艺","国产动漫", "动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","日本动漫","韩国剧","港台剧","欧美剧","港台综艺"]},	
 //{"key": "原创","name": "胜寒推荐","type": 3,"api": "csp_YCyz","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "csp_Czsapp","name": "厂长看剧","type": 3,"api": "csp_Czsapp","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.czys03.com/"},    
+//{"key":"csp_GoFilm","name":"GoFilm","type":3,"api":"csp_GoFilm","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://m.mubai.link/index"},	
+{"key": "csp_GoFilm","name": "GoFilm","type":3,"api": "csp_GoFilm","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://1.94.30.26:3600/index"},    
+
+	    
 {"key": "csp_毛驴","name": "毛驴影视","type": 3,"api": "csp_MLYS","searchable": 1,"quickSearch": 1,"timeout": 15,"filterable": 1,"ext": "https://www.maolvys.com/"},
-{"key": "骚火","name": "骚火秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": { "分类url": "https://saohuo.tv/list/{cateId}-{catePg}.html;;vr1au0",
+{"key": "骚火","name": "骚火秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": { "分类url": "https://saohuo.us/list/{cateId}-{catePg}.html;;vr1au0",
   "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
   "数组二次截取": "class=\"v_list\">&&</ul>","数组": "\"v_img\"&&/div>",
   "标题": "title=\"&&\"","副标题": "v_note\"&&</div",
   "跳转播放链接": "<iframe*src=\"&&\"","二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接": "\"url\"*\"&&\"","嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4"}},
-
-{"key":"南瓜","name": "南瓜影院","type": 3,"api": "csp_NanGua","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},	
-//{"key":"南瓜","name": "南瓜影院","type": 3,"api": "https://jihulab.com/yinhe/whk/-/raw/main/json/yinhe.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/yinhe/whk/-/raw/main/json/nangua.js"},
-
-	    
-{"key": "drpy_js_骚火电影","name": "骚火电影","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext": "https://gitee.com/wgq332/tvt/raw/master/JS/js/骚火电影.js"},
+//骚火发布页http://shapp.us/	    
 {"key": "csp_七新","name": "七新秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": {"主页url":"http://www.7xdy.com/","简介":"+<span class=\"detail-content\" style=*>&&</span>",
   "影片状态":"状态：&&</p>","搜索url":"/search.php;post;searchword={wd}","线路数组":"<h3&&/h3>","线路标题":"七新+src=*>&&<",
   "分类url":"http://www.7xdy.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k","分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman" }},
+	    
+{"key":"zy_新浪","name":"新浪影院","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["大陆剧","综艺","动漫","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
+{"key":"zy_新浪","name":"新浪影院","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["大陆剧","综艺","动漫","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
 	    
 {"key":"虎牙资源","name":"虎牙资源","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1, "categories": ["内地剧","综艺","中国动漫","动画片","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片","记录片", "香港剧","韩剧","日剧","马泰剧","台湾剧", "日本动漫","欧美剧" ] },
 {"key":"zy_八戒", "name":"八戒资源", "type": 1, "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable": 1, "quickSearch": 1, "categories": ["国产剧", "大陆综艺","国产动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片",  "香港剧", "台湾剧", "韩国剧", "日本剧","泰国剧", "欧美剧", "日韩综艺", "港台综艺", "欧美综艺",  "日韩动漫", "欧美动漫", "港台动漫" ] },
 {"key": "乐享采集","name":"乐享影视","type": 1,"api": "http://ys.540734621.xyz/api.php/provide/vod/","playerType": 1,"searchable": 1, "quickSearch": 1,"filterable": 1, "categories": ["短剧","电影","电视剧","动漫","综艺","记录片","音乐","影视解说","体育"]},
  {"key":"zy_快车资源", "name": "快车资源", "type": 1, "api": "https://caiji.kczyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "categories": [ "国产剧", "大陆综艺","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片",  "香港剧", "台湾剧", "欧美剧", "韩国剧", "日本剧","日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫" ] },
 {"key":"极速资源","name": "极速资源","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧", "日剧", "韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺",  "日韩动漫", "欧美动漫","港台动漫","海外动漫"]},
-
 
 //{"key":"xp_奇优影院3","name":"奇优影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/奇优yy.json"},
 {"key":"csp_xBPQ_Voflix","name":"️Voflix影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.voflix.me/show/{cateId}-{area}-time-{class}-{lang}----{catePg}---{year}.html;;lr","分类":"电影$1#连续剧$2#综艺$3#动漫$4"}},

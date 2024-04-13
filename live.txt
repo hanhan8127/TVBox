@@ -5,9 +5,7 @@ CCTV-13新闻,http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
 CCTV-13新闻,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022575703.m3u8
 CCTV-13新闻,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022575702.m3u8
 
-
 CCTV-1综合,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv1HD
-CCTV-2财经,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV-2财经,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv2HD
 CCTV-3综艺,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv3HD
 CCTV-4国际,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv4HD
@@ -488,17 +486,11 @@ CCTV-17农村,http://[2409:8087:1a0b:df::4010]/PLTV/88888888/224/3221225708/inde
 CCTV-17农村,http://[2409:8087:1a0b:df::4015]/PLTV/88888888/224/3221225708/index.m3u8
 
 
-
-
-
-
 CCTV世界地理,http://111.20.40.160/PLTV/88888893/224/3221226947/index.m3u8
 CCTV电视指南,http://111.20.40.160/PLTV/88888893/224/3221226987/index.m3u8
 
 CCTV高尔夫网球,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
 CCTV高尔夫网球,http://hz752.live:63/6770/cqyx.php?id=golfHD
-
-
 
 CCTV世界地理,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/001/2012513303.m3u8
 CCTV央视台球,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/001/2012513703.m3u8
@@ -517,25 +509,19 @@ CETV教育-4，http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=
 
 胜寒测试,#genre#
 
-
-CCTV4K超高清,http://159.75.85.63:5679/cctv4k.php
-CCTV4K超高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CCTV4K
-CCTV4K超高清,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv4k 
-CCTV4K超高清,https://itv.lat/tv/live.php?&line=1&id=cctv4k
+8KCCTV超清,https://tv.cry33.com/ys4k.php?id=8k25
+8KCCTV超清,https://tv.cry33.com/ys4k.php?id=8k
 
 CCTV4K超高清,https://tv.cry33.com/ys4k.php?id=4k
+CCTV4K超高清,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CCTV4K
+CCTV4K超高清,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv4k 
+CCTV4K超高清,http://159.75.85.63:5679/cctv4k.php
 
-CCTV-16奥运4K,https://itv.lat/tv/live.php?&line=1&id=cctv164k
+4KCCTV-16奥运,https://tv.cry33.com/ys4k.php?id=16-4k
+4KCCTV-16奥运,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CCTV16_4K
+4KCCTV-16奥运,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv164k 
 
-CCTV-16奥运4K,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv164k 
 欢笑剧场4K,http://tvbox6.com/tv/dl/dl668/bestv.php?id=hxjc4k
-CCTV-16奥运4K,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CCTV16_4K
-CCTV-16奥运4K,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=CCTV16_4K
-CCTV8K超清,https://tv.cry33.com/ys4k.php?id=8k25
-CCTV8K超清,https://tv.cry33.com/ys4k.php?id=8k
-
-
-CCTV-16奥运4K,https://tv.cry33.com/ys4k.php?id=16-4k
 
 苏州 4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
@@ -1297,10 +1283,11 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 
 港澳台外,#genre#
 
-凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+
 凤凰资讯,http://nas.8211321.com:5555/rtp/239.61.2.183:9086
 凤凰中文,http://tvbox6.com/tv/fhzw.m3u8
 凤凰资讯,http://tvbox6.com/tv/fhzx.m3u8
@@ -1311,10 +1298,9 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 凤凰资讯,http://tvbox6.com/tv/fhzx2.m3u8 
 凤凰香港,http://tvbox6.com/tv/hk.php?id=28
 凤凰中文,http://mywlkj.ddns.net:754/tv/fhzw.m3u8 
-凤凰中文,http://mywlkj.ddns.net:754/tv/hk.php?id=26
-凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
 凤凰资讯,http://mywlkj.ddns.net:754/tv/fhzx.m3u8
-凤凰资讯,http://mywlkj.ddns.net:754/tv/hk.php?id=27
+
+凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
 凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
 
 凤凰中文,https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/index.m3u8
@@ -1414,17 +1400,33 @@ GOODTV,http://tvbox6.com/tv/dl/dl668/hk.php?id=433
 面包台,http://tvbox6.com/tv/dl/dl668/hk.php?id=585  
 美亚电影台,http://tvbox6.com/tv/yximgs.php?id=1 
 
+中天新闻,http://58.87.99.251:8090/HK/ztxw/hls.m3u8
+中视频道,rtmp://220.130.201.73/sat/tv091
+华视频道,rtmp://220.130.201.73/sat/tv111
+台视频道,rtmp://220.130.201.73/sat/tv071
+民视频道,rtmp://220.130.201.73/sat/tv051
+纬来体育,rtmp://220.130.201.73/sat/tv721
+纬来育乐,rtmp://220.130.201.73/sat/tv701
+纬来日本,rtmp://220.130.201.73/sat/tv771
+东森超视,rtmp://220.130.201.73/sat/tv331
 
-
+民视频道,rtmp://f13h.mine.nu/sat/tv051
+台视频道,rtmp://f13h.mine.nu/sat/tv071
+中视频道,rtmp://f13h.mine.nu/sat/tv091
+华视频道,rtmp://f13h.mine.nu/sat/tv111
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 
 中天新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
 中天新闻,http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
 中天新闻,http://165.1.79.200:9000/live.m3u8?c=64
 
-台湾中视,rtmp://f13h.mine.nu/sat/tv091
-台湾华视,rtmp://f13h.mine.nu/sat/tv111
-台湾民视,rtmp://f13h.mine.nu/sat/tv051
-台湾台视,rtmp://f13h.mine.nu/sat/tv071
+
 壹新闻,http://ali.hlspull.yximgs.com/live/twlivemzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw.flv
 壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 镜新闻,http://ali.hlspull.yximgs.com/live/twliveexcvzzocvuozxucfdexzpzzyxchvlzxzfezhcelethzzdxw.flv

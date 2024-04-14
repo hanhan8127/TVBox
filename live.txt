@@ -1,9 +1,33 @@
+测试,#genre#
+222,http://cfss.cc/Cf/mk/cctv1-52684.m3u8
+
+333,http://cfss.cc/Cf/bst/cctv2-52684.m3u8
+
+CCTV-1,http://222.174.140.242:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-2,http://222.174.140.242:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-3,http://222.174.140.242:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-4,http://222.174.140.242:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-5,http://222.174.140.242:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-5+,http://222.174.140.242:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-6,http://222.174.140.242:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-7,http://222.174.140.242:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-8,http://222.174.140.242:9901/tsfile/live/0008_2.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-9,http://222.174.140.242:9901/tsfile/live/0009_2.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-10,http://222.174.140.242:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-11,http://222.174.140.242:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-12,http://222.174.140.242:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-13,http://221.1.210.106:8053/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$山东菏泽 联通
+CCTV-14,http://222.174.140.242:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-15,http://222.174.140.242:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-16,http://1.30.18.218:20080/hls/16/index.m3u8$内蒙古呼和浩特 联通
 
 央视频道,#genre#
 
 CCTV-13新闻,http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
 CCTV-13新闻,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022575703.m3u8
 CCTV-13新闻,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022575702.m3u8
+CCTV-13新闻,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
+
 
 CCTV-1综合,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv1HD
 CCTV-2财经,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv2HD
@@ -12,7 +36,6 @@ CCTV-4国际,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv4HD
 CCTV-5体育,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv5HD
 CCTV-5体育,http://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4dd1cc8d502d426d93c9083589e4d5d9/2000.m3u8
 CCTV-5体育,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/4dd1cc8d502d426d93c9083589e4d5d9/2000.m3u8
-
 CCTV-5+赛事,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv5SportHD
 CCTV-6电影,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv6HD
 CCTV-6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
@@ -37,27 +60,6 @@ CCTV风云足球,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=fyzq
 CCTV文化精品,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=yswhHD
 CCTV高尔夫网球,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=golfHD
 
-CCTV-1综合,http://8.134.211.236:13556/china/cctv.php?id=cctv1
-CCTV-2财经,http://8.134.211.236:13556/china/cctv.php?id=cctv2
-CCTV-3综艺,http://8.134.211.236:13556/china/cctv.php?id=cctv3
-CCTV-4国际,http://8.134.211.236:13556/china/cctv.php?id=cctv4
-CCTV-5体育,http://8.134.211.236:13556/china/cctv.php?id=cctv5
-CCTV-5+赛事,http://8.134.211.236:13556/china/cctv.php?id=cctv5p
-CCTV-6电影,http://8.134.211.236:13556/china/cctv.php?id=cctv6
-CCTV-7军事,http://8.134.211.236:13556/china/cctv.php?id=cctv7
-CCTV-8电视剧,http://8.134.211.236:13556/china/cctv.php?id=cctv8
-CCTV-9纪录,http://8.134.211.236:13556/china/cctv.php?id=cctv9
-CCTV-10科教,http://8.134.211.236:13556/china/cctv.php?id=cctv10
-CCTV-11戏曲,http://8.134.211.236:13556/china/cctv.php?id=cctv11
-CCTV-12社会,http://8.134.211.236:13556/china/cctv.php?id=cctv12
-CCTV-13新闻,http://8.134.211.236:13556/china/cctv.php?id=cctv13
-CCTV-14少儿,http://8.134.211.236:13556/china/cctv.php?id=cctv14
-CCTV-15音乐,http://8.134.211.236:13556/china/cctv.php?id=cctv15
-CCTV-16奥运,http://8.134.211.236:13556/china/cctv.php?id=cctv16
-CCTV-17农村,http://8.134.211.236:13556/china/cctv.php?id=cctv17
-
-
-
 CCTV-1综合,http://tvbox6.com/tv/bjltzb.php?id=1 
 CCTV-2财经,http://tvbox6.com/tv/bjltzb.php?id=2 
 CCTV-3综艺,http://tvbox6.com/tv/bjltzb.php?id=3 
@@ -77,6 +79,20 @@ CCTV-15音乐,http://tvbox6.com/tv/bjltzb.php?id=16
 CCTV-16奥运,http://tvbox6.com/tv/bjltzb.php?id=17 
 CCTV-16奥运,http://tvbox6.com/tv/bjltzb.php?id=18 
 CCTV-17农村,http://tvbox6.com/tv/bjltzb.php?id=19
+
+CCTV风云剧场,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
+CCTV第一剧场,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
+CCTV怀旧剧场,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+CCTV世界地理,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+CCTV风云音乐,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
+CCTV兵器科技,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+CCTV风云足球,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+CCTV高尔夫网球,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+CCTV女性时尚,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
+CCTV文化精品,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
+CCTV央视台球,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
+CCTV电视指南,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
+CCTV卫生健康,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
 
 
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -125,6 +141,26 @@ CCTV-14少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3
 CCTV-15音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV-16奥运,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV-16奥运,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+
+CCTV-1综合,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv1 
+CCTV-2财经,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv2 
+CCTV-3综艺,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv3 
+CCTV-4国际,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv4 
+CCTV-5体育,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv5 
+CCTV-5+赛事,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv5p 
+CCTV-6电影,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv6 
+CCTV-7军事,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv7 
+CCTV-8电视剧,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv8 
+CCTV-9纪录,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv9 
+CCTV-10科教,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv10 
+CCTV-11戏曲,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv11 
+CCTV-12社会,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv12 
+CCTV-13新闻,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv13 
+CCTV-14少儿,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv14 
+CCTV-15音乐,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv15 
+CCTV-16奥运,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv16 
+CCTV-17农村,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv17 
+
 
 CCTV-1综合,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUU6FFmRK8Hl0ytyd5e5kWGEwoDIwMxbrlyyVy9x6ZDKnldIYKOjBOUjRyoym5n7Kg0yIYstFTUfqtC14fzxhy5Y
 CCTV-2财经,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfGVSARKsxkWGZw7vFUuOj2QZHeRzosIxVbl7i2QHFATHA3k5wDWG1qHkZQAleNv%2FbI 
@@ -321,25 +357,6 @@ CCTV-13新闻,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=067
 CCTV-14少儿,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=132
 CCTV-15音乐,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=133
 CCTV-17农村,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=204
-
-CCTV-1综合,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv1 
-CCTV-2财经,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv2 
-CCTV-3综艺,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv3 
-CCTV-4国际,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv4 
-CCTV-5体育,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv5 
-CCTV-5+赛事,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv5p 
-CCTV-6电影,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv6 
-CCTV-7军事,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv7 
-CCTV-8电视剧,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv8 
-CCTV-9纪录,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv9 
-CCTV-10科教,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv10 
-CCTV-11戏曲,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv11 
-CCTV-12社会,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv12 
-CCTV-13新闻,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv13 
-CCTV-14少儿,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv14 
-CCTV-15音乐,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv15 
-CCTV-16奥运,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv16 
-CCTV-17农村,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv17 
 
 CCTV央视台球,http://110.178.52.190:8085/udp/239.1.1.100:8100
 CCTV风云足球,http://110.178.52.190:8085/udp/239.1.1.101:8101

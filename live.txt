@@ -1,25 +1,5 @@
-测试,#genre#
-222,http://cfss.cc/Cf/mk/cctv1-52684.m3u8
 
-333,http://cfss.cc/Cf/bst/cctv2-52684.m3u8
 
-CCTV-1,http://222.174.140.242:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
-CCTV-2,http://222.174.140.242:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
-CCTV-3,http://222.174.140.242:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
-CCTV-4,http://222.174.140.242:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
-CCTV-5,http://222.174.140.242:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
-CCTV-5+,http://222.174.140.242:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
-CCTV-6,http://222.174.140.242:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
-CCTV-7,http://222.174.140.242:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
-CCTV-8,http://222.174.140.242:9901/tsfile/live/0008_2.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
-CCTV-9,http://222.174.140.242:9901/tsfile/live/0009_2.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
-CCTV-10,http://222.174.140.242:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
-CCTV-11,http://222.174.140.242:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
-CCTV-12,http://222.174.140.242:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
-CCTV-13,http://221.1.210.106:8053/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$山东菏泽 联通
-CCTV-14,http://222.174.140.242:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
-CCTV-15,http://222.174.140.242:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
-CCTV-16,http://1.30.18.218:20080/hls/16/index.m3u8$内蒙古呼和浩特 联通
 
 央视频道,#genre#
 
@@ -60,6 +40,25 @@ CCTV风云足球,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=fyzq
 CCTV文化精品,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=yswhHD
 CCTV高尔夫网球,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=golfHD
 
+CCTV-1综合,http://222.174.140.242:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-2财经,http://222.174.140.242:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-3综艺,http://222.174.140.242:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-4国际,http://222.174.140.242:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-5体育,http://222.174.140.242:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-5+赛事,http://222.174.140.242:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-6电影,http://222.174.140.242:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-7军事,http://222.174.140.242:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-8电视剧,http://222.174.140.242:9901/tsfile/live/0008_2.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-9纪录,http://222.174.140.242:9901/tsfile/live/0009_2.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-10科教,http://222.174.140.242:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-11戏曲,http://222.174.140.242:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-12社会,http://222.174.140.242:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-13新闻,http://221.1.210.106:8053/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$山东菏泽 联通
+CCTV-14少儿,http://222.174.140.242:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-15音乐,http://222.174.140.242:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV-16奥运,http://1.30.18.218:20080/hls/16/index.m3u8$内蒙古呼和浩特 联通
+
+
 CCTV-1综合,http://tvbox6.com/tv/bjltzb.php?id=1 
 CCTV-2财经,http://tvbox6.com/tv/bjltzb.php?id=2 
 CCTV-3综艺,http://tvbox6.com/tv/bjltzb.php?id=3 
@@ -79,6 +78,9 @@ CCTV-15音乐,http://tvbox6.com/tv/bjltzb.php?id=16
 CCTV-16奥运,http://tvbox6.com/tv/bjltzb.php?id=17 
 CCTV-16奥运,http://tvbox6.com/tv/bjltzb.php?id=18 
 CCTV-17农村,http://tvbox6.com/tv/bjltzb.php?id=19
+
+
+
 
 CCTV风云剧场,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
 CCTV第一剧场,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012514403.m3u8

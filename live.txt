@@ -4,10 +4,7 @@
 央视频道,#genre#
 
 CCTV-13新闻,http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
-CCTV-13新闻,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022575703.m3u8
-CCTV-13新闻,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022575702.m3u8
 CCTV-13新闻,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
-
 
 CCTV-1综合,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv1HD
 CCTV-2财经,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv2HD
@@ -541,12 +538,15 @@ CCTV-4K,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CCTV4K
 CCTV-4K,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv4k 
 CCTV-4K,http://159.75.85.63:5679/cctv4k.php
 CCTV-4K,https://cdn2.jdshipin.com/api/bst2.php?id=cctv4k/15000000
+CCTV-4K,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv4k 
 
-CCTV-164K,https://tv.cry33.com/ys4k.php?id=16-4k
-CCTV-164K,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CCTV16_4K
-CCTV-164K,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv164k 
-CCTV-164K,https://cdn2.jdshipin.com/api/bst2.php?id=cctv16hd4k/15000000
+CCTV-16_4K,https://tv.cry33.com/ys4k.php?id=16-4k
+CCTV-16_4K,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CCTV16_4K
+CCTV-16_4K,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv164k 
+CCTV-16_4K,https://cdn2.jdshipin.com/api/bst2.php?id=cctv16hd4k/15000000
 
+CCTV-16_4K,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv164k 
+欢笑剧场4K,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=hxjc4k 
 欢笑剧场4K,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=hxjc_4K
 欢笑剧场4K,http://tvbox6.com/tv/dl/dl668/bestv.php?id=hxjc4k
 北京 4K,http://tvbox6.com/tv/bjltzb.php?id=35 
@@ -1670,6 +1670,9 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
 重庆新闻,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_3.stream/chunklist.m3u8
 重庆新闻,https://sjlivecdn9.cbg.cn/202404130640/app_2/_definst_/ls_3.stream/chunklist.m3u8
+重庆卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/31.php?id=1 
+重庆新闻,http://mywlkj.ddns.net:754/tv/dl/dl668/31.php?id=2 
+重庆移动,http://mywlkj.ddns.net:754/tv/dl/dl668/31.php?id=4 
 
 
 重庆新闻,http://183.65.9.200:8888/udp/235.254.197.199:7980

@@ -43,6 +43,24 @@ CCTV风云足球,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=fyzq
 CCTV文化精品,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=yswhHD
 CCTV高尔夫网球,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=golfHD
 
+CCTV-1综合,http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8
+CCTV-1综合,http://39.134.66.66/PLTV/88888888/224/3221225706/index.m3u8
+CCTV-2财经,http://39.134.66.66/PLTV/88888888/224/3221225599/index.m3u8
+CCTV-3综艺,http://39.134.66.66/PLTV/88888888/224/3221225799/index.m3u8
+CCTV-4国际,http://39.134.66.66/PLTV/88888888/224/3221225797/index.m3u8
+CCTV-5体育,http://39.134.66.66/PLTV/88888888/224/3221225818/index.m3u8
+CCTV-5+赛事,http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
+CCTV-6电影,http://39.134.66.66/PLTV/88888888/224/3221225814/index.m3u8
+CCTV-7军事,http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
+CCTV-8电视剧,http://39.134.66.66/PLTV/88888888/224/3221225795/index.m3u8
+CCTV-9纪录,http://39.134.66.66/PLTV/88888888/224/3221225676/index.m3u8
+CCTV-10科教,http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
+CCTV-11戏曲,http://39.134.66.66/PLTV/88888888/224/3221225517/index.m3u8
+CCTV-12社会,http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
+CCTV-13新闻,http://39.134.66.66/PLTV/88888888/224/3221225812/index.m3u8
+CCTV-14少儿,http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
+CCTV-15音乐,http://39.134.66.66/PLTV/88888888/224/3221225513/index.m3u8
+CCTV-17农村,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 
 CCTV-1综合,http://tvbox6.com/tv/bjltzb.php?id=1 
 CCTV-2财经,http://tvbox6.com/tv/bjltzb.php?id=2 
@@ -63,8 +81,6 @@ CCTV-15音乐,http://tvbox6.com/tv/bjltzb.php?id=16
 CCTV-16奥运,http://tvbox6.com/tv/bjltzb.php?id=17 
 CCTV-16奥运,http://tvbox6.com/tv/bjltzb.php?id=18 
 CCTV-17农村,http://tvbox6.com/tv/bjltzb.php?id=19
-
-
 
 
 CCTV风云剧场,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
@@ -99,35 +115,6 @@ CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/inde
 CCTV-15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV-17农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-CCTV-1综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
-CCTV-1综合,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
-CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
-CCTV-3综艺,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-CCTV-3综艺,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-CCTV-4国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-CCTV-4国际,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-CCTV-5体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-CCTV-5体育,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-CCTV-5+赛事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-CCTV-5+赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-CCTV-6电影,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-CCTV-6电影,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-CCTV-7军事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
-CCTV-7军事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
-CCTV-8电视剧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
-CCTV-8电视剧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-CCTV-8电视剧,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
-CCTV-8电视剧,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-CCTV-9纪录,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-CCTV-9纪录,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-CCTV-10科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
-CCTV-13新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-CCTV-13新闻,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-CCTV-14少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
-CCTV-15音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
-CCTV-16奥运,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-CCTV-16奥运,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 
 CCTV-1综合,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv1 
 CCTV-2财经,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv2 
@@ -775,6 +762,22 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 教育卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=sdjiaoyuSD
 新疆卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=xinjiangSD
 西藏卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=xizangSD
+
+
+北京卫视,http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8
+重庆卫视,http://39.134.66.66/PLTV/88888888/224/3221225502/index.m3u8
+东方卫视,http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
+东南卫视,http://39.134.66.66/PLTV/88888888/224/3221225500/index.m3u8
+甘肃卫视,http://39.134.66.66/PLTV/88888888/224/3221225584/index.m3u8
+贵州卫视,http://39.134.66.66/PLTV/88888888/224/3221225576/index.m3u8
+海南卫视,http://39.134.66.66/PLTV/88888888/224/3221225530/index.m3u8
+河北卫视,http://39.134.66.66/PLTV/88888888/224/3221225495/index.m3u8
+湖北卫视,http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
+金鹰卡通,http://39.134.66.66/PLTV/88888888/224/3221225561/index.m3u8
+湖南卫视,http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
+江苏卫视,http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
+优漫卡通,http://39.134.66.66/PLTV/88888888/224/3221225556/index.m3u8
+辽宁卫视,http://39.134.66.66/PLTV/88888888/224/3221225499/index.m3u8
 
 
 辽宁卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=058 

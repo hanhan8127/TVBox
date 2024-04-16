@@ -40,13 +40,35 @@
 //{"key":"csp_GoFilm","name":"GoFilm","type":3,"api":"csp_GoFilm","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://m.mubai.link/index"},	
 {"key": "csp_GoFilm","name": "GoFilm","type":3,"api": "csp_GoFilm","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://1.94.30.26:3600/index"},    
      
-{"key": "好恐怖","name": "好看剧影","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
-"ext": { "数组": "class=\"lozad\"&&</li>","图片": "img src=\"&&\"", "标题": "title=\"&&\"","简介": "<div class=\"jqtxt\">&&</p>","链接": "https://www.haokongbu.top/play/+href=\"/*/&&.html+1.html",
-        "线路二次截取": "class=\"source_tab\"&&</div>", "线路数组": "<span&&</span>","线路标题": ">&&<small>","播放二次截取": "class=\"tabc on\"&&class=\"movie-love",
-        "播放数组": "<ul>&&</ul>", "播放标题": ">&&</a>","播放列表": "<li>&&</li>", "播放链接": "href=\"&&\"","跳转播放链接": "var urls = decodeURIComponent('&&');",
-        "搜索url": "https://s.haokongbu.top/e/search/result/?wd={wd}", "分类url": "https://www.haokongbu.top/{cateId}/index_{catePg}.html[https://www.haokongbu.top/{cateId}/]",
-        "分类": "国产剧$guochanju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#记录片$m_jlp#动画片$donghuapian#高清$gaoqing#港剧$gangju#台剧$taiwanju#日剧$riju#韩剧$hanju#美剧$oumeiju#泰剧$taiguoju},"jar": "https://gitlab.com/xmbjm/zrj/-/raw/main/227/Yoursmile.jar"},
-	    
+     { "key": "好恐怖","name": "拾光┃恐怖","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1, "filterable": 1,
+            "ext": {
+                "数组": "class=\"lozad\"&&</li>",
+                "图片": "img src=\"&&\"",
+                "标题": "title=\"&&\"",
+                "简介": "<div class=\"jqtxt\">&&</p>",
+                "链接": "https://www.haokongbu.top/play/+href=\"/*/&&.html+1.html",
+                "线路二次截取": "class=\"source_tab\"&&</div>",
+                "线路数组": "<span&&</span>",
+                "线路标题": ">&&<small>",
+                "播放二次截取": "class=\"tabc on\"&&class=\"movie-love",
+                "播放数组": "<ul>&&</ul>",
+                "播放标题": ">&&</a>",
+                "播放列表": "<li>&&</li>",
+                "播放链接": "href=\"&&\"",
+                "跳转播放链接": "var urls = decodeURIComponent('&&');",
+                "搜索url": "https://s.haokongbu.top/e/search/result/?wd={wd}",
+                "分类url": "https://www.haokongbu.top/{cateId}/index_{catePg}.html[https://www.haokongbu.top/{cateId}/]",
+                "分类": "国产剧$guochanju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#记录片$m_jlp#动画片$donghuapian#高清$gaoqing#港剧$gangju#台剧$taiwanju#日剧$riju#韩剧$hanju#美剧$oumeiju#泰剧$taiguoju#海外剧$haiwaiju#微电影$weidianying#冷门电影$lmmovie#冷门电视剧$lmtv"},
+	"jar": "https://gitlab.com/xmbjm/zrj/-/raw/main/227/Yoursmile.jar"},
+
+
+
+
+
+
+
+
+	
 {"key": "csp_毛驴","name": "毛驴影视","type": 3,"api": "csp_MLYS","searchable": 1,"quickSearch": 1,"timeout": 15,"filterable": 1,"ext": "https://www.maolvys.com/"},
 {"key": "骚火","name": "骚火秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": { "分类url": "https://saohuo.us/list/{cateId}-{catePg}.html;;vr1au0",
   "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",

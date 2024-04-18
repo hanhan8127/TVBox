@@ -58,8 +58,6 @@
 {"key":"360影视","name":"360影视","type":3,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/drpy2.min.js","ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/360%E5%BD%B1%E8%A7%86.js"},	    
 {"key":"360影视","name":"360影视","type":3,"api":"https://jihulab.com/yw88075/tvbox/-/raw/main/dr/lib/drpy2.min.js","ext":"https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js/360影视.js"},
    
-{"key":"csp_Ikanbot","name": "自动采集","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.ikanbot.com"},
-  
 { "key": "好恐怖","name": "好看剧影","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1, "filterable": 1,
   "ext": {"数组": "class=\"lozad\"&&</li>", "图片": "img src=\"&&\"", "标题": "title=\"&&\"","简介": "<div class=\"jqtxt\">&&</p>", "链接": "https://www.haokongbu.top/play/+href=\"/*/&&.html+1.html",
 "线路二次截取": "class=\"source_tab\"&&</div>","线路数组": "<span&&</span>","线路标题": ">&&<small>",

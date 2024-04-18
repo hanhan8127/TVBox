@@ -51,15 +51,14 @@
 {"key": "快看1","name": "快看聚合","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1},
 //{"key": "快看","name": "快看影院","type": 3,"api": "csp_Kkys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
 //{"key": "app_快看1","name":"️快看影视","searchable":1,"type": 1,"playerType":2,"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list","categories":["网络电影","国产剧", "国产综艺","国产动漫", "动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","日本动漫","韩国剧","港台剧","欧美剧","港台综艺"]},	
-	    
+{"key":"cym","name":"喵喵影视","type":3,"api":"csp_AppCYM","jar":"http://8.210.232.168/jar/xc.zip","searchable":1,"filterable":1,"changeable":1},	    
 {"key":"小镇","name":"电影小镇","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"主页url":"http://dyxz.tv","数组":"<div class=\"stui-vodlist__box\">&&</div>","图片":"data-original=\"&&\"","标题":"title=\"&&\"","链接":"href=\"&&\"","副标题":"<span class=\"pic-text text-right\">&&</span>","搜索url":"http://dyxz.tv/search.php;post;searchword={wd}","搜索模式":"1","搜索数组":"<a class=\"v-thumb stui-vodlist__thumb&&</a>","搜索图片":"data-original=\"&&\"","搜索标题":"title=\"&&\"","搜索链接":"href=\"&&\"","搜索副标题":"<span class=\"pic-text text-right\">&&</span>","搜索后缀":"/view/","线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","播放数组":"<ul class=\"stui-content__playlist clearfix&&</ul>","影片年代":"年份：&&</p>","影片地区":"地区：&&<span","影片类型":"类型：&&</a>","导演":"导演：&&</p>","主演":"主演：&&</p>","简介":"更新：&&</p>","播放列表":"<a&&/a>","播放标题":">&&<","播放链接":"href=\"&&\"","免嗅":"0","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
 {"key": "Xinsj","name": "新视觉","type": 3,"api": "csp_Xinsj", "timeout": 15, "searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.80yy3.com/"},
-                    
-
-	    
+    
 //{"key":"csp_SP360","name":"360影视","type":3,"playerType":2,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"360影视","name":"360影视","type":3,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/drpy2.min.js","ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/360%E5%BD%B1%E8%A7%86.js"},	    
 {"key":"360影视","name":"360影视","type":3,"api":"https://jihulab.com/yw88075/tvbox/-/raw/main/dr/lib/drpy2.min.js","ext":"https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js/360影视.js"},
+{"key":"vidhub","name":"影视视库","type":3,"api":"csp_WebVidHub","jar":"	http://8.210.232.168/jar/xc.zip","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://vidhub1.cc"},
    
 { "key": "好恐怖","name": "好看剧影","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1, "filterable": 1,
   "ext": {"数组": "class=\"lozad\"&&</li>", "图片": "img src=\"&&\"", "标题": "title=\"&&\"","简介": "<div class=\"jqtxt\">&&</p>", "链接": "https://www.haokongbu.top/play/+href=\"/*/&&.html+1.html",
@@ -155,6 +154,16 @@
 //https://ikunzyapi.com/
 {"key":"csp_MeiJu69","name":"69美剧","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 
+{"key":"小灯塔科学","name": "🧒科学", "type": 3, "api": "csp_Bili", "jar": "http://www.wya6.cn/tz/wyxy.php", "searchable": 0, "quickSearch": 1, "filterable": 1, "ext": "https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/f0ef6384377f8a7a5152f7a70f5db01827c9dcf9/%E6%95%99%E8%82%B2/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E7%A7%91%E5%AD%A6.json" }, 
+{"key":"小灯塔地理","name":"🧒地理", "type": 3, "api": "csp_Bili", "jar": "http://www.wya6.cn/tz/wyxy.php", "searchable": 0, "quickSearch": 1, "filterable": 1, "ext": "https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/f0ef6384377f8a7a5152f7a70f5db01827c9dcf9/%E6%95%99%E8%82%B2/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E5%9C%B0%E7%90%86.json" }, 
+{"key":"小灯塔百科","name":"🧒百科", "type": 3, "api": "csp_Bili", "jar": "http://www.wya6.cn/tz/wyxy.php", "searchable": 0, "quickSearch": 1, "filterable": 1, "ext": "https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/f0ef6384377f8a7a5152f7a70f5db01827c9dcf9/%E6%95%99%E8%82%B2/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E7%99%BE%E7%A7%91.json" }, { "key": "小灯塔国学", "name": "🧒国学", "type": 3, "api": "csp_Bili", "jar": "http://www.wya6.cn/tz/wyxy.php", "searchable": 0, "quickSearch": 1, "filterable": 1, "ext": "https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/f0ef6384377f8a7a5152f7a70f5db01827c9dcf9/%E6%95%99%E8%82%B2/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E5%9B%BD%E5%AD%A6.json" },  
+{"key":"童趣","name":"🍭童趣","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://jihulab.com/ymz1231/js/-/raw/main/%E7%AB%A5%E8%B6%A3.js"},
+	    
+{"key":"js_亲子","name" :"亲子教育","type" : 3,"api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext" : "https://notabug.org/ygfxz/6/raw/main/js/tongqu.js"},
+{"key":"幼儿启蒙","name":"幼儿启蒙","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/幼儿启蒙.json","jar": ""}, 
+{"key":"幼儿教育","name": "幼儿教育","type": 3,"api": "csp_Bili","jar": "http://www.wya6.cn/tz/wyxy.php", "searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://raw.gitcode.com/wykj/kj/raw/main/json/哔哩幼小.json"},
+
+	
 {"key": "csp_hanhan","name": "胜寒提醒：请勿相信影片中广告！","type": 1,"playerType": 2,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1}
 
 ],

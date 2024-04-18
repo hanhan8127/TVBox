@@ -128,8 +128,6 @@
 {"key": "49zy","name": "49资源","type": 1,"api": "https://49zyw.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"categories": ["国产剧","大陆综艺","国产动漫","日本动漫","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","纪录片","欧美剧","香港剧","韩国剧","动漫","港台综艺","日韩综艺","欧美综艺","台湾剧","欧美动漫","泰国剧","日剧","电影解说","奇幻片","灾难片","悬疑片","其他片","体育赛事","海外剧"]},
     
 {"key":"duanju","name":"星芽短剧","type":3,"api":"csp_AppXY","jar":"	http://8.210.232.168/jar/xc.zip","searchable":1,"quickSearch":0,"filterable":0},
-
-{"key": "种子短剧","name": "短剧种子","type": 3,"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","ext": "http://dt.xn--yety82d.love/js/种子短剧.js","playerType": 2},
 {"key": "聚合短剧","name": "聚合短剧","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://122.228.84.103:6822/api.php/app/"}, 
 
 {"key":"csp_xBPQ_爱看影院","name":"️爱看影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.3wyy.com/vodshow/{cateId}-{area}-time-{class}-{lang}----{catePg}---{year}.html;;lr","分类":"电影$1#连续剧$2#综艺$3#动漫$4"}},

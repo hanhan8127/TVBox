@@ -29,7 +29,7 @@
 {"key":"南瓜影院","name": "胜寒推荐","type": 3,"api": "csp_NanGua","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},	
 {"key":"zy_最大资源","name":"胜寒推荐","type":1,"api":"https://zuidazy.co//api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "categories": ["国产剧","港剧","美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","悬疑片","犯罪片"]},
 //资源站域名：zuidazy.me，zuidazy.co，zuida.xyz;zuidazy.me，zuidazy.co，zuida.xyz；https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/at/xml/
-{"key": "乐乐1","name": "乐视资源","type": 1,"api": "https://leshiapi.com/api.php/provide/vod/at/json","playurl": "https://leshivideoplayurl.com/?url=""searchable": 1,"quickSearch": 1,"filterable": 0,"categories":["短剧","国产剧", "大陆综艺","国产动漫","纪录片","动作片","爱情片","科幻片","恐怖片","喜剧片","剧情片","战争片","动画片","犯罪片","韩国剧","泰国剧","日剧","欧美剧","日韩综艺","港台综艺"]},
+{"key": "乐乐1","name": "乐视资源","type": 1,"api": "https://leshiapi.com/api.php/provide/vod/at/json","playurl":"https://leshivideoplayurl.com/?url=","searchable": 1,"quickSearch": 1,"filterable": 0,"categories":["短剧","国产剧", "大陆综艺","国产动漫","纪录片","动作片","爱情片","科幻片","恐怖片","喜剧片","剧情片","战争片","动画片","犯罪片","韩国剧","泰国剧","日剧","欧美剧","日韩综艺","港台综艺"]},
 //https://leshizy.com/
 	    
 {"key":"zy_10801","name":"1080影视","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php","playUrl": "https://vip.zykbf.com/?url=","categories": ["国产剧","大陆综艺","国产动漫","日韩综艺","日韩动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片","纪录片","剧情片","动画片","战争片"]},

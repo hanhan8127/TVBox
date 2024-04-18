@@ -43,8 +43,6 @@
 {"key": "Xinsj","name": "新视觉","type": 3,"api": "csp_Xinsj", "timeout": 15, "searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.80yy3.com/"},
                 
               
-         
-            
 {"key": "csp_秒播","name": "秒播影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"分类": "国产剧&国产动漫&电影&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧", 
   "分类值": "14&75&1&26&36&25&30&23&69&15&16&62", "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}", 
   "数组二次截取": "list\":[&&]", "数组": "{&&}[不包含:]", "图片": "vod_pic\":\"&&\"", 
@@ -56,9 +54,9 @@
   "播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]", "播放二次截取": "", "播放列表": "表&&表", "播放标题": "题&&题", "播放链接": "链&&链", "嗅探词": ".m3u8", 
   "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad", "免嗅": "0" }},
 
-{"key":"csp_SP360","name":"360影视","type":3,"playerType":2,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-//{"key":"360影视","name":"360影视","type":3,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/drpy2.min.js","ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/360%E5%BD%B1%E8%A7%86.js"},	    
-//{"key":"360影视2","name":"360影视2","type":3,"api":"https://jihulab.com/yw88075/tvbox/-/raw/main/dr/lib/drpy2.min.js","ext":"https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js/360影视.js"},
+//{"key":"csp_SP360","name":"360影视","type":3,"playerType":2,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"360影视","name":"360影视","type":3,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/drpy2.min.js","ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/360%E5%BD%B1%E8%A7%86.js"},	    
+{"key":"360影视","name":"360影视","type":3,"api":"https://jihulab.com/yw88075/tvbox/-/raw/main/dr/lib/drpy2.min.js","ext":"https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js/360影视.js"},
    
 {"key":"csp_Ikanbot","name": "自动采集","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.ikanbot.com"},
   

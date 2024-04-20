@@ -165,7 +165,7 @@
 //https://ikunzyapi.com/
 {"key":"csp_MeiJu69","name":"69美剧","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 
-{"key":"小灯塔科学","name": "🧒科学", "type": 3, "api": "csp_Bili", "jar": "http://www.wya6.cn/tz/wyxy.php", "searchable": 0, "quickSearch": 1, "filterable": 1, "ext": "https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/f0ef6384377f8a7a5152f7a70f5db01827c9dcf9/%E6%95%99%E8%82%B2/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E7%A7%91%E5%AD%A6.json" }, 
+{"key":"小灯塔科学","name": 🧒科学", "type": 3, "api": "csp_Bili", "jar": "http://www.wya6.cn/tz/wyxy.php", "searchable": 0, "quickSearch": 1, "filterable": 1, "ext": "https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/f0ef6384377f8a7a5152f7a70f5db01827c9dcf9/%E6%95%99%E8%82%B2/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E7%A7%91%E5%AD%A6.json" }, 
 {"key":"小灯塔地理","name":"🧒地理", "type": 3, "api": "csp_Bili", "jar": "http://www.wya6.cn/tz/wyxy.php", "searchable": 0, "quickSearch": 1, "filterable": 1, "ext": "https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/f0ef6384377f8a7a5152f7a70f5db01827c9dcf9/%E6%95%99%E8%82%B2/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E5%9C%B0%E7%90%86.json" }, 
 {"key":"小灯塔百科","name":"🧒百科", "type": 3, "api": "csp_Bili", "jar": "http://www.wya6.cn/tz/wyxy.php", "searchable": 0, "quickSearch": 1, "filterable": 1, "ext": "https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/f0ef6384377f8a7a5152f7a70f5db01827c9dcf9/%E6%95%99%E8%82%B2/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E7%99%BE%E7%A7%91.json" }, { "key": "小灯塔国学", "name": "🧒国学", "type": 3, "api": "csp_Bili", "jar": "http://www.wya6.cn/tz/wyxy.php", "searchable": 0, "quickSearch": 1, "filterable": 1, "ext": "https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/f0ef6384377f8a7a5152f7a70f5db01827c9dcf9/%E6%95%99%E8%82%B2/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E5%9B%BD%E5%AD%A6.json" },  
 {"key":"童趣","name":"🍭童趣","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://jihulab.com/ymz1231/js/-/raw/main/%E7%AB%A5%E8%B6%A3.js"},
@@ -200,7 +200,8 @@
         {"name":"寒4","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
         {"name":"胜5","type":0,"url":"https://jx.xmflv.com/?url="},
         {"name":"寒5","type":0,"url":"https://www.yemu.xyz/?url="},
-
+        {"name":"胜6","type": 0,"url": "https://t1.qlplayer.cyou/player/analysis.php?v=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu", "搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],"header":{"User-Agent":"Dart/3.0(dart:io)"}}},  
+        {"name":"寒6","type": 0,"url": "https://t1.qlplayer.cyou/player/?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],"header":{"User-Agent":"Dart/3.0(dart:io)"}}}, 
         {"name":"寒7","type":1,"url":"https://www.ckplayer.vip/jiexi/?url="},
         {"name":"胜寒欢迎您","type":0,"url":""}
 

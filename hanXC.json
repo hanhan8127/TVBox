@@ -106,9 +106,11 @@
 	
 //{"key": "csp_毛驴","name": "毛驴影视","type": 3,"api": "csp_MLYS","searchable": 1,"quickSearch": 1,"timeout": 15,"filterable": 1,"ext": "https://www.maolvys.com/"},
 	    
-{"key":"奇虎资源", "name":"奇虎资源", "type": 1, "api": "https://caiji.qhzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "quickSearch": 1,"categories": ["短剧","国产剧","大陆综艺","国产动漫","韩国剧","动画片","剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","日本动漫","欧美动漫","日本剧","泰国剧","台湾剧","香港剧","欧美剧","日韩综艺","港台综艺","欧美综艺"]},	    
-{"key":"全站资源", "name":"全站资源", "type": 1, "api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/?ac=list",  "searchable": 1,  "quickSearch": 1,"categories": ["国产","综艺","动作", "喜剧", "爱情", "科幻", "恐怖", "剧情", "战争","记录", "惊悚","犯罪","冒险","武侠","奇幻","台湾剧"]},	    
+//{"key":"奇虎资源", "name":"奇虎资源", "type": 1, "api": "https://caiji.qhzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "quickSearch": 1,"categories": ["短剧","国产剧","大陆综艺","国产动漫","韩国剧","动画片","剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","日本动漫","欧美动漫","日本剧","泰国剧","台湾剧","香港剧","欧美剧","日韩综艺","港台综艺","欧美综艺"]},	    
+//虎资源站：qihuzy.com，备用网址：qihuzy1.com至qihuzy9.com
 
+{"key":"快云资源","name":"快云资源","type": 1,"api": "https://kuaiyun-api.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"categories": ["国产剧","国产综艺","国产动漫","日本动漫","动作片","爱情片","科幻片","恐怖片","奇幻片","战争片","喜剧片","动画电影","犯罪片","纪录片","欧美剧","港台剧","泰剧","港台综艺","日韩综艺","欧美综艺","韩国综艺","欧美动漫","日本剧","电影解说","奇幻片","灾难片","悬疑片","海外剧"]},
+ 
 
 
 {"key": "meowtv_Qxys","name": "七新影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1, "ext":"http://cdn.teyonds.com/xp/七新影视.json"},

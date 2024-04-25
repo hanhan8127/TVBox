@@ -37,6 +37,11 @@
 	    
 {"key":"南瓜影院","name": "胜寒推荐","type": 3,"api": "csp_NanGua","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
 
+{"key":"kk","name":"快看影院","type":3,"api":"csp_AppKKYS","jar":"http://8.210.232.168/jar/xc.zip","searchable":1,"changeable":0,"ext":[{"from":"swf","to":"极速"},{"from":"mmmm","to":"自营"},{"from":"jp","to":"荐片"},{"from":"jqq","to":"剧圈"}]},
+{"key": "快看1","name":"快看聚合","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable":1,"filterable": 1},
+{"key": "快看","name": "快看影视","type": 3,"api": "csp_Kkys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1},
+//{"key": "app_快看1","name":"️快看影视","searchable":1,"type": 1,"playerType":2,"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list","categories":["网络电影","国产剧", "国产综艺","国产动漫", "动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","日本动漫","韩国剧","港台剧","欧美剧","港台综艺"]},	
+
 {"key": "白嫖","name": "白飘秒播","type": 3,"api": "csp_BaiPiao","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.baipiaoys.com:9092/"},
 {"key": "酷看","name": "酷看秒播","type": 3,"api": "csp_Kkys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1},
 	    
@@ -91,13 +96,7 @@
 {"key":"zy_10801","name":"1080影视","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php","playUrl": "https://vip.zykbf.com/?url=","categories": ["国产剧","大陆综艺","国产动漫","日韩综艺","日韩动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片","纪录片","剧情片","动画片","战争片"]},
 //优质影视网址：优质资源主域名:yzzy.tv hdzyk.com（备用网址): 1080zyk1.com 至 1080zyk10.com,
 {"key":"天翼资源","name":"天翼资源","type":1,"api":"https://www.911ysw.top/tianyi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1 , "categories": ["国产剧", "综艺","动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片","惊悚片","犯罪片","悬疑片","惊悚片",  "港台剧",  "日韩剧","泰国剧", "欧美剧" ] },
- 
-
-	    
-{"key":"kk","name":"快看影院","type":3,"api":"csp_AppKKYS","jar":"http://8.210.232.168/jar/xc.zip","searchable":1,"changeable":0,"ext":[{"from":"swf","to":"极速"},{"from":"mmmm","to":"自营"},{"from":"jp","to":"荐片"},{"from":"jqq","to":"剧圈"}]},
-{"key": "快看1","name": "快看聚合","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1},
-//{"key": "快看","name": "快看影院","type": 3,"api": "csp_Kkys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
-//{"key": "app_快看1","name":"️快看影视","searchable":1,"type": 1,"playerType":2,"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list","categories":["网络电影","国产剧", "国产综艺","国产动漫", "动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","日本动漫","韩国剧","港台剧","欧美剧","港台综艺"]},	
+ 	    
 {"key":"cym","name":"喵喵影视","type":3,"api":"csp_AppCYM","jar":"http://8.210.232.168/jar/xc.zip","searchable":1,"filterable":1,"changeable":1},	    
 {"key":"小镇","name":"电影小镇","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"主页url":"http://dyxz.tv","数组":"<div class=\"stui-vodlist__box\">&&</div>","图片":"data-original=\"&&\"","标题":"title=\"&&\"","链接":"href=\"&&\"","副标题":"<span class=\"pic-text text-right\">&&</span>","搜索url":"http://dyxz.tv/search.php;post;searchword={wd}","搜索模式":"1","搜索数组":"<a class=\"v-thumb stui-vodlist__thumb&&</a>","搜索图片":"data-original=\"&&\"","搜索标题":"title=\"&&\"","搜索链接":"href=\"&&\"","搜索副标题":"<span class=\"pic-text text-right\">&&</span>","搜索后缀":"/view/","线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","播放数组":"<ul class=\"stui-content__playlist clearfix&&</ul>","影片年代":"年份：&&</p>","影片地区":"地区：&&<span","影片类型":"类型：&&</a>","导演":"导演：&&</p>","主演":"主演：&&</p>","简介":"更新：&&</p>","播放列表":"<a&&/a>","播放标题":">&&<","播放链接":"href=\"&&\"","免嗅":"0","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
 {"key": "Xinsj","name": "新视觉","type": 3,"api": "csp_Xinsj", "timeout": 15, "searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.80yy3.com/"},

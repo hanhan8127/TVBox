@@ -9,7 +9,7 @@
 
     "lives": [
 	    {"name": "live","type": 0,
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt#https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt",
+            "url": "https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt#https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt",
 	    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 	    "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    
@@ -24,7 +24,9 @@
   
 {"key": "Aid","name": "急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},	 
 
-{"key": "快看","name": "胜寒推荐","type": 3,"api": "csp_Kkys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1},	    
+{"key": "白嫖","name": "胜寒推荐","type": 3,"api": "csp_BaiPiao","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.baipiaoys.com:9092/"},
+{"key": "酷看","name": "胜寒推荐","type": 3,"api": "csp_Kkys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1},
+	    
 {"key":"csp_秒播","name":"胜寒推荐","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"分类":"国产剧&国产动漫&电影&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧", 
   "分类值": "14&75&1&26&36&25&30&23&69&15&16&62", "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}", 
   "数组二次截取": "list\":[&&]", "数组": "{&&}[不包含:]", "图片": "vod_pic\":\"&&\"", 
@@ -42,10 +44,8 @@
 {"key": "快看1","name":"快看聚合","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable":1,"filterable": 1},
 
 //{"key": "app_快看1","name":"️快看影视","searchable":1,"type": 1,"playerType":2,"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list","categories":["网络电影","国产剧", "国产综艺","国产动漫", "动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","日本动漫","韩国剧","港台剧","欧美剧","港台综艺"]},	
-
-{"key": "白嫖","name": "白飘秒播","type": 3,"api": "csp_BaiPiao","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.baipiaoys.com:9092/"},
-{"key": "酷看","name": "酷看秒播","type": 3,"api": "csp_Kkys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1},
-	    
+//{"key": "快看","name": "胜寒推荐","type": 3,"api": "csp_Kkys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1},	 
+   
 {"key": "csp_七新","name": "七新秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": {"主页url":"http://www.7xdy.com/","简介":"+<span class=\"detail-content\" style=*>&&</span>",
   "影片状态":"状态：&&</p>","搜索url":"/search.php;post;searchword={wd}","线路数组":"<h3&&/h3>","线路标题":"胜寒+src=*>&&<",
   "分类url":"http://www.7xdy.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k","分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman" }},

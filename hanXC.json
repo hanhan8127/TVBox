@@ -2,12 +2,11 @@
 
 {
 
-"spider":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/Yoursmile.jar",	
+//"spider":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/Yoursmile.jar",	
  //"spider": "https://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/jar/xc14.jar;md5;9733ac5a326a4ce26dea8a5a1e3be41b",
  //"spider": "https://jihulab.com/yinhe/whk/-/raw/main/jar/spider.jar",	
-//"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
-//"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/shenghan.jar#https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/shenghan.jar",
-// "spider":"https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/my_spider.jar",
+ "spider":"https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/Yoursmile.jar",
+
     "lives": [
 	    {"name": "live","type": 0,
             "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt#https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt",

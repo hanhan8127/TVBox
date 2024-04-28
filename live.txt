@@ -1,18 +1,20 @@
 
+央视1,#genre#
+CCTV-2财经,http://183.203.143.228:5003/cctv2.m3u8?token=7375646f69a6e2fe12709e01fa666b15e79d701a
+CCTV-4,http://183.203.143.228:5003/cctv4.m3u8?token=7375646fa42dc1b4bfab7ccecbab2f8fac7a5c4a
+央视2,#genre#
+CCTV-2财经,http://cfss.cc/Cf/mk/cctv2-35327.m3u8
+CCTV-4,http://cfss.cc/Cf/mk/cctv4-35327.m3u8
 
 
 央视频道,#genre#
 
-
 CCTV-13新闻,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CCTVNewsHD
 CCTV-13新闻,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575703.m3u8
-
-
 
 CCTV-1综合,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv1HD
 
 CCTV-2财经,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-
 CCTV-2财经,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv2HD
 CCTV-3综艺,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv3HD
 CCTV-4国际,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cctv4HD

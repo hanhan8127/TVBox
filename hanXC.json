@@ -24,10 +24,7 @@
   
 {"key": "Aid","name": "急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},	 
 
-{"key":"csp_素白影视","name":"胜寒推荐","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
-	"ext":"{\"免嗅\":\"0\",\"主演\":\"主演:&&</div>\",\"播放数组\":\"class=\\\"paly_list_btn&&</div>\",\"副标题\":\"class=\\\"jidi\\\">&&</span>\",\"简介\":\"class=\\\"yp_context\\\"*<p>&&</div>\",
-	\"分类\":\"国产剧$domestic-drama#电影$new-movie#电视剧$tv-drama#香港经典电影$hongkong-movie\",\"分类url\":\"https://www.subaibaiys.com/{cateId}/page/{catePg}\"}"},
-//素白白地址发布页：subaibai.vip	    	    
+	    
 {"key":"南瓜影院","name":"胜寒推荐","type": 3,"api": "csp_NanGua","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key":"快看聚合","name":"胜寒推荐","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable":1,"filterable": 1},
 
@@ -56,8 +53,6 @@
   "跳转播放链接": "<iframe*src=\"&&\"","二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接": "\"url\"*\"&&\"","嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4"}},
 //骚火发布页http://shapp.us/；https://saohuo.tv/
 
-
-   
 {"key":"云播","name":"TV云播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"影片类型":"分类：&&主演","导演":"导演：</span>&&</p>","主演":"主演：</span>&&</p>","简介":"class=\"sketch content\">&&</span>",
   "数组":"myui-vodlist__thumb&&</a>","标题":"title=\"&&\"","副标题":"pic-tag pic-tag-top\">&&</span>","图片":"data-original=\"&&\"","链接":"href=\"&&\"","搜索模式":"1","搜索url":"http://www.hktvyun.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
   "搜索二次截取":"\"list\":[&&]","搜索数组":"{&&}","搜索标题":"\"name\":\"&&\"","搜索图片":"\"pic\":\"&&\"","搜索链接":"http://www.hktvyun.com/vod/detail/id/+\"id\":&&,+html","嗅探词":".m3u8#mp4","线路数组":"</a><h3&&/h3>","线路标题":"title\">&&<",
@@ -65,8 +60,6 @@
 //TV云播发布页http://www.hktvyb.vip/
 
 //{"key":"app_云解析","name":"云解析","type": 1,"api": "https://api.yparse.com/api/json","categories": ["国产剧","综艺","动漫","韩国剧","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片","战争片"]},
-
-
 
 {"key": "海兔影院","name":"海兔影院","type":3,"api":"csp_XBPQ","jar":"https://gitlab.com/xmbjm/omg/-/raw/main/jar/xyqxbpq.jar","ext": {"分类url":"https://www.haituu.tv/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类": "电视剧$2#电影$1#综艺$3#动漫$4"}},
 {"key": "花姐影院","name": "花姐影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"数组": "<li class=\"fed-list-item&&</li>","搜索url": "https://www.huajie2.com/search.php?searchword={wd}",
@@ -92,7 +85,11 @@
         "搜索模式": "1","嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com","搜索url": "https://rebozj.pro/type/id-.html?wd={wd}","线路数组": "<h4 class=\"title&&/h4>","线路标题": ">&&<","播放列表": "<a&&/a>","播放标题": ">&&<",
 	"影片类型": "类型：&&</p>","导演": "导演：&&</p>","主演": "主演：&&</p>","简介": "display: none;\">&&</span>",
         "分类": "电视剧$2#电影$1#综艺$3#动漫$4","分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a","跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"}},
-	    
+
+{"key":"csp_素白影视","name":"素白影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
+	"ext":"{\"免嗅\":\"0\",\"主演\":\"主演:&&</div>\",\"播放数组\":\"class=\\\"paly_list_btn&&</div>\",\"副标题\":\"class=\\\"jidi\\\">&&</span>\",\"简介\":\"class=\\\"yp_context\\\"*<p>&&</div>\",
+	\"分类\":\"国产剧$domestic-drama#电影$new-movie#电视剧$tv-drama#香港经典电影$hongkong-movie\",\"分类url\":\"https://www.subaibaiys.com/{cateId}/page/{catePg}\"}"},
+//素白白地址发布页：subaibai.vip	    	    
     
 {"key":"zy_10801","name":"1080影视","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php","playUrl": "https://vip.zykbf.com/?url=","categories": ["国产剧","大陆综艺","国产动漫","日韩综艺","日韩动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片","纪录片","剧情片","动画片","战争片"]},
 //优质影视网址：优质资源主域名:yzzy.tv hdzyk.com（备用网址): 1080zyk1.com 至 1080zyk10.com,

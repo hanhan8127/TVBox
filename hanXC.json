@@ -24,9 +24,8 @@
   
 {"key": "Aid","name": "急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},	 
 
-{"key": "白嫖","name": "胜寒推荐","type": 3,"api": "csp_BaiPiao","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.baipiaoys.com:9092/"},
-{"key": "酷看","name": "胜寒推荐","type": 3,"api": "csp_Kkys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1},
-	    
+{"key": "app_云解析","name":"️胜寒推荐","searchable":1,"type": 1,"playerType":2,"api": "https://api.yparse.com/api/json"},	
+
 {"key":"csp_秒播","name":"胜寒推荐","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"分类":"国产剧&国产动漫&电影&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧", 
   "分类值": "14&75&1&26&36&25&30&23&69&15&16&62", "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}", 
   "数组二次截取": "list\":[&&]", "数组": "{&&}[不包含:]", "图片": "vod_pic\":\"&&\"", 
@@ -40,9 +39,14 @@
 	    
 {"key":"南瓜影院","name": "胜寒推荐","type": 3,"api": "csp_NanGua","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
 
-{"key":"kk","name":"快看影院","type":3,"api":"csp_AppKKYS","jar":"http://8.210.232.168/jar/xc.zip","searchable":1,"changeable":0,"ext":[{"from":"swf","to":"极速"},{"from":"mmmm","to":"自营"},{"from":"jp","to":"荐片"},{"from":"jqq","to":"剧圈"}]},
 {"key": "快看1","name":"快看聚合","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable":1,"filterable": 1},
 
+{"key": "海兔影院","name": "海兔影院","type": 3,"api": "csp_XBPQ","jar": "https://gitlab.com/xmbjm/omg/-/raw/main/jar/xyqxbpq.jar","ext": {"分类url": "https://www.haituu.tv/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类": "电视剧$2#电影$1#综艺$3"}
+{"key": "花姐影院","name": "花姐影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+        "ext": {"数组": "<li class=\"fed-list-item&&</li>","搜索url": "https://www.huajie2.com/search.php?searchword={wd}",
+        "分类url": "https://www.huajie2.com/search.php?searchtype=5&area={area}&class={class}&by={by}&year={year}&tid={cateId}&yuyan={lang}&page={catePg}",
+        "分类": "电视剧&电影&综艺&动漫&伦理","分类值": "2&1&3&4&40"},"jar": "https://gitlab.com/xmbjm/omg/-/raw/main/jar/xyqxbpq.jar"},	    
+	    
 //{"key": "app_快看1","name":"️快看影视","searchable":1,"type": 1,"playerType":2,"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list","categories":["网络电影","国产剧", "国产综艺","国产动漫", "动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","日本动漫","韩国剧","港台剧","欧美剧","港台综艺"]},	
 //{"key": "快看","name": "胜寒推荐","type": 3,"api": "csp_Kkys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1},	 
    
@@ -93,7 +97,10 @@
         "搜索模式": "1","嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com","搜索url": "https://rebozj.pro/type/id-.html?wd={wd}","线路数组": "<h4 class=\"title&&/h4>","线路标题": ">&&<","播放列表": "<a&&/a>","播放标题": ">&&<",
 	"影片类型": "类型：&&</p>","导演": "导演：&&</p>","主演": "主演：&&</p>","简介": "display: none;\">&&</span>",
         "分类": "电视剧$2#电影$1#综艺$3#动漫$4","分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a","跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"}},
-
+{"key": "haokongbu","name": "拾光☪好恐怖[磁力]","type": 3,"api": "csp_XBPQ","playerType":1,
+        "ext": {"主页url": "https://m.haokongbu.top/","分类url": "https://m.haokongbu.top/{cateId}/index_{catePg}.html[https://m.haokongbu.top/{cateId}/index.html]",
+        "分类": "国产剧$guochanju#港剧$gangju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#微电影$weidianying#记录片$m_jlp#高清$gaoqing#动漫$donghuapian#台湾$taiwanju#日本$riju#韩国$hanju#欧美$oumeiju#泰国$taiguoju#海外$haiwaiju",                
+         //"数组": "<li>&&</li>","副标题": "class=\"typeset\"&&</i>","起始页": 2,"倒序": 1,"播放数组": "下载地址</h2>&&</ul>", "播放列表": "<li><&&</a >"},"jar": "https://gitlab.com/xmbjm/omg/-/raw/main/jar/xyqxbpq.jar"},
 	    
 {"key":"zy_10801","name":"1080影视","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php","playUrl": "https://vip.zykbf.com/?url=","categories": ["国产剧","大陆综艺","国产动漫","日韩综艺","日韩动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片","纪录片","剧情片","动画片","战争片"]},
 //优质影视网址：优质资源主域名:yzzy.tv hdzyk.com（备用网址): 1080zyk1.com 至 1080zyk10.com,
@@ -115,7 +122,7 @@
 	 	    
 {"key":"vidhub","name":"影视视库","type":3,"api":"csp_WebVidHub","jar":"	http://8.210.232.168/jar/xc.zip","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://vidhub1.cc"},
    
-{ "key": "好恐怖","name": "好看剧影","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1, "filterable": 1,
+{"key": "好恐怖","name": "好看剧影","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1, "filterable": 1,
   "ext": {"数组": "class=\"lozad\"&&</li>", "图片": "img src=\"&&\"", "标题": "title=\"&&\"","简介": "<div class=\"jqtxt\">&&</p>", "链接": "https://www.haokongbu.top/play/+href=\"/*/&&.html+1.html",
 "线路二次截取": "class=\"source_tab\"&&</div>","线路数组": "<span&&</span>","线路标题": ">&&<small>",
 "播放二次截取": "class=\"tabc on\"&&class=\"movie-love","播放数组": "<ul>&&</ul>","播放标题": ">&&</a>","播放列表": "<li>&&</li>","播放链接": "href=\"&&\"","跳转播放链接": "var urls = decodeURIComponent('&&');",

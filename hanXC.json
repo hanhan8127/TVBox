@@ -24,6 +24,10 @@
   
 {"key": "Aid","name": "急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},	 
 
+{"key":"csp_素白影视","name":"胜寒推荐","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
+	"ext":"{\"免嗅\":\"0\",\"主演\":\"主演:&&</div>\",\"播放数组\":\"class=\\\"paly_list_btn&&</div>\",\"副标题\":\"class=\\\"jidi\\\">&&</span>\",\"简介\":\"class=\\\"yp_context\\\"*<p>&&</div>\",
+	\"分类\":\"国产剧$domestic-drama#电影$new-movie#电视剧$tv-drama#香港经典电影$hongkong-movie\",\"分类url\":\"https://www.subaibaiys.com/{cateId}/page/{catePg}\"}"},
+//素白白地址发布页：subaibai.vip	    	    
 {"key":"南瓜影院","name":"胜寒推荐","type": 3,"api": "csp_NanGua","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key":"快看聚合","name":"胜寒推荐","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable":1,"filterable": 1},
 
@@ -52,10 +56,7 @@
   "跳转播放链接": "<iframe*src=\"&&\"","二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接": "\"url\"*\"&&\"","嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4"}},
 //骚火发布页http://shapp.us/；https://saohuo.tv/
 
-{"key":"csp_XBPQ_subai","name":"素白影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
-	"ext":"{\"免嗅\":\"0\",\"主演\":\"主演:&&</div>\",\"播放数组\":\"class=\\\"paly_list_btn&&</div>\",\"副标题\":\"class=\\\"jidi\\\">&&</span>\",\"简介\":\"class=\\\"yp_context\\\"*<p>&&</div>\",
-	\"分类\":\"电影$new-movie#电视剧$tv-drama#国产剧$domestic-drama#香港经典电影$hongkong-movie\",\"分类url\":\"https://www.subaibaiys.com/{cateId}/page/{catePg}\"}"},
-//素白白地址发布页：subaibai.vip	    
+
    
 {"key":"云播","name":"TV云播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"影片类型":"分类：&&主演","导演":"导演：</span>&&</p>","主演":"主演：</span>&&</p>","简介":"class=\"sketch content\">&&</span>",
   "数组":"myui-vodlist__thumb&&</a>","标题":"title=\"&&\"","副标题":"pic-tag pic-tag-top\">&&</span>","图片":"data-original=\"&&\"","链接":"href=\"&&\"","搜索模式":"1","搜索url":"http://www.hktvyun.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",

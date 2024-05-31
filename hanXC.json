@@ -24,8 +24,8 @@
   
 {"key": "Aid","name": "急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},	 
 
-{"key":"南瓜影院","name": "胜寒推荐","type": 3,"api": "csp_NanGua","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
-{"key": "快看聚合","name":"胜寒推荐","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable":1,"filterable": 1},
+{"key":"南瓜影院","name":"胜寒推荐","type": 3,"api": "csp_NanGua","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
+{"key":"快看聚合","name":"胜寒推荐","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable":1,"filterable": 1},
 
 
 {"key":"csp_秒播","name":"胜寒推荐","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"分类":"国产剧&国产动漫&电影&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧", 
@@ -40,12 +40,12 @@
   "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad", "免嗅": "0" }},
 	    
 
-//{"key": "app_快看1","name":"️快看影视","searchable":1,"type": 1,"playerType":2,"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list","categories":["网络电影","国产剧", "国产综艺","国产动漫", "动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","日本动漫","韩国剧","港台剧","欧美剧","港台综艺"]},	
-{"key": "app_云解析","name":"️胜寒推荐","searchable":1,"type": 1,"playerType":2,"api": "https://api.yparse.com/api/json"},	
+//{"key":"app_快看1","name":"️快看影视","searchable":1,"type": 1,"playerType":2,"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list","categories":["网络电影","国产剧", "国产综艺","国产动漫", "动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","日本动漫","韩国剧","港台剧","欧美剧","港台综艺"]},	
+
    
 {"key": "csp_七新","name": "七新秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": {"主页url":"http://www.7xdy.com/","简介":"+<span class=\"detail-content\" style=*>&&</span>",
   "影片状态":"状态：&&</p>","搜索url":"/search.php;post;searchword={wd}","线路数组":"<h3&&/h3>","线路标题":"胜寒+src=*>&&<",
-  "分类url":"http://www.7xdy.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k","分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman" }},
+  "分类url":"http://www.7xdy.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k","分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
 	    
 {"key":"骚火","name": "骚火秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": { "分类url": "https://saohuo.us/list/{cateId}-{catePg}.html;;vr1au0",
   "分类": "电影$1#电视剧$2#大陆$20#美剧$23#动漫$4","数组二次截取": "class=\"v_list\">&&</ul>","数组": "\"v_img\"&&/div>","标题": "title=\"&&\"","副标题": "v_note\"&&</div",
@@ -66,7 +66,7 @@
 {"key": "海兔影院","name": "海兔影院","type": 3,"api": "csp_XBPQ","jar": "https://gitlab.com/xmbjm/omg/-/raw/main/jar/xyqxbpq.jar","ext": {"分类url": "https://www.haituu.tv/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类": "国产剧$25电视剧$2#电影$1#综艺$3"}},
 
 {"key": "花姐影院","name": "花姐影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"数组": "<li class=\"fed-list-item&&</li>","搜索url": "https://www.huajie2.com/search.php?searchword={wd}",
-        "分类url": "https://www.huajie2.com/search.php?searchtype=5&area={area}&class={class}&by={by}&year={year}&tid={cateId}&yuyan={lang}&page={catePg}","分类": "电视剧&电影&综艺&动漫","分类值": "2&1&3&4&40"},"jar": "https://gitlab.com/xmbjm/omg/-/raw/main/jar/xyqxbpq.jar"}},	    
+        "分类url":"https://www.huajie2.com/search.php?searchtype=5&area={area}&class={class}&by={by}&year={year}&tid={cateId}&yuyan={lang}&page={catePg}","分类": "电视剧&电影&综艺&动漫","分类值": "2&1&3&4&40"},"jar":"https://gitlab.com/xmbjm/omg/-/raw/main/jar/xyqxbpq.jar"}},	    
 
 {"key":"csp_xBPQ_爱看影院","name":"️爱看影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"分类url":"https://www.3wyy.com/vodshow/{cateId}-{area}-time-{class}-{lang}----{catePg}---{year}.html;;lr","分类":"电影$1#连续剧$2#综艺$3#动漫$4"}},
 

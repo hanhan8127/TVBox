@@ -24,7 +24,7 @@
   
 {"key": "Aid","name": "急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},	 
 
-{"key": "app_云解析","name":"️胜寒推荐","searchable":1,"type": 1,"playerType":2,"api": "https://api.yparse.com/api/json"},	
+
 
 {"key":"csp_秒播","name":"胜寒推荐","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"分类":"国产剧&国产动漫&电影&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧", 
   "分类值": "14&75&1&26&36&25&30&23&69&15&16&62", "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}", 
@@ -87,11 +87,7 @@
 	"影片类型": "类型：&&</p>","导演": "导演：&&</p>","主演": "主演：&&</p>","简介": "display: none;\">&&</span>",
         "分类": "电视剧$2#电影$1#综艺$3#动漫$4","分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a","跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"}},
 	    
-{"key": "haokongbu","name": "看看影视","type": 3,"api": "csp_XBPQ","playerType":1,
-        "ext": {"主页url": "https://m.haokongbu.top/","分类url": "https://m.haokongbu.top/{cateId}/index_{catePg}.html[https://m.haokongbu.top/{cateId}/index.html]",
-        "分类": "国产剧$guochanju#港剧$gangju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#微电影$weidianying#记录片$m_jlp#高清$gaoqing#动漫$donghuapian#台湾$taiwanju#日本$riju#韩国$hanju#欧美$oumeiju#泰国$taiguoju#海外$haiwaiju",                
-         //"数组": "<li>&&</li>","副标题": "class=\"typeset\"&&</i>","起始页": 2,"倒序": 1,"播放数组": "下载地址</h2>&&</ul>", "播放列表": "<li><&&</a >"},"jar": "https://gitlab.com/xmbjm/omg/-/raw/main/jar/xyqxbpq.jar"},
-	    
+    
 {"key":"zy_10801","name":"1080影视","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php","playUrl": "https://vip.zykbf.com/?url=","categories": ["国产剧","大陆综艺","国产动漫","日韩综艺","日韩动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片","纪录片","剧情片","动画片","战争片"]},
 //优质影视网址：优质资源主域名:yzzy.tv hdzyk.com（备用网址): 1080zyk1.com 至 1080zyk10.com,
 {"key":"天翼资源","name":"天翼资源","type":1,"api":"https://www.911ysw.top/tianyi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1 , "categories": ["国产剧", "综艺","动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片","惊悚片","犯罪片","悬疑片","惊悚片",  "港台剧",  "日韩剧","泰国剧", "欧美剧" ] },

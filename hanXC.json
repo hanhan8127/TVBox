@@ -63,7 +63,12 @@
   "播放数组":"<ul class=\"myui-content__list scrollbar&&</ul>","播放标题":">&&<","播放列表":"<a&&/a>","分类url":"http://www.hktvyun.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a","分类":"国产剧$13#电影$1#电视剧$2#综艺$3#动漫$4"}},
 //TV云播发布页http://www.hktvyb.vip/
 
+{"key": "app_云解析","name":"️胜寒推荐","searchable":1,"type": 1,"playerType":2,"api":"https://api.yparse.com/api/json"},
 
+{"key": "海兔影院","name":"海兔影院","type":3,"api":"csp_XBPQ","jar":"https://gitlab.com/xmbjm/omg/-/raw/main/jar/xyqxbpq.jar","ext": {"分类url":"https://www.haituu.tv/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类": "国产剧$25电视剧$2#电影$1#综艺$3"}},
+
+
+	    
 {"key":"csp_xBPQ_爱看影院","name":"️爱看影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"分类url":"https://www.3wyy.com/vodshow/{cateId}-{area}-time-{class}-{lang}----{catePg}---{year}.html;;lr","分类":"电影$1#连续剧$2#综艺$3#动漫$4"}},
 
 {"key":"csp_xBPQ_量子","name":"️量子影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"分类url":"http://quanji456.com/index.php/vod/show/area/{area}/by/time/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html;;lr","分类":"电影$1#连续剧$2#综艺$4#动漫$3"}},

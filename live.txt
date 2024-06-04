@@ -449,10 +449,8 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 
 卫视频道,#genre#
 
-重庆卫视,https://sjlivecdn9.cbg.cn/202308010841/app_2/_definst_/ls_2.stream/chunklist.m3u8
-重庆卫视,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
-重庆卫视,https://sjlivecdn9.cbg.cn/202404130826/app_2/_definst_/ls_2.stream/chunklist.m3u8
-重庆卫视,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
+重庆卫视,https://sjlivecdn9.cbg.cn/202506252322/app_2/_definst_/ls_2.stream/chunklist.m3u8
+
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 重庆卫视,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_2.stream/chunklist.m3u8
 
@@ -985,17 +983,11 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 
 
 重庆频道,#genre#
-重庆卫视,https://sjlivecdn9.cbg.cn/202404130826/app_2/_definst_/ls_2.stream/chunklist.m3u8
-重庆卫视,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
-重庆卫视,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cqws8m/8000000/mnf.m3u8
-重庆卫视,http://221.2.36.34:8888/newlive/live/hls/31/live.m3u8
-重庆卫视,http://39.184.224.99:9080/newlive/live/hls/28/live.m3u8
-重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
-重庆新闻,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_3.stream/chunklist.m3u8
-重庆新闻,https://sjlivecdn9.cbg.cn/202404130640/app_2/_definst_/ls_3.stream/chunklist.m3u8
 
-重庆新闻,http://183.65.9.200:8888/udp/235.254.197.199:7980
-重庆新闻,http://125.82.171.210:8888/udp/235.254.197.199:7980
+重庆卫视,https://sjlivecdn9.cbg.cn/202506252322/app_2/_definst_/ls_2.stream/chunklist.m3u8
+
+重庆新闻,https://sjlivecdn9.cbg.cn/202506252322/app_2/_definst_/ls_3.stream/chunklist.m3u8
+重庆新闻,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_3.stream/chunklist.m3u8
 
 重庆新闻,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CQTVNewsHD
 重庆影视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cqyingshiHD

@@ -71,7 +71,7 @@
 {"key":"csp_xBPQ_量子","name":"️量子影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"分类url":"http://quanji456.com/index.php/vod/show/area/{area}/by/time/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html;;lr","分类":"电影$1#连续剧$2#综艺$4#动漫$3"}},
 {"key":"csp_xBPQ_云播","name":"云播影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"分类url":"https://www.yunbow.com/vodtype/{cateId}-{catePg}","分类":"动作片$1#喜剧片$2#爱情片$3#科幻片$4#恐怖片$5#剧情片$6#战争片$7#欧美剧$8#日韩剧$9#国产剧$10#港台剧$11#海外剧$12#动漫$13#综艺$14#纪录$15#更新$vodgx"}},
 
-{"key":"csp_xBPQ_影视工厂","name":"️影视工厂","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"分类url":"https://www.ysgc.fun/vodshow/{cateId}-{area}-time-{class}-{lang}----{catePg}---{year}.html;;lr","分类":"电影$1#连续剧$2#综艺$3#动漫$4"}},
+//{"key":"csp_xBPQ_影视工厂","name":"️影视工厂","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"分类url":"https://www.ysgc.fun/vodshow/{cateId}-{area}-time-{class}-{lang}----{catePg}---{year}.html;;lr","分类":"电影$1#连续剧$2#综艺$3#动漫$4"}},
 {"key":"飘零影院","name":"飘零影院","type":1,"api":"https://p2100.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 {"key":"zy_最大资源","name":"最大资源","type":1,"api":"https://zuidazy.co/api.php/provide/vod/","playurl":"https://jx.zuidplay.com/m3u8Player/?url=","searchable": 1, "quickSearch": 1, "categories": ["国产剧","港剧","美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","悬疑片","犯罪片"]},

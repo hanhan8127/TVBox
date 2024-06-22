@@ -42,7 +42,7 @@
 	    
 
 //{"key":"app_快看1","name":"️快看影视","searchable":1,"type": 1,"playerType":2,"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list","categories":["网络电影","国产剧", "国产综艺","国产动漫", "动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","日本动漫","韩国剧","港台剧","欧美剧","港台综艺"]},	
-	{"key":"采集之王","name":"🏅采集","type":3,"api":"https://yubox.xyz/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"https://yubox.xyz/drpy_js/采集.js?type=url&params=https://yubox.xyz/json/%E9%87%87%E9%9B%86.json"},
+{"key":"采集之王","name":"🏅采集","type":3,"api":"https://yubox.xyz/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"https://yubox.xyz/drpy_js/采集.js?type=url&params=https://yubox.xyz/json/%E9%87%87%E9%9B%86.json"},
    
 {"key": "csp_七新","name": "七新秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": {"主页url":"http://www.7xdy.com/","简介":"+<span class=\"detail-content\" style=*>&&</span>",
   "影片状态":"状态：&&</p>","搜索url":"/search.php;post;searchword={wd}","线路数组":"<h3&&/h3>","线路标题":"胜寒+src=*>&&<",

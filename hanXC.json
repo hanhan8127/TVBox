@@ -28,7 +28,7 @@
   "影片状态":"状态：&&</p>","搜索url":"/search.php;post;searchword={wd}","线路数组":"<h3&&/h3>","线路标题":"胜寒+src=*>&&<",
   "分类url":"https://www.7xdy.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k","分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
 	    	    
-{"key": "星辰","name": "胜寒主线","type": 3,"api": "csp_XBPQ","ext": {"作者": "心动","站名": "星辰","主页url": "https://yyrj.site","搜索模式": "1","搜索url":"/index.php/vod/search/wd/{wd}.html","线路数组":"<div class=\"module-tab-items&&</div>","线路标题":"<span>&&</span>[不包含:飞刀资源]","分类url": "/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影&电视剧&综艺&动漫&短剧","分类值": "1&2&3&4&5"}},	    
+//{"key": "星辰","name": "胜寒主线","type": 3,"api": "csp_XBPQ","ext": {"作者": "心动","站名": "星辰","主页url": "https://yyrj.site","搜索模式": "1","搜索url":"/index.php/vod/search/wd/{wd}.html","线路数组":"<div class=\"module-tab-items&&</div>","线路标题":"<span>&&</span>[不包含:飞刀资源]","分类url": "/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影&电视剧&综艺&动漫&短剧","分类值": "1&2&3&4&5"}},	    
 {"key":"南瓜影院","name":"胜寒推荐","type": 3,"api": "csp_NanGua","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key":"快看聚合","name":"胜寒推荐","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable":1,"filterable": 1},
 	    
@@ -167,8 +167,8 @@
 
   "parses": [
         
-        //{"name":"Web","type": 3,"url":"Web"}, 
-        //{"name":"自动","type":3,"url":"Demo"},
+        {"name":"Web","type": 3,"url":"Web"}, 
+        {"name":"自动","type":3,"url":"Demo"},
         {"name":"胜寒0","type":0,"url":"https://xiaomei5201.serv00.net/hls/jiexi/?url="},
 	{"name":"胜寒1","type":0,"url":"https://jx.xyflv.cc/?url="},  
         {"name":"胜寒2","type":0,"url":"https://jx.777jiexi.com/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
@@ -176,7 +176,6 @@
         {"name":"寒1","type":0,"url":"https://www.8090g.cn/?url="},
         {"name":"胜2","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","header":{"User-Agent": "okhttp/4.9.3"}},
         {"name":"寒2","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
-        {"name":"胜3","type":1,"url":"https://jxjson.icu/434684601.php?url=","header":{"User-Agent":"okhttp/4.1.0"}},
         {"name":"寒3","type":1,"url":"http://vip.wpsseo.cn/jx/?url="},        
         {"name":"胜4","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
         {"name":"寒4","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},

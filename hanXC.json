@@ -87,8 +87,8 @@
 {"key": "zxzj","name": "在线之家","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.zxzj.pro/"},
 //https://www.zxzj.site/
 
-{"key":"zy_新浪","name":"新浪影院","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["大陆剧","综艺","动漫","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
-{"key":"zy_新浪2","name":"新浪影院","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["大陆剧","综艺","动漫","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
+//{"key":"zy_新浪","name":"新浪影院","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["大陆剧","综艺","动漫","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
+{"key":"zy_新浪2","name":"新浪影院","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["大陆剧","短剧","综艺","动漫","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
 	
 
 //{"key":"csp_SP360","name":"360影视","type":3,"playerType":2,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},

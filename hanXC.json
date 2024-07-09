@@ -56,7 +56,7 @@
 //{"key": "海兔影院","name":"海兔影院","type":3,"api":"csp_XBPQ","jar":"https://gitlab.com/xmbjm/omg/-/raw/main/jar/xyqxbpq.jar","ext": {"分类url":"https://www.haituu.tv/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类": "电视剧$2#电影$1#综艺$3#动漫$4"}},
 //www.haituu.tv;www.haitu.vip;www.haitu.xyz
 	    
-{"key":"csp_xBPQ_云播","name":"云播影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"分类url":"https://www.yunbo99.com/vodtype/{cateId}-{catePg}","分类":"动作片$1#喜剧片$2#爱情片$3#科幻片$4#恐怖片$5#剧情片$6#战争片$7#欧美剧$8#日韩剧$9#国产剧$10#港台剧$11#海外剧$12#动漫$13#综艺$14#纪录$15#更新$vodgx"}},
+{"key":"csp_xBPQ_云播","name":"云播影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"分类url":"https://www.yunbo99.com/vodtype/{cateId}-{catePg}","分类":"国产剧$10#综艺$14动漫#$13#动作片$1#喜剧片$2#爱情片$3#科幻片$4#恐怖片$5#剧情片$6#战争片$7#欧美剧$8#日韩剧$9#港台剧$11#海外剧$12#纪录$15#更新$vodgx"}},
 //https://www.yunbow.com
 //{"key":"csp_xBPQ_影视工厂","name":"️影视工厂","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"分类url":"https://www.ysgc.fun/vodshow/{cateId}-{area}-time-{class}-{lang}----{catePg}---{year}.html;;lr","分类":"电影$1#连续剧$2#综艺$3#动漫$4"}},
 {"key":"飘零影院","name":"飘零影院","type":1,"api":"https://p2100.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},

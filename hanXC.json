@@ -44,9 +44,6 @@
 //https://www.yunbow.com
 {"key":"飘零影院","name":"飘零影院","type":1,"api":"https://p2100.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories": ["国产剧","短剧","综艺","动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片","战争片"]},
 
-{"key":"R_LibVio","name":"LibVio(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://libvio.link/type/{cateId}-{catePg}.html"},
-//www.libfabu.com或者发送邮件至[libvio@outlook.com]获取最新可用地址https://libvio.link/,https://www.libvio.me
-	    
 {"key":"csp_xBPQ_FreeOK","name":"️FreeOK","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-time-{class}-{lang}----{catePg}---{year}.html;;lr","分类":"短剧$12电影$1#连续剧$2#动漫$3#综艺$4"}},
 
 {"key":"骚火","name": "骚火秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": { "分类url": "https://saohuo.us/list/{cateId}-{catePg}.html;;vr1au0",

@@ -50,7 +50,7 @@
   "播放数组":"<ul class=\"myui-content__list scrollbar&&</ul>","播放标题":">&&<","播放列表":"<a&&/a>","分类url":"http://www.hktvyun.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a","分类":"国产剧$13#电影$1#电视剧$2#综艺$3#动漫$4"}},
 //TV云播发布页http://www.hktvyb.vip/
 
-{"key":"app_云解析","name":"云解析","type": 1,"api": "https://api.yparse.com/api/json","categories": ["国产剧","综艺","动漫","韩国剧","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片","战争片"]},
+{"key":"app_云解析","name":"云解析","type": 1,"api": "https://api.yparse.com/api/m3u8/json","categories": ["国产剧","综艺","动漫","韩国剧","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片","战争片"]},
 {"key":"天翼资源","name":"天翼资源","type":1,"api":"https://www.911ysw.top/tianyi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1 , "categories": ["国产剧", "综艺","动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片","惊悚片","犯罪片","悬疑片","惊悚片",  "港台剧",  "日韩剧","泰国剧", "欧美剧" ] },
  
     
@@ -59,6 +59,7 @@
 	    
 {"key":"csp_xBPQ_云播","name":"云播影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"分类url":"https://www.yunbo99.com/vodtype/{cateId}-{catePg}","分类":"国产剧$10#综艺$14#动漫$13#动作片$1#喜剧片$2#爱情片$3#科幻片$4#恐怖片$5#剧情片$6#战争片$7#欧美剧$8#日韩剧$9#港台剧$11#海外剧$12#纪录$15#更新$vodgx"}},
 //https://www.yunbow.com
+	    
 //{"key":"csp_xBPQ_影视工厂","name":"️影视工厂","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"分类url":"https://www.ysgc.fun/vodshow/{cateId}-{area}-time-{class}-{lang}----{catePg}---{year}.html;;lr","分类":"电影$1#连续剧$2#综艺$3#动漫$4"}},
 {"key":"飘零影院","name":"飘零影院","type":1,"api":"https://p2100.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories": ["国产剧","短剧","综艺","动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片","战争片"]},
 

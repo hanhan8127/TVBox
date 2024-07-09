@@ -44,8 +44,7 @@
   "跳转播放链接": "<iframe*src=\"&&\"","二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接": "\"url\"*\"&&\"","嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4"}},
 //骚火发布页http://shapp.us/；https://saohuo.tv/
 	    
-{"key":"cj_360zy资源","name":"360采集","type":1,"api":"https://360zy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["国产剧","大陆综艺","国产动漫","古装仙侠","现代都市","成长逆袭","年代穿越", "动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","日本动漫","韩国剧","香港剧","欧美剧","日本剧","泰国剧","港台综艺","日韩综艺"]	
-,"playUrl":"https://www.360jiexi.com/player/?url="},
+{"key":"cj_360zy","name":"360采集","type":1,"api":"https://360zy.com/api.php/provide/vod","playUrl":"https://www.360jiexi.com/player/?url=","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["国产剧","大陆综艺","国产动漫","古装仙侠","现代都市","成长逆袭","年代穿越", "动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","日本动漫","韩国剧","香港剧","欧美剧","日本剧","泰国剧","港台综艺","日韩综艺"]},
 {"key":"cj_非凡量子","name":"全网影视","type":1,"api":"https://xysjtv.yy365.vip/api.php/provide/vod/?ac=list","playurl": "https://tvmvip.com/lz2.php?url=","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 	    

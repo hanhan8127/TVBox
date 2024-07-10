@@ -5,10 +5,41 @@
 CCTV-13新闻,https://event.pull.hebtv.com/jishi/cp4.m3u8
 CCTV-13新闻,http://live.dxms.top:80/dwy/news.php
 CCTV-13新闻,http://live-cmvideo.cmread.com:80/migu/kailu/cctv13/57/20220913/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8c9a1b49296e1bb073f1c7c04835b378
-CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 
 CCTV-1综合,https://event.pull.hebtv.com/jishi/cp3.m3u8
 CCTV-2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+
+CCTV-1综合,https://live.mxdyeah.top/live.php?id=cctv1HD
+CCTV-2财经,https://live.mxdyeah.top/live.php?id=cctv2HD
+CCTV-3综艺,https://live.mxdyeah.top/live.php?id=cctv3HD
+CCTV-4国际,https://live.mxdyeah.top/live.php?id=cctv4HD
+CCTV-5体育,https://live.mxdyeah.top/live.php?id=cctv5HD
+CCTV-5+赛事,https://live.mxdyeah.top/live.php?id=cctv5SportHD
+CCTV-6电影,https://live.mxdyeah.top/live.php?id=cctv6HD
+CCTV-7军事,https://live.mxdyeah.top/live.php?id=cctv7HD
+CCTV-8电视剧,https://live.mxdyeah.top/live.php?id=cctv8HD
+CCTV-9纪录,https://live.mxdyeah.top/live.php?id=cctv9HD
+CCTV-10科教,https://live.mxdyeah.top/live.php?id=cctv10HD
+CCTV-11戏曲,https://live.mxdyeah.top/live.php?id=cctv11HD
+CCTV-12社会,https://live.mxdyeah.top/live.php?id=cctv12HD
+CCTV-13新闻,https://live.mxdyeah.top/live.php?id=CCTVNewsHD
+CCTV-14少儿,https://live.mxdyeah.top/live.php?id=cctvseHD
+CCTV-15音乐,https://live.mxdyeah.top/live.php?id=cctv15HD
+CCTV16奥运,https://live.mxdyeah.top/live.php?id=cctv16HD
+CCTV-17农村,https://live.mxdyeah.top/live.php?id=cctv17HD
+CGTN,https://live.mxdyeah.top/live.php?id=cgtnSD
+CCTV第一剧场,https://live.mxdyeah.top/live.php?id=diyijuchangHD
+CCTV发现之旅,https://live.mxdyeah.top/live.php?id=faxian
+CCTV风云剧场,https://live.mxdyeah.top/live.php?id=fyjcHD
+CCTV怀旧剧场,https://live.mxdyeah.top/live.php?id=hjjcHD
+CCTV风云音乐,https://live.mxdyeah.top/live.php?id=fyyyHD
+CCTV央视台球,https://live.mxdyeah.top/live.php?id=ystqHD
+CCTV风云足球,https://live.mxdyeah.top/live.php?id=fyzqHD
+CCTV兵器科技,https://live.mxdyeah.top/live.php?id=bqkjHD
+CCTV高尔夫网球,https://live.mxdyeah.top/live.php?id=golfHD
+CCTV文化精品,https://live.mxdyeah.top/live.php?id=yswhHD
+CCTV女性时尚,https://live.mxdyeah.top/live.php?id=nvxing
+
 
 CCTV-1综合,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUU6FFmRK8Hl0ytyd5e5kWGEwoDIwMxbrlyyVy9x6ZDKnldIYKOjBOUjRyoym5n7Kg0yIYstFTUfqtC14fzxhy5Y
 CCTV-1综合,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?m3u8_level=2
@@ -567,9 +598,6 @@ CCTV央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380
 
 CCTV高尔夫网球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGLY7Qr44mlU8Mm7hAKppcofYcqtkgnrIU1veEPNSLwHTPQxqGjPgZkOj3N28h2Dcwo
 CCTV高尔夫网球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
-
-
-
 CCTV高尔夫网球,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
 CCTV高尔夫网球,http://hz752.live:63/6770/cqyx.php?id=golfHD
 
@@ -585,6 +613,7 @@ CCTV-8K,https://tv.cry33.com/ys4k.php?id=8k
 CCTV-8K,http://mywlkj.ddns.net:754/tv/cctv8k.m3u8 
 CCTV-8K,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
 
+CCTV-4K,https://live.mxdyeah.top/live.php?id=CCTV4K
 CCTV-4K,https://tv.cry33.com/ys4k.php?id=4k
 CCTV-4K,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575203.m3u8
 CCTV-4K,http://php.jdshipin.com:8880/cqyx.php?id=CCTV4K
@@ -598,6 +627,7 @@ CCTV-4K,https://epg.pw/stream/501663699bfe2985114ba99756ec4b5de3b0f08235fe918b61
 
 
 CCTV-16_4K,https://tv.cry33.com/ys4k.php?id=16-4k
+CCTV-16_4K,https://live.mxdyeah.top/live.php?id=CCTV16_4K
 CCTV-16_4K,http://php.jdshipin.com:8880/bst.php?id=cctv16hd4k/15000000
 CCTV-16_4K,https://cdn2.jdshipin.com/api/bst2.php?id=cctv16hd4k/15000000
 CCTV-16_4K,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CCTV16_4K
@@ -627,12 +657,12 @@ BesTV 4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/000000010000000600000000000
 纯享 4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 
 欢乐剧场4K,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-
+欢笑剧场4K,https://live.mxdyeah.top/live.php?id=hxjc_4K
 欢笑剧场4K,http://183.65.9.200:8888/udp/235.254.196.150:7980
 欢笑剧场4K,http://125.82.171.210:8888/udp/235.254.196.150:7980
 欢笑剧场4K,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
 华数 4K,http://r.jdshipin.com/Lqdwf
-欢笑剧场4K,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=hxjc_4K
+-
 
 
 茶频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729d8aca53/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRIdUCZxTtaM%2Bza0L7mJjkPMmnEhAf%2Bi68sKjzRCbPoTU0E%2B6Pia2CkRtxgPs8Tmw7I 
@@ -699,9 +729,40 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 卫视频道,#genre#
 
 重庆卫视,https://sjlivecdn9.cbg.cn/202506252322/app_2/_definst_/ls_2.stream/chunklist.m3u8
-
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 重庆卫视,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_2.stream/chunklist.m3u8
+
+浙江卫视,https://live.mxdyeah.top/live.php?id=zhejiangHD
+江苏卫视,https://live.mxdyeah.top/live.php?id=jiangsuHD
+北京卫视,https://live.mxdyeah.top/live.php?id=beijingHD
+东方卫视,https://live.mxdyeah.top/live.php?id=shanghaiHD
+湖南卫视,https://live.mxdyeah.top/live.php?id=hunanHD
+安徽卫视,https://live.mxdyeah.top/live.php?id=anhuiSD
+东南卫视,https://live.mxdyeah.top/live.php?id=dongnanHD
+广东卫视,https://live.mxdyeah.top/live.php?id=guangdongHD
+深圳卫视,https://live.mxdyeah.top/live.php?id=shenzhenHD
+辽宁卫视,https://live.mxdyeah.top/live.php?id=liaoningHD
+海南卫视,https://live.mxdyeah.top/live.php?id=hainanSD
+天津卫视,https://live.mxdyeah.top/live.php?id=tianjinHD
+河南卫视,https://live.mxdyeah.top/live.php?id=henanHD
+湖北卫视,https://live.mxdyeah.top/live.php?id=hubeiSD
+江西卫视,https://live.mxdyeah.top/live.php?id=jiangxiHD
+重庆卫视,https://live.mxdyeah.top/live.php?id=chongqingHD
+四川卫视,https://live.mxdyeah.top/live.php?id=sichuanHD
+广西卫视,https://live.mxdyeah.top/live.php?id=guangxiHD
+贵州卫视,https://live.mxdyeah.top/live.php?id=guizhouHD
+河北卫视,https://live.mxdyeah.top/live.php?id=hebeiSD
+黑龙江卫视,https://live.mxdyeah.top/live.php?id=heilongjiangHD
+吉林卫视,https://live.mxdyeah.top/live.php?id=jilinHD
+内蒙古卫视,https://live.mxdyeah.top/live.php?id=neimengkuSD
+宁夏卫视,https://live.mxdyeah.top/live.php?id=ningxia
+山西卫视,https://live.mxdyeah.top/live.php?id=shanxiSD
+云南卫视,https://live.mxdyeah.top/live.php?id=yunnanSD
+西藏卫视,https://live.mxdyeah.top/live.php?id=xizangSD
+兵团卫视,https://live.mxdyeah.top/live.php?id=bingtuanSD
+青海卫视,https://live.mxdyeah.top/live.php?id=qinghaiSD
+三沙卫视,https://live.mxdyeah.top/live.php?id=sanshaSD
+
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226342/index.m3u8
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
@@ -1105,42 +1166,6 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 
-重庆卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=chongqingHD
-江苏卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=jiangsuHD
-北京卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=beijingHD
-浙江卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=zhejiangHD
-东方卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=shanghaiHD
-深圳卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=shenzhenHD
-辽宁卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=liaoningHD
-天津卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=tianjinHD
-贵州卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=guizhouHD
-四川卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=sichuanHD
-云南卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=yunnanSD
-东南卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=dongnanHD
-黑龙江卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=heilongjiangHD
-安徽卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=anhuiSD
-河北卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=hebeiSD
-江西卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=jiangxiHD
-湖北卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=hubeiSD
-海南卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=hainanSD
-吉林卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=jilinHD
-广西卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=guangxiHD
-内蒙古卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=neimengkuSD
-湖南卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=hunanHD
-广东卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=guangdongHD
-河南卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=henanHD
-山西卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=shanxiSD
-兵团卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=bingtuanSD
-宁夏卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=ningxia
-卡酷少儿,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=bjkakuSD
-金鹰卡通,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=jinyingSD
-三沙卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=sanshaSD
-青海卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=qinghaiSD
-中国天气,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=tianqiSD
-北京纪实,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=bjayjsSD
-教育卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=sdjiaoyuSD
-新疆卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=xinjiangSD
-西藏卫视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=xizangSD
 
 
 港澳台外,#genre#
@@ -1415,6 +1440,19 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 重广融媒,http://125.80.154.252:8003/rtp/235.254.196.218:1146?$重庆电信主力线
 开州综合,http://125.80.154.252:8003/rtp/235.254.198.145:1870?$重庆电信主力线
 
+重庆新闻,https://live.mxdyeah.top/live.php?id=CQTVNewsHD
+重庆影视,https://live.mxdyeah.top/live.php?id=cqyingshiHD
+重庆社会,https://live.mxdyeah.top/live.php?id=CQTVTrendyHD
+重庆时尚,https://live.mxdyeah.top/live.php?id=cqssgwHD
+重庆娱乐,https://live.mxdyeah.top/live.php?id=cqwtylHD
+重庆农村,https://live.mxdyeah.top/live.php?id=cqggncHD
+重庆少儿,https://live.mxdyeah.top/live.php?id=cqseHD
+重庆科教,https://live.mxdyeah.top/live.php?id=CQTVkejiaoHD
+爱看导视,https://live.mxdyeah.top/live.php?id=aikanHD
+重庆汽摩,https://live.mxdyeah.top/live.php?id=cqcarSD
+重庆移动,https://live.mxdyeah.top/live.php?id=mryyHD
+重广融媒,https://live.mxdyeah.top/live.php?id=cqrongmei
+
 重庆新闻,http://home.eayx.top:6666/rtp/235.254.196.199:7980?$重庆电信备线1
 重庆社会,http://home.eayx.top:6666/rtp/235.254.198.181:7980?$重庆电信备线1
 重庆少儿,http://home.eayx.top:6666/rtp/235.254.196.214:1128?$重庆电信备线1
@@ -1440,19 +1478,6 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 重庆移动,http://220.192.12.20:8003/udp/225.0.4.215:7980?$重庆联通备线1
 
 
-重庆新闻,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CQTVNewsHD
-重庆影视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cqyingshiHD
-重庆社会,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CQTVTrendyHD
-重庆时尚,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cqssgwHD
-重庆文娱,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cqwtylHD
-重庆农村,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cqggncHD
-重庆少儿,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cqseHD
-重庆科教,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=CQTVkejiaoHD
-爱看导视,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=aikanHD
-重庆汽摩,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cqcarSD
-重庆移动,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=mryyHD
-重广融媒,http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/php/cqyx.php?id=cqrongmei
-
 重庆科教,http://123.145.56.79:8004/udp/225.0.4.193:7980
 重庆影视,http://123.145.56.79:8004/udp/225.0.4.192:7980
 
@@ -1472,44 +1497,30 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 劲爆体育,https://epg.pw/stream/eca08353703a7bb2190c942daa20bd25b03c25b7d2662afdc120864a17d8a94c.m3u8
 劲爆体育,https://epg.pw/stream/025b9a77daa84361d1c77d49c7136339ff3f9e3b2da922f09fb9468c026e4867.m3u8
 
-金鹰卡通,http://117.175.185.226:4088/rtp/239.11.0.127:5140
-卡酷少儿,http://117.175.185.226:4088/rtp/239.11.0.129:5140
-嘉佳卡通,http://117.175.185.226:4088/rtp/239.11.0.203:5140
-优漫卡通,http://117.175.185.226:4088/rtp/239.11.0.63:5140
-哈哈炫动,http://117.175.185.226:4088/rtp/239.11.0.64:5140
-卡通动画,http://117.175.185.226:4088/rtp/239.11.0.181:5140
-金色童年,http://117.175.185.226:4088/rtp/239.11.0.182:5140
-优视影院,http://117.175.185.226:4088/rtp/239.11.0.172:5140
-经典影视,http://117.175.185.226:4088/rtp/239.11.0.173:5140
-热播剧场,http://117.175.185.226:4088/rtp/239.11.0.171:5140
-古装剧场,http://117.175.185.226:4088/rtp/239.11.0.141:5140
-动作电影,http://117.175.185.226:4088/rtp/239.11.0.142:5140
-军旅剧场,http://117.175.185.226:4088/rtp/239.11.0.143:5140
-惊悚悬疑,http://117.175.185.226:4088/rtp/239.11.0.144:5140
-热播精选,http://117.175.185.226:4088/rtp/239.11.0.145:5140
-武博世界,http://117.175.185.226:4088/rtp/239.11.0.146:5140
-精品综合,http://117.175.185.226:4088/rtp/239.11.0.147:5140
-爱情喜剧,http://117.175.185.226:4088/rtp/239.11.0.149:5140
-精品大剧,http://117.175.185.226:4088/rtp/239.11.0.150:5140
-中国功夫,http://117.175.185.226:4088/rtp/239.11.0.151:5140
-金牌综艺,http://117.175.185.226:4088/rtp/239.11.0.152:5140
-军事评论,http://117.175.185.226:4088/rtp/239.11.0.136:5140
-舞蹈世界,http://117.175.185.226:4088/rtp/239.11.0.174:5140
-电影天地,http://117.175.185.226:4088/rtp/239.11.0.177:5140
-经典剧场,http://117.175.185.226:4088/rtp/239.11.0.178:5140
-家庭影院,http://117.175.185.226:4088/rtp/239.11.0.179:5140
-第一电影,http://117.175.185.226:4088/rtp/239.11.0.180:5140
-文化教育,http://117.175.185.226:4088/rtp/239.11.0.183:5140
-风云体育,http://117.175.185.226:4088/rtp/239.11.0.184:5140
+东方财经,https://live.mxdyeah.top/live.php?id=dfcj
+证券服务,https://live.mxdyeah.top/live.php?id=jiazheng
+书画频道,https://live.mxdyeah.top/live.php?id=shuhua
+新动漫,https://live.mxdyeah.top/live.php?id=dongman
+国学频道,https://live.mxdyeah.top/live.php?id=guoxue
+优优宝贝,https://live.mxdyeah.top/live.php?id=youxi
+中华特产,https://live.mxdyeah.top/live.php?id=techan
+环球奇观,https://live.mxdyeah.top/live.php?id=car
+生态环境,https://live.mxdyeah.top/live.php?id=shengtai
+四海钓鱼,https://live.mxdyeah.top/live.php?id=diaoyu
 
-探索亞洲,http://biaozhun114.com/tv/smt.php?id=discoverytwn_twn
-探索動力,http://biaozhun114.com/tv/smt.php?id=discoveryturbo_twn
-國家地理,http://biaozhun114.com/tv/smt.php?id=natgeohd_twn
-野生動物,http://biaozhun114.com/tv/smt.php?id=natgeowild_twn
-動物星球,http://biaozhun114.com/tv/smt.php?id=animalplanet_twn
-時尚,http://biaozhun114.com/tv/smt.php?id=fashiontv_twn
-Discovery Asia,http://biaozhun114.com/tv/smt.php?id=discoverytwn_twn
-Discovery HD,http://biaozhun114.com/tv/smt.php?id=discoveryhd_twn
+车迷,https://live.mxdyeah.top/live.php?id=doxtv
+法治天地,https://live.mxdyeah.top/live.php?id=fazhi
+金色学堂,https://live.mxdyeah.top/live.php?id=jinse
+收藏天下,https://live.mxdyeah.top/live.php?id=soucang
+财富天下,https://live.mxdyeah.top/live.php?id=caifu
+
+中学生,https://live.mxdyeah.top/live.php?id=qicai
+天元围棋,https://live.mxdyeah.top/live.php?id=weiqi
+先锋乒羽,https://live.mxdyeah.top/live.php?id=xianfeng
+环球旅游,https://live.mxdyeah.top/live.php?id=huanqiulvyou
+老故事,https://live.mxdyeah.top/live.php?id=gushi
+摄影频道,https://live.mxdyeah.top/live.php?id=sheying
+靓妆频道,https://live.mxdyeah.top/live.php?id=liang
 
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
@@ -1535,6 +1546,23 @@ Discovery HD,http://biaozhun114.com/tv/smt.php?id=discoveryhd_twn
 炫舞未来,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+
+魅力足球,https://live.mxdyeah.top/live.php?id=mlzqHD
+求索纪录,https://live.mxdyeah.top/live.php?id=qsjlHD
+卡酷动画,https://live.mxdyeah.top/live.php?id=bjkakuSD
+金鹰卡通,https://live.mxdyeah.top/live.php?id=jinyingSD
+教育1台,https://live.mxdyeah.top/live.php?id=cetv-1SD
+中国天气,https://live.mxdyeah.top/live.php?id=tianqiSD
+北京纪实,https://live.mxdyeah.top/live.php?id=bjayjsSD
+山东教育,https://live.mxdyeah.top/live.php?id=sdjiaoyuSD
+CETV-4,https://live.mxdyeah.top/live.php?id=cetv-4SD
+生活时尚,https://live.mxdyeah.top/live.php?id=shenghuo
+百姓健康,https://live.mxdyeah.top/live.php?id=jiankangSD
+快乐垂钓,https://live.mxdyeah.top/live.php?id=klcdHD
+都市剧场,https://live.mxdyeah.top/live.php?id=dsjcHD
+动漫秀场,https://live.mxdyeah.top/live.php?id=dmxcHD
+游戏风云,https://live.mxdyeah.top/live.php?id=yxfyHD
+早期教育,https://live.mxdyeah.top/live.php?id=zaojiaoHD
 
 求索动物,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=287
 求索生活,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=288

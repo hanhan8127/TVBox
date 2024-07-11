@@ -6,6 +6,17 @@ CCTV-13新闻,https://event.pull.hebtv.com/jishi/cp4.m3u8
 CCTV-13新闻,http://live.dxms.top:80/dwy/news.php
 CCTV-13新闻,http://live-cmvideo.cmread.com:80/migu/kailu/cctv13/57/20220913/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8c9a1b49296e1bb073f1c7c04835b378
 中华美食,http://58.248.112.205:8006/GD_CUCC/G_ZHONGHUAMS.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNV3PU3p0Usv8FjOEENDSW4xTpQOdZIuqX8U%2Bda0cpE3R
+CCTV-4K,http://biaozhun114.com/tv/ysp.php?id=21
+CCTV-4K,https://live.mxdyeah.top/live.php?id=CCTV4K
+CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+CCTV-4K,http://159.75.85.63:5679/cctv4k.php
+CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
+CCTV-4K,http://113.96.179.241/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+CCTV-4K,https://epg.pw/stream/501663699bfe2985114ba99756ec4b5de3b0f08235fe918b6185add216839c2b.m3u8
+
+CCTV-8K,http://biaozhun114.com/tv/ysp.php?id=22
+
 CCTV-1综合,https://event.pull.hebtv.com/jishi/cp3.m3u8
 CCTV-2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 
@@ -27,6 +38,8 @@ CCTV-14少儿,http://58.248.112.205:8006/GD_CUCC/G_CCTV-14-CQ.m3u8?Authinfo=56fb
 CCTV-15音乐,http://58.248.112.205:8006/GD_CUCC/G_CCTV-15-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYyPYgkCWBSIT3aCcBdsAjsuu6MyRrRs1cAsik3e8WER
 CCTV-16奥运,http://58.248.112.205:8006/GD_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBVSIaGkZ%2BPhCYgvTlbbof9ehJWpxNEs6VzmrJ5uWaaFf&id=2024奥运
 CCTV-17农村,http://58.248.112.205:8006/GD_CUCC/G_CCTV-17-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBflsNSUvoRXJq9Dxabd45ul6sEw7jHEWykLtxlHY3hJu
+CCTV-16奥运,https://live.mxdyeah.top/live.php?id=CCTV16_4K
+
 
 CCTV-1综合,http://biaozhun114.com/tv/ysp.php?id=01
 CCTV-2财经,http://biaozhun114.com/tv/ysp.php?id=02
@@ -680,28 +693,6 @@ CCTV央视台球,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/001/2012513703
 
 
 胜寒测试,#genre#
-
-CCTV-8K,https://tv.cry33.com/ys4k.php?id=8k25
-CCTV-8K,https://tv.cry33.com/ys4k.php?id=8k
-CCTV-8K,http://mywlkj.ddns.net:754/tv/cctv8k.m3u8 
-CCTV-8K,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
-CCTV-8K,http://biaozhun114.com/tv/ysp.php?id=22
-
-CCTV-4K,http://biaozhun114.com/tv/ysp.php?id=21
-CCTV-4K,https://tv.cry33.com/ys4k.php?id=4k
-CCTV-4K,https://live.mxdyeah.top/live.php?id=CCTV4K
-
-CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-CCTV-4K,http://159.75.85.63:5679/cctv4k.php
-CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
-CCTV-4K,http://113.96.179.241/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-CCTV-4K,https://epg.pw/stream/501663699bfe2985114ba99756ec4b5de3b0f08235fe918b6185add216839c2b.m3u8
-
-
-CCTV-16_4K,https://tv.cry33.com/ys4k.php?id=16-4k
-CCTV-16_4K,https://live.mxdyeah.top/live.php?id=CCTV16_4K
-CCTV-16_4K,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv164k 
 
 苏州 4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 苏州 4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8

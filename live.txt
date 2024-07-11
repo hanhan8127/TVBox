@@ -5,7 +5,7 @@
 CCTV-13新闻,https://event.pull.hebtv.com/jishi/cp4.m3u8
 CCTV-13新闻,http://live.dxms.top:80/dwy/news.php
 CCTV-13新闻,http://live-cmvideo.cmread.com:80/migu/kailu/cctv13/57/20220913/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8c9a1b49296e1bb073f1c7c04835b378
-中华美食,http://58.248.112.205:8006/GD_CUCC/G_GUIZHOU-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHWs5lc8HFQLTI9VPV%2F62TTuRQN%2BYLDq5f9pmexwERDLi
+中华美食,http://58.248.112.205:8006/GD_CUCC/G_ZHONGHUAMS.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNV3PU3p0Usv8FjOEENDSW4xTpQOdZIuqX8U%2Bda0cpE3R
 CCTV-1综合,https://event.pull.hebtv.com/jishi/cp3.m3u8
 CCTV-2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 
@@ -27,9 +27,6 @@ CCTV-14少儿,http://58.248.112.205:8006/GD_CUCC/G_CCTV-14-CQ.m3u8?Authinfo=56fb
 CCTV-15音乐,http://58.248.112.205:8006/GD_CUCC/G_CCTV-15-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYyPYgkCWBSIT3aCcBdsAjsuu6MyRrRs1cAsik3e8WER
 CCTV-16奥运,http://58.248.112.205:8006/GD_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBVSIaGkZ%2BPhCYgvTlbbof9ehJWpxNEs6VzmrJ5uWaaFf&id=2024奥运
 CCTV-17农村,http://58.248.112.205:8006/GD_CUCC/G_CCTV-17-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBflsNSUvoRXJq9Dxabd45ul6sEw7jHEWykLtxlHY3hJu
-CCTV女性时尚,http://58.248.112.205:8006/GD_CUCC/G_NVXINGSS-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBT6%2FGriC8y3OKTsyZWzciYuOZhlv%2BatohiXupAmkA7ht
-CGTN全球,http://58.248.112.205:8006/GD_CUCC/G_CCTV-NEWS.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKtFFYII9SK6P1IL3s11GhJ1pf5JnC9Eg4rDEpIRMhpPS
-
 
 CCTV-1综合,http://biaozhun114.com/tv/ysp.php?id=01
 CCTV-2财经,http://biaozhun114.com/tv/ysp.php?id=02
@@ -51,6 +48,9 @@ CCTV-15音乐,http://biaozhun114.com/tv/ysp.php?id=17
 CCTV-16奥运,http://biaozhun114.com/tv/ysp.php?id=18
 CCTV-16奥运,http://biaozhun114.com/tv/ysp.php?id=19
 CCTV-17农村,http://biaozhun114.com/tv/ysp.php?id=20
+
+CCTV女性时尚,http://58.248.112.205:8006/GD_CUCC/G_NVXINGSS-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBT6%2FGriC8y3OKTsyZWzciYuOZhlv%2BatohiXupAmkA7ht
+
 CCTV发现之旅,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 CCTV兵器科技,http://biaozhun114.com/tv/ysp.php?id=23
 CCTV第一剧场,http://biaozhun114.com/tv/ysp.php?id=24
@@ -65,6 +65,7 @@ CCTV世界地理,http://biaozhun114.com/tv/ysp.php?id=32
 CCTV高尔夫网球,http://biaozhun114.com/tv/ysp.php?id=33
 CCTV央视台球,http://biaozhun114.com/tv/ysp.php?id=34
 CCTV卫生健康,http://biaozhun114.com/tv/ysp.php?id=35
+CGTN全球,http://58.248.112.205:8006/GD_CUCC/G_CCTV-NEWS.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKtFFYII9SK6P1IL3s11GhJ1pf5JnC9Eg4rDEpIRMhpPS
 CGTN全球,http://biaozhun114.com/tv/ysp.php?id=36
 CGTN纪录,http://biaozhun114.com/tv/ysp.php?id=37
 CGTN欧洲,http://biaozhun114.com/tv/ysp.php?id=38

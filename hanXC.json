@@ -32,6 +32,9 @@
 
 {"key":"cj_360zy","name":"360采集","type":1,"api":"https://360zy.com/api.php/provide/vod","playUrl":"https://www.360jiexi.com/player/?url=","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["国产剧","大陆综艺","国产动漫","古装仙侠","现代都市","成长逆袭","年代穿越", "动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","日本动漫","韩国剧","香港剧","欧美剧","日本剧","泰国剧","港台综艺","日韩综艺"]},
 {"key":"cj_非凡量子","name":"全网影视","type":1,"api":"https://xysjtv.yy365.vip/api.php/provide/vod/?ac=list","playurl": "https://tvmvip.com/lz2.php?url=","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+
+{"key": "hipy_js_短剧天堂","name": "短剧天堂","type": 3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 87,"ext": "https://yubox.xyz/drpy_js/短剧天堂.js"},
+	    
 {"key":"天翼资源","name":"天翼资源","type":1,"api":"https://www.911ysw.top/tianyi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1 , "categories": ["国产剧", "综艺","动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片","惊悚片","犯罪片","悬疑片","惊悚片",  "港台剧",  "日韩剧","泰国剧", "欧美剧" ] },
 //{"key":"星辰","name":"星辰影院","type": 3,"api": "csp_XBPQ","ext": {"作者": "心动","站名": "星辰","主页url": "https://yyrj.site","搜索模式": "1","搜索url":"/index.php/vod/search/wd/{wd}.html","线路数组":"<div class=\"module-tab-items&&</div>","线路标题":"<span>&&</span>[不包含:飞刀资源]","分类url": "/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影&电视剧&综艺&动漫&短剧","分类值": "1&2&3&4&5"}},	    
 	    
@@ -44,6 +47,8 @@
 	    
 {"key":"飘零影院","name":"飘零影院","type":1,"api":"https://p2100.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories": ["国产剧","短剧","综艺","动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片","战争片"]},
 
+{"key": "hipy_js_8号影院","name": "8号影院","type": 3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 9,"ext": "https://yubox.xyz/drpy_js/8号影院.js"},
+	    
 {"key":"csp_xBPQ_FreeOK","name":"️FreeOK","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-time-{class}-{lang}----{catePg}---{year}.html;;lr","分类":"短剧$12电影$1#连续剧$2#动漫$3#综艺$4"}},
 
 {"key":"骚火","name": "骚火秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": { "分类url": "https://saohuo.us/list/{cateId}-{catePg}.html;;vr1au0",
@@ -98,7 +103,7 @@
 	
 
 //{"key":"csp_SP360","name":"360影视","type":3,"playerType":2,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-
+{"key": "hipy_js_360影视[官]","name": "🏅360","type": 3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "https://yubox.xyz/drpy_js/360影视[官].js"},
 {"key": "苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":1},
 	 	    
 //{"key":"vidhub","name":"影视视库","type":3,"api":"csp_WebVidHub","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://vidhub1.cc"},
@@ -160,7 +165,7 @@
 {"key": "meowtv_czkt","name": "初中课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "http://cdn.teyonds.com/xp/初中课堂.json"},
 {"key": "meowtv_gzkt","name": "高中课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "http://cdn.teyonds.com/xp/高中课堂.json"},
 	    
-//{"key":"cj_鸡肋视频","name":"鸡肋视频采集","type":0,"api":"http://playersll.gaoxin155.com.cn/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":[]},
+//{"key":"cj_鸡肋视频","name":"鸡肋视频","type":0,"api":"http://playersll.gaoxin155.com.cn/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":[]},
 	
 {"key": "csp_hanhan","name": "胜寒提醒：请勿相信影片中广告！","type": 1,"playerType": 2,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1}
 

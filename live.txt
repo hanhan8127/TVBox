@@ -6,7 +6,7 @@ CCTV-13新闻,https://event.pull.hebtv.com/jishi/cp4.m3u8
 CCTV-13新闻,http://live.dxms.top:80/dwy/news.php
 CCTV-13新闻,http://live-cmvideo.cmread.com:80/migu/kailu/cctv13/57/20220913/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8c9a1b49296e1bb073f1c7c04835b378
 
-CCTV-4K,http://58.216.99.152:80/live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
+
 CCTV-4K,http://biaozhun114.com/tv/ysp.php?id=21
 CCTV-4K,https://live.mxdyeah.top/live.php?id=CCTV4K
 CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
@@ -15,6 +15,7 @@ CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 CCTV-4K,http://113.96.179.241/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-4K,https://epg.pw/stream/501663699bfe2985114ba99756ec4b5de3b0f08235fe918b6185add216839c2b.m3u8
+CCTV-4K,http://58.216.99.152:80/live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
 
 CCTV-8K,http://biaozhun114.com/tv/ysp.php?id=22
 
@@ -1363,7 +1364,7 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 
 港澳台外,#genre#
 
-凤凰卫视,http://yujukoo.gicp.net:8888/udp/239.93.0.162:2192$成都联通
+凤凰中文,http://yujukoo.gicp.net:8888/udp/239.93.0.162:2192$成都联通
 凤凰资讯,http://yujukoo.gicp.net:8888/udp/239.93.0.118:2191$成都联通
 
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
@@ -1374,7 +1375,13 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 
 凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
 凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
- 
+
+凤凰中文,https://epg.pw/stream/aa98dcd3447197ff2a08c7605c93929ee0b5df9e0975a1b60f454f543317ff1e.m3u8
+凤凰中文,https://epg.pw/stream/e6886dbde2158fbb51da8cd6db21e2bb5fb68f4e5aa4db51e3589f30c20a13d8.m3u8
+凤凰中文,https://epg.pw/stream/c77a6c3e914fd27b23140776fce89ecf408b6e3adb44621bef4ffce24931d730.m3u8
+凤凰中文,https://epg.pw/stream/4449f787f5ea0c3b693485107c2f18722fb73ffe25173e86b3a6c88ee50f8f28.m3u8
+凤凰中文,https://epg.pw/stream/bed861174ca3f5d4dd96d8bfc52fd0e2990a69c3e02324ef736495435192d7fa.m3u8
+
 凤凰中文,http://wg.lloydind.cn:9999/udp/233.50.200.42:5140 
 凤凰中文,http://wg.lloydind.cn:9999/udp/233.50.200.191:5140
 凤凰资讯,http://wg.lloydind.cn:9999/udp/233.50.200.192:5140
@@ -1516,11 +1523,7 @@ ELEVEN1,http://ali.hlspull.yximgs.com/live/huanqiuhklivejjojjxcvyhjsjhtejwfhfvjj
 天映经典,http://ali.hlspull.yximgs.com/live/huanqiuhklivevcnydsjfjsetjjfcvbcdtsjjfvxcvsjnmbnljjhjjnmyhsjjftydj.flv
 天映频道,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvxcvjsjbcvjfdvjsfcbjbnjtypj.flv
 
-凤凰卫视,https://epg.pw/stream/aa98dcd3447197ff2a08c7605c93929ee0b5df9e0975a1b60f454f543317ff1e.m3u8
-凤凰卫视,https://epg.pw/stream/e6886dbde2158fbb51da8cd6db21e2bb5fb68f4e5aa4db51e3589f30c20a13d8.m3u8
-凤凰卫视,https://epg.pw/stream/c77a6c3e914fd27b23140776fce89ecf408b6e3adb44621bef4ffce24931d730.m3u8
-凤凰卫视,https://epg.pw/stream/4449f787f5ea0c3b693485107c2f18722fb73ffe25173e86b3a6c88ee50f8f28.m3u8
-凤凰卫视,https://epg.pw/stream/bed861174ca3f5d4dd96d8bfc52fd0e2990a69c3e02324ef736495435192d7fa.m3u8
+
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来体育,https://epg.pw/stream/e5507bbdc9dfef925338d5e3be29d249880f5702d13b4519c7def49163aa386b.m3u8

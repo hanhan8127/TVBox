@@ -1,13 +1,15 @@
 {
     "urls": [
 
-	{"url": "https://ghproxy.net/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json","name": "胜寒"},  
+        {"url": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/hanXC.json","name": "胜寒"},  
 	    
-	{"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json","name": "胜寒0"},
+	{"url": "https://ghproxy.net/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json","name": "胜寒0"},  
+	    
+	{"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json","name": "胜寒1"},
 
        	{"url": "https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json","name": "胜寒2"},
 
-	{"url": "https://100km.top/0","name": "胜寒2"},
+	{"url": "https://100km.top/0","name": "胜寒3"},
 
 	{"url": "http://ygbhbox.3vfree.club/pg/jsm.json","name": "宝盒"},	
 	    

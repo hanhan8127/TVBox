@@ -37,7 +37,8 @@
 	    
 {"key":"天翼资源","name":"天翼资源","type":1,"api":"https://www.911ysw.top/tianyi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1 , "categories": ["国产剧", "综艺","动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片","惊悚片","犯罪片","悬疑片","惊悚片",  "港台剧",  "日韩剧","泰国剧", "欧美剧" ] },
 //{"key":"星辰","name":"星辰影院","type": 3,"api": "csp_XBPQ","ext": {"作者": "心动","站名": "星辰","主页url": "https://yyrj.site","搜索模式": "1","搜索url":"/index.php/vod/search/wd/{wd}.html","线路数组":"<div class=\"module-tab-items&&</div>","线路标题":"<span>&&</span>[不包含:飞刀资源]","分类url": "/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影&电视剧&综艺&动漫&短剧","分类值": "1&2&3&4&5"}},	    
-	    
+{"key": "hipy_js_8号影院","name": "8号影院","type": 3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 9,"ext": "https://yubox.xyz/drpy_js/8号影院.js"},
+		    
 {"key": "花姐影院","name": "花姐影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"数组": "<li class=\"fed-list-item&&</li>","搜索url": "https://www.huajie2.com/search.php?searchword={wd}",
         "分类url":"https://www.huajie2.com/search.php?searchtype=5&area={area}&class={class}&by={by}&year={year}&tid={cateId}&yuyan={lang}&page={catePg}","分类": "国产剧&电视剧&电影&综艺&动漫","分类值": "13&2&1&3&4&40"},"jar":"https://gitlab.com/xmbjm/omg/-/raw/main/jar/xyqxbpq.jar"},	    
 
@@ -47,8 +48,7 @@
 	    
 {"key":"飘零影院","name":"飘零影院","type":1,"api":"https://p2100.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories": ["国产剧","短剧","综艺","动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片","战争片"]},
 
-{"key": "hipy_js_8号影院","name": "8号影院","type": 3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 9,"ext": "https://yubox.xyz/drpy_js/8号影院.js"},
-	    
+    
 {"key":"csp_xBPQ_FreeOK","name":"️FreeOK","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-time-{class}-{lang}----{catePg}---{year}.html;;lr","分类":"短剧$12电影$1#连续剧$2#动漫$3#综艺$4"}},
 
 {"key":"骚火","name": "骚火秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": { "分类url": "https://saohuo.us/list/{cateId}-{catePg}.html;;vr1au0",

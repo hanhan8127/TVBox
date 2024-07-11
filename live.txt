@@ -52,12 +52,14 @@ CCTV-16奥运,http://biaozhun114.com/tv/ysp.php?id=18
 CCTV-16奥运,http://biaozhun114.com/tv/ysp.php?id=19
 CCTV-17农村,http://biaozhun114.com/tv/ysp.php?id=20
 
+CCTV风云音乐,http://biaozhun114.com/tv/ysp.php?id=27
+CCTV风云足球,http://biaozhun114.com/tv/ysp.php?id=28
+CCTV发现之旅,https://live.mxdyeah.top/live.php?id=faxian
 CCTV兵器科技,http://biaozhun114.com/tv/ysp.php?id=23
 CCTV第一剧场,http://biaozhun114.com/tv/ysp.php?id=24
 CCTV怀旧剧场,http://biaozhun114.com/tv/ysp.php?id=25
 CCTV风云剧场,http://biaozhun114.com/tv/ysp.php?id=26
-CCTV风云音乐,http://biaozhun114.com/tv/ysp.php?id=27
-CCTV风云足球,http://biaozhun114.com/tv/ysp.php?id=28
+
 CCTV电视指南,http://biaozhun114.com/tv/ysp.php?id=29
 CCTV女性时尚,http://biaozhun114.com/tv/ysp.php?id=30
 CCTV文化精品,http://biaozhun114.com/tv/ysp.php?id=31
@@ -90,7 +92,7 @@ CCTV-14少儿,https://live.mxdyeah.top/live.php?id=cctvseHD
 CCTV-15音乐,https://live.mxdyeah.top/live.php?id=cctv15HD
 CCTV-16奥运,https://live.mxdyeah.top/live.php?id=cctv16HD
 CCTV-17农村,https://live.mxdyeah.top/live.php?id=cctv17HD
-CGTN,https://live.mxdyeah.top/live.php?id=cgtnSD
+CGTN全球,https://live.mxdyeah.top/live.php?id=cgtnSD
 CCTV第一剧场,https://live.mxdyeah.top/live.php?id=diyijuchangHD
 CCTV发现之旅,https://live.mxdyeah.top/live.php?id=faxian
 CCTV风云剧场,https://live.mxdyeah.top/live.php?id=fyjcHD
@@ -102,14 +104,14 @@ CCTV兵器科技,https://live.mxdyeah.top/live.php?id=bqkjHD
 CCTV高尔夫网球,https://live.mxdyeah.top/live.php?id=golfHD
 CCTV文化精品,https://live.mxdyeah.top/live.php?id=yswhHD
 CCTV女性时尚,https://live.mxdyeah.top/live.php?id=nvxing
-CETV-教育1,http://biaozhun114.com/tv/ysp.php?id=42
+
 
 CCTV-1综合,http://biaozhun114.com/tv/zb/cqcucc.php?id=1
 CCTV-2财经,http://biaozhun114.com/tv/zb/cqcucc.php?id=2
 CCTV-3综艺,http://biaozhun114.com/tv/zb/cqcucc.php?id=3
 CCTV-4国际,http://biaozhun114.com/tv/zb/cqcucc.php?id=4
 CCTV-5体育,http://biaozhun114.com/tv/zb/cqcucc.php?id=5
-CCTV5+赛事,http://biaozhun114.com/tv/zb/cqcucc.php?id=68
+CCTV-5+赛事,http://biaozhun114.com/tv/zb/cqcucc.php?id=68
 CCTV-6电影,http://biaozhun114.com/tv/zb/cqcucc.php?id=6
 CCTV-7军事,http://biaozhun114.com/tv/zb/cqcucc.php?id=7
 CCTV-8电视剧,http://biaozhun114.com/tv/zb/cqcucc.php?id=8
@@ -676,7 +678,7 @@ CCTV高尔夫网球,http://hz752.live:63/6770/cqyx.php?id=golfHD
 
 CCTV世界地理,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/001/2012513303.m3u8
 CCTV央视台球,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/001/2012513703.m3u8
-
+CETV-教育1,http://biaozhun114.com/tv/ysp.php?id=42
 
 胜寒测试,#genre#
 

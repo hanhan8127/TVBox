@@ -84,7 +84,7 @@
 "线路二次截取": "class=\"source_tab\"&&</div>","线路数组": "<span&&</span>","线路标题": ">&&<small>",
 "播放二次截取": "class=\"tabc on\"&&class=\"movie-love","播放数组": "<ul>&&</ul>","播放标题": ">&&</a>","播放列表": "<li>&&</li>","播放链接": "href=\"&&\"","跳转播放链接": "var urls = decodeURIComponent('&&');",
 "搜索url": "https://s.haokongbu.top/e/search/result/?wd={wd}", "分类url": "https://www.haokongbu.top/{cateId}/index_{catePg}.html[https://www.haokongbu.top/{cateId}/]",
- "分类": "国产剧$guochanju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#记录片$m_jlp#动画片$donghuapian#高清$gaoqing#港剧$gangju#台剧$taiwanju#日剧$riju#韩剧$hanju#美剧$oumeiju#泰剧$taiguoju#海外剧$haiwaiju#微电影$weidianying#冷门电影$lmmovie#冷门电视剧$lmtv"}"jar":""},
+ "分类": "国产剧$guochanju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#记录片$m_jlp#动画片$donghuapian#高清$gaoqing#港剧$gangju#台剧$taiwanju#日剧$riju#韩剧$hanju#美剧$oumeiju#泰剧$taiguoju#海外剧$haiwaiju#微电影$weidianying#冷门电影$lmmovie#冷门电视剧$lmtv"},"jar":""},
 //恐怖影院https://m.haokongbu.top/
 
 {"key":"极速资源","name": "极速资源","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧", "日剧", "韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺",  "日韩动漫", "欧美动漫","港台动漫","海外动漫"]},

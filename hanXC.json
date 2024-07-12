@@ -64,7 +64,7 @@
 "播放二次截取": "class=\"tabc on\"&&class=\"movie-love","播放数组": "<ul>&&</ul>","播放标题": ">&&</a>","播放列表": "<li>&&</li>","播放链接": "href=\"&&\"","跳转播放链接": "var urls = decodeURIComponent('&&');",
 "搜索url": "https://s.haokongbu.top/e/search/result/?wd={wd}", "分类url": "https://www.haokongbu.top/{cateId}/index_{catePg}.html[https://www.haokongbu.top/{cateId}/]",
  "分类": "国产剧$guochanju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#记录片$m_jlp#动画片$donghuapian#高清$gaoqing#港剧$gangju#台剧$taiwanju#日剧$riju#韩剧$hanju#美剧$oumeiju#泰剧$taiguoju#海外剧$haiwaiju#微电影$weidianying#冷门电影$lmmovie#冷门电视剧$lmtv"},
-"jar":".."},
+"jar":"https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/XBPQ.jar"},
 //恐怖影院https://m.haokongbu.top/
 	    
 {"key": "新6V","name": "新6V影院","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://www.xb6v.com/"},

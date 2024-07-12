@@ -31,8 +31,8 @@
 	    	    
 {"key":"南瓜影院","name":"胜寒推荐","type": 3,"api": "csp_NanGua","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key":"快看聚合","name":"胜寒推荐","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable":1,"filterable": 1},
-//{"key": "乐享采集","name":"乐享采集","type": 1,"api": "http://ys.540734621.xyz/api.php/provide/vod/","playerType": 1,"searchable": 1, "quickSearch": 1,"filterable": 1, "categories": ["短剧","国产剧","国产电影","国内综艺","国内动漫","日韩综艺","记录片","音乐","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片","日韩动漫","欧美动漫","影视解说","体育"]},	    
-{"key": "hipy_js_8号影院","name": "8号影院","type": 3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 9,"ext": "https://yubox.xyz/drpy_js/8号影院.js"},
+{"key":"乐享采集","name":"乐享采集","type": 1,"api": "http://ys.540734621.xyz/api.php/provide/vod/","playerType": 1,"searchable": 1, "quickSearch": 1,"filterable": 1, "categories": ["短剧","国产剧","国产电影","国内综艺","国内动漫","日韩综艺","记录片","音乐","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片","日韩动漫","欧美动漫","影视解说","体育"]},	    
+{"key":"hipy_js_8号影院","name": "8号影院","type": 3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 9,"ext": "https://yubox.xyz/drpy_js/8号影院.js"},
 {"key":"cj_非凡量子","name":"非凡量子","type":1,"api":"https://xysjtv.yy365.vip/api.php/provide/vod/?ac=list","playurl": "https://tvmvip.com/lz2.php?url=","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 {"key": "hipy_js_短剧天堂","name": "短剧天堂","type": 3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 87,"ext": "https://yubox.xyz/drpy_js/短剧天堂.js"},
@@ -87,11 +87,6 @@
  "分类": "国产剧$guochanju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#记录片$m_jlp#动画片$donghuapian#高清$gaoqing#港剧$gangju#台剧$taiwanju#日剧$riju#韩剧$hanju#美剧$oumeiju#泰剧$taiguoju#海外剧$haiwaiju#微电影$weidianying#冷门电影$lmmovie#冷门电视剧$lmtv"}},
 //恐怖影院https://m.haokongbu.top/
 
-{"key": "MP4","name": "磁力追剧","type": 3,"api": "csp_XBPQ","jar": "https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/XBPQ.jar","playerType": "2",
-            "ext": {"站名": "磁力追剧","分类": "电视剧$13#动作片$6#科幻片$7#爱情片$8#喜剧片$9#恐怖片$10#战争片$11#剧情片$12","搜索url": "https://www.zmp4.com/vodsearch.html?wd={wd}",
-                "播放数组": "class=\"panel down-list thunder1&&</ul","线路数组": "class=\"stui-pannel__head active&&</div","线路标题": "class=\"title titlego\">&&</h3",
-                "分类url": "https://www.zmp4.com/show/{cateId}/page/{catePg}/year/{year}.html;;a"}},	    
-	    
 {"key":"极速资源","name": "极速资源","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧", "日剧", "韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺",  "日韩动漫", "欧美动漫","港台动漫","海外动漫"]},
 
 {"key":"zy_火狐", "name":"火狐资源", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "quickSearch": 1,"categories": ["短剧", "内地剧","大陆综艺","中国动漫","韩剧","动画片","剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片","犯罪片","日本动漫","欧美动漫","日剧","马泰剧","台湾剧","香港剧","欧美剧","日韩综艺","港台综艺","欧美综艺"]},	    
@@ -126,10 +121,12 @@
         {"name":"寒1","type":0,"url":"https://www.8090g.cn/?url="},
         {"name":"胜2","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","header":{"User-Agent": "okhttp/4.9.3"}},
         {"name":"寒2","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
+	{"name":"胜3","type":0,"url":"https://yparse.ik9.cc/index.php?url="},
         {"name":"寒3","type":1,"url":"http://vip.wpsseo.cn/jiexi/?v="},   
-	//http://vip.wpsseo.cn/jx/?url=
+	//http://vip.wpsseo.cn/jx/?url=          
         {"name":"胜4","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-        {"name":"胜5","type":0,"url":"https://jx.xmflv.com/?url="},
+        {"name":"寒4","type":1,"url":"https://jx.xmflv.cc/?url="},   
+	{"name":"胜5","type":0,"url":"https://jx.xmflv.com/?url="},
         {"name":"寒5","type":0,"url":"https://www.yemu.xyz/?url="},
         {"name":"胜6","type": 0,"url": "https://t1.qlplayer.cyou/player/analysis.php?v=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu", "搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],"header":{"User-Agent":"Dart/3.0(dart:io)"}}},  
         {"name":"寒6","type": 0,"url": "https://t1.qlplayer.cyou/player/?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],"header":{"User-Agent":"Dart/3.0(dart:io)"}}}, 

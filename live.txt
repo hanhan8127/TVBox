@@ -2,7 +2,6 @@
 
 央视频道,#genre#
 
-CCTV-13新闻,https://event.pull.hebtv.com/jishi/cp4.m3u8
 CCTV-13新闻,http://live.dxms.top:80/dwy/news.php
 CCTV-13新闻,http://live-cmvideo.cmread.com:80/migu/kailu/cctv13/57/20220913/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8c9a1b49296e1bb073f1c7c04835b378
 
@@ -10,13 +9,12 @@ CCTV-4K,http://cqcbn4.live.cbncdn.cn:8090/__cl/cg:live/__c/CCTV4K/__op/default/_
 CCTV-4K,https://live.mxdyeah.top/live.php?id=CCTV4K
 CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-4K,http://159.75.85.63:5679/cctv4k.php
-CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 CCTV-4K,http://113.96.179.241/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-4K,https://epg.pw/stream/501663699bfe2985114ba99756ec4b5de3b0f08235fe918b6185add216839c2b.m3u8
-CCTV-4K,http://58.216.99.152:80/live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
 
 CCTV-8K,http://biaozhun114.com/tv/ysp.php?id=22
+
 
 CCTV-1综合,https://event.pull.hebtv.com/jishi/cp3.m3u8
 CCTV-2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8

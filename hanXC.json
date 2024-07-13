@@ -4,11 +4,12 @@
 
   //"spider":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/Yoursmile.jar",	
  //"spider": "https://jihulab.com/yinhe/whk/-/raw/main/jar/spider.jar",	
- "spider":"https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/Yoursmile.jar",
+ //"spider":"https://github.moeyy.xyz/raw.bgithub.xyz/hanhan8127/TVBox/main/Yoursmile.jar",
+   "spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/Yoursmile.jar",
 
     "lives": [
 	    {"name": "live","type": 0,
-            "url": "https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt#https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt",
+            "url": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/live.txt#https://mirror.ghproxy.com/raw.bgithub.xyz/hanhan8127/TVBox/main/live.txt",
 	    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 	    "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    
@@ -64,7 +65,7 @@
 "播放二次截取": "class=\"tabc on\"&&class=\"movie-love","播放数组": "<ul>&&</ul>","播放标题": ">&&</a>","播放列表": "<li>&&</li>","播放链接": "href=\"&&\"","跳转播放链接": "var urls = decodeURIComponent('&&');",
 "搜索url": "https://s.haokongbu.top/e/search/result/?wd={wd}", "分类url": "https://www.haokongbu.top/{cateId}/index_{catePg}.html[https://www.haokongbu.top/{cateId}/]",
  "分类": "国产剧$guochanju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#记录片$m_jlp#动画片$donghuapian#高清$gaoqing#港剧$gangju#台剧$taiwanju#日剧$riju#韩剧$hanju#美剧$oumeiju#泰剧$taiguoju#海外剧$haiwaiju#微电影$weidianying#冷门电影$lmmovie#冷门电视剧$lmtv"},
-"jar":"https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/XBPQ.jar"},
+"jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar"},
 //恐怖影院https://m.haokongbu.top/
 	    
 {"key": "新6V","name": "新6V影院","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://www.xb6v.com/"},
@@ -99,10 +100,10 @@
 {"key":"csp_Mtv","name":"芒果","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/0606.jar"},
 
 	    
-{"key":"小灯塔科学","name":"科学", "type": 3, "api": "csp_Bili", "jar": "http://www.wya6.cn/tz/wyxy.php", "searchable": 0, "quickSearch": 1, "filterable": 1, "ext": "https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/f0ef6384377f8a7a5152f7a70f5db01827c9dcf9/%E6%95%99%E8%82%B2/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E7%A7%91%E5%AD%A6.json" }, 
-{"key":"小灯塔地理","name":"地理", "type": 3, "api": "csp_Bili", "jar": "http://www.wya6.cn/tz/wyxy.php", "searchable": 0, "quickSearch": 1, "filterable": 1, "ext": "https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/f0ef6384377f8a7a5152f7a70f5db01827c9dcf9/%E6%95%99%E8%82%B2/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E5%9C%B0%E7%90%86.json" }, 
-{"key":"小灯塔百科","name":"百科", "type": 3, "api": "csp_Bili", "jar": "http://www.wya6.cn/tz/wyxy.php", "searchable": 0, "quickSearch": 1, "filterable": 1, "ext": "https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/f0ef6384377f8a7a5152f7a70f5db01827c9dcf9/%E6%95%99%E8%82%B2/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E7%99%BE%E7%A7%91.json" },
-{"key":"小灯塔国学","name":"国学", "type": 3, "api": "csp_Bili", "jar": "http://www.wya6.cn/tz/wyxy.php", "searchable": 0, "quickSearch": 1, "filterable": 1, "ext": "https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/f0ef6384377f8a7a5152f7a70f5db01827c9dcf9/%E6%95%99%E8%82%B2/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E5%9B%BD%E5%AD%A6.json" },  
+{"key":"小灯塔科学","name":"科学", "type": 3, "api": "csp_Bili", "jar": "http://www.wya6.cn/tz/wyxy.php", "searchable": 0, "quickSearch": 1, "filterable": 1, "ext": "https://gh.con.sh/https://raw.bgithub.xyz/PizazzGY/TVBox_warehouse/f0ef6384377f8a7a5152f7a70f5db01827c9dcf9/%E6%95%99%E8%82%B2/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E7%A7%91%E5%AD%A6.json" }, 
+{"key":"小灯塔地理","name":"地理", "type": 3, "api": "csp_Bili", "jar": "http://www.wya6.cn/tz/wyxy.php", "searchable": 0, "quickSearch": 1, "filterable": 1, "ext": "https://gh.con.sh/https://raw.bgithub.xyz/PizazzGY/TVBox_warehouse/f0ef6384377f8a7a5152f7a70f5db01827c9dcf9/%E6%95%99%E8%82%B2/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E5%9C%B0%E7%90%86.json" }, 
+{"key":"小灯塔百科","name":"百科", "type": 3, "api": "csp_Bili", "jar": "http://www.wya6.cn/tz/wyxy.php", "searchable": 0, "quickSearch": 1, "filterable": 1, "ext": "https://gh.con.sh/https://raw.bgithub.xyz/PizazzGY/TVBox_warehouse/f0ef6384377f8a7a5152f7a70f5db01827c9dcf9/%E6%95%99%E8%82%B2/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E7%99%BE%E7%A7%91.json" },
+{"key":"小灯塔国学","name":"国学", "type": 3, "api": "csp_Bili", "jar": "http://www.wya6.cn/tz/wyxy.php", "searchable": 0, "quickSearch": 1, "filterable": 1, "ext": "https://gh.con.sh/https://raw.bgithub.xyz/PizazzGY/TVBox_warehouse/f0ef6384377f8a7a5152f7a70f5db01827c9dcf9/%E6%95%99%E8%82%B2/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E5%9B%BD%E5%AD%A6.json" },  
 
 {"key":"js_亲子","name" :"亲子教育","type" : 3,"api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext" : "https://notabug.org/ygfxz/6/raw/main/js/tongqu.js"},
 {"key":"幼儿启蒙","name":"幼儿启蒙","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/幼儿启蒙.json","jar": ""}, 

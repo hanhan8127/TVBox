@@ -93,7 +93,7 @@
 
 {"key":"极速资源","name": "极速资源","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧", "日剧", "韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺",  "日韩动漫", "欧美动漫","港台动漫","海外动漫"]},
 
-{"key":"zy_火狐", "name":"火狐资源", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "quickSearch": 1,"categories": ["短剧", "内地剧","大陆综艺","中国动漫","韩剧","动画片","剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片","犯罪片","日本动漫","欧美动漫","日剧","马泰剧","台湾剧","香港剧","欧美剧","日韩综艺","港台综艺","欧美综艺"]},	    
+//{"key":"zy_火狐", "name":"火狐资源", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "quickSearch": 1,"categories": ["短剧", "内地剧","大陆综艺","中国动漫","韩剧","动画片","剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片","犯罪片","日本动漫","欧美动漫","日剧","马泰剧","台湾剧","香港剧","欧美剧","日韩综艺","港台综艺","欧美综艺"]},	    
 
 {"key":"csp_Qtv","name":"腾讯","type": 3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/0606.jar"},
 {"key":"csp_Itv","name":"爱奇艺","type":3,"api":"csp_Itv","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/0606.jar"},

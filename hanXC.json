@@ -17,7 +17,7 @@
 
     "sites": [
 
-{"key":"cj_360zy","name":"胜寒主线","type":1,"api":"https://360zy.com/api.php/provide/vod","playUrl":"https://www.360jiexi.com/player/?url=","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["国产剧","大陆综艺","国产动漫","古装仙侠","现代都市","成长逆袭","年代穿越", "动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","日本动漫","韩国剧","香港剧","欧美剧","日本剧","泰国剧","港台综艺","日韩综艺"]},
+{"key":"cj_360zy","name":"胜寒主线","type":1,"api":"https://360zy.com/api.php/provide/vod","playUrl":"https://www.360jiexi.com/player/?url=","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["国产剧","大陆综艺","韩国剧","国产动漫","古装仙侠","现代都市","成长逆袭","年代穿越", "动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","日本动漫","香港剧","欧美剧","日本剧","港台综艺","日韩综艺"]},
 
 //{"key":"csp_DouDou","name":"豆瓣推荐","type":3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 

@@ -18,16 +18,17 @@
     "sites": [
 
 {"key":"cj_360zy","name":"胜寒主线","type":1,"api":"https://360zy.com/api.php/provide/vod","playUrl":"https://www.360jiexi.com/player/?url=","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["国产剧","大陆综艺","韩国剧","国产动漫","古装仙侠","现代都市","成长逆袭","年代穿越", "动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","日本动漫","香港剧","欧美剧","日本剧","港台综艺","日韩综艺"]},
-  
-{"key":"文采","name":"金牌秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-//https://www.cfkj86.com/
-	    
+      
 //{"key":"csp_DouDou","name":"豆瓣推荐","type":3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 {"key":"csp_hanhan","name":"胜寒提醒：请勿相信影片中广告！","type": 1,"playerType": 2,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1},	
   
 {"key": "Aid","name": "急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
-	    
+
+{"key":"文采","name":"胜寒秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+//https://www.cfkj86.com/
+{"key":"hipy_8号影院","name":"胜寒秒播","type": 3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 9,"ext": "https://yubox.xyz/drpy_js/8号影院.js"},
+
 {"key": "csp_七新","name": "胜寒秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": {"主页url":"https://www.7xdy.com/","简介":"+<span class=\"detail-content\" style=*>&&</span>",
   "影片状态":"状态：&&</p>","搜索url":"/search.php;post;searchword={wd}","线路数组":"<h3&&/h3>","线路标题":"胜寒+src=*>&&<",
   "分类url":"https://www.7xdy.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k","分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
@@ -35,7 +36,6 @@
 {"key":"南瓜影院","name":"胜寒推荐","type": 3,"api": "csp_NanGua","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key":"快看聚合","name":"胜寒推荐","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable":1,"filterable": 1},
 {"key":"乐享采集","name":"乐享采集","type": 1,"api": "http://ys.540734621.xyz/api.php/provide/vod/","playerType": 1,"searchable": 1, "quickSearch": 1,"filterable": 1, "categories": ["短剧","国产剧","国产电影","国内综艺","国内动漫","日韩综艺","记录片","音乐","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片","日韩动漫","欧美动漫","影视解说","体育"]},	    
-{"key":"hipy_js_8号影院","name":"8号影院","type": 3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 9,"ext": "https://yubox.xyz/drpy_js/8号影院.js"},
 {"key":"cj_非凡量子","name":"非凡量子","type":1,"api":"https://xysjtv.yy365.vip/api.php/provide/vod/?ac=list","playurl": "https://tvmvip.com/lz2.php?url=","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 {"key":"hipy_js_短剧天堂","name":"短剧天堂","type":3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 87,"ext": "https://yubox.xyz/drpy_js/短剧天堂.js"},

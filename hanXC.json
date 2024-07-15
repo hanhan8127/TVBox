@@ -37,7 +37,7 @@
 
 {"key":"hipy_js_短剧天堂","name":"短剧天堂","type":3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 87,"ext": "https://yubox.xyz/drpy_js/短剧天堂.js"},
 {"key":"星芽短剧","name":"星芽短剧","type":3,"api":"csp_AppXY","searchable": 1,"quickSearch": 0,"filterable": 0,"jar":"http://47.99.102.252/jar/xc.zip"},
-{"key":"上头短剧","name":"上头短剧","type":3,"api":"csp_Djtt","searchable": 1,"quickSearch": 1,"changeable": 1},   
+{"key":"上头短剧","name":"上头短剧","type":3,"api":"csp_Djtt","searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720763657384/fan.txt"},   
 
 	    
 {"key": "app_快看1","name": "️快看影视","searchable":1,"type": 1,"playerType":2,"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list","categories":["国产剧","热门短剧","网络电影","国产综艺","国产动漫", "动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","日本动漫","韩国剧","港台剧","欧美剧","港台综艺"]},
@@ -48,6 +48,18 @@
 {"key":"飘零影院","name":"飘零影院","type":1,"api":"https://p2100.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories": ["国产剧","短剧","综艺","动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片","战争片"]},
     
 //{"key":"csp_xBPQ_FreeOK","name":"️FreeOK","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-time-{class}-{lang}----{catePg}---{year}.html;;lr","分类":"短剧$12电影$1#连续剧$2#动漫$3#综艺$4"}},
+    
+{"key":"酷看","name":"酷看秒播","type":3,"api":"csp_Kkys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1},
+{"key":"文采","name":"文采秒播","type":3,"api":"csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
+{"key":"可可","name":"可可多线","type":3,"api":"csp_Kekys","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
+{"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8I/B5wQc4Qma+pU="},
+{"key":"Auete","name":"🏝奥特┃无广","type":3,"api":"csp_Auete","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/"},
+
+	    
+{"key":"骚火","name":"骚火秒播","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": { "分类url": "https://saohuo.us/list/{cateId}-{catePg}.html;;vr1au0",
+  "分类": "电影$1#电视剧$2#大陆$20#美剧$23#动漫$4港剧$21#韩剧$22#台剧$26#日剧$24","数组二次截取": "class=\"v_list\">&&</ul>","数组": "\"v_img\"&&/div>","标题": "title=\"&&\"","副标题": "v_note\"&&</div",
+  "跳转播放链接": "<iframe*src=\"&&\"","二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接": "\"url\"*\"&&\"","嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4"}},
+//骚火发布页http://shapp.us/；https://saohuo.tv/	    
     
 
 	    

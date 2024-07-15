@@ -67,7 +67,7 @@
   {
       "key": "XBPQ_电影先生",
       "name": "电影先生|XBPQ",
-      "jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar",
+      "jar": "https://git.acwing.com/iduoduo/orange/-/raw/main/lib/XBPQ.jar",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -94,7 +94,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar",
+      "jar": "https://git.acwing.com/iduoduo/orange/-/raw/main/lib/XBPQ.jar",
       "ext": {
         "分类url": "https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
         "分类": "电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}

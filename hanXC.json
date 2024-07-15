@@ -19,6 +19,8 @@
 
 {"key":"cj_360zy","name":"胜寒主线","type":1,"api":"https://360zy.com/api.php/provide/vod","playUrl":"https://www.360jiexi.com/player/?url=","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["国产剧","大陆综艺","韩国剧","国产动漫","古装仙侠","现代都市","成长逆袭","年代穿越", "动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","日本动漫","香港剧","欧美剧","日本剧","港台综艺","日韩综艺"]},
 
+{"key":"神仙影视","name":"神仙影视","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":{"站名": "神仙影视","作者": "胜寒","分类url": "https://ys.sxtv.top/index.php/vod/type/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}.html[https://ys.sxtv.top/index.php/vod/type/id/{cateId}.html]","分类": "电影&剧集&动漫&综艺","分类值": "1&2&4&3","简介":"<p>&&</p>","排序": "时间$time#人气$hits#评分$score","主页url": "https://ys.sxtv.top/"}},
+	    
  {
       "key": "XBPQ_文才",
       "name": "文才|XBPQ",
@@ -197,6 +199,7 @@
         {"name":"胜6","type": 0,"url": "https://t1.qlplayer.cyou/player/analysis.php?v=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu", "搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],"header":{"User-Agent":"Dart/3.0(dart:io)"}}},  
         {"name":"寒6","type": 0,"url": "https://t1.qlplayer.cyou/player/?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],"header":{"User-Agent":"Dart/3.0(dart:io)"}}}, 
         {"name":"寒7","type":1,"url":"https://www.ckplayer.vip/jiexi/?url="},
+        {"name":"寒8","type":1,"url":"https://www.pangujiexi.com/pangu/?url="},	  
         {"name":"胜寒欢迎您","type":0,"url":"https://jx.2s0.cn/player/?url="}
 
     ],

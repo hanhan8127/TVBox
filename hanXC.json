@@ -88,7 +88,7 @@
   "播放数组":"<ul class=\"myui-content__list scrollbar&&</ul>","播放标题":">&&<","播放列表":"<a&&/a>","分类url":"http://www.hktvyun.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a","分类":"国产剧$13#电影$1#电视剧$2#综艺$3#动漫$4"}},
 //TV云播发布页http://www.hktvyb.vip/
 
-//{"key": "好恐怖","name": "好看剧影","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1, "filterable": 1,
+{"key": "好恐怖","name": "好看剧影","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1, "filterable": 1,
   "ext": {"数组": "class=\"lozad\"&&</li>", "图片": "img src=\"&&\"", "标题": "title=\"&&\"","简介": "<div class=\"jqtxt\">&&</p>", "链接": "https://www.haokongbu.top/play/+href=\"/*/&&.html+1.html",
 "线路二次截取": "class=\"source_tab\"&&</div>","线路数组": "<span&&</span>","线路标题": ">&&<small>",
 "播放二次截取": "class=\"tabc on\"&&class=\"movie-love","播放数组": "<ul>&&</ul>","播放标题": ">&&</a>","播放列表": "<li>&&</li>","播放链接": "href=\"&&\"","跳转播放链接": "var urls = decodeURIComponent('&&');",

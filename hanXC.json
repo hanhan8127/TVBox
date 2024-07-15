@@ -26,9 +26,9 @@
 {"key": "Aid","name": "急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
 
 {"key":"文采","name":"胜寒秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-//https://www.cfkj86.com/
+//https://www.cfkj86.com/         http://www.yuhelover.com/     www.ruituka.com
 
-{ "key": "csp_xBPQ_秒", "name": "👿云播⑥", "type": 3, "api": "csp_XBPQ","searchable": 1,"quickSearch": 1,  "filterable": 1, "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/文才.json" },
+{"key":"金牌","name":"金牌秒播","type":3,"api":"csp_Jpys","jar": "./jar/新ttkx.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
 	    
 {"key":"hipy_8号影院","name":"胜寒秒播","type": 3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 9,"ext": "https://yubox.xyz/drpy_js/8号影院.js"},

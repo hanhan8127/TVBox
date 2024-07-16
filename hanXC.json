@@ -42,7 +42,9 @@
                 "分类url": "https://www.ghw9zwp5.com/type/{cateId}"
             }},
 	    
+{"key":"木耳采集","name":"木耳影院","type": 1,"api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list","playerType": 1,"searchable": 1, "quickSearch": 1,"filterable": 1, "categories": ["电影","国产剧","短剧","虐恋短剧","逆袭短剧","重生短剧","甜宠短剧","穿越短剧","综艺","动漫","电视剧"]},	 
 
+	    
 {"key": "csp_七新","name": "胜寒秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": {"主页url":"https://www.7xdy.com/","简介":"+<span class=\"detail-content\" style=*>&&</span>",
   "影片状态":"状态：&&</p>","搜索url":"/search.php;post;searchword={wd}","线路数组":"<h3&&/h3>","线路标题":"胜寒+src=*>&&<",
   "分类url":"https://www.7xdy.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k","分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
@@ -55,7 +57,16 @@
 {"key":"hipy_js_短剧天堂","name":"短剧天堂","type":3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 87,"ext": "https://yubox.xyz/drpy_js/短剧天堂.js"},
 {"key":"星芽短剧","name":"星芽短剧","type":3,"api":"csp_AppXY","searchable": 1,"quickSearch": 0,"filterable": 0,"jar":"http://47.99.102.252/jar/xc.zip"},
 {"key":"上头短剧","name":"上头短剧","type":3,"api":"csp_Djtt","searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720763657384/fan.txt"},   
+{"key":"短剧tv","name":"宝盒|短剧1","type":3,"api":"csp_XBPQ","jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar",
+	"ext":{"搜索链接":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
+               "线路标题":"<h3*>&&</h3>","线路数组":"\"more text-muted pull-right\">&&</ul>","播放数组":"\"more text-muted pull-right\">&&</ul>",
+               "播放链接":"http+://www.duanjutv.cc+href='&&'",
+               "分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23","分类链接":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m"
+      }}, 
 
+{"key": "csp_Nmys","name": "宝盒|短剧2","type": 3,"api": "csp_XBPQ", "jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","searchable": 1,"quickSearch": 1,"changeable": 1,
+	"ext": "./lib/mrdj.json"
+    },  
 	    
 {"key": "app_快看1","name": "️快看影视","searchable":1,"type": 1,"playerType":2,"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list","categories":["国产剧","热门短剧","网络电影","国产综艺","国产动漫", "动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","日本动漫","韩国剧","港台剧","欧美剧","港台综艺"]},
 	    
@@ -113,42 +124,29 @@
 {"key":"极速资源","name": "极速资源","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧", "日剧", "韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺",  "日韩动漫", "欧美动漫","港台动漫","海外动漫"]},
 
 //{"key":"zy_火狐", "name":"火狐资源", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "quickSearch": 1,"categories": ["短剧", "内地剧","大陆综艺","中国动漫","韩剧","动画片","剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片","犯罪片","日本动漫","欧美动漫","日剧","马泰剧","台湾剧","香港剧","欧美剧","日韩综艺","港台综艺","欧美综艺"]},	    
+
 { "key": "子子影视","name": "子子|影视","type": 3,"api": "csp_XBPQ","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,
-      "ext": {
-        "站名":"子子影视",    
-        "主页url":"https://www.ziziys.com",    
-        "简介":"video-info-item video-info-content vod_content\"&&</div>",    
-        "导演":"导演：&&</div>",    
-        "主演":"主演：&&</div>",    
-        "影片类型":"video-info-aux scroll-content\">&&立即播放",    
-        "影片状态":"集数：&&</div>",    
-        "数组":"module-item-cover\">&&module-item\">",    
-        "副标题":"module-item-text\">&&</div>",    
-        "链接":"href=\"&&\"",    
-        "标题":"title=\"&&\"",    
-        "图片":"data-src=\"&&\"",    
-        "搜索url":"/vsearch/{wd}--{pg}.html",    
-        "搜索模式":"1",    
-        "搜索数组":"<img class=\"lazy lazyload&&</h3>",    
-        "搜索图片":"data-src=\"&&\"",    
-        "搜索标题":"alt=\"&&\"",    
-        "搜索链接":"href=\"&&\"",    
-        "搜索副标题":"title=*>&&</a>",    
-        "搜索后缀":"/video/",    
-        "线路数组":"data-dropdown-value=&&</div>",    
-        "线路标题":"<span>&&</small>[替换:</span><small>>>>🌸共]+集🌸",    
-        "播放数组":"<div class=\"sort-item\"&&</div>",
-        "导演":"导演：&&</div>",    
-        "主演":"主演：&&</div>",    
-        "简介":"<div class=\"video-info-item video-info-content vod_content\">&&</div>",    
-        "影片类型":"icon-cate-ds\"&&立即播放",    
-        "影片状态":"集数：&&</div>",    
-        "播放列表":"<a&&</a>",    
-        "播放标题":"<span>&&</span>",    
-        "播放链接":"href=\"&&\"",        
-        "分类url":"https://www.ziziys.com/list/{cateId}-{catePg}.html;;ak",    
-        "分类":"电影$1#国产剧$13#动漫$3#美剧$14#日韩剧$15"
+      "ext": {"站名":"子子影视",    "主页url":"https://www.ziziys.com",    "简介":"video-info-item video-info-content vod_content\"&&</div>",    
+        "导演":"导演：&&</div>",    "主演":"主演：&&</div>",    "影片类型":"video-info-aux scroll-content\">&&立即播放",    "影片状态":"集数：&&</div>",    
+        "数组":"module-item-cover\">&&module-item\">",    "副标题":"module-item-text\">&&</div>",    "链接":"href=\"&&\"",    "标题":"title=\"&&\"",    "图片":"data-src=\"&&\"",    
+        "搜索url":"/vsearch/{wd}--{pg}.html",    "搜索模式":"1",    "搜索数组":"<img class=\"lazy lazyload&&</h3>",    "搜索图片":"data-src=\"&&\"",    "搜索标题":"alt=\"&&\"",    
+        "搜索链接":"href=\"&&\"",    "搜索副标题":"title=*>&&</a>",    "搜索后缀":"/video/",    
+        "线路数组":"data-dropdown-value=&&</div>",    "线路标题":"<span>&&</small>[替换:</span><small>>>>🌸共]+集🌸",    
+        "播放数组":"<div class=\"sort-item\"&&</div>","导演":"导演：&&</div>",    "主演":"主演：&&</div>",    
+        "简介":"<div class=\"video-info-item video-info-content vod_content\">&&</div>",    "影片类型":"icon-cate-ds\"&&立即播放",    
+        "影片状态":"集数：&&</div>",    "播放列表":"<a&&</a>",    "播放标题":"<span>&&</span>",    "播放链接":"href=\"&&\"",        
+        "分类url":"https://www.ziziys.com/list/{cateId}-{catePg}.html;;ak",    "分类":"电影$1#国产剧$13#动漫$3#美剧$14#日韩剧$15"
     }}, 
+
+{"key":"XBPQ_电影先生","name": "电影先生|XBPQ","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","type": 3,"api": "csp_XBPQ",
+	"ext": {"分类url": "https://dianyi.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html",
+		"简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
+		"搜索url": "https://dianyi.ng/search--------------.html?wd={wd}","搜索数组": "<div class=\"module-item-pic\">&&</div>",
+		"图片": "src=\"&&\"","搜索标题": "title=\"&&\"","搜索副标题": ">&&</a>","线路数组": "data-dropdown-value=&&</div>",
+		"线路标题": "<span>&&</small>[替换:<span></small>共]+集","播放数组": "<div class=\"scroll-content\">&&</div>",
+		"播放标题": "<span>&&</span>","分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
+		}},
+	    
 
 {"key":"csp_Qtv","name":"腾讯","type": 3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/0606.jar"},
 {"key":"csp_Itv","name":"爱奇艺","type":3,"api":"csp_Itv","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/0606.jar"},

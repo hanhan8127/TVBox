@@ -38,8 +38,8 @@
                 "链接": "href=\"&&\"",
                 "立即播放":"1",
                 "嗅探词": ".mp4#.m3u8#.flv",
-               "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-                "分类url": "https://www.ghw9zwp5.com/type/{cateId}"
+               "分类": "国产剧$14#日韩剧$62#综艺$3#动漫$4",
+               "分类url": "https://www.ghw9zwp5.com/vod/show/id/2/type/{cateId}""
             }},
 	    
 

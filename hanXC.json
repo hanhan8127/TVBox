@@ -30,16 +30,16 @@
 {"key":"文采","name":"文采秒播","type":3,"api":"csp_Jpys","jar": "https://raw.bgithub.xyz/gaotianliuyun/gao/master/jar/fan.txt","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //https://www.cfkj86.com/         http://www.yuhelover.com/     www.ruituka.com
 
-{"key": "金牌电影","name": "金牌|电影","type": 3,"api": "csp_XBPQ","jar": "https://gitee.com/Muing/zjc/raw/master/jar/%E6%96%B0ttkx.jar","searchable": 1,"quickSearch": 1,"filterable": 1,
-	"ext": {"主页url": "https://www.ghw9zwp5.com",
+ {"key": "金牌电影","name": "金牌|电影","type": 3,"api": "csp_XBPQ","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,
+            "ext": {"主页url": "https://www.ghw9zwp5.com",
                 "数组": "class=\"slide-content\"&&</div></div>",
                 "标题": "alt=\"&&\"",
                 "图片": "srcset=\"&&\"",
                 "链接": "href=\"&&\"",
                 "立即播放":"1",
                 "嗅探词": ".mp4#.m3u8#.flv",
-	       "分类url": "https://www.ghw9zwp5.com/type/{cateId}"
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+               "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+                "分类url": "https://www.ghw9zwp5.com/type/{cateId}"
             }},
 	    
 

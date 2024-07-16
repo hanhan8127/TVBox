@@ -30,6 +30,17 @@
 {"key":"文采1","name":"文采秒播","type":3,"api":"csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"https://js.catvod.com/https://raw.bgithub.xyz/gaotianliuyun/gao/master/jar/fan.txt"},
 //https://www.cfkj86.com/         http://www.yuhelover.com/     www.ruituka.com
 
+{"key": "金牌电影","name": "金牌|电影","type": 3,"api": "csp_XBPQ","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,
+	"ext": {"主页url": "https://www.ghw9zwp5.com",
+                "数组": "class=\"slide-content\"&&</div></div>",
+                "标题": "alt=\"&&\"",
+                "图片": "srcset=\"&&\"",
+                "链接": "href=\"&&\"",
+                "立即播放":"1",
+                "嗅探词": ".mp4#.m3u8#.flv",
+               "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+                "分类url": "https://www.ghw9zwp5.com/type/{cateId}"
+            }},
 	    
 
 {"key": "csp_七新","name": "胜寒秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": {"主页url":"https://www.7xdy.com/","简介":"+<span class=\"detail-content\" style=*>&&</span>",
@@ -58,7 +69,7 @@
 {"key":"酷看","name":"酷看秒播","type":3,"api":"csp_Kkys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720763657384/fan.txt"},
 {"key":"热播","name":"热播多线","type":3,"api":"csp_AppTT","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8I/B5wQc4Qma+pU="},
 //{"key":"Auete","name":"奥特影院","type":3,"api":"csp_Auete","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/"},
-//上面4个是饭太硬线路
+//上面3个是饭太硬线路
 	    
 {"key":"骚火","name":"骚火秒播","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": { "分类url": "https://saohuo.us/list/{cateId}-{catePg}.html;;vr1au0",
   "分类": "电影$1#电视剧$2#大陆$20#美剧$23#动漫$4港剧$21#韩剧$22#台剧$26#日剧$24","数组二次截取": "class=\"v_list\">&&</ul>","数组": "\"v_img\"&&/div>","标题": "title=\"&&\"","副标题": "v_note\"&&</div",

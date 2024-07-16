@@ -3,7 +3,7 @@
 央视频道,#genre#
 
 CCTV-13新闻,http://live.dxms.top:80/dwy/news.php
-CCTV-13新闻,http://live-cmvideo.cmread.com:80/migu/kailu/cctv13/57/20220913/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8c9a1b49296e1bb073f1c7c04835b378
+CCTV-13新闻,https://live.mxdyeah.top/live.php?id=CCTVNewsHD
 
 CCTV-4K,http://cqcbn4.live.cbncdn.cn:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 CCTV-4K,https://live.mxdyeah.top/live.php?id=CCTV4K

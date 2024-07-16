@@ -28,23 +28,8 @@
 
 {"key":"金牌","name":"金牌秒播","type":3,"api":"csp_Jpys","jar": "https://gitee.com/Muing/zjc/raw/master/jar/%E6%96%B0ttkx.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"文采","name":"文采秒播","type":3,"api":"csp_Jpys","jar": "https://raw.bgithub.xyz/gaotianliuyun/gao/master/jar/fan.txt","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-//https://www.cfkj86.com/         http://www.yuhelover.com/     www.ruituka.com
+//https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com
 
- {"key": "金牌电影","name": "金牌电影","type": 3,"api": "csp_XBPQ","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,
-            "ext": {"主页url": "https://www.ghw9zwp5.com",
-                "数组": "class=\"slide-content\"&&</div></div>",
-                "标题": "alt=\"&&\"",
-                "图片": "srcset=\"&&\"",
-                "链接": "href=\"&&\"",
-                "立即播放":"1",
-                "嗅探词": ".mp4#.m3u8#.flv",
-               "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-                "分类url": "https://www.ghw9zwp5.com/type/{cateId}"
-            }},
-	    
-{"key":"木耳采集","name":"乐享影院","type": 1,"api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list","playUrl":"https://player.heimuer.tv/index.html?url=","playerType": 1,"searchable": 1, "quickSearch": 1,"filterable": 1, "categories": ["国产剧","虐恋短剧","逆袭短剧","重生短剧","甜宠短剧","穿越短剧","国产综艺","国产动漫","韩国综艺","港台综艺","日本动漫","韩剧","泰剧","欧美剧","日剧","合集短剧"]},	    
-
-	    
 {"key": "csp_七新","name": "胜寒秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": {"主页url":"https://www.7xdy.com/","简介":"+<span class=\"detail-content\" style=*>&&</span>",
   "影片状态":"状态：&&</p>","搜索url":"/search.php;post;searchword={wd}","线路数组":"<h3&&/h3>","线路标题":"胜寒+src=*>&&<",
   "分类url":"https://www.7xdy.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k","分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
@@ -105,8 +90,8 @@
 	    
 {"key": "歪影秒播","name": "歪影秒播","type": 3,"api": "csp_XBPQ","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"简介": "胜寒提醒您,请勿相信影片中的广告，以免上当受骗！++module-info-introduction-content\">&&</div>",
-        "导演": "胜寒V","主演": "主演：&&</div>",
-        "线路数组": "data-dropdown-value=&&</div>[不包含:SD源#BD源#TK源#UK源#WJ源#BJ源#HN源]","线路标题": "胜寒",
+        "导演": "","主演": "主演：&&</div>",
+        "线路数组": "data-dropdown-value=&&</div>[不包含:SD源#BD源#TK源#UK源#WJ源#BJ源#HN源]","线路标题": "寒",
         "分类url": "https://waipian14.com/show-{cateId}-{area}-{by}-{class}-----{catePg}---{year}/;;am0k",
         "分类": "电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman#纪录片$jilupian"
       }},
@@ -129,7 +114,7 @@
 
 //{"key":"zy_火狐", "name":"火狐资源", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "quickSearch": 1,"categories": ["短剧", "内地剧","大陆综艺","中国动漫","韩剧","动画片","剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片","犯罪片","日本动漫","欧美动漫","日剧","马泰剧","台湾剧","香港剧","欧美剧","日韩综艺","港台综艺","欧美综艺"]},	    
 
-{ "key": "子子影视","name": "子子|影视","type": 3,"api": "csp_XBPQ","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,
+{ "key": "子子影视","name": "子子影视","type": 3,"api": "csp_XBPQ","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"站名":"子子影视",    "主页url":"https://www.ziziys.com",    "简介":"video-info-item video-info-content vod_content\"&&</div>",    
         "导演":"导演：&&</div>",    "主演":"主演：&&</div>",    "影片类型":"video-info-aux scroll-content\">&&立即播放",    "影片状态":"集数：&&</div>",    
         "数组":"module-item-cover\">&&module-item\">",    "副标题":"module-item-text\">&&</div>",    "链接":"href=\"&&\"",    "标题":"title=\"&&\"",    "图片":"data-src=\"&&\"",    
@@ -142,15 +127,9 @@
         "分类url":"https://www.ziziys.com/list/{cateId}-{catePg}.html;;ak",    "分类":"电影$1#国产剧$13#动漫$3#美剧$14#日韩剧$15"
     }}, 
 
-{"key":"XBPQ_电影先生","name": "电影先生","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","type": 3,"api": "csp_XBPQ",
-	"ext": {"分类url": "https://dianyi.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html",
-		"简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
-		"搜索url": "https://dianyi.ng/search--------------.html?wd={wd}","搜索数组": "<div class=\"module-item-pic\">&&</div>",
-		"图片": "src=\"&&\"","搜索标题": "title=\"&&\"","搜索副标题": ">&&</a>","线路数组": "data-dropdown-value=&&</div>",
-		"线路标题": "<span>&&</small>[替换:<span></small>共]+集","播放数组": "<div class=\"scroll-content\">&&</div>",
-		"播放标题": "<span>&&</span>","分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
-		}},
-	    
+{"key":"木耳采集","name":"乐享影院","type": 1,"api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list","playUrl":"https://player.heimuer.tv/index.html?url=","playerType": 1,"searchable": 1, "quickSearch": 1,"filterable": 1, "categories": ["国产剧","虐恋短剧","逆袭短剧","重生短剧","甜宠短剧","穿越短剧","国产综艺","国产动漫","韩国综艺","港台综艺","日本动漫","韩剧","泰剧","欧美剧","日剧","合集短剧"]},	    
+
+	
 
 {"key":"csp_Qtv","name":"腾讯","type": 3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/0606.jar"},
 {"key":"csp_Itv","name":"爱奇艺","type":3,"api":"csp_Itv","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/0606.jar"},

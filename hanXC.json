@@ -42,7 +42,7 @@
                 "分类url": "https://www.ghw9zwp5.com/type/{cateId}"
             }},
 	    
-{"key":"木耳采集","name":"木耳影院","type": 1,"api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list","playerType": 1,"searchable": 1, "quickSearch": 1,"filterable": 1, "categories": ["电影","国产剧","短剧","虐恋短剧","逆袭短剧","重生短剧","甜宠短剧","穿越短剧","综艺","动漫","电视剧"]},	 
+{"key":"木耳采集","name":"乐享影院","type": 1,"api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list","playUrl":"https://player.heimuer.tv/index.html?url=","playerType": 1,"searchable": 1, "quickSearch": 1,"filterable": 1, "categories": ["国产剧","虐恋短剧","逆袭短剧","重生短剧","甜宠短剧","穿越短剧","国产综艺","国产动漫","韩国综艺","港台综艺","日本动漫","韩剧","泰剧","欧美剧","日剧","合集短剧"]},	    
 
 	    
 {"key": "csp_七新","name": "胜寒秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": {"主页url":"https://www.7xdy.com/","简介":"+<span class=\"detail-content\" style=*>&&</span>",

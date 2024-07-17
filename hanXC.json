@@ -46,7 +46,7 @@
 //{"key":"Auete","name":"奥特影院","type":3,"api":"csp_Auete","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/"},
 //上面3个是饭太硬线路
 	    
-{"key": "heji","name": "啵啵大全","type": 1,"api": "http://live.bbyy888.uk/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"categories": ["短剧","国产剧","电影","日韩剧","综艺","动漫","虐恋短剧","逆袭短剧","重生短剧","甜宠短剧","穿越短剧","古装短剧","悬疑短剧","神豪短剧","萌宝短剧","复仇短剧"]}},	      
+{"key": "heji","name": "啵啵大全","type": 1,"api": "http://live.bbyy888.uk/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"categories": ["短剧","国产剧","电影","日韩剧","综艺","动漫","虐恋短剧","逆袭短剧","重生短剧","甜宠短剧","穿越短剧","古装短剧","悬疑短剧","神豪短剧","萌宝短剧","复仇短剧"]},	      
 //http://live.bbyy888.uk/
 	    
 {"key":"cj_非凡量子","name":"非凡量子","type":1,"api":"https://xysjtv.yy365.vip/api.php/provide/vod/?ac=list","playurl": "https://tvmvip.com/lz2.php?url=","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},

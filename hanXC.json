@@ -27,13 +27,13 @@
 {"key": "小点","name": "小点多线","type": 3,"api": "csp_Xdys","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt"},
 
 {"key": "酷看","name": "酷看秒播","type": 3,"api": "csp_Kkys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt"},
-	    
-{"key": "csp_七新","name": "胜寒秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": {"主页url":"https://www.7xdy.com/","简介":"+<span class=\"detail-content\" style=*>&&</span>",
+{"key":"csp_Kkys","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},	    
+{"key": "csp_七新","name": "七新秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": {"主页url":"https://www.7xdy.com/","简介":"+<span class=\"detail-content\" style=*>&&</span>",
   "影片状态":"状态：&&</p>","搜索url":"/search.php;post;searchword={wd}","线路数组":"<h3&&/h3>","线路标题":"胜寒+src=*>&&<",
   "分类url":"https://www.7xdy.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k","分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
 	 	    
 //{"key":"hipy_8号影院","name":"8号影院","type": 3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 9,"ext": "https://yubox.xyz/drpy_js/8号影院.js"},
-
+{"key":"csp_Jpys","name":"💮金牌","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"金牌","name":"金牌秒播","type":3,"api":"csp_Jpys","jar": "https://gitee.com/Muing/zjc/raw/master/jar/%E6%96%B0ttkx.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"文采","name":"文采秒播","type":3,"api":"csp_Jpys","jar": "https://raw.bgithub.xyz/gaotianliuyun/gao/master/jar/fan.txt","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com
@@ -41,8 +41,8 @@
    	    
 {"key":"南瓜影院","name":"南瓜影院","type": 3,"api": "csp_NanGua","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key":"快看聚合","name":"快看聚合","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable":1,"filterable": 1},
-{"key":"乐享采集","name":"乐享采集","type": 1,"api": "http://ys.540734621.xyz/api.php/provide/vod/","playerType": 1,"searchable": 1, "quickSearch": 1,"filterable": 1, "categories": ["短剧","国产剧","国产电影","国内综艺","国内动漫","日韩综艺","记录片","音乐","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片","日韩动漫","欧美动漫","影视解说","体育"]},	    
 {"key":"cj_非凡量子","name":"非凡量子","type":1,"api":"https://xysjtv.yy365.vip/api.php/provide/vod/?ac=list","playurl": "https://tvmvip.com/lz2.php?url=","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"乐享采集","name":"乐享采集","type": 1,"api": "http://ys.540734621.xyz/api.php/provide/vod/","playerType": 1,"searchable": 1, "quickSearch": 1,"filterable": 1, "categories": ["短剧","国产剧","国产电影","国内综艺","国内动漫","日韩综艺","记录片","音乐","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片","日韩动漫","欧美动漫","影视解说","体育"]},	    
 
 {"key":"hipy_js_短剧天堂","name":"短剧天堂","type":3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 87,"ext": "https://yubox.xyz/drpy_js/短剧天堂.js"},
 {"key":"星芽短剧","name":"星芽短剧","type":3,"api":"csp_AppXY","searchable": 1,"quickSearch": 0,"filterable": 0,"jar":"http://47.99.102.252/jar/xc.zip"},
@@ -54,7 +54,7 @@
                "分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23","分类链接":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m"}}, 
 
 {"key":"贱贱","name": "贱贱荐片","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"},
-	    
+{"key":"csp_Jianpian","name":"🧲荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},	    
 {"key": "app_快看1","name": "️快看影视","searchable":1,"type": 1,"playerType":2,"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list","categories":["国产剧","热门短剧","网络电影","国产综艺","国产动漫", "动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","日本动漫","韩国剧","港台剧","欧美剧","港台综艺"]},
 	    
 {"key":"csp_xBPQ_云播","name":"云播影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"分类url":"https://www.yunbo99.com/vodtype/{cateId}-{catePg}","分类":"国产剧$10#综艺$14#动漫$13#动作片$1#喜剧片$2#爱情片$3#科幻片$4#恐怖片$5#剧情片$6#战争片$7#欧美剧$8#日韩剧$9#港台剧$11#海外剧$12#纪录$15#更新$vodgx"}},

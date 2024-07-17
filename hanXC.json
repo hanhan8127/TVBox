@@ -10,8 +10,8 @@
     "lives": [
 	    {"name": "live","type": 0,
             "url": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/live.txt#https://mirror.ghproxy.com/raw.bgithub.xyz/hanhan8127/TVBox/main/live.txt",
-	    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-	    "logo": "https://epg.112114.xyz/logo/{name}.png"
+	    "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    
            }],
 

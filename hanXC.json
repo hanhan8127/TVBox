@@ -50,7 +50,7 @@
 //http://live.bbyy888.uk/
 	    
 {"key":"cj_非凡量子","name":"非凡量子","type":1,"api":"https://xysjtv.yy365.vip/api.php/provide/vod/?ac=list","playurl": "https://tvmvip.com/lz2.php?url=","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"乐享采集","name":"乐享采集","type": 1,"api": "http://ys.540734621.xyz/api.php/provide/vod/","playerType": 1,"searchable": 1, "quickSearch": 1,"filterable": 1, "categories": ["短剧","国产剧","国产电影","国内综艺","国内动漫","日韩综艺","记录片","音乐","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片","日韩动漫","欧美动漫","影视解说","体育"]},	    
+//{"key":"乐享采集","name":"乐享采集","type": 1,"api": "http://ys.540734621.xyz/api.php/provide/vod/","playerType": 1,"searchable": 1, "quickSearch": 1,"filterable": 1, "categories": ["短剧","国产剧","国产电影","国内综艺","国内动漫","日韩综艺","记录片","音乐","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片","日韩动漫","欧美动漫","影视解说","体育"]},	    
 
 {"key":"hipy_js_短剧天堂","name":"短剧天堂","type":3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 87,"ext": "https://yubox.xyz/drpy_js/短剧天堂.js"},
 {"key":"星芽短剧","name":"星芽短剧","type":3,"api":"csp_AppXY","searchable": 1,"quickSearch": 0,"filterable": 0,"jar":"http://47.99.102.252/jar/xc.zip"},

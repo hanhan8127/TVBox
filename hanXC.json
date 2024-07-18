@@ -45,7 +45,8 @@
 {"key":"热播","name":"热播多线","type":3,"api":"csp_AppTT","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8I/B5wQc4Qma+pU="},
 //{"key":"Auete","name":"奥特影院","type":3,"api":"csp_Auete","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/"},
 //上面3个是饭太硬线路
-	    
+{"key":"zy_云解析","name":"步步资源", "type":1, "api":"https://api.yparse.com/api/json","playurl":"https://yparse.ik9.cc/index.php?url=", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": ["短剧","国产剧","微电影","韩国剧","日本剧","泰国剧", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片","动画片", "香港剧",  "台湾剧","欧美剧", "海外剧" ] },
+//https://www.yparse.com/help    	    
 {"key": "heji","name": "啵啵大全","type": 1,"api": "http://live.bbyy888.uk/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"categories": ["短剧","国产剧","电影","日韩剧","综艺","动漫","虐恋短剧","逆袭短剧","重生短剧","甜宠短剧","穿越短剧","古装短剧","悬疑短剧","神豪短剧","萌宝短剧","复仇短剧"]},	      
 //http://live.bbyy888.uk/
 	    

@@ -115,7 +115,7 @@
         "分类url":"https://www.ziziys.com/list/{cateId}-{catePg}.html;;ak",    "分类":"电影$1#国产剧$13#动漫$3#美剧$14#日韩剧$15"
     }}, 
 
-{"key":"木耳采集","name":"乐享影院","type": 1,"api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list","playurl":"https://jisjiexi.com/play/?url=","searchable": 1, "quickSearch": 1,"filterable": 1, "categories": ["国产剧","虐恋短剧","逆袭短剧","重生短剧","甜宠短剧","穿越短剧","国产综艺","国产动漫","韩国综艺","港台综艺","日本动漫","韩剧","泰剧","欧美剧","日剧","合集短剧"]},	    
+{"key":"木耳采集","name":"乐享影院","type": 1,"api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list","playurl":"https://www.xinlangjiexi.com/m3u8/?url=","searchable": 1, "quickSearch": 1,"filterable": 1, "categories": ["国产剧","虐恋短剧","逆袭短剧","重生短剧","甜宠短剧","穿越短剧","国产综艺","国产动漫","韩国综艺","港台综艺","日本动漫","韩剧","泰剧","欧美剧","日剧","合集短剧"]},	    
 //https://json.heimuer.xyz/              
 
 {"key":"csp_Qtv","name":"腾讯","type": 3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/0606.jar"},

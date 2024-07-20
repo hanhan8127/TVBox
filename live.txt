@@ -1550,21 +1550,6 @@ NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/in
 
 重庆卫视,https://sjlivecdn9.cbg.cn/202506252322/app_2/_definst_/ls_2.stream/chunklist.m3u8
 
-重庆新闻,https://sjlivecdn9.cbg.cn/202506252322/app_2/_definst_/ls_3.stream/chunklist.m3u8
-
-重庆卫视,http://125.80.154.252:8003/rtp/235.254.196.249:1268?$重庆电信主力线
-重庆新闻,http://125.80.154.252:8003/rtp/235.254.196.199:7980?$重庆电信主力线
-重庆社会,http://125.80.154.252:8003/rtp/235.254.198.181:7980?$重庆电信主力线
-重庆少儿,http://125.80.154.252:8003/rtp/235.254.196.214:1128?$重庆电信主力线
-重庆影视,http://125.80.154.252:8003/rtp/235.254.198.180:7980?$重庆电信主力线
-重庆文体,http://125.80.154.252:8003/rtp/235.254.198.187:7980?$重庆电信主力线
-重庆农村,http://125.80.154.252:8003/rtp/235.254.198.186:7980?$重庆电信主力线
-重庆时尚,http://125.80.154.252:8003/rtp/235.254.198.182:7980?$重庆电信主力线
-重庆科教,http://125.80.154.252:8003/rtp/235.254.196.215:1132?$重庆电信主力线
-重庆移动,http://125.80.154.252:8003/rtp/235.254.196.217:1140?$重庆电信主力线
-重广融媒,http://125.80.154.252:8003/rtp/235.254.196.218:1146?$重庆电信主力线
-开州综合,http://125.80.154.252:8003/rtp/235.254.198.145:1870?$重庆电信主力线
-
 重庆新闻,https://live.mxdyeah.top/live.php?id=CQTVNewsHD
 重庆影视,https://live.mxdyeah.top/live.php?id=cqyingshiHD
 重庆社会,https://live.mxdyeah.top/live.php?id=CQTVTrendyHD
@@ -1590,6 +1575,8 @@ NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/in
 重庆汽摩,http://cqcbn4.live.cbncdn.cn:8090/__cl/cg:live/__c/cqcarSD/__op/default/__f/index.m3u8
 重庆移动,http://cqcbn4.live.cbncdn.cn:8090/__cl/cg:live/__c/mryyHD/__op/default/__f/index.m3u8
 重广融媒,http://cqcbn4.live.cbncdn.cn:8090/__cl/cg:live/__c/cqrongmei/__op/default/__f/index.m3u8
+
+重庆新闻,https://sjlivecdn9.cbg.cn/202506252322/app_2/_definst_/ls_3.stream/chunklist.m3u8
 
 重庆新闻,http://home.eayx.top:6666/rtp/235.254.196.199:7980?$重庆电信备线1
 重庆社会,http://home.eayx.top:6666/rtp/235.254.198.181:7980?$重庆电信备线1

@@ -159,12 +159,12 @@ CCTV-12社会,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/inde
 CCTV-13新闻,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226571/index.m3u8$5.5M_1080
 CCTV-13新闻,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8$4.1M_1080
 
-CCTV-14,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226591/index.m3u8$5.5M_1080
-CCTV-14,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8$4.0M_1080
-CCTV-15,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8$5.5M_1080
+CCTV-14少儿,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226591/index.m3u8$5.5M_1080
+CCTV-14少儿,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8$4.0M_1080
+CCTV-15音乐,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8$5.5M_1080
 
-CCTV-16,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$4.0M_1080
-CCTV-17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$4.0M_1080
+CCTV-16奥运,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$4.0M_1080
+CCTV-17农村,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$4.0M_1080
 
 
 CCTV-1综合,http://124.205.11.242:91/live/CCTV1hd-5M/live.m3u8
@@ -186,10 +186,6 @@ CCTV-14少儿,http://124.205.11.205:91/live/CCTV14hd-5M/live.m3u8
 CCTV-15音乐,http://118.144.105.55:91/live/CCTV15hd-5M/live.m3u8
 CCTV-16奥运,http://124.205.11.243:91/live/CCTV16hd-8M/live.m3u8
 CCTV-17农村,http://118.144.105.54:91/live/CCTV17hd-5M/live.m3u8
-
-
-CCTV-6电影,http://yubox.xyz/php/1905.php?id=cctv6
-
 
 CCTV女性时尚,http://58.248.112.205:8006/GD_CUCC/G_NVXINGSS-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBT6%2FGriC8y3OKTsyZWzciYuOZhlv%2BatohiXupAmkA7ht
 CCTV发现之旅,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
@@ -928,6 +924,46 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 兵团卫视,https://live.mxdyeah.top/live.php?id=bingtuanSD
 青海卫视,https://live.mxdyeah.top/live.php?id=qinghaiSD
 三沙卫视,https://live.mxdyeah.top/live.php?id=sanshaSD
+
+东南卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226341/index.m3u8$7.9M_1080
+东方卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226345/index.m3u8$8.0M_1080
+东方卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225735/index.m3u8$4.1M_1080
+北京卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225728/index.m3u8$4.1M_1080
+北京卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226450/index.m3u8$4.1M_1080
+重庆卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226409/index.m3u8$7.9M_1080
+天津卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226459/index.m3u8$7.9M_1080
+天津卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225740/index.m3u8$4.1M_1080
+广东卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226248/index.m3u8$7.9M_1080
+深圳卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226313/index.m3u8$8.0M_1080
+深圳卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225739/index.m3u8$4.1M_1080
+河南卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226480/index.m3u8$8.0M_1080
+河北卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226406/index.m3u8$8.0M_1080
+山东卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226456/index.m3u8$7.9M_1080
+安徽卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226391/index.m3u8$7.9M_1080
+湖南卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226307/index.m3u8$7.9M_1080
+湖南卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225610/index.m3u8$4.0M_1080
+湖北卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226477/index.m3u8$8.0M_1080
+湖北卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225627/index.m3u8$4.0M_1080
+浙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226339/index.m3u8$7.9M_1080
+浙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225612/index.m3u8$4.0M_1080
+江苏卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226310/index.m3u8$7.9M_1080
+江苏卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225613/index.m3u8$4.1M_1080
+海南卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226465/index.m3u8$8.0M_1080
+四川卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226338/index.m3u8$7.9M_1080
+贵州卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226474/index.m3u8$8.0M_1080
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226327/index.m3u8$7.6M_1080
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226419/index.m3u8$4.1M_1080
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226467/index.m3u8$4.0M_1080
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226525/index.m3u8$4.0M_1080
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226531/index.m3u8$4.0M_1080
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226532/index.m3u8$4.0M_1080
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226582/index.m3u8$4.0M_1080
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226585/index.m3u8$4.0M_1080
+吉林卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226397/index.m3u8$7.9M_1080
+辽宁卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226546/index.m3u8$7.9M_1080
+江西卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226344/index.m3u8$8.0M_1080
+广西卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8$7.9M_1080
+
 
 
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8

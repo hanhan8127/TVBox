@@ -24,10 +24,10 @@
   
 {"key": "Aid","name": "急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
 
-//{"key": "小点","name": "兄弟影视","type": 3,"api": "csp_Xdys","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt"},
+{"key": "兄弟影视","name": "兄弟影视","type": 3,"api": "csp_Xdys","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar":"https://raw.bgithub.xyz/qist/tvbox/master/jar/fan.txt"},
 //https://xdys.vip/      https://www.brovod.com/
 
-{"key":"酷看","name":"酷看秒播","type":3,"api":"csp_Kkys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720763657384/fan.txt"},
+{"key":"酷看","name":"酷看秒播","type":3,"api":"csp_Kkys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"https://raw.bgithub.xyz/qist/tvbox/master/jar/fan.txt"},
 	    
 {"key": "csp_七新","name": "七新秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"ext": {"主页url":"https://www.7xdy.com/","简介":"+<span class=\"detail-content\" style=*>&&</span>",
   "影片状态":"状态：&&</p>","搜索url":"/search.php;post;searchword={wd}","线路数组":"<h3&&/h3>","线路标题":"胜寒+src=*>&&<",
@@ -35,7 +35,6 @@
 	 	    
 //{"key":"hipy_8号影院","name":"8号影院","type": 3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 9,"ext": "https://yubox.xyz/drpy_js/8号影院.js"},
 //{"key":"金牌","name":"金牌秒播","type":3,"api":"csp_Jpys","jar": "https://gitee.com/Muing/zjc/raw/master/jar/%E6%96%B0ttkx.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_Jpys","name":"金牌秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
 {"key":"文采","name":"文采秒播","type":3,"api":"csp_Jpys","jar": "https://raw.bgithub.xyz/gaotianliuyun/gao/master/jar/fan.txt","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com
@@ -44,17 +43,19 @@
 {"key":"快看聚合","name":"快看聚合","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable":1,"filterable": 1},
 {"key":"csp_素白影视","name":"素白影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"0\",\"主演\":\"主演:&&</div>\",\"播放数组\":\"class=\\\"paly_list_btn&&</div>\",\"副标题\":\"class=\\\"jidi\\\">&&</span>\",\"简介\":\"class=\\\"yp_context\\\"*<p>&&</div>\",\"分类\":\"国产剧$domestic-drama#电影$new-movie#电视剧$tv-drama#热门电影$hot-month#高分电影$high-movie#动漫电影$cartoon-movie#香港经典电影$hongkong-movie\",\"分类url\":\"https://www.subaibaiys.com/{cateId}/page/{catePg}\"}"},
 //素白白地址发布页：subaibai.vip	    	    
-
-{"key":"热播","name":"热播多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},	    
-{"key":"Auete","name":"奥特影院","type":3,"api":"csp_Auete","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/"},
-//上面3个是饭太硬线路
-//{"key":"zy_云解析","name":"步步资源", "type":1, "api":"https://api.yparse.com/api/json","playurl":"https://yparse.ik9.cc/index.php?url=", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": ["短剧","国产剧","微电影","韩国剧","日本剧","泰国剧", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片","动画片", "香港剧",  "台湾剧","欧美剧", "海外剧" ] },
-//https://www.yparse.com/help    	    
 {"key": "heji","name": "啵啵大全","type": 1,"api": "http://live.bbyy888.uk/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"categories": ["短剧","国产剧","电影","日韩剧","综艺","动漫","虐恋短剧","逆袭短剧","重生短剧","甜宠短剧","穿越短剧","古装短剧","悬疑短剧","神豪短剧","萌宝短剧","复仇短剧"]},	      
 //http://live.bbyy888.uk/
 
 {"key": "豪华","name": "豪华影院","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod","searchable": 1,"changeable": 1,"categories": ["短剧","内地剧","韩剧","日剧","大陆综艺","中国动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片"]},	      
-//https://hhzyapi.com/	    
+//https://hhzyapi.com/
+    
+//{"key":"Auete","name":"奥特影院","type":3,"api":"csp_Auete","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/"},
+//上面3个是饭太硬线路
+//{"key":"zy_云解析","name":"步步资源", "type":1, "api":"https://api.yparse.com/api/json","playurl":"https://yparse.ik9.cc/index.php?url=", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": ["短剧","国产剧","微电影","韩国剧","日本剧","泰国剧", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片","动画片", "香港剧",  "台湾剧","欧美剧", "海外剧" ] },
+//https://www.yparse.com/help    	    
+{"key":"极速资源","name": "极速资源","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧", "日剧", "韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺",  "日韩动漫", "欧美动漫","港台动漫","海外动漫"]},
+//https://jszyapi.com/         https://jisjiexi.com/play/?url=
+	  	    
 	    
 {"key":"cj_非凡量子","name":"非凡量子","type":1,"api":"https://xysjtv.yy365.vip/api.php/provide/vod/?ac=list","playurl": "https://tvmvip.com/lz2.php?url=","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 //{"key":"乐享采集","name":"乐享采集","type": 1,"api": "http://ys.540734621.xyz/api.php/provide/vod/","playerType": 1,"searchable": 1, "quickSearch": 1,"filterable": 1, "categories": ["短剧","国产剧","国产电影","国内综艺","国内动漫","日韩综艺","记录片","音乐","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片","日韩动漫","欧美动漫","影视解说","体育"]},	    
@@ -68,9 +69,7 @@
                "播放链接":"http+://www.duanjutv.cc+href='&&'",
                "分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23","分类链接":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m"}}, 
 
-{"key":"极速资源","name": "极速资源","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧", "日剧", "韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺",  "日韩动漫", "欧美动漫","港台动漫","海外动漫"]},
-//https://jszyapi.com/         https://jisjiexi.com/play/?url=
-	  	    
+	    
 //{"key":"csp_xBPQ_FreeOK","name":"️FreeOK","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-time-{class}-{lang}----{catePg}---{year}.html;;lr","分类":"短剧$12电影$1#连续剧$2#动漫$3#综艺$4"}},
     
     

@@ -17,6 +17,8 @@
 
     "sites": [
 
+{"key":"豆豆","name":"豆瓣┃搜索","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"csp_YGP","name":"预告片┃新片","type":3,"api":"csp_YGP","searchable":1,"quickSearch":1,"changeable":0},	    
 //{"key":"cj_360zy","name":"胜寒提醒：请勿相信影片中广告！","type":1,"api":"https://360zy.com/api.php/provide/vod?","playUrl":"https://www.360jiexi.com/player/?url=","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["国产剧","大陆综艺","韩国剧","国产动漫","反转爽剧","女频恋爱","古装仙侠","现代都市","成长逆袭","年代穿越","脑洞悬疑","动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","日本动漫","香港剧","欧美剧","日本剧","港台综艺","日韩综艺"]},
 {"key": "360zy","name": "胜寒提醒：请勿相信影片中广告！","type": 1,"api": "https://360zy.com/api.php/provide/vod?","searchable": 1,"changeable": 1,"categories": ["国产剧","大陆综艺","韩国剧","成长逆袭","年代穿越","古装仙侠","现代都市","国产动漫","动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","日本动漫","香港剧","欧美剧","日本剧","港台综艺","日韩综艺"]},
 //360zy.com 360zy.net 360zy.vip 360zy.top 360zy.tv 	    
@@ -113,7 +115,7 @@
   
 //{"key":"zy_火狐", "name":"火狐资源", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "quickSearch": 1,"categories": ["短剧", "内地剧","大陆综艺","中国动漫","韩剧","动画片","剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片","犯罪片","日本动漫","欧美动漫","日剧","马泰剧","台湾剧","香港剧","欧美剧","日韩综艺","港台综艺","欧美综艺"]},	    
 
-{ "key": "子子影视","name": "子子影视","type": 3,"api": "csp_XBPQ","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,
+//{"key": "子子影视","name": "子子影视","type": 3,"api": "csp_XBPQ","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"站名":"子子影视",    "主页url":"https://www.ziziys.com",    "简介":"video-info-item video-info-content vod_content\"&&</div>",    
         "导演":"导演：&&</div>",    "主演":"主演：&&</div>",    "影片类型":"video-info-aux scroll-content\">&&立即播放",    "影片状态":"集数：&&</div>",    
         "数组":"module-item-cover\">&&module-item\">",    "副标题":"module-item-text\">&&</div>",    "链接":"href=\"&&\"",    "标题":"title=\"&&\"",    "图片":"data-src=\"&&\"",    
@@ -123,8 +125,7 @@
         "播放数组":"<div class=\"sort-item\"&&</div>","导演":"导演：&&</div>",    "主演":"主演：&&</div>",    
         "简介":"<div class=\"video-info-item video-info-content vod_content\">&&</div>",    "影片类型":"icon-cate-ds\"&&立即播放",    
         "影片状态":"集数：&&</div>",    "播放列表":"<a&&</a>",    "播放标题":"<span>&&</span>",    "播放链接":"href=\"&&\"",        
-        "分类url":"https://www.ziziys.com/list/{cateId}-{catePg}.html;;ak",    "分类":"电影$1#国产剧$13#动漫$3#美剧$14#日韩剧$15"
-    }}, 
+        "分类url":"https://www.ziziys.com/list/{cateId}-{catePg}.html;;ak",    "分类":"电影$1#国产剧$13#动漫$3#美剧$14#日韩剧$15"}}, 
 
 {"key":"木耳采集","name":"乐享影院","type": 1,"api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list","playurl":"https://jx.2s0.cn/player/?url=","searchable": 1, "quickSearch": 1,"filterable": 1, "categories": ["国产剧","虐恋短剧","逆袭短剧","重生短剧","甜宠短剧","穿越短剧","国产综艺","国产动漫","韩国综艺","港台综艺","日本动漫","韩剧","泰剧","欧美剧","日剧","合集短剧"]},	    
 //https://json.heimuer.xyz/                     

@@ -115,17 +115,7 @@
   
 //{"key":"zy_火狐", "name":"火狐资源", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "quickSearch": 1,"categories": ["短剧", "内地剧","大陆综艺","中国动漫","韩剧","动画片","剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片","犯罪片","日本动漫","欧美动漫","日剧","马泰剧","台湾剧","香港剧","欧美剧","日韩综艺","港台综艺","欧美综艺"]},	    
 
-//{"key": "子子影视","name": "子子影视","type": 3,"api": "csp_XBPQ","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,
-      "ext": {"站名":"子子影视",    "主页url":"https://www.ziziys.com",    "简介":"video-info-item video-info-content vod_content\"&&</div>",    
-        "导演":"导演：&&</div>",    "主演":"主演：&&</div>",    "影片类型":"video-info-aux scroll-content\">&&立即播放",    "影片状态":"集数：&&</div>",    
-        "数组":"module-item-cover\">&&module-item\">",    "副标题":"module-item-text\">&&</div>",    "链接":"href=\"&&\"",    "标题":"title=\"&&\"",    "图片":"data-src=\"&&\"",    
-        "搜索url":"/vsearch/{wd}--{pg}.html",    "搜索模式":"1",    "搜索数组":"<img class=\"lazy lazyload&&</h3>",    "搜索图片":"data-src=\"&&\"",    "搜索标题":"alt=\"&&\"",    
-        "搜索链接":"href=\"&&\"",    "搜索副标题":"title=*>&&</a>",    "搜索后缀":"/video/",    
-        "线路数组":"data-dropdown-value=&&</div>",    "线路标题":"<span>&&</small>[替换:</span><small>>>>共]+集",    
-        "播放数组":"<div class=\"sort-item\"&&</div>","导演":"导演：&&</div>",    "主演":"主演：&&</div>",    
-        "简介":"<div class=\"video-info-item video-info-content vod_content\">&&</div>",    "影片类型":"icon-cate-ds\"&&立即播放",    
-        "影片状态":"集数：&&</div>",    "播放列表":"<a&&</a>",    "播放标题":"<span>&&</span>",    "播放链接":"href=\"&&\"",        
-        "分类url":"https://www.ziziys.com/list/{cateId}-{catePg}.html;;ak",    "分类":"电影$1#国产剧$13#动漫$3#美剧$14#日韩剧$15"}}, 
+
 
 {"key":"木耳采集","name":"乐享影院","type": 1,"api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list","playurl":"https://jx.2s0.cn/player/?url=","searchable": 1, "quickSearch": 1,"filterable": 1, "categories": ["国产剧","虐恋短剧","逆袭短剧","重生短剧","甜宠短剧","穿越短剧","国产综艺","国产动漫","韩国综艺","港台综艺","日本动漫","韩剧","泰剧","欧美剧","日剧","合集短剧"]},	    
 //https://json.heimuer.xyz/                     

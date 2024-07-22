@@ -53,16 +53,13 @@
 	    
 {"key": "app_快看1","name":"️快看影视","searchable":1,"type": 1,"playerType":2,"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list","categories":["国产剧","热门短剧","网络电影","国产综艺","国产动漫", "动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","日本动漫","韩国剧","港台剧","欧美剧","港台综艺"]},
 
-{"key": "素白白","name": "素白影视","type": 3,"api": "csp_Subaibai","searchable": 1,"changeable": 1,"jar": "https://raw.bgithub.xyz/guot55/yg/main/lib/o.jar"},	
-	    
+//{"key":"素白白","name": "素白影视","type": 3,"api": "csp_Subaibai","searchable": 1,"changeable": 1,"jar": "https://raw.bgithub.xyz/guot55/yg/main/lib/o.jar"},	
 {"key":"csp_素白影视","name":"素白影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar",
 	"ext":"{\"免嗅\":\"0\",\"主演\":\"主演:&&</div>\",\"播放数组\":\"class=\\\"paly_list_btn&&</div>\",\"副标题\":\"class=\\\"jidi\\\">&&</span>\",\"简介\":\"class=\\\"yp_context\\\"*<p>&&</div>\",
 	\"分类\":\"国产剧$domestic-drama#电影$new-movie#电视剧$tv-drama#热门电影$hot-month#高分电影$high-movie#动漫电影$cartoon-movie#香港经典电影$hongkong-movie\",\"分类url\":\"https://www.subaibaiys.com/{cateId}/page/{catePg}\"}"},
 //素白白地址发布页：subaibai.vip	
-{"key": "素白白影视","name": "素白蓝光","type": 3,"api": "csp_XBPQ","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","searchable": 1,"changeable": 1,"ext": "https://gitee.com/SiestaYU/tvbox/raw/master/lib/subaibai.json"},
-
-
-	    
+//{"key":"素白白影视","name": "素白蓝光","type": 3,"api": "csp_XBPQ","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","searchable": 1,"changeable": 1,"ext": "https://gitee.com/SiestaYU/tvbox/raw/master/lib/subaibai.json"},
+    
 {"key": "heji","name": "啵啵大全","type": 1,"api": "http://live.bbyy888.uk/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"categories": ["短剧","国产剧","电影","日韩剧","综艺","动漫","虐恋短剧","逆袭短剧","重生短剧","甜宠短剧","穿越短剧","古装短剧","悬疑短剧","神豪短剧","萌宝短剧","复仇短剧"]},	      
 //http://live.bbyy888.uk/
 {"key":"zy_10801","name":"1080影视","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php","categories": ["国产剧","大陆综艺","国产动漫","日韩综艺","日韩动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片","纪录片","剧情片","动画片","战争片"]},
@@ -71,21 +68,17 @@
 {"key": "豪华","name": "豪华影院","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod","searchable": 1,"changeable": 1,"categories": ["短剧","内地剧","韩剧","日剧","大陆综艺","中国动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片"]},	      
 //https://hhzyapi.com/
 
-
 {"key": "原创","name": "原创蓝光","type": 3,"api": "csp_YCyz","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1}, 
 
 //{"key":"Auete","name":"奥特影院","type":3,"api":"csp_Auete","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/"},
 //上面3个是饭太硬线路
-//{"key":"zy_云解析","name":"步步资源", "type":1, "api":"https://api.yparse.com/api/json","playurl":"https://yparse.ik9.cc/index.php?url=", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": ["短剧","国产剧","微电影","韩国剧","日本剧","泰国剧", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片","动画片", "香港剧",  "台湾剧","欧美剧", "海外剧" ] },
+//{"key":"zy_云解析","name":"步步资源", "type":1, "api":"https://api.yparse.com/api/json","playurl":"https://yparse.ik9.cc/index.php?url=", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": ["短剧","国产剧","微电影","韩国剧","日本剧","泰国剧", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片","动画片", "香港剧",  "台湾剧","欧美剧", "海外剧"]},
 //https://www.yparse.com/help    	    
 {"key":"极速资源","name": "极速资源","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧", "日剧", "韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺",  "日韩动漫", "欧美动漫","港台动漫","海外动漫"]},
 //https://jszyapi.com/         https://jisjiexi.com/play/?url=
 {"key":"苹果","name":"苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 
-
-
-
-
+{"key": "骚火影视","name": "骚火┃影视","type": 3,"api": "csp_Wexsaohuo","searchable": 1,"changeable": 1,"jar": "https://raw.bgithub.xyz/guot55/yg/main/lib/o.jar","categories": ["大陆","电影","电视剧","韩剧","动漫"]},
 {"key":"骚火","name":"骚火直连","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4",
 	"分类url":"https://saohuo.us/list/{cateId}-{catePg}.html;;vr1au0","分类":"大陆$20#电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4","数组二次截取":"class=\"v_list\">&&</ul>",
 	"数组":"\"v_img\"&&/div>","标题":"title=\"&&\"","副标题":"v_note\"&&</div","跳转播放链接":"<iframe*src=\"&&\"",

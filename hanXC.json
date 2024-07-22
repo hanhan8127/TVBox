@@ -38,27 +38,20 @@
 {"key":"文采","name":"文采秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com
 
-{
-                        "key":"XBPQ_电影先生",
-                        "name": "电影先生|XBPQ",
-                        "jar": "https://mirror.ghproxy.com/https://raw.bgithub.xyz/guot55/yg/main/pg/yg.jar",
-                        "type": 3,
-                        "api": "csp_XBPQ",
-                        "ext": {
-                                "分类url": "https://dianyi.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html",
-                                "简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
-                                "搜索url": "https://dianyi.ng/search--------------.html?wd={wd}",
-                                "搜索数组": "<div class=\"module-item-pic\">&&</div>",
-                                "图片": "src=\"&&\"",
-                                "搜索标题": "title=\"&&\"",
-                                "搜索副标题": ">&&</a>",
-                                "线路数组": "data-dropdown-value=&&</div>",
-                                "线路标题": "<span>&&</small>[替换:<span></small>共]+集",
-                                "播放数组": "<div class=\"scroll-content\">&&</div>",
-                                "播放标题": "<span>&&</span>",
-                                "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
-                        }
-                },
+{"key":"XBPQ_电影先生","name": "电影先生","jar": "https://raw.bgithub.xyz/guot55/yg/main/pg/yg.jar","type": 3,"api": "csp_XBPQ",
+              "ext": {"分类url": "https://dianyi.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html",
+                       "简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
+                       "搜索url": "https://dianyi.ng/search--------------.html?wd={wd}",
+                       "搜索数组": "<div class=\"module-item-pic\">&&</div>",
+                        "图片": "src=\"&&\"",
+                        "搜索标题": "title=\"&&\"",
+                        "搜索副标题": ">&&</a>",
+                        "线路数组": "data-dropdown-value=&&</div>",
+                        "线路标题": "<span>&&</small>[替换:<span></small>共]+集",
+                        "播放数组": "<div class=\"scroll-content\">&&</div>",
+                        "播放标题": "<span>&&</span>",
+                        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
+                        }},
 
 	    
 {"key":"南瓜影视","name":"南瓜影视","type":3,"api":"https://raw.bgithub.xyz/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/master/js/南瓜影视.js"},

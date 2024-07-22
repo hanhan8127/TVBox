@@ -35,17 +35,14 @@
 {"key": "兄弟影视","name": "兄弟影视","type": 3,"api": "csp_Wexxiongdiys","searchable": 1,"changeable": 1,"jar": "https://raw.bgithub.xyz/guot55/yg/main/lib/o.jar"},	    
 //{"key":"兄弟影视","name":"兄弟影视","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 //https://xdys.vip/      https://www.brovod.com/
+
+//{"key":"金牌","name":"金牌秒播","type":3,"api":"csp_Jpys","jar": "https://gitee.com/Muing/zjc/raw/master/jar/%E6%96%B0ttkx.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_Jpys","name":"金牌秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+//https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com
 	    
 {"key":"hipy_8号影院","name":"8号影院","type": 3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/shenghan.jar",order_num": 9,"ext": "https://yubox.xyz/drpy_js/8号影院.js"},
 
-//{"key":"金牌","name":"金牌秒播","type":3,"api":"csp_Jpys","jar": "https://gitee.com/Muing/zjc/raw/master/jar/%E6%96%B0ttkx.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
- {"key": "金牌电影", "name": "金牌|电影","type": 3,"api": "csp_XBPQ", "jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,
-            "ext": {"主页url": "https://www.ghw9zwp5.com","数组": "class=\"slide-content\"&&</div></div>","标题": "alt=\"&&\"","图片": "srcset=\"&&\"",
-            "链接": "href=\"&&\"","立即播放": "1", "嗅探词": ".mp4#.m3u8#.flv", "分类": "电影$1#电视剧$2#综艺$3#动漫$4","分类url": "https://www.ghw9zwp5.com/type/{cateId}" }},	    
-
-{"key":"csp_Jpys","name":"金牌秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-//https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com
 	    
 {"key":"南瓜影视","name":"南瓜影视","type":3,"api":"https://raw.bgithub.xyz/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/master/js/南瓜影视.js"},
 {"key":"csp_NanGua","name":"南瓜影院","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},  

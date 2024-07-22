@@ -39,9 +39,7 @@
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com
 	    
 {"key":"hipy_8号影院","name":"8号影院","type": 3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/shenghan.jar",order_num": 9,"ext": "https://yubox.xyz/drpy_js/8号影院.js"},
-    
-{"key": "賤賤","name": "优质荐片","type": 3,"api": "csp_Jianpian","searchable": 1,"changeable": 1,"jar":"https://raw.bgithub.xyz/guot55/yg/main/pg.jar","ext": "https://raw.bgithub.xyz/guot55/yg/main/lib/jianpian.json$$$1","timeout": 20},
-	    
+
 {"key":"南瓜影视","name":"南瓜影视","type":3,"api":"https://raw.bgithub.xyz/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/master/js/南瓜影视.js"},
 {"key":"csp_NanGua","name":"南瓜影院","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},  
 	    
@@ -144,9 +142,12 @@
   
 //{"key":"zy_火狐", "name":"火狐资源", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "quickSearch": 1,"categories": ["短剧", "内地剧","大陆综艺","中国动漫","韩剧","动画片","剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片","犯罪片","日本动漫","欧美动漫","日剧","马泰剧","台湾剧","香港剧","欧美剧","日韩综艺","港台综艺","欧美综艺"]},	    
 
-{"key":"木耳采集","name":"乐享影院","type": 1,"api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list","playurl":"https://jx.2s0.cn/player/?url=","searchable": 1, "quickSearch": 1,"filterable": 1, "categories": ["国产剧","虐恋短剧","逆袭短剧","重生短剧","甜宠短剧","穿越短剧","国产综艺","国产动漫","韩国综艺","港台综艺","日本动漫","韩剧","泰剧","欧美剧","日剧","合集短剧"]},	    
+{"key":"木耳采集","name":"木耳资源","type": 1,"api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list","playurl":"https://jx.2s0.cn/player/?url=","searchable": 1, "quickSearch": 1,"filterable": 1, "categories": ["国产剧","虐恋短剧","逆袭短剧","重生短剧","甜宠短剧","穿越短剧","国产综艺","国产动漫","韩国综艺","港台综艺","日本动漫","韩剧","泰剧","欧美剧","日剧","合集短剧"]},	    
 //https://json.heimuer.xyz/                     
 
+{"key": "賤賤","name": "优质荐片","type": 3,"api": "csp_Jianpian","searchable": 1,"changeable": 1,"jar":"https://raw.bgithub.xyz/guot55/yg/main/pg.jar","ext": "https://raw.bgithub.xyz/guot55/yg/main/lib/jianpian.json$$$1","timeout": 20},
+	    
+	    
 {"key":"csp_Qtv","name":"腾讯","type": 3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/0606.jar"},
 {"key":"csp_Itv","name":"爱奇艺","type":3,"api":"csp_Itv","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/0606.jar"},
 {"key":"csp_Mtv","name":"芒果","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/0606.jar"},

@@ -37,22 +37,6 @@
 
 {"key":"文采","name":"文采秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com
-
-{"key":"XBPQ_电影先生","name": "电影先生","jar": "https://raw.bgithub.xyz/guot55/yg/main/pg/yg.jar","type": 3,"api": "csp_XBPQ",
-              "ext": {"分类url": "https://dianyi.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html",
-                       "简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
-                       "搜索url": "https://dianyi.ng/search--------------.html?wd={wd}",
-                       "搜索数组": "<div class=\"module-item-pic\">&&</div>",
-                        "图片": "src=\"&&\"",
-                        "搜索标题": "title=\"&&\"",
-                        "搜索副标题": ">&&</a>",
-                        "线路数组": "data-dropdown-value=&&</div>",
-                        "线路标题": "<span>&&</small>[替换:<span></small>共]+集",
-                        "播放数组": "<div class=\"scroll-content\">&&</div>",
-                        "播放标题": "<span>&&</span>",
-                        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
-                        }},
-
 	    
 {"key":"南瓜影视","name":"南瓜影视","type":3,"api":"https://raw.bgithub.xyz/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/master/js/南瓜影视.js"},
 {"key":"csp_NanGua","name":"南瓜影院","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},  
@@ -71,7 +55,11 @@
 
 {"key": "豪华","name": "豪华影院","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod","searchable": 1,"changeable": 1,"categories": ["短剧","内地剧","韩剧","日剧","大陆综艺","中国动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片"]},	      
 //https://hhzyapi.com/
-    
+
+{"key": "素白白影视","name": "素白蓝光","type": 3,"api": "csp_XBPQ","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","searchable": 1,"changeable": 1,"ext": "https://gitee.com/SiestaYU/tvbox/raw/master/lib/subaibai.json"},
+
+{"key": "原创","name": "原创蓝光","type": 3,"api": "csp_YCyz","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1}, 
+
 //{"key":"Auete","name":"奥特影院","type":3,"api":"csp_Auete","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/"},
 //上面3个是饭太硬线路
 //{"key":"zy_云解析","name":"步步资源", "type":1, "api":"https://api.yparse.com/api/json","playurl":"https://yparse.ik9.cc/index.php?url=", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": ["短剧","国产剧","微电影","韩国剧","日本剧","泰国剧", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片","动画片", "香港剧",  "台湾剧","欧美剧", "海外剧" ] },
@@ -82,27 +70,7 @@
 {"key":"兄弟影视","name":"兄弟影视","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 //https://xdys.vip/      https://www.brovod.com/
 
-    {
-      "key": "素白白影视",
-      "name": "素白🛰️蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://gitee.com/SiestaYU/tvbox/raw/master/lib/subaibai.json"
-    },
 
-    {
-      "key": "原创",
-      "name": "原创🕵蓝光",
-      "type": 3,
-      "api": "csp_YCyz",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
 
 {"key":"骚火","name":"骚火直连","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4",
 	"分类url":"https://saohuo.us/list/{cateId}-{catePg}.html;;vr1au0","分类":"大陆$20#电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4","数组二次截取":"class=\"v_list\">&&</ul>",

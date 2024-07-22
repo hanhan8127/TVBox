@@ -41,7 +41,8 @@
 //{"key":"金牌","name":"金牌秒播","type":3,"api":"csp_Jpys","jar": "https://gitee.com/Muing/zjc/raw/master/jar/%E6%96%B0ttkx.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key": "金牌电影","name": "金牌电影","type": 3,"api": "csp_XBPQ","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"主页url": "https://www.ghw9zwp5.com","数组": "class=\"slide-content\"&&</div></div>","标题": "alt=\"&&\"","图片": "srcset=\"&&\"","链接": "href=\"&&\"",
-        "立即播放": "1", "嗅探词": ".mp4#.m3u8#.flv","分类": "电影$1#电视剧$2#综艺$3#动漫$4","分类url": "https://www.ghw9zwp5.com/vod/show/id/{cateId}"}},
+        "立即播放": "1", "嗅探词": ".mp4#.m3u8#.flv","分类": "国产剧$14欧美剧$15港台剧$16日韩剧$62","分类url": "https://www.ghw9zwp5.com/vod/show/id/2/type/{cateId}"}},
+
 //{"key":"文采","name":"文采秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com
 	    

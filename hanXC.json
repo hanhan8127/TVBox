@@ -39,10 +39,9 @@
 {"key":"hipy_8号影院","name":"8号影院","type": 3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/shenghan.jar",order_num": 9,"ext": "https://yubox.xyz/drpy_js/8号影院.js"},
 
 //{"key":"金牌","name":"金牌秒播","type":3,"api":"csp_Jpys","jar": "https://gitee.com/Muing/zjc/raw/master/jar/%E6%96%B0ttkx.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key": "金牌电影","name": "金牌|电影","type": 3,"api": "csp_XBPQ","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,
+{"key": "金牌电影","name": "金牌电影","type": 3,"api": "csp_XBPQ","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"主页url": "https://www.ghw9zwp5.com","数组": "class=\"slide-content\"&&</div></div>","标题": "alt=\"&&\"","图片": "srcset=\"&&\"","链接": "href=\"&&\"",
-        "立即播放": "1", "嗅探词": ".mp4#.m3u8#.flv","分类": "电影$1#电视剧$2#综艺$3#动漫$4","分类url": "https://www.ghw9zwp5.com/type/{cateId}"}},
-	    
+        "立即播放": "1", "嗅探词": ".mp4#.m3u8#.flv","分类": "电影$1#电视剧$2#综艺$3#动漫$4","分类url": "https://www.ghw9zwp5.com/vod/show/id/{cateId}"}},
 //{"key":"文采","name":"文采秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com
 	    
@@ -74,7 +73,7 @@
 
 {"key": "kk","name": "可可影视","type": 3,"searchable": 1,"changeable": 1,"jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","api": "csp_XBPQ","ext": "https://raw.bgithub.xyz/guot55/yg/main/lib/kk.json"},
 
-  {"key": "XBPQ_电影先生","name": "电影先生","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","type": 3,"api": "csp_XBPQ",
+  {"key": "XBPQ_电影先生","name": "电影先生","jar": "https://raw.bgithub.xyz/guot55/yg/main/lib/XBPQ.jar","type": 3,"api": "csp_XBPQ",
       "ext": {"分类url": "https://dianyi.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html",
         "简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
         "搜索url": "https://dianyi.ng/search--------------.html?wd={wd}",

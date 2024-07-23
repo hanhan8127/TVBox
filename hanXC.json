@@ -42,10 +42,9 @@
 	    
 {"key":"hipy_8号影院","name":"8号影院","type": 3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/shenghan.jar",order_num": 9,"ext": "https://yubox.xyz/drpy_js/8号影院.js"},
 
-{"key":"南瓜影视","name":"南瓜影视","type":3,"api":"https://raw.bgithub.xyz/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/master/js/南瓜影视.js"},
+//{"key":"南瓜影视","name":"南瓜影视","type":3,"api":"https://raw.bgithub.xyz/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/master/js/南瓜影视.js"},
 
 {"key": "南瓜弹幕版","name": "南瓜影视","type": 3,"api": "csp_Nangua","jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
-
 {"key":"冬瓜","name":"冬瓜影视","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"changeable":1},
 
 	    
@@ -72,24 +71,8 @@
 	"三次跳转播放链接":"\"url\"*\"&&\""},"jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/shenghan.jar"},
 //骚火发布页http://shapp.us/；https://saohuo.tv/	
 
-{"key": "kk","name": "可可影视","type": 3,"searchable": 1,"changeable": 1,"jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","api": "csp_XBPQ","ext": "https://raw.bgithub.xyz/guot55/yg/main/lib/kk.json"},
 {"key": "可可","name": "可可多线","type": 3,"api": "csp_Kekys","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
-
-  {"key": "XBPQ_电影先生","name": "电影先生","jar": "https://raw.bgithub.xyz/guot55/yg/main/lib/XBPQ.jar","type": 3,"api": "csp_XBPQ",
-      "ext": {"分类url": "https://dianyi.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html",
-        "简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
-        "搜索url": "https://dianyi.ng/search--------------.html?wd={wd}",
-        "搜索数组": "<div class=\"module-item-pic\">&&</div>",
-        "图片": "src=\"&&\"",
-        "搜索标题": "title=\"&&\"",
-        "搜索副标题": ">&&</a>",
-        "线路数组": "data-dropdown-value=&&</div>",
-        "线路标题": "<span>&&</small>[替换:<span></small>共]+集",
-        "播放数组": "<div class=\"scroll-content\">&&</div>",
-        "播放标题": "<span>&&</span>",
-        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
-      }},
-
+//https://dl.keke5.app/
 {"key": "兄弟影视","name": "兄弟影视","type": 3,"api": "csp_Wexxiongdiys","searchable": 1,"changeable": 1,"jar": "https://raw.bgithub.xyz/guot55/yg/main/lib/o.jar"},	    
 //{"key":"兄弟影视","name":"兄弟影视","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 //https://xdys.vip/      https://www.brovod.com/
@@ -107,17 +90,12 @@
 //https://jszyapi.com/         https://jisjiexi.com/play/?url=
 {"key":"苹果","name":"苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 	    
-{"key":"美柏","name":"🇹┃美柏影视┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitee.com/tvkj/tw/raw/main/lib/美柏.json"},
+{"key":"美柏","name":"美柏秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","ext":"https://gitee.com/tvkj/tw/raw/main/lib/美柏.json"},
+{"key":"348影视","name":"三四八秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","ext":"https://gitee.com/tvkj/tw/raw/main/lib/348.json"},
+{"key":"csp_五五","name":"五五秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","ext":"https://gitee.com/tvkj/tw/raw/main/lib/55.json"},
+{"key":"非凡资源","name":"非凡秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","ext":"https://gitee.com/tvkj/tw/raw/main/lib/ffzy.json"},
+{"key":"茶狐杯","name":"茶杯秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","ext":"https://gitee.com/tvkj/tw/raw/main/lib/茶狐杯.json"},  	    
 
-{"key":"348影视","name":"三四八秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/tvkj/tw/raw/main/lib/348.json"},
-{"key":"csp_五五","name":"五五秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/tvkj/tw/raw/main/lib/55.json"},
-
-{"key":"非凡资源","name":"非凡秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/tvkj/tw/raw/main/lib/ffzy.json"},
-
-{"key":"茶狐杯","name":"茶杯秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitee.com/tvkj/tw/raw/main/lib/茶狐杯.json"},  	    
-
-{"key":"cj_非凡量子","name":"非凡量子","type":1,"api":"https://xysjtv.yy365.vip/api.php/provide/vod/?ac=list","playurl": "https://tvmvip.com/lz2.php?url=","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-//{"key":"乐享采集","name":"乐享采集","type": 1,"api": "http://ys.540734621.xyz/api.php/provide/vod/","playerType": 1,"searchable": 1, "quickSearch": 1,"filterable": 1, "categories": ["短剧","国产剧","国产电影","国内综艺","国内动漫","日韩综艺","记录片","音乐","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片","日韩动漫","欧美动漫","影视解说","体育"]},	    
 
 {"key":"hipy_js_短剧天堂","name":"短剧天堂","type":3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 87,"ext": "https://yubox.xyz/drpy_js/短剧天堂.js"},
 {"key":"星芽短剧","name":"星芽短剧","type":3,"api":"csp_AppXY","searchable": 1,"quickSearch": 0,"filterable": 0,"jar":"http://47.99.102.252/jar/xc.zip"},

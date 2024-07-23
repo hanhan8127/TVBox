@@ -37,7 +37,7 @@
 {"key":"csp_Jpys","name":"金牌秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com
 
-{"key": "小点","name": "小点多线","type": 3,"api": "csp_Appxdys","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
+{"key": "小点","name": "小点多线","type": 3,"api": "csp_Appxdys","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar": "https://gitee.com/tvkj/tw/raw/main/lib/tvkj.jar"},
 
 	    
 {"key":"hipy_8号影院","name":"8号影院","type": 3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/shenghan.jar",order_num": 9,"ext": "https://yubox.xyz/drpy_js/8号影院.js"},

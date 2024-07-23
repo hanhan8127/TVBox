@@ -92,7 +92,7 @@
 	    
 {"key":"美柏","name":"美柏秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar",
 	"ext":{"请求头": "手机","主页url": "https://www.mp4br.com","数组": "","标题": "","副标题": "</p><i>&&</i>","图片": "img src=\"&&\"","简介": "div class=\"tjuqing\">&&</div>",
-                "线路数组": "<h2>&&</h2>","线路标题": "寒/+&&","播放数组": "class=\"video_list fn-clear\">&&</div>","播放列表": "<a&&</a",
+                "线路数组": "<h2>&&</h2>","线路标题": "寒+&&","播放数组": "class=\"video_list fn-clear\">&&</div>","播放列表": "<a&&</a",
                 "播放标题": ">&&</a","播放链接": "href=\"&&\"","嗅探词": "index.m3u8","跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
                 "搜索数组": "<li><a class=\"play-img&&</a","搜索图片": "src=\"&&\"","搜索标题": "alt=\"&&\"","搜索链接": "href=\"&&\"",
                 "搜索url": "https://www.mp4br.com/sousuo/page/{pg}/wd/{wd}.html",
@@ -100,11 +100,24 @@
             }}, 
 
 {"key":"348影视","name":"三四八秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","ext":"https://gitee.com/tvkj/tw/raw/main/lib/348.json"},
-{"key":"csp_五五","name":"五五秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","ext":"https://gitee.com/tvkj/tw/raw/main/lib/55.json"},
+{"key":"csp_五五","name":"五五秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar",
+		"ext":{"作者":"","站名":"555","主页url":"https://www.5555kan.com/","简介":"+<p class=\"col-pd\"&&</p>","导演":"导演：&&</p>",
+                       "主演":"主演：&&</p>",
+                       "线路数组":"<h3 class=\"title\">&&/h3>",
+                       "线路标题":">&&<",
+                       "分类url":"https://www.5555kan.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html;;ak",
+                       "分类":"电影$1#电视剧$2#综艺$3#动漫$4"
+            }}, 
+	
 {"key":"非凡资源","name":"非凡秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","ext":"https://gitee.com/tvkj/tw/raw/main/lib/ffzy.json"},
-{"key":"茶狐杯","name":"茶杯秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","ext":"https://gitee.com/tvkj/tw/raw/main/lib/茶狐杯.json"},  	    
-
-
+{"key":"茶狐杯","name":"茶杯秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar",
+	        "ext":{"作者":"","站名":"茶狐杯","主页url":"https://www.5jcd.com/","简介":"胜寒提示您：请勿相信影片中的广告，以免上当受骗！+col-pd\">&&</p>",
+                "线路数组":"<h3&&</h3>",
+                "线路标题":"+>&&",
+                "分类url":"https://www.5jcd.com/show_/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ax",
+                "分类":"电影$1#电视剧$2#综艺$3#动漫$4"
+            }}, 
+               	
 {"key":"hipy_js_短剧天堂","name":"短剧天堂","type":3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 87,"ext": "https://yubox.xyz/drpy_js/短剧天堂.js"},
 {"key":"星芽短剧","name":"星芽短剧","type":3,"api":"csp_AppXY","searchable": 1,"quickSearch": 0,"filterable": 0,"jar":"http://47.99.102.252/jar/xc.zip"},
 {"key":"上头短剧","name":"上头短剧","type":3,"api":"csp_Djtt","searchable": 1,"quickSearch": 1,"changeable": 1},   

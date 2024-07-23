@@ -109,7 +109,7 @@
                        "分类":"电影$1#电视剧$2#综艺$3#动漫$4"
             }}, 
 	
-{"key":"非凡资源","name":"非凡秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","ext":"https://gitee.com/tvkj/tw/raw/main/lib/ffzy.json"},
+{"key":"非凡资源","name":"非凡秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","ext":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/ffzy.json"},
 {"key":"茶狐杯","name":"茶杯秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar",
 	        "ext":{"作者":"","站名":"茶狐杯","主页url":"https://www.5jcd.com/","简介":"胜寒提示您：请勿相信影片中的广告，以免上当受骗！+col-pd\">&&</p>",
                 "线路数组":"<h3&&</h3>",

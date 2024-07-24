@@ -5,7 +5,6 @@
   //"spider":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/Yoursmile.jar",	
  //"spider": "https://jihulab.com/yinhe/whk/-/raw/main/jar/spider.jar",	
  "spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/Yoursmile.jar",
-//"spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/shenghan.jar",
  //"spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/fan.txt",
     "lives": [
 	    {"name": "live","type": 0,

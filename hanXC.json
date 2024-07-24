@@ -58,7 +58,7 @@
     
 {"key": "app_快看1","name":"️快看影视","searchable":1,"type": 1,"playerType":2,"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list","categories":["国产剧","热门短剧","网络电影","国产综艺","国产动漫", "动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","日本动漫","韩国剧","港台剧","欧美剧","港台综艺"]},
        
-{"key":"素白白","name": "素白影视","type": 3,"api": "csp_Subaibai","searchable": 1,"changeable": 1,},	
+{"key":"素白白","name": "素白影视","type": 3,"api": "csp_Subaibai","searchable": 1,"changeable": 1},	
 //素白白地址发布页：subaibai.vip	
  
 {"key": "heji","name": "啵啵大全","type": 1,"api": "http://live.bbyy888.uk/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"categories": ["短剧","国产剧","电影","日韩剧","综艺","动漫","虐恋短剧","逆袭短剧","重生短剧","甜宠短剧","穿越短剧","古装短剧","悬疑短剧","神豪短剧","萌宝短剧","复仇短剧"]},	      

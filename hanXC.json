@@ -46,7 +46,6 @@
 //https://xdys.vip/      https://www.brovod.com/
 //{"key":"兄弟影视","name":"兄弟秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/tvkj/tw/raw/main/lib/兄弟影视.json"},	
 	
-
 {"key": "XBPQ_麻衣影院","name":"麻衣影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,	
 	"ext":{"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}}, 
 	    
@@ -111,7 +110,9 @@
                 "分类":"电影$1#电视剧$2#综艺$3#动漫$4"
             }}, 
 
-{"key": "可可","name": "可可多线","type": 3,"api": "csp_Kekys","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
+{"key":"xp_可可影视","name":"可可影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,
+	"ext":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xpath/可可影视.json","jar": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/XYQ.jar"},
+
 {"key":"可可影视","name":"可可影视","type":3,"api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/javyou/n03n/raw/master/jar/ou20240707.jar"},	    
 //https://dl.keke5.app/	    https://www.kkys01.com   https://www.kkys02.com
 	    

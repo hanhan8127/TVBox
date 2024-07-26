@@ -51,7 +51,7 @@
 {"key": "兄弟影视","name": "兄弟影视","type": 3,"api": "csp_Wexxiongdiys","searchable": 1,"changeable": 1,"jar":"https://raw.bgithub.xyz/guot55/yg/main/lib/o.jar"},
 //{"key":"兄弟影视","name":"兄弟影视","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 //https://xdys.vip/      https://www.brovod.com/
-{"key":"兄弟影视","name":"兄弟秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://router.bopop.buzz:9999/viplib/兄弟影视.json"},	
+{"key":"兄弟影视1","name":"兄弟秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://router.bopop.buzz:9999/viplib/兄弟影视.json"},	
 	
 {"key": "XBPQ_麻衣影院","name":"麻衣影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,	
 	"ext":{"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}}, 

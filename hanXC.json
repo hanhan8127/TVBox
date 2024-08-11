@@ -84,12 +84,13 @@
 //上面3个是饭太硬线路https://v.auete.com/
 //{"key":"zy_云解析","name":"步步资源", "type":1, "api":"https://api.yparse.com/api/json","playurl":"https://yparse.ik9.cc/index.php?url=", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": ["短剧","国产剧","微电影","韩国剧","日本剧","泰国剧", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片","动画片", "香港剧",  "台湾剧","欧美剧", "海外剧"]},
 //https://www.yparse.com/help    	    
- {"key": "✨YY影视✨","name": "UU影视","type": 3,"api": "csp_XBPQ","ext": { "请求头": "User-Agent$MOBILE_UA",
+ {"key": "✨YY影视✨","name": "UU影视","type": 3,"api": "csp_XBPQ",
+	 "ext": { "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8","主页url": "https://uuys.cc","二次截取": "module-page&&<div id=\"page\">","数组": "<a&&</div></div>","图片": "data-original=\"&&\"","标题": "title=\"&&\"",
                 "链接": "href=\"&&\"","副标题": "胜寒+module-item-note&&</div>","线路数组": "item tab-item&&</div>[排序:海湾资源>非凡播放>无尽资源]",
                 "线路标题": "胜寒+<span>&&</span>+【共+<small>&&</small>+集】","播放数组": "module-play-list\"&&</div>","播放标题": "胜寒+>&&</","简介": "请勿相信视频里的广告！✨+<p>&&</p >","搜索url":"https://uuys.cc/vodsearch/{wd}----------{pg}---.html",
                 "分类url": "https://uuys.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-                "分类": "电影$2#电视剧$1#综艺$4#动漫$3"}
+                "分类": "电影$2#电视剧$1#综艺$4#动漫$3"}},
 {"key":"苹果","name":"苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 	    
 {"key":"美柏","name":"美柏秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"jar": "https://gitee.com/tvkj/tw/raw/main/lib/tvkj.jar",

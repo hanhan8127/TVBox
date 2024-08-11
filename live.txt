@@ -38,7 +38,7 @@ CCTV-15音乐,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/inde
 CCTV-16奥运,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$4.0M_1080
 CCTV-17农村,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$4.0M_1080
 
-CCTV-1综合,http://124.205.11.205:91/live/CCTV14hd-5M/live.m3u8
+CCTV-1综合,http://124.205.11.205:91/live/CCTV1hd-5M/live.m3u8
 CCTV-2财经,http://124.205.11.205:91/live/CCTV2hd-5M/live.m3u8
 CCTV-3综艺,http://124.205.11.205:91/live/CCTV3hd-5M/live.m3u8
 CCTV-4国际,http://124.205.11.205:91/live/CCTV4hd-5M/live.m3u8

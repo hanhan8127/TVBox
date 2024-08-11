@@ -23,7 +23,7 @@
 
 {"key": "Aid","name": "急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
 
-{"key": "csp_七新","name": "七新秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar",
+{"key": "csp_七新","name": "七新秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,
          "ext": {"主页url":"https://www.7xdy.com/","简介":"+<span class=\"detail-content\" style=*>&&</span>",
         "影片状态":"状态：&&</p>","搜索url":"/search.php;post;searchword={wd}","线路数组":"<h3&&/h3>","线路标题":"胜寒+src=*>&&<",
         "分类url":"https://www.7xdy.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k","分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
@@ -31,12 +31,16 @@
 //{"key":"金牌","name":"金牌秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Jpys","name":"金牌秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com   
+{"key":"csp_xBPQ_Jpys","name":"金牌秒播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar",
+	"ext":{"免嗅": "1","播放标题": "span>&&<","副标题": "class=\"module-item-note\">&&</div>","线路数组": "class=\"module-tab-item tab-item&&</div>",
+	"线路标题": "<span>&&</span>","播放数组": "class=\"module-play-list&&</div>","分类url": "http://www.yuhelover.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
+        }},
 
 //{"key":"南瓜影视","name":"南瓜影视","type":3,"api":"https://raw.bgithub.xyz/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/master/js/南瓜影视.js"},
 {"key": "南瓜弹幕版","name":"南瓜影视","type": 3,"api": "csp_Nangua","jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
 
 {"key":"csp_Dyxs","name":"电影先生","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1},
-//https://dianyi.ng/          https://mirror.ghproxy.com/https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json   
+//https://dianyi.ng/          https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json   
 {"key":"XBPQ_电影先生","name":"电影先生","type": 3,"api": "csp_XBPQ","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar",
 	"ext": {"分类url": "https://dianyi.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html","简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
         "搜索url": "https://dianyi.ng/search--------------.html?wd={wd}","搜索数组": "<div class=\"module-item-pic\">&&</div>",

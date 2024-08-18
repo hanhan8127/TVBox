@@ -24,8 +24,6 @@
 //{"key":"csp_Jpys","name":"金牌秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1"},
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com   
 	    
-{"key":"酷看影视","name":"酷看影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1,"jar":"https://gitee.com/javyou/n03n/raw/master/jar/ou20240707.jar"},	    
-//{"key":"酷看","name":"酷看秒播","type":3,"api":"csp_Kkys","timeout":15,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
 {"key":"冬瓜","name":"冬瓜影视","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"changeable":1},	    
 //{"key":"南瓜影视","name":"南瓜影视","type":3,"api":"https://raw.bgithub.xyz/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/master/js/南瓜影视.js"},
 {"key": "南瓜弹幕版","name":"南瓜影视","type": 3,"api": "csp_Nangua","jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
@@ -122,16 +120,21 @@
                        "线路标题":">&&<",
                        "分类url":"https://www.5555kan.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html;;ak",
                        "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}}, 
-	
+{"key":"酷看影视","name":"酷看影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1,"jar":"https://gitee.com/javyou/n03n/raw/master/jar/ou20240707.jar"},	    
+//{"key":"酷看","name":"酷看秒播","type":3,"api":"csp_Kkys","timeout":15,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
+
 {"key":"非凡资源","name":"非凡秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/tvkj/tw/raw/main/lib/tvkj.jar","ext":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/ffzy.json"},
 {"key":"茶狐杯","name":"茶杯秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"jar": "https://gitee.com/tvkj/tw/raw/main/lib/tvkj.jar",
 	        "ext":{"作者":"","站名":"茶狐杯","主页url":"https://www.5jcd.com/","简介":"胜寒提示您：请勿相信影片中的广告，以免上当受骗！+col-pd\">&&</p>",
                 "线路数组":"<h3&&</h3>",
                 "线路标题":"+>&&",
                 "分类url":"https://www.5jcd.com/show_/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ax",
-                "分类":"电影$1#电视剧$2#综艺$3#动漫$4"
-            }}, 
+                "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}}, 
 
+{"key":"木耳采集","name":"木耳资源","type": 1,"api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list","playurl":"https://jx.2s0.cn/player/?url=","jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/fan.txt",
+"searchable": 1, "quickSearch": 1,"filterable": 1, "categories": ["国产剧","虐恋短剧","逆袭短剧","重生短剧","甜宠短剧","穿越短剧","国产综艺","国产动漫","韩国综艺","港台综艺","日本动漫","韩剧","泰剧","欧美剧","日剧","合集短剧"]},	    
+//https://json.heimuer.xyz/ 
+//{"key": "drpy_js_黑木耳资源","name": "木耳影视","type": 3,"api": "https://raw.bgithub.xyz/guot55/yg/main/lib/drpy2.min.js","ext": "https://raw.bgithub.xyz/guot55/yg/main/lib/mr.js"},
 {"key":"xp_可可影视","name":"可可影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,
 	"ext":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xpath/可可影视.json","jar": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/XYQ.jar"},
 
@@ -175,11 +178,7 @@
   
 //{"key":"zy_火狐", "name":"火狐资源", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "quickSearch": 1,"categories": ["短剧", "内地剧","大陆综艺","中国动漫","韩剧","动画片","剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片","犯罪片","日本动漫","欧美动漫","日剧","马泰剧","台湾剧","香港剧","欧美剧","日韩综艺","港台综艺","欧美综艺"]},	    
 
-{"key":"木耳采集","name":"木耳资源","type": 1,"api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list","playurl":"https://jx.2s0.cn/player/?url=","jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/fan.txt",
-"searchable": 1, "quickSearch": 1,"filterable": 1, "categories": ["国产剧","虐恋短剧","逆袭短剧","重生短剧","甜宠短剧","穿越短剧","国产综艺","国产动漫","韩国综艺","港台综艺","日本动漫","韩剧","泰剧","欧美剧","日剧","合集短剧"]},	    
-//https://json.heimuer.xyz/ 
-{"key": "T4-hme","name": "黑木耳","type": 4,"api": "https://tang.hz.cz/power/hme","searchable": 1,"quickSearch": 1, "filterable": 1, "changeable": 0 },
-//{"key": "drpy_js_黑木耳资源","name": "木耳影视","type": 3,"api": "https://raw.bgithub.xyz/guot55/yg/main/lib/drpy2.min.js","ext": "https://raw.bgithub.xyz/guot55/yg/main/lib/mr.js"},
+
 
 {"key":"爱奇异","name":"奇异官源","type":3,"ua": "okhttp/3.15","api":"https://gitee.com/tvkj/tw/raw/main/lib/drpy2.min.js","ext":"https://gitee.com/tvkj/tw/raw/main/lib/aiqiyi.js"},
 {"key":"腾讯","name":"疼讯官源","type":3,"ua": "okhttp/3.15","api":"https://gitee.com/tvkj/tw/raw/main/lib/drpy2.min.js","ext":"https://gitee.com/tvkj/tw/raw/main/lib/tengxun.js"},

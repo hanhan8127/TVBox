@@ -4,8 +4,8 @@
 
   //"spider":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/Yoursmile.jar",	
  //"spider": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar",	
-  //"spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/Yoursmile.jar",
- "spider":"https://gitee.com/tvkj/tw/raw/main/lib/tvkj.jar",
+   "spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/Yoursmile.jar",
+ //"spider":"https://gitee.com/tvkj/tw/raw/main/lib/tvkj.jar",
     "lives": [
 	    {"name": "live","type": 0,
             "url": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/live.txt#https://mirror.ghproxy.com/raw.bgithub.xyz/hanhan8127/TVBox/main/live.txt",
@@ -21,7 +21,7 @@
 //360zy.com 360zy.net 360zy.vip 360zy.top 360zy.tv 	    
 {"key": "Aid","name": "急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
    
-{"key":"csp_Jpys","name":"金牌秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1",jar":"https://gitee.com/tvkj/tw/raw/main/lib/tvkj.jar"},
+//{"key":"csp_Jpys","name":"金牌秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1"},
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com   
 	    
 {"key":"酷看影视","name":"酷看影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1,"jar":"https://gitee.com/javyou/n03n/raw/master/jar/ou20240707.jar"},	    
@@ -30,15 +30,12 @@
 //{"key":"南瓜影视","name":"南瓜影视","type":3,"api":"https://raw.bgithub.xyz/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/master/js/南瓜影视.js"},
 {"key": "南瓜弹幕版","name":"南瓜影视","type": 3,"api": "csp_Nangua","jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
 
-{"key":"csp_Dyxs","name":"电影先生","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1},
-//https://dianyi.ng/          https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json   
-{"key":"XBPQ_电影先生","name":"电影先生","type": 3,"api": "csp_XBPQ","jar": "https://mirror.ghproxy.com/https://raw.bgithub.xyz/guot55/yg/main/pg/yg.jar",
-	"ext": {"分类url": "https://dianyi.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html","简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
-        "搜索url": "https://dianyi.ng/search--------------.html?wd={wd}","搜索数组": "<div class=\"module-item-pic\">&&</div>",
-        "图片": "src=\"&&\"","搜索标题": "title=\"&&\"","搜索副标题": ">&&</a>","线路数组": "data-dropdown-value=&&</div>","线路标题": "<span>&&</small>[替换:<span></small>共]+集",
-        "播放数组": "<div class=\"scroll-content\">&&</div>","播放标题": "<span>&&</span>","分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"}},
-	    
-	    
+//{"key":"csp_Dyxs","name":"电影先生","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1},
+//https://dianyi.ng/          https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json       
+{"key": "农民影视","name": "农民秒播","type": 3,"api": "csp_WexNmys","jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","searchable": 1,"changeable": 1},
+
+{"key": "js_电影先生","name": "电影先生","type": 3,"api": "./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://git.acwing.com/iduoduo/orange/-/raw/main//drpy_js/电影先生.js"},
+
 {"key":"影视家","name":"影视家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xpath/影视家.json"},
 {"key":"csp_xBPQ_何以影视","name":"️何以影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"分类url":"http://heyik.cn/index.php/vod/show/area/{area}/by/time/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 {"key":"Jianpian","name":"荐片影视","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://api2.rinhome.com"},	    
@@ -135,8 +132,6 @@
                 "分类":"电影$1#电视剧$2#综艺$3#动漫$4"
             }}, 
 
-{"key": "农民影视","name": "农民秒播","type": 3,"api": "csp_WexNmys","jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","searchable": 1,"changeable": 1},
-
 {"key":"xp_可可影视","name":"可可影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,
 	"ext":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xpath/可可影视.json","jar": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/XYQ.jar"},
 
@@ -144,6 +139,7 @@
 //https://dl.keke5.app/	    https://www.kkys01.com   https://www.kkys02.com
 	    
 {"key":"hipy_js_短剧天堂","name":"短剧天堂","type":3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 87,"ext": "https://yubox.xyz/drpy_js/短剧天堂.js"},
+{"key": "js_星芽短剧","name": "星芽短剧","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js","ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/星芽短剧[优].js"},
 
 //{"key":"上头短剧","name":"上头短剧","type":3,"api":"csp_Djtt","searchable": 1,"quickSearch": 1,"changeable": 1},   
 

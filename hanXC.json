@@ -54,6 +54,7 @@
 //素白白地址发布页：subaibai.vip	
  {"key":"极速资源","name": "极速影院","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧", "日剧", "韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺",  "日韩动漫", "欧美动漫","港台动漫","海外动漫"]},
 //https://jszyapi.com/         https://jisjiexi.com/play/?url=
+{"key": "FreeOK","name": "FreeOK","type": 3,"api": "csp_FreeOK","searchable": 1,"quickSearch": 1,"filterable": 1"jar": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Fo.txt?ref=main"},
 
 {"key":"zy_10801","name":"1080影视","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php","categories": ["国产剧","大陆综艺","国产动漫","日韩综艺","日韩动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片","纪录片","剧情片","动画片","战争片"]},
 //优质影视网址：优质资源主域名:yzzy.tv hdzyk.com（备用网址): 1080zyk1.com 至 1080zyk10.com,"playUrl": "https://vip.zykbf.com/?url="
@@ -79,10 +80,6 @@
 
 //骚火发布页http://shapp.us/；https://saohuo.tv/	  https://hhjx.hhplayer.com/api.php
 
-
-
-//{"key":"Auete","name":"奥特影院","type":3,"api":"csp_Auete","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/"},
-//上面3个是饭太硬线路https://v.auete.com/
 //{"key":"zy_云解析","name":"步步资源", "type":1, "api":"https://api.yparse.com/api/json","playurl":"https://yparse.ik9.cc/index.php?url=", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": ["短剧","国产剧","微电影","韩国剧","日本剧","泰国剧", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片","动画片", "香港剧",  "台湾剧","欧美剧", "海外剧"]},
 //https://www.yparse.com/help
 
@@ -106,25 +103,21 @@
                 "线路数组": "<h2>&&</h2>","线路标题": "寒 +&&","播放数组": "class=\"video_list fn-clear\">&&</div>","播放列表": "<a&&</a",
                 "播放标题": ">&&</a","播放链接": "href=\"&&\"","嗅探词": "index.m3u8","跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
                 "搜索数组": "<li><a class=\"play-img&&</a","搜索图片": "src=\"&&\"","搜索标题": "alt=\"&&\"","搜索链接": "href=\"&&\"",
-                "搜索url": "https://www.mp4br.com/sousuo/page/{pg}/wd/{wd}.html",
-                "分类数组": "<li&&</li>","分类标题": ">&&</a","分类ID": "href=\"/dy/hd&&.html\"",
+                "搜索url": "https://www.mp4br.com/sousuo/page/{pg}/wd/{wd}.html","分类数组": "<li&&</li>","分类标题": ">&&</a","分类ID": "href=\"/dy/hd&&.html\"",
 		"分类url": "https://www.mp4br.com/gaojisousuo/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}}, 
 
 {"key":"csp_五五","name":"五五秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/tvkj/tw/raw/main/lib/tvkj.jar",
 		"ext":{"作者":"","站名":"555","主页url":"https://www.5555kan.com/","简介":"+<p class=\"col-pd\"&&</p>","导演":"导演：&&</p>",
-                       "主演":"主演：&&</p>",
-                       "线路数组":"<h3 class=\"title\">&&/h3>",
-                       "线路标题":">&&<",
-                       "分类url":"https://www.5555kan.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html;;ak",
-                       "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}}, 
+                       "主演":"主演：&&</p>","线路数组":"<h3 class=\"title\">&&/h3>","线路标题":">&&<",
+                       "分类url":"https://www.5555kan.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html;;ak","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}}, 
+
 {"key":"酷看影视","name":"酷看影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1,"jar":"https://gitee.com/javyou/n03n/raw/master/jar/ou20240707.jar"},	    
 //{"key":"酷看","name":"酷看秒播","type":3,"api":"csp_Kkys","timeout":15,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
 
 {"key":"非凡资源","name":"非凡秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/tvkj/tw/raw/main/lib/tvkj.jar","ext":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/ffzy.json"},
 {"key":"茶狐杯","name":"茶杯秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"jar": "https://gitee.com/tvkj/tw/raw/main/lib/tvkj.jar",
 	        "ext":{"作者":"","站名":"茶狐杯","主页url":"https://www.5jcd.com/","简介":"胜寒提示您：请勿相信影片中的广告，以免上当受骗！+col-pd\">&&</p>",
-                "线路数组":"<h3&&</h3>",
-                "线路标题":"+>&&",
+                "线路数组":"<h3&&</h3>","线路标题":"+>&&",
                 "分类url":"https://www.5jcd.com/show_/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ax",
                 "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}}, 
 
@@ -151,7 +144,6 @@
       }},
 
 {"key": "海纳TV","name": "海纳TV","type": 3,"api": "csp_XBPQ","ext": {"主页url": "https://hainatv.net/","分类url": "https://hainatv.net/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html","分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$59#解说$64"}},
-{"key": "FreeOK","name": "FreeOK","type": 3,"api": "csp_FreeOK","searchable": 1,"quickSearch": 1,"filterable": 1"jar": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Fo.txt?ref=main"},
 
 {"key":"可可影视","name":"可可影视","type":3,"api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/javyou/n03n/raw/master/jar/ou20240707.jar"},	    
 //https://dl.keke5.app/	    https://www.kkys01.com   https://www.kkys02.com
@@ -196,7 +188,7 @@
         "搜索模式": "1","嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com","搜索url": "https://rebozj.pro/type/id-.html?wd={wd}","线路数组": "<h4 class=\"title&&/h4>","线路标题": ">&&<","播放列表": "<a&&/a>","播放标题": ">&&<",
 	"影片类型": "类型：&&</p>","导演": "导演：&&</p>","主演": "主演：&&</p>","简介": "display: none;\">&&</span>",
         "分类": "电视剧$2#电影$1#综艺$3#动漫$4","分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a","跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"}},
-//rebozj . vip
+//rebozj.vip
 
 {"key":"zy_新浪","name":"新浪影院","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list","playurl":"https://www.xinlangjiexi.com/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["大陆剧","综艺","动漫","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
 //https://xinlangzy.com/   xinlangzy.com、 xinlangziyuan.com、 xinlangziyuan.net、 xinlangzy.net

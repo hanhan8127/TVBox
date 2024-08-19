@@ -152,6 +152,7 @@
 {"key": "星芽短剧","name": "星芽短剧","type": 3,"api": "csp_AppXY","searchable": 1,"filterable": 0,"jar":"https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Fo.txt?ref=main"},
 
 {"key":"hipy_js_短剧天堂","name":"短剧天堂","type":3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 87,"ext": "https://yubox.xyz/drpy_js/短剧天堂.js"},
+{"key":"网络短剧","name":"网络短剧","type":3,"api": "https://ys.110t.cn/api/ajax.php?act=yingshilist","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
 {"key": "csp_七新","name": "七新秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar",
@@ -191,10 +192,10 @@
 
 //{"key":"zy_新浪","name":"新浪影院","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list","playurl":"https://www.xinlangjiexi.com/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["大陆剧","综艺","动漫","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
 //https://xinlangzy.com/   xinlangzy.com、 xinlangziyuan.com、 xinlangziyuan.net、 xinlangzy.net
-{"key":"zy_sc1080","name":"酷云影视1","type":1,"api":"https://sc1080.top/api.php/v1.vod","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "sc1080","name": "酷云影视","type":3,"api": "https://sc1080.top/api.php/v1.vod","playUrl": "","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key": "sc1080","name": "酷云影视","type": 1, "api": "https://sc1080.top/api.php/v1.vod",  "searchable": 1,  "quickSearch": 1,"categories": ["电影", "剧集","综艺","动漫"]},	    
 
+	   
 //{"key":"zy_火狐", "name":"火狐资源", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "quickSearch": 1,"categories": ["短剧", "内地剧","大陆综艺","中国动漫","韩剧","动画片","剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片","犯罪片","日本动漫","欧美动漫","日剧","马泰剧","台湾剧","香港剧","欧美剧","日韩综艺","港台综艺","欧美综艺"]},	    
 
 	    

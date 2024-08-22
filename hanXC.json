@@ -213,7 +213,7 @@
 {"key": "meowtv_czkt","name": "初中课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "http://cdn.teyonds.com/xp/初中课堂.json"},
 {"key": "meowtv_gzkt","name": "高中课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "http://cdn.teyonds.com/xp/高中课堂.json"},
 	    
-{"key": "csp_hanhan","name": "胜寒提醒：请勿相信影片中广告！","type": 1,"playerType": 2,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1}
+{"key": "csp_hanhan","name": "请勿相信影片中广告！","type": 1,"playerType": 2,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1}
 
 ],
 

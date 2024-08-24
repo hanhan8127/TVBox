@@ -202,8 +202,8 @@
 	"影片类型": "类型：&&</p>","导演": "导演：&&</p>","主演": "主演：&&</p>","简介": "display: none;\">&&</span>",
         "分类": "电视剧$2#电影$1#综艺$3#动漫$4","分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a","跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"}},
 //https://rebozj.vip
-
-{"key":"zy_新浪","name":"新浪影院","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list","playurl":"https://www.xinlangjiexi.com/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["大陆剧","综艺","动漫","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
+{"key": "hipy_js_采集之王","name": "全网采集","type": 3,"api": "https://gitee.com/xmbjmjk/omg/raw/master/lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 210,"ext": "https://gitee.com/xmbjmjk/omg/raw/master/lib/采集之王.js?type=url&params=https://gitee.com/xmbjmjk/omg/raw/master/lib/采集静态.json"},
+//{"key":"zy_新浪","name":"新浪影院","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list","playurl":"https://www.xinlangjiexi.com/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["大陆剧","综艺","动漫","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
 //https://xinlangzy.com/   xinlangzy.com、 xinlangziyuan.com、 xinlangziyuan.net、 xinlangzy.net
 
 {"key":"爱奇异","name":"奇异官源","type":3,"ua": "okhttp/3.15","api":"https://gitee.com/tvkj/tw/raw/main/lib/drpy2.min.js","ext":"https://gitee.com/tvkj/tw/raw/main/lib/aiqiyi.js"},

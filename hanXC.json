@@ -146,8 +146,7 @@
         "搜索url": "/api.php/provide/vod/?ac=detail&wd={wd}&pg={pg}","搜索模式": "1",
         "搜索二次截取": "list\":\\[&&\\]","搜索数组": "{&&}[不包含:伦理]","搜索图片": "vod_pic\":\"&&\"","搜索标题": "vod_name\":\"&&\"","搜索副标题": "vod_remarks\":\"&&\"",
         "搜索链接": "https://m.cfkj86.com/detail/+vod_id\":&&,","筛选": "1",
-        "类型": "喜剧$22#动作$23#战争$25#爱情$26#悬疑$27#武侠$28#科幻$30#冒险$31#警匪$32#动画$33#惊悚$34#犯罪$35#恐怖$36#剧情$37#历史$38#纪录$39#传记$40#歌舞$41国产剧$14#欧美剧$15#港台剧$16#日韩剧$62#其他剧$68国产动漫$75#日韩动漫$76#欧美动漫$77#港台动漫$78#其他动漫$80||国产综艺$69#港台综艺$70#日韩综艺$72#欧美综艺$73#其他综艺$74"
-      }},
+        "类型": "喜剧$22#动作$23#战争$25#爱情$26#悬疑$27#武侠$28#科幻$30#冒险$31#警匪$32#动画$33#惊悚$34#犯罪$35#恐怖$36#剧情$37#历史$38#纪录$39#传记$40#歌舞$41国产剧$14#欧美剧$15#港台剧$16#日韩剧$62#其他剧$68国产动漫$75#日韩动漫$76#欧美动漫$77#港台动漫$78#其他动漫$80||国产综艺$69#港台综艺$70#日韩综艺$72#欧美综艺$73#其他综艺$74"}},
 {"key":"csp_魔盒","name":"即看影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
     "ext": {"主页url": "https://www.jkv.app/","数组": "class=\"vodlist_thumb lazyload\"&&</a","图片": "data-background-image=\"&&\"","标题": "title=\"&&\"","链接": "href=\"&&\"",
     "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4","过滤词": "/hls/#php","副标题": "<span class=\"pack_tagtext\">&&</span>",
@@ -156,6 +155,8 @@
     "线路数组": "href=\"javascript:void(0);\"&&</a>","线路标题": "alt=\"&&\"","播放数组": "class=\"content_playlist list_scroll clearfix&&</ul>","状态": "地区：&&</a>",
     "导演": "导演：&&</a>","主演": "主演：&&</a>","简介": "请勿相信影片中的广告+<div class=\"content_desc full_text clearfix\"&&</span>","播放列表": "<a&&/a>","播放标题": ">&&<",
     "播放链接": "href=\"&&\"","免嗅": "0","分类url": "https://www.jkv.app/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#连续剧$2#动漫$4#综艺$3#儿童$58#短剧$53"}},
+
+{"key": "csp_zhizhen","name": "至臻视觉","type": 3,"api": "csp_Duopan","filterable": 1,"ext": {"site_urls": ["http://mihdr.top","http://mpanso.com"]}},
 
 {"key": "海纳TV","name": "海纳TV","type": 3,"api": "csp_XBPQ","ext": {"主页url": "https://hainatv.net/","分类url": "https://hainatv.net/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html","分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$59#解说$64"}},
 {"key": "xcys","name": "星辰影视","type": 3,"api": "csp_XBPQ","ext": {"分类url": "http://m.disc800.com/species/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html","分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5"}},

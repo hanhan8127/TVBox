@@ -21,12 +21,22 @@
 	"categories":["国产剧","大陆综艺","韩国剧","成长逆袭","年代穿越","古装仙侠","现代都市","国产动漫","动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","日本动漫","香港剧","欧美剧","日本剧","港台综艺","日韩综艺"]},    
 //360zy.com 360zy.net 360zy.vip 360zy.top 360zy.tv 	    
 {"key": "Aid","name": "急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
-  
-{"key":"csp_Jpys","name":"金牌秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+	    
+{"key":"csp_魔盒","name":"即看影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+    "ext": {"主页url": "https://www.jkv.app/","数组": "class=\"vodlist_thumb lazyload\"&&</a","图片": "data-background-image=\"&&\"","标题": "title=\"&&\"","链接": "href=\"&&\"",
+    "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4","过滤词": "/hls/#php","副标题": "<span class=\"pack_tagtext\">&&</span>",
+    "搜索url": "https://www.jkv.app/search/-------------.html?wd={wd}","搜索模式": "1","搜索数组": "<a class=\"vodlist_thumb lazyload\"&&</li>","搜索图片": "data-background-image=\"&&\"",
+    "搜索标题": "title=\"&&\"","搜索链接": "href=\"&&\"","搜索副标题": "<span class=\"xszxj text_right\">&&</span>","搜索后缀": "/view/",
+    "线路数组": "href=\"javascript:void(0);\"&&</a>","线路标题": "alt=\"&&\"","播放数组": "class=\"content_playlist list_scroll clearfix&&</ul>","状态": "地区：&&</a>",
+    "导演": "导演：&&</a>","主演": "主演：&&</a>","简介": "请勿相信影片中的广告+<div class=\"content_desc full_text clearfix\"&&</span>","播放列表": "<a&&/a>","播放标题": ">&&<",
+    "播放链接": "href=\"&&\"","免嗅": "0","分类url": "https://www.jkv.app/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#连续剧$2#动漫$4#综艺$3#儿童$58#短剧$53"}},
+
+{"key":"金牌秒播","name":"金牌秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,
+		"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723462510172/fan.txt;md5;80004bdf8ea71093c980aa89a7d4e3d9"}, 	    
+//{"key":"csp_Jpys","name":"金牌秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com   
 {"key": "天天弹幕版","name": "天天蓝光","type": 3,"api": "csp_TianTian","jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},	    
 //https://gitee.com/tvkj/tw/blob/main/svip.json
-{"key": "天天","name": "天天影视","type": 3,"api": "csp_TTian","playerType": 1,"jar":"https://gitee.com/tvkj/tw/raw/main/lib/tvkj.jar","ext":"http://op.ysdqjs.cn$$$null$$$1"},
 {"key":"冬瓜","name":"冬瓜影视","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"changeable":1},	    
 //{"key":"南瓜影视","name":"南瓜影视","type":3,"api":"https://raw.bgithub.xyz/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/master/js/南瓜影视.js"},
 {"key": "南瓜弹幕版","name":"南瓜影视","type": 3,"api": "csp_Nangua","jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
@@ -147,16 +157,6 @@
         "搜索二次截取": "list\":\\[&&\\]","搜索数组": "{&&}[不包含:伦理]","搜索图片": "vod_pic\":\"&&\"","搜索标题": "vod_name\":\"&&\"","搜索副标题": "vod_remarks\":\"&&\"",
         "搜索链接": "https://m.cfkj86.com/detail/+vod_id\":&&,","筛选": "1",
         "类型": "喜剧$22#动作$23#战争$25#爱情$26#悬疑$27#武侠$28#科幻$30#冒险$31#警匪$32#动画$33#惊悚$34#犯罪$35#恐怖$36#剧情$37#历史$38#纪录$39#传记$40#歌舞$41国产剧$14#欧美剧$15#港台剧$16#日韩剧$62#其他剧$68国产动漫$75#日韩动漫$76#欧美动漫$77#港台动漫$78#其他动漫$80||国产综艺$69#港台综艺$70#日韩综艺$72#欧美综艺$73#其他综艺$74"}},
-{"key":"csp_魔盒","name":"即看影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-    "ext": {"主页url": "https://www.jkv.app/","数组": "class=\"vodlist_thumb lazyload\"&&</a","图片": "data-background-image=\"&&\"","标题": "title=\"&&\"","链接": "href=\"&&\"",
-    "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4","过滤词": "/hls/#php","副标题": "<span class=\"pack_tagtext\">&&</span>",
-    "搜索url": "https://www.jkv.app/search/-------------.html?wd={wd}","搜索模式": "1","搜索数组": "<a class=\"vodlist_thumb lazyload\"&&</li>","搜索图片": "data-background-image=\"&&\"",
-    "搜索标题": "title=\"&&\"","搜索链接": "href=\"&&\"","搜索副标题": "<span class=\"xszxj text_right\">&&</span>","搜索后缀": "/view/",
-    "线路数组": "href=\"javascript:void(0);\"&&</a>","线路标题": "alt=\"&&\"","播放数组": "class=\"content_playlist list_scroll clearfix&&</ul>","状态": "地区：&&</a>",
-    "导演": "导演：&&</a>","主演": "主演：&&</a>","简介": "请勿相信影片中的广告+<div class=\"content_desc full_text clearfix\"&&</span>","播放列表": "<a&&/a>","播放标题": ">&&<",
-    "播放链接": "href=\"&&\"","免嗅": "0","分类url": "https://www.jkv.app/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#连续剧$2#动漫$4#综艺$3#儿童$58#短剧$53"}},
-
-{"key": "csp_zhizhen","name": "至臻视觉","type": 3,"api": "csp_Duopan","filterable": 1,"ext": {"site_urls": ["http://mihdr.top","http://mpanso.com"]}},
 
 {"key": "海纳TV","name": "海纳TV","type": 3,"api": "csp_XBPQ","ext": {"主页url": "https://hainatv.net/","分类url": "https://hainatv.net/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html","分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$59#解说$64"}},
 {"key": "xcys","name": "星辰影视","type": 3,"api": "csp_XBPQ","ext": {"分类url": "http://m.disc800.com/species/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html","分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5"}},

@@ -195,7 +195,10 @@
     
 //{"key":"乐乐1","name":"乐视资源","type": 1,"api": "https://leshiapi.com/api.php/provide/vod/at/json","playurl":"https://leshivideoplayurl.com/?url=","searchable": 1,"quickSearch": 1,"filterable": 0,"categories":["短剧","国产剧", "大陆综艺","国产动漫","纪录片","动作片","爱情片","科幻片","恐怖片","喜剧片","剧情片","战争片","动画片","犯罪片","韩国剧","泰国剧","日剧","欧美剧","日韩综艺","港台综艺"]},
 //https://leshizy.com/
-	    
+
+ {"key": "剧集","name": "剧集TV","type": 3,"api": "csp_XBPQ",
+      "ext": {"搜索url": "https://wap.ijujitv.cc/search/-------------.html?wd=**","分类url": "https://wap.ijujitv.cc/show/{cateId}--------{catePg}---{year}.html","分类": "陆剧$6#日剧$2#美剧$3#泰剧$4#港剧$7#台剧$8#短剧$9"}},
+
 {"key": "热播库","name": "热播观影","type": 3,"changeable": 1,"api": "csp_XBPQ","playerType": "1",
       "ext": {"主页url": "https://rebozj.pro", "数组": "class=\"stui-vodlist__thumb lazyload&&</a>","图片": "data-original=\"&&\"","标题": "title=\"&&\"","链接": "href=\"&&\"","副标题": "class=\"pic-text text-right\"><b>&&</span>",
         "搜索模式": "1","嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com","搜索url": "https://rebozj.pro/type/id-.html?wd={wd}","线路数组": "<h4 class=\"title&&/h4>","线路标题": ">&&<","播放列表": "<a&&/a>","播放标题": ">&&<",
@@ -205,6 +208,17 @@
 {"key": "hipy_js_采集之王","name": "全网采集","type": 3,"api": "https://gitee.com/xmbjmjk/omg/raw/master/lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 210,"ext": "https://gitee.com/xmbjmjk/omg/raw/master/lib/采集之王.js?type=url&params=https://gitee.com/xmbjmjk/omg/raw/master/lib/采集静态.json"},
 //{"key":"zy_新浪","name":"新浪影院","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list","playurl":"https://www.xinlangjiexi.com/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["大陆剧","综艺","动漫","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
 //https://xinlangzy.com/   xinlangzy.com、 xinlangziyuan.com、 xinlangziyuan.net、 xinlangzy.net
+		
+{"key": "可达影视","name": "可达影视","type": 3,"playerType": 2,"playUrl": "https://kedays.org/play/?url=","api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+            "ext": {"请求头": "User-Agent$MOBILE_UA","主页url": "https://kedays.org","首页": "120","起始页": "1","数组": "pic\">&&</li>","标题": "title=\"&&\"","图片": "data-original=\"&&\"",
+                "副标题": "text-overflow\">&&</p >","链接": "href=\"&&\"","简介": "pb-10*>&&</p >","线路数组": "data-target=\"#ewave-playlist&&</li>","线路标题": ">&&<em>[不包含:线路1]",
+                "倒序": "0","播放数组": "ewave-playlist-content&&</ul>","播放列表": "<a&&/a>","播放标题": ">&&<","播放链接": "href=\"&&\"",
+                "跳转播放链接": "urlDecode(var player_*url\":\"&&\")","跳转解析": "默认$https://kedays.org/play/?url=",  "嗅探词": ".mp4#.m3u8#.flv",
+		"搜索模式": "1","搜索url": "/so/{wd}----------{pg}---.html","搜索数组": "pic\">&&</li>","搜索副标题": "text-overflow\">&&</p >","搜索链接": "href=\"&&\"",
+                "分类url": "https://kedays.org/shaixuan/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "电影&剧集&综艺&动漫&少儿&短剧",}},
+
+
 
 {"key":"爱奇异","name":"奇异官源","type":3,"ua": "okhttp/3.15","api":"https://gitee.com/tvkj/tw/raw/main/lib/drpy2.min.js","ext":"https://gitee.com/tvkj/tw/raw/main/lib/aiqiyi.js"},
 {"key":"腾讯","name":"疼讯官源","type":3,"ua": "okhttp/3.15","api":"https://gitee.com/tvkj/tw/raw/main/lib/drpy2.min.js","ext":"https://gitee.com/tvkj/tw/raw/main/lib/tengxun.js"},

@@ -41,7 +41,7 @@
 {"key":"冬瓜","name":"冬瓜影视","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"changeable":1},	    
 //{"key":"南瓜影视","name":"南瓜影视","type":3,"api":"https://raw.bgithub.xyz/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/master/js/南瓜影视.js"},
 {"key": "南瓜弹幕版","name":"南瓜影视","type": 3,"api": "csp_Nangua","jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
-{"key":"csp_Dyxs","name":"电影先生","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Dyxs","name":"电影先生","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "js_电影先生","name":"电影先生","type": 3,"api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/电影先生.js"},
 //https://dianyi.ng/          https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json
 {"key": "农民影视","name": "农民秒播","type": 3,"api": "csp_WexNmys","jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","searchable": 1,"changeable": 1},
@@ -251,9 +251,9 @@
         {"name":"寒2","type":0,"url":"https://jx.xmflv.com/?url="},
 	{"name":"胜3","type":0,"url":"https://yparse.ik9.cc/index.php?url="},
         {"name":"寒3","type":1,"url":"http://vip.wpsseo.cn/jiexi/?v="},   
-	//http://vip.wpsseo.cn/jx/?url=
-	{"name":"胜4","type":1,"url":"https://www.playm3u8.cn/jiexi.php?url="}, 
-  
+	//http://vip.wpsseo.cn/jx/?url=          
+	{"name":"胜4","type":1,"url":"https://www.pouyun.com/?url="}, 
+ 	{"name":"胜7","type":1,"url":"https://www.playm3u8.cn/jiexi.php?url="},  
         {"name":"寒4","type":1,"url":"https://jx.xmflv.cc/?url="}, 
 	{"name":"胜5","type":1,"url":"https://jx.2s0.cn/player/?url="},   
         {"name":"寒5","type":0,"url":"https://www.yemu.xyz/?url="},

@@ -41,7 +41,7 @@
 {"key":"冬瓜","name":"冬瓜影视","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"changeable":1},	    
 //{"key":"南瓜影视","name":"南瓜影视","type":3,"api":"https://raw.bgithub.xyz/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/master/js/南瓜影视.js"},
 {"key": "南瓜弹幕版","name":"南瓜影视","type": 3,"api": "csp_Nangua","jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
-//{"key":"csp_Dyxs","name":"电影先生","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Dyxs","name":"电影先生","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;4A2DF3CDAD0ECEF3EA4F3FD28E4CF845"},
 {"key": "js_电影先生","name":"电影先生","type": 3,"api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/电影先生.js"},
 //https://dianyi.ng/          https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json
 {"key": "农民影视","name": "农民秒播","type": 3,"api": "csp_WexNmys","jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","searchable": 1,"changeable": 1},
@@ -106,6 +106,14 @@
                 "线路标题": "<span>&&</span>+【共+<small>&&</small>+集】","播放数组": "module-play-list\"&&</div>","播放标题": ">&&</","简介": "请勿相信视频里的广告！+<p>&&</p >","搜索url":"https://uuys.cc/vodsearch/{wd}----------{pg}---.html",
                 "分类url": "https://uuys.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影$2#电视剧$1#综艺$4#动漫$3"}},
+
+{"key":"可达影视","name":"可达影视","type": 3,"playerType": 2,"playUrl": "https://kedays.org/play/?url=","api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+	"ext": {"请求头": "User-Agent$MOBILE_UA","主页url": "https://kedays.org","首页": "120","起始页": "1","数组": "pic\">&&</li>","标题": "title=\"&&\"","图片": "data-original=\"&&\"",
+        "副标题": "text-overflow\">&&</p >","链接": "href=\"&&\"","简介": "pb-10*>&&</p >","线路数组": "data-target=\"#ewave-playlist&&</li>","线路标题": ">&&<em>[不包含:线路1]","倒序": "0",
+        "播放数组": "ewave-playlist-content&&</ul>","播放列表": "<a&&/a>","播放标题": ">&&<","播放链接": "href=\"&&\"", "跳转播放链接": "urlDecode(var player_*url\":\"&&\")","跳转解析": "默认$https://kedays.org/play/?url=",  
+        "嗅探词": ".mp4#.m3u8#.flv","搜索模式": "1",
+        "搜索url": "/so/{wd}----------{pg}---.html","搜索数组": "pic\">&&</li>","搜索副标题": "text-overflow\">&&</p >","搜索链接": "href=\"&&\"","分类url": "https://kedays.org/shaixuan/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+        "分类": "电影&剧集&综艺&动漫&少儿&短剧","分类值": "dianying&lianxuju&zongyi&dongman&shaoer&duanju"}},
 
 {"key": "xm影视","name": "小马影视","type": 3,"api": "csp_AppYsV2","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://mas.szyyds.cn/api.php/app/"},
 //https://szyyds.cn/
@@ -218,6 +226,8 @@
 		"搜索模式": "1","搜索url": "/so/{wd}----------{pg}---.html","搜索数组": "pic\">&&</li>","搜索副标题": "text-overflow\">&&</p >","搜索链接": "href=\"&&\"",
                 "分类url": "https://kedays.org/shaixuan/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影&剧集&综艺&动漫&少儿&短剧","分类值":"dianying&lianxuju&zongyi&dongman&shaoer&duanju"}},
+{"key": "小马影视","name": "小马影视","type": 3,"api": "csp_AppYsV2","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://mas.szyyds.cn/api.php/app/"},
+{"key":"TV直播","name":"电视直播","type": 3,"api": "https://d.kstore.space/download/2883/sdtv.js","ext": "https://d.kstore.space/download/2883/sdtv.txt","jar": "https://d.kstore.space/download/2883/sdtv.jar"},
 
 {"key":"爱奇异","name":"奇异官源","type":3,"ua": "okhttp/3.15","api":"https://gitee.com/tvkj/tw/raw/main/lib/drpy2.min.js","ext":"https://gitee.com/tvkj/tw/raw/main/lib/aiqiyi.js"},
 {"key":"腾讯","name":"疼讯官源","type":3,"ua": "okhttp/3.15","api":"https://gitee.com/tvkj/tw/raw/main/lib/drpy2.min.js","ext":"https://gitee.com/tvkj/tw/raw/main/lib/tengxun.js"},

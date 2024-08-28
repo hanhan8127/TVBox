@@ -2,10 +2,10 @@
 
 {
 
-  //"spider":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/Yoursmile.jar",	
+   //"spider":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/Yoursmile.jar",	
 
-   "spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/Yoursmile.jar",
- //"spider":"https://gitee.com/tvkj/tw/raw/main/lib/tvkj.jar",
+   //"spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/Yoursmile.jar",
+     "spider":"https://raw.bgithub.xyz/qist/tvbox/master/jar/fan.txt",
     "lives": [
 	    {"name": "live","type": 0,
             "url": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/live.txt#https://mirror.ghproxy.com/raw.bgithub.xyz/hanhan8127/TVBox/main/live.txt",

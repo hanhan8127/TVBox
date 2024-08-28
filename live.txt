@@ -12,25 +12,6 @@ CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 CCTV-4K,http://113.96.179.241/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-4K,https://epg.pw/stream/501663699bfe2985114ba99756ec4b5de3b0f08235fe918b6185add216839c2b.m3u8
 
-CCTV-1综合,http://yubox.xyz/php/lngd.php?id=488
-CCTV-2财经,http://yubox.xyz/php/lngd.php?id=061
-CCTV-3综艺,http://yubox.xyz/php/lngd.php?id=062
-CCTV-4国际,http://yubox.xyz/php/lngd.php?id=063
-CCTV-5体育,http://yubox.xyz/php/lngd.php?id=064
-CCTV-5+赛事,http://yubox.xyz/php/lngd.php?id=246
-CCTV-6电影,http://yubox.xyz/php/lngd.php?id=065
-CCTV-7军事,http://yubox.xyz/php/lngd.php?id=127
-CCTV-8电视剧,http://yubox.xyz/php/lngd.php?id=066
-CCTV-9纪录,http://yubox.xyz/php/lngd.php?id=128
-CCTV-10科教,http://yubox.xyz/php/lngd.php?id=129
-CCTV-11戏曲,http://yubox.xyz/php/lngd.php?id=130
-CCTV-12社会,http://yubox.xyz/php/lngd.php?id=131
-CCTV-13新闻,http://yubox.xyz/php/lngd.php?id=067
-CCTV-14少儿,http://yubox.xyz/php/lngd.php?id=132
-CCTV-15音乐,http://yubox.xyz/php/lngd.php?id=133
-CCTV-17农村,http://yubox.xyz/php/lngd.php?id=204
-
-
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8$5.5M_1080
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8$4.0M_1080
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8$5.5M_1080

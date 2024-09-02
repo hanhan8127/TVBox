@@ -89,8 +89,7 @@
 {"key":"hipy_8号影院","name":"8号影院","type": 3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 9,"ext": "https://yubox.xyz/drpy_js/8号影院.js"},
  
 {"key":"快看聚合","name":"快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable":1,"filterable": 1},	    
-//{"key": "app_快看1","name":"️快看影视","searchable":1,"type": 1,"playerType":2,"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
-	"categories":["国产剧","热门短剧","网络电影","国产综艺","国产动漫", "动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","日本动漫","韩国剧","港台剧","欧美剧","港台综艺"]},
+//{"key": "app_快看1","name":"️快看影视","searchable":1,"type": 1,"playerType":2,"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list","categories":["国产剧","热门短剧","网络电影","国产综艺","国产动漫","动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","日本动漫","韩国剧","港台剧","欧美剧","港台综艺"]},
        
 {"key":"素白白","name": "素白影视","type": 3,"api": "csp_Subaibai","searchable": 1,"changeable": 1,"jar":"https://raw.bgithub.xyz/guot55/yg/main/lib/o.jar"},	
 //素白白地址发布页：subaibai.vip	

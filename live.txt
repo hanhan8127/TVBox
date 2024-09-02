@@ -2,7 +2,6 @@
 
 央视频道,#genre#
 
-CCTV-13新闻,http://live.dxms.top:80/dwy/news.php
 CCTV-13新闻,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226571/index.m3u8$5.5M_1080
 CCTV-6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV-4K,http://cqcbn3.live.cbncdn.cn:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8

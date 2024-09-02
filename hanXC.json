@@ -205,8 +205,7 @@
 	    
 {"key": "新6V","name": "新6V影院","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://www.xb6v.com/"},
  
-//{"key":"乐乐1","name":"乐视资源","type": 1,"api": "https://leshiapi.com/api.php/provide/vod/at/json","playurl":"https://leshivideoplayurl.com/?url=","searchable": 1,"quickSearch": 1,"filterable": 0,
-	"categories":["短剧","国产剧", "大陆综艺","国产动漫","纪录片","动作片","爱情片","科幻片","恐怖片","喜剧片","剧情片","战争片","动画片","犯罪片","韩国剧","泰国剧","日剧","欧美剧","日韩综艺","港台综艺"]},
+//{"key":"乐乐1","name":"乐视资源","type": 1,"api": "https://leshiapi.com/api.php/provide/vod/at/json","playurl":"https://leshivideoplayurl.com/?url=","searchable": 1,"quickSearch": 1,"filterable": 0,"categories":["短剧","国产剧", "大陆综艺","国产动漫","纪录片","动作片","爱情片","科幻片","恐怖片","喜剧片","剧情片","战争片","动画片","犯罪片","韩国剧","泰国剧","日剧","欧美剧","日韩综艺","港台综艺"]},
 //https://leshizy.com/
 
 {"key": "热播库","name": "热播观影","type": 3,"changeable": 1,"api": "csp_XBPQ","playerType": "1",

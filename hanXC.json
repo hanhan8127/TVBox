@@ -34,9 +34,44 @@
     "播放链接": "href=\"&&\"","免嗅": "0","分类url": "https://www.jkv.app/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类":"电影$1#连续剧$2#动漫$4#综艺$3#儿童$58#短剧$53"}},
 
-{"key":"金牌秒播","name":"金牌秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},	    
+{"key":"骚火","name":"骚火影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,
+	"ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","分类url":"https://saohuo.tv/list/{cateId}-{catePg}.html;;vr1au0","倒序":"1",
+		"分类":"大陆$20#电影$1#电视剧$2#动漫$4#港剧$21#韩剧$22#台剧$26#日剧$24#美剧$23","数组二次截取":"class=\"v_list\">&&</ul>","数组":"\"v_img\"&&/div>",
+		"标题":"title=\"&&\"","副标题":"v_note\"&&</div","跳转播放链接":"<iframe*src=\"&&\"",
+		"二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+		"三次跳转播放链接": "\"url\"*\"&&\""}},
+
+{"key":"骚火2","name":"骚火影视","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,
+	"ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","分类url":"https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
+		"分类":"大陆$20#电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4","数组二次截取":"class=\"v_list\">&&</ul>","数组":"\"v_img\"&&/div>","标题":"title=\"&&\"","副标题":"v_note\"&&</div","跳转播放链接":"<iframe*src=\"&&\"",
+		"二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接":"\"url\"*\"&&\""}},
+	    
+{"key":"骚火1","name":"骚火电影","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,
+	"ext":'{"author":"匿名","ua":"Mozilla/5.0 (Android 12; Mobile; rv:68.0) Gecko/68.0 Firefox/99.0","homeUrl":"https://saohuo.tv/",
+		"cateNode":"//section[contains(@class,\'grid_box\')]","cateName":"/header/h3/text()","cateId":"/header/a/@href","cateIdR":"/list/(\\\\w+).html",
+		"cateManual":{"大陆":"20","电影":"1","电视剧":"2","动漫":"4"},"homeVodNode":"//div[@class=\'v_img\']","homeVodName":"/a/@title","homeVodId":"/a/@href","homeVodIdR":"/movie/(\\\\w+).html",
+		"homeVodImg":"/a/img/@data-original","homeVodMark":"/div[@class=\'v_note\']/text()","cateUrl":"https://saohuo.tv/list/{cateId}-{catePg}.html",
+	    "cateVodNode":"//ul[@class=\'v_list\']/li/div[@class=\'v_img\']","cateVodName":"/a/@title","cateVodId":"/a/@href","cateVodIdR":"/movie/(\\\\w+).html",
+	"cateVodImg":"/a/img/@data-original","cateVodMark":"/div[@class=\'v_note\']/text()","dtUrl":"https://saohuo.tv/movie/{vid}.html","dtNode":"//body",
+        "dtName":"//section[contains(@class,\'v_info_box\')]/h1[1]/text()","dtImg":"//section[contains(@class,\'v_info\')]/div[@class=\'m_background\']/@style",
+        "dtImgR":"background-image:url\\\\((\\\\S+)\\\\)","dtCate":"//section[contains(@class,\'v_info_box\')]/p[1]/text()","dtDesc":"//p[contains(@class,\'show_part\')]/text()",
+        "dtFromNode":"//ul[@class=\'from_list\']/li","dtFromName":"/text()","dtUrlNode":"//ul[@class=\'play_list\' or @class=\'large_list\']/li","dtUrlSubNode":"/a",
+        "dtUrlId":"@href","dtUrlIdR":"/play/(\\\\S+).html","dtUrlName":"/text()","playUrl":"https://saohuo.tv/play/{playUrl}.html","searchUrl":"https://saohuo.tv/search.php?searchword={wd}",
+        "scVodNode":"//div[@class=\'v_img\']","scVodName":"/a/@title","scVodId":"/a/@href","scVodIdR":"/movie/(\\\\w+).html","scVodImg":"/a/img/@data-original",
+        "scVodMark":"/div[@class=\'v_note\']/text()","filter":{"1":[{"key":"cateId","name":"类型","value":[{"n":"全部","v":""},{"n":"喜剧","v":"6"},{"n":"爱情","v":"7"},{"n":"恐怖","v":"8"},{"n":"动作","v":"9"},{"n":"科幻","v":"10"},{"n":"战争","v":"11"},
+        {"n":"犯罪","v":"12"},{"n":"动画","v":"13"},{"n":"奇幻","v":"14"},{"n":"剧情","v":"15"},{"n":"冒险","v":"16"},{"n":"悬疑","v":"17"},{"n":"惊悚","v":"18"},{"n":"其它","v":"19"}]}],
+        "2":[{"key":"cateId","name":"类型","value":[{"n":"全部","v":""},{"n":"大陆","v":"20"},{"n":"TVB","v":"21"},{"n":"韩剧","v":"22"},{"n":"美剧","v":"23"},{"n":"日剧","v":"24"},{"n":"英剧","v":"25"},
+	{"n":"台剧","v":"26"},{"n":"其它","v":"27"}]}],"4":[{"key":"cateId","name":"类型","value":[{"n":"全部","v":""},{"n":"搞笑","v":"38"},{"n":"恋爱","v":"39"},{"n":"热血","v":"40"},
+	{"n":"格斗","v":"41"},{"n":"美少女","v":"42"},{"n":"魔法","v":"43"},{"n":"机战","v":"44"},{"n":"校园","v":"45"},{"n":"亲子","v":"46"},{"n":"童话","v":"47"},{"n":"冒险","v":"48"},
+	{"n":"真人","v":"49"},{"n":"LOLI","v":"50"},{"n":"其它","v":"51"}]}]}}'},
+//骚火发布页http://shapp.us/；https://saohuo.tv/	  https://hhjx.hhplayer.com/api.php
+
+
+	    
+//{"key":"金牌秒播","name":"金牌秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},	    
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com   
-{"key":"csp_TianTian","name":"天天影视","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},	    
+//{"key":"csp_TianTian","name":"天天影视","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},	 
+{"key":"天天影视","name":"天天影视","type":3,"api":"csp_AppTT","jar":"ttps://gitee.com/javyou/n03n/raw/master/jar/ou20240707.jar;md5;92ac6f5136c5ce9885fe60122c545434","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "天天弹幕版","name": "天天蓝光","type": 3,"api": "csp_TianTian","jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},	    
 //https://gitee.com/tvkj/tw/blob/main/svip.json
 {"key":"冬瓜","name":"冬瓜影视","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"changeable":1},	
@@ -91,31 +126,7 @@
 	    
 //优质影视网址：优质资源主域名:yzzy.tv hdzyk.com（备用网址): 1080zyk1.com 至 1080zyk10.com,"playUrl": "https://vip.zykbf.com/?url="   https://gitee.com/tvkj/tw/blob/main/svip.json
 	    
-{"key":"骚火电影","name":"骚火电影","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,
-	"ext":'{"author":"匿名","ua":"Mozilla/5.0 (Android 12; Mobile; rv:68.0) Gecko/68.0 Firefox/99.0","homeUrl":"https://saohuo.tv/",
-		"cateNode":"//section[contains(@class,\'grid_box\')]","cateName":"/header/h3/text()","cateId":"/header/a/@href","cateIdR":"/list/(\\\\w+).html",
-		"cateManual":{"大陆":"20","电影":"1","电视剧":"2","动漫":"4"},"homeVodNode":"//div[@class=\'v_img\']","homeVodName":"/a/@title","homeVodId":"/a/@href","homeVodIdR":"/movie/(\\\\w+).html",
-		"homeVodImg":"/a/img/@data-original","homeVodMark":"/div[@class=\'v_note\']/text()","cateUrl":"https://saohuo.tv/list/{cateId}-{catePg}.html",
-	    "cateVodNode":"//ul[@class=\'v_list\']/li/div[@class=\'v_img\']","cateVodName":"/a/@title","cateVodId":"/a/@href","cateVodIdR":"/movie/(\\\\w+).html",
-	"cateVodImg":"/a/img/@data-original","cateVodMark":"/div[@class=\'v_note\']/text()","dtUrl":"https://saohuo.tv/movie/{vid}.html","dtNode":"//body",
-        "dtName":"//section[contains(@class,\'v_info_box\')]/h1[1]/text()","dtImg":"//section[contains(@class,\'v_info\')]/div[@class=\'m_background\']/@style",
-        "dtImgR":"background-image:url\\\\((\\\\S+)\\\\)","dtCate":"//section[contains(@class,\'v_info_box\')]/p[1]/text()","dtDesc":"//p[contains(@class,\'show_part\')]/text()",
-        "dtFromNode":"//ul[@class=\'from_list\']/li","dtFromName":"/text()","dtUrlNode":"//ul[@class=\'play_list\' or @class=\'large_list\']/li","dtUrlSubNode":"/a",
-        "dtUrlId":"@href","dtUrlIdR":"/play/(\\\\S+).html","dtUrlName":"/text()","playUrl":"https://saohuo.tv/play/{playUrl}.html","searchUrl":"https://saohuo.tv/search.php?searchword={wd}",
-        "scVodNode":"//div[@class=\'v_img\']","scVodName":"/a/@title","scVodId":"/a/@href","scVodIdR":"/movie/(\\\\w+).html","scVodImg":"/a/img/@data-original",
-        "scVodMark":"/div[@class=\'v_note\']/text()","filter":{"1":[{"key":"cateId","name":"类型","value":[{"n":"全部","v":""},{"n":"喜剧","v":"6"},{"n":"爱情","v":"7"},{"n":"恐怖","v":"8"},{"n":"动作","v":"9"},{"n":"科幻","v":"10"},{"n":"战争","v":"11"},
-        {"n":"犯罪","v":"12"},{"n":"动画","v":"13"},{"n":"奇幻","v":"14"},{"n":"剧情","v":"15"},{"n":"冒险","v":"16"},{"n":"悬疑","v":"17"},{"n":"惊悚","v":"18"},{"n":"其它","v":"19"}]}],
-        "2":[{"key":"cateId","name":"类型","value":[{"n":"全部","v":""},{"n":"大陆","v":"20"},{"n":"TVB","v":"21"},{"n":"韩剧","v":"22"},{"n":"美剧","v":"23"},{"n":"日剧","v":"24"},{"n":"英剧","v":"25"},
-	{"n":"台剧","v":"26"},{"n":"其它","v":"27"}]}],"4":[{"key":"cateId","name":"类型","value":[{"n":"全部","v":""},{"n":"搞笑","v":"38"},{"n":"恋爱","v":"39"},{"n":"热血","v":"40"},
-	{"n":"格斗","v":"41"},{"n":"美少女","v":"42"},{"n":"魔法","v":"43"},{"n":"机战","v":"44"},{"n":"校园","v":"45"},{"n":"亲子","v":"46"},{"n":"童话","v":"47"},{"n":"冒险","v":"48"},
-	{"n":"真人","v":"49"},{"n":"LOLI","v":"50"},{"n":"其它","v":"51"}]}]}}'},
 
-{"key":"骚火","name":"骚火影视","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,
-	"ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","分类url":"https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
-		"分类":"电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4","数组二次截取":"class=\"v_list\">&&</ul>","数组":"\"v_img\"&&/div>","标题":"title=\"&&\"","副标题":"v_note\"&&</div","跳转播放链接":"<iframe*src=\"&&\"",
-		"二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接":"\"url\"*\"&&\""}},
-
-//骚火发布页http://shapp.us/；https://saohuo.tv/	  https://hhjx.hhplayer.com/api.php
 
 //{"key":"zy_云解析","name":"步步资源", "type":1, "api":"https://api.yparse.com/api/json","playurl":"https://yparse.ik9.cc/index.php?url=", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": ["短剧","国产剧","微电影","韩国剧","日本剧","泰国剧", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片","动画片", "香港剧",  "台湾剧","欧美剧", "海外剧"]},
 //https://www.yparse.com/help

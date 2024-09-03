@@ -51,7 +51,7 @@
 //{"key":"金牌秒播","name":"金牌秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},	    
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com   
 //{"key":"csp_TianTian","name":"天天影视","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},	 
-{"key":"天天影视","name":"天天影视","type":3,"api":"csp_AppTT","jar":"ttps://gitee.com/javyou/n03n/raw/master/jar/ou20240707.jar;md5;92ac6f5136c5ce9885fe60122c545434","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"天天影视","name":"天天影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "天天弹幕版","name": "天天蓝光","type": 3,"api": "csp_TianTian","jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},	    
 //https://gitee.com/tvkj/tw/blob/main/svip.json
 {"key":"冬瓜","name":"冬瓜影视","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"changeable":1},	

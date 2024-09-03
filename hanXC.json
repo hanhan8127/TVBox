@@ -3,10 +3,10 @@
 {
 
    //"spider":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/Yoursmile.jar",	
-   // "jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar"
-   //"spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/Yoursmile.jar",
+   // "jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar",
+   "spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/Yoursmile.jar",
    //"spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/fan.txt",
-   "spider": "https://gitee.com/javyou/n03n/raw/master/jar/ou20240707.jar;md5;92ac6f5136c5ce9885fe60122c545434",
+   //"spider": "https://gitee.com/javyou/n03n/raw/master/jar/ou20240707.jar;md5;92ac6f5136c5ce9885fe60122c545434",
     "lives": [
 	    {"name": "live","type": 0,
             "url": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/live.txt#https://mirror.ghproxy.com/raw.bgithub.xyz/hanhan8127/TVBox/main/live.txt",
@@ -25,7 +25,7 @@
 	"categories":["国产剧","大陆综艺","韩国剧","成长逆袭","年代穿越","古装仙侠","现代都市","国产动漫","动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","日本动漫","香港剧","欧美剧","日本剧","港台综艺","日韩综艺"]},    
 //360zy.com 360zy.net 360zy.vip 360zy.top 360zy.tv 
 	    
-{"key":"csp_魔盒","name":"即看影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar",
+{"key":"csp_魔盒","name":"即看影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
     "ext": {"主页url": "https://www.jkv.app/","数组": "class=\"vodlist_thumb lazyload\"&&</a","图片": "data-background-image=\"&&\"","标题": "title=\"&&\"","链接": "href=\"&&\"",
     "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4","过滤词": "/hls/#php","副标题": "<span class=\"pack_tagtext\">&&</span>",
     "搜索url": "https://www.jkv.app/search/-------------.html?wd={wd}","搜索模式": "1","搜索数组": "<a class=\"vodlist_thumb lazyload\"&&</li>","搜索图片": "data-background-image=\"&&\"",

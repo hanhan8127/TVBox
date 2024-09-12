@@ -2,11 +2,11 @@
 
 {
 
-"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/ym.jar",
-//"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/shenghan.jar#https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/shenghan.jar",
-// "spider":"https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/my_spider.jar",
+"spider": "https://mirror.ghproxy.com/raw.bgithub.xyz/hanhan8127/TVBox/main/ym.jar",
+//"spider":"https://mirror.ghproxy.com/raw.bgithub.xyz/hanhan8127/TVBox/main/shenghan.jar#https://github.moeyy.xyz/raw.bgithub.xyz/hanhan8127/TVBox/main/shenghan.jar",
+// "spider":"https://github.moeyy.xyz/raw.bgithub.xyz/hanhan8127/TVBox/main/my_spider.jar",
     "lives": [{"name": "live","type": 0,
-            "url": "https://raw.gitmirror.com/hanhan8127/TVBox/main/live.txt#https://raw.yzuu.cf/hanhan8127/TVBox/main/live.txt#https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt#https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt",
+            "url": "https://raw.gitmirror.com/hanhan8127/TVBox/main/live.txt#https://raw.yzuu.cf/hanhan8127/TVBox/main/live.txt#https://mirror.ghproxy.com/raw.bgithub.xyz/hanhan8127/TVBox/main/live.txt#https://github.moeyy.xyz/raw.bgithub.xyz/hanhan8127/TVBox/main/live.txt",
             "epg":"http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         }],
@@ -23,7 +23,8 @@
 {"key":"zy_pgxdy","name":"飘飘资源","type":1,"api": "https://www.pgxdy.com/api/xml.php","searchable": 1, "quickSearch": 1},
 {"key":"zy_kxgav","name":"亮亮资源","type":1,"api": "https://www.kxgav.com/api/xml.php","searchable": 1, "quickSearch": 1},
 {"key":"zy_afasu","name":"AF资源","type":1,"api": "https://www.afasu.com/api/xml.php","searchable": 1, "quickSearch": 1},
-
+{"key":"lbapi9.com","name":"成人26","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+{"key":"api.apilyzy.com","name":"成人27","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
 
 
 {"key":"csp_Dm84","name":"动漫巴士","type": 3,"api":"csp_Dm84","searchable":1,"quickSearch":1, "filterable":1}

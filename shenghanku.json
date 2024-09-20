@@ -3,9 +3,7 @@
 
         {"url": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/hanXC.json","name": "胜寒"},  
 	        
-	{"url": "https://100km.top/0","name": "Ray线路"},
 	{"url": "http://ygbhbox.3vfree.club/pg/jsm.json","name": "宝盒"},	   
-	{"url": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xiaomeitv.json","name": "小米1"},
 	{"url": "http://www.mpanso.com/小米/DEMO.json","name": "小米2"},       
         {"url": "http://ok321.top/ok","name": "OK线路"}, 
         {"url": "http://www.饭太硬.com/tv","name": "饭太硬"},                                                                                                 
@@ -22,8 +20,7 @@
         {"url": "http://我不是.摸鱼儿.top","name": "摸鱼"},  
         {"url": "http://meowtv.cn/tv","name": "喵影视"},   
         {"url": "http://itvbox.cc/云星日记","name": "云星"},
-        {"url": "https://gitee.com/xmbjmjk/omg/raw/master/omg.json","name": "拾光"},  
-        {"url": "https://gitee.com/tvkj/tw/raw/main/svip.json","name": "天微"},
+
         {"url": "https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master","name": "春盈"},         
 	{"url": "https://yubox.xyz/xc.json","name": "XC"}
 

@@ -86,7 +86,18 @@
 {"key":"快看聚合","name":"快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable":1,"filterable": 1},	    
 //{"key": "app_快看1","name":"️快看影视","searchable":1,"type": 1,"playerType":2,"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list","categories":["国产剧","热门短剧","网络电影","国产综艺","国产动漫","动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","日本动漫","韩国剧","港台剧","欧美剧","港台综艺"]},
        
-{"key":"素白白","name": "素白影视","type": 3,"api": "csp_Subaibai","searchable": 1,"changeable": 1,"jar":"https://raw.bgithub.xyz/guot55/yg/main/lib/o.jar"},	
+{"key":"素白白","name": "素白影视","type": 3,"api": "csp_Subaibai","searchable": 1,"changeable": 1,"jar":"https://raw.bgithub.xyz/guot55/yg/main/lib/o.jar"},
+	    
+{"key": "白白 | XBPQ","name": "🚀 白白 | XBPQ","type": 3,"api": "csp_XBPQ", "playerType": "2","searchable": 1,"quickSearch": 1,"filterable": 1,
+      "ext": "{"作者": "HH","站名": "sbb影视","主页url": "https://www.subaibaiys.com","请求头":"Referer$https://www.subaibaiys.com/",
+    "分类": "电影&国产剧&电视剧&热门电影&高分电影&动漫电影&香港经典电影&欧美剧&韩剧&动漫剧","分类值": "new-movie&tv-drama&hot-month&high-movie&cartoon-movie&hongkong-movie&domestic-drama&american-drama&korean-drama&anime-drama",
+    "分类url": "https://www.subaibaiys.com/{cateId}/page/{catePg};;aks2","数组": "<li>&&</li>","副标题": "class=\"jidi\"><span>&&</span>",
+    "搜索模式": "1","搜索url": "https://www.subaibaiys.com/search?q={wd}","影片年代": "年份：&&</li>","影片地区": "地区：&&</li>","影片类型": "类型：&&</li>",
+    "导演": "导演：&&</li>","主演": "主演：&&</li>", "嗅探词":".m3u8#.mp4#/m3/","简介": "+yp_context\">&&</p>","线路数组": ":+mi_paly_box\">&&</div>",
+    "线路标题": "ypxingq_t\">&&<span>[替换:在线播放>>]","播放数组": "<div class=\"paly_list_btn\">&&</div>","播放列表": "<a&&/a>","播放标题": "+>&&<[替换:立即播放>>空]","播放链接": "href=\"&&\""}},
+
+
+	    
 //素白白地址发布页：subaibai.vip	
  {"key":"极速资源","name":"极速影院","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,
 	 "categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧","日剧","韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺","日韩动漫","欧美动漫","港台动漫","海外动漫"]},

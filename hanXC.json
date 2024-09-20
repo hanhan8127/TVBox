@@ -77,7 +77,7 @@
 	"ext":{"分类url":"http://heyik.cn/index.php/vod/show/area/{area}/by/time/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 {"key":"Jianpian","name":"荐片影视","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://api2.rinhome.com"},	 
 	    
-{"key": "兄弟影视s","name": "兄弟影视","type": 3,"api": "csp_Xdys", "searchable": 1,"quickSearch": 1,"filterable": 1},	    
+{"key": "兄弟影视s","name": "兄弟影视","type": 3,"api": "csp_Xdys", "searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/spider.jar"},	    
 //{"key": "兄弟影视","name": "兄弟影视","type": 3,"api": "csp_Wexxiongdiys","searchable": 1,"changeable": 1,"jar":"https://raw.bgithub.xyz/guot55/yg/main/lib/o.jar"},
 //https://xdys.vip/      https://www.brovod.com/
 //{"key":"兄弟影视1","name":"兄弟秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/tvkj/tw/raw/main/lib/兄弟影视.json"},	
@@ -237,6 +237,9 @@
                 "分类": "电影&剧集&综艺&动漫&少儿&短剧","分类值":"dianying&lianxuju&zongyi&dongman&shaoer&duanju"}},
 	    
 {"key":"小马影视","name":"小马影视","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"changeable": 1,"ext": "https://mas.szyyds.cn/api.php/app/"},
+	    
+{"key": "采集之王","name": "全网采集","type": 3,"api": "./JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"ext": "https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/采集之王.js?type=url&params=https://raw.bgithub.xyz/PizazzGY/TVBox/main/JSON/采集静态.json$1$1"},
+	    
   
 {"key": "hipy_js_腾云驾雾[官]","name": "藤藤视频","type": 3,"api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/tx.js"},
 

@@ -243,10 +243,10 @@
   
 {"key": "hipy_js_腾云驾雾[官]","name": "藤藤视频","type": 3,"api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/tx.js"},
 
-{"key":"爱奇异","name":"奇异官源","type":3,"ua": "okhttp/3.15","api":"https://gitee.com/tv888/tv/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/tv888/tv/raw/master/lib/aiqiyi.js"},
-{"key":"腾讯","name":"疼讯官源","type":3,"ua": "okhttp/3.15","api":"https://gitee.com/tv888/tv/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/tv888/tv/raw/master/lib/aiqiyi.js"},
-{"key":"芒果","name":"忙果官源","type":3,"ua": "okhttp/3.15","api":"https://gitee.com/tv888/tv/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/tv888/tv/raw/master/lib/aiqiyi.js"},
-{"key":"搜狗","name":"嗖狗官源","type":3,"ua": "okhttp/3.15","api":"https://gitee.com/tv888/tv/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/tv888/tv/raw/master/lib/aiqiyi.js"},
+{"key":"爱奇异","name":"奇异官源","type":3,"ua": "okhttp/3.15","api":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.js","ext":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/爱奇艺.js"},
+{"key":"腾讯","name":"疼讯官源","type":3,"ua": "okhttp/3.15","api":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.js","ext":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/腾讯视频.js"},
+{"key":"芒果","name":"忙果官源","type":3,"ua": "okhttp/3.15","api":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.js","ext":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/芒果视频.js"},
+{"key":"搜狗","name":"嗖狗官源","type":3,"ua": "okhttp/3.15","api":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.js","ext":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/搜狗视频.js"},
 {"key":"360影视","name":"370 官源","type":3,"ua": "okhttp/3.15","api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"幼儿启蒙","name":"幼儿启蒙","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/ymz1231/json/-/raw/main/幼儿启蒙.json","jar": ""}, 
 

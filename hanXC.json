@@ -4,9 +4,9 @@
 
   // "spider":"https://gitee.com/tv888/tv/raw/master/lib/tvkj.jar",	
    // "jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar",
-   "spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/Yoursmile.jar",
+   //"spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/Yoursmile.jar",
    //"spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/fan.txt",
-   //"spider": "https://gitee.com/javyou/n03n/raw/master/jar/ou20240707.jar;md5;92ac6f5136c5ce9885fe60122c545434",
+   "spider": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar",
     "lives": [
 	    {"name": "live","type": 0,
             "url": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/live.txt#https://mirror.ghproxy.com/raw.bgithub.xyz/hanhan8127/TVBox/main/live.txt",

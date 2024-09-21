@@ -25,7 +25,7 @@
 	"categories":["国产剧","大陆综艺","韩国剧","成长逆袭","年代穿越","古装仙侠","现代都市","国产动漫","动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","日本动漫","香港剧","欧美剧","日本剧","港台综艺","日韩综艺"]},    
 //360zy.com 360zy.net 360zy.vip 360zy.top 360zy.tv 
 {"key": "csp_瓜子","name": "瓜子影视","api": "csp_Gz360","jar": "https://gitee.com/tv888/tv/raw/master/lib/xm.jar","type": 3,"searchable": 1,"playerType": 2,"timeout": 30, "changeable": 0},	 
-{"key":"瓜子","name":"瓜子"影视,"type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"瓜子","name":"瓜子影视,"type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
 //	https://gitee.com/tv888/tv/raw/master/svip.json    
 
 {"key":"骚火2","name":"骚火影视","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,

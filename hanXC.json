@@ -5,7 +5,7 @@
   // "spider":"https://gitee.com/tv888/tv/raw/master/lib/tvkj.jar",	
    // "jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar",
    "spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/Yoursmile.jar",
-   //"spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/fan.txt",
+   //"spider":""jar": "https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt",",
   
     "lives": [
 	    {"name": "live","type": 0,
@@ -35,7 +35,7 @@
 		"二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接":"\"url\"*\"&&\""}},    
 //骚火发布页http://shapp.us/；https://saohuo.tv/	  https://hhjx.hhplayer.com/api.php   
 	    
-{"key":"金牌秒播","name":"金牌秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},	    
+{"key":"金牌秒播","name":"金牌秒播","type":3,"api":"csp_Jpys","jar": "https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},	    
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com   
 //{"key":"csp_TianTian","name":"天天影视","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},	 
 {"key":"天天影视","name":"天天影视","type":3,"api":"csp_AppTT","jar":"https://gitee.com/javyou/n03n/raw/master/jar/ou20240707.jar","searchable":1,"quickSearch":1,"filterable":1},
@@ -49,7 +49,7 @@
 
 //https://dianyi.ng/          https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json
 {"key": "农民影视","name": "农民秒播","type": 3,"api": "csp_WexNmys","jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","searchable": 1,"changeable": 1},	    
-{"key":"糯米","name":"糯米秒播","type":3,"api":"csp_Nmyswv","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},   
+{"key":"糯米","name":"糯米秒播","type":3,"api":"csp_Nmyswv","jar": "https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},   
 	    
 {"key":"旺旺","name":"旺旺影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html",

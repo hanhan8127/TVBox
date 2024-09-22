@@ -33,9 +33,9 @@
 	"ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","分类url":"https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
 		"分类":"大陆$20#电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4","数组二次截取":"class=\"v_list\">&&</ul>","数组":"\"v_img\"&&/div>","标题":"title=\"&&\"","副标题":"v_note\"&&</div","跳转播放链接":"<iframe*src=\"&&\"",
 		"二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接":"\"url\"*\"&&\""}},    
-//骚火发布页http://shapp.us/；https://saohuo.tv/	  https://hhjx.hhplayer.com/api.php
+//骚火发布页http://shapp.us/；https://saohuo.tv/	  https://hhjx.hhplayer.com/api.php   
 	    
-//{"key":"金牌秒播","name":"金牌秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},	    
+{"key":"金牌秒播","name":"金牌秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},	    
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com   
 //{"key":"csp_TianTian","name":"天天影视","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},	 
 {"key":"天天影视","name":"天天影视","type":3,"api":"csp_AppTT","jar":"https://gitee.com/javyou/n03n/raw/master/jar/ou20240707.jar","searchable":1,"quickSearch":1,"filterable":1},
@@ -48,8 +48,9 @@
 {"key":"csp_Dyxs","name":"电影先生","jar": "https://raw.bgithub.xyz/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1},
 
 //https://dianyi.ng/          https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json
-{"key": "农民影视","name": "农民秒播","type": 3,"api": "csp_WexNmys","jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","searchable": 1,"changeable": 1},
-    
+{"key": "农民影视","name": "农民秒播","type": 3,"api": "csp_WexNmys","jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","searchable": 1,"changeable": 1},	    
+{"key":"糯米","name":"糯米秒播","type":3,"api":"csp_Nmyswv","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},   
+	    
 {"key":"旺旺","name":"旺旺影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html",
 		"分类":"短剧$26#国产剧$12#电影$1#电视剧$2#动漫$4#综艺$3"}},
@@ -66,11 +67,11 @@
 //https://xdys.vip/      https://www.brovod.com/
 //{"key":"兄弟影视1","name":"兄弟秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/tvkj/tw/raw/main/lib/兄弟影视.json"},	
 	        
-//{"key":"hipy_8号影院","name":"8号影院","type": 3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 9,"ext": "https://yubox.xyz/drpy_js/8号影院.js"},
- 
 {"key":"快看聚合","name":"快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable":1,"filterable": 1},	    
 //{"key": "app_快看1","name":"️快看影视","searchable":1,"type": 1,"playerType":2,"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list","categories":["国产剧","热门短剧","网络电影","国产综艺","国产动漫","动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","日本动漫","韩国剧","港台剧","欧美剧","港台综艺"]},
-       
+
+{"key":"晴天","name":"晴天影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.qinttv.com/qtyy/{cateId}/area/{area}/page/{catePg}/year/{year}.html","搜索url":"https://www.qinttv.com/qtcz.html;post;wd={wd}&submit=","分类":"电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi"},"jar": "https://raw.bgithub.xyz/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar"},
+	    
 {"key":"素白白","name": "素白影视","type": 3,"api": "csp_Subaibai","searchable": 1,"changeable": 1,"jar":"https://raw.bgithub.xyz/guot55/yg/main/lib/o.jar"},
 {"key": "白白 | XBPQ","name": "素白影视","type": 3,"api": "csp_XBPQ", "playerType": "2","searchable": 1,"quickSearch": 1,"filterable": 1,
     "ext":{"作者": "插兜","站名": "sbb影视","主页url": "https://www.subaibaiys.com","请求头":"Referer$https://www.subaibaiys.com/",
@@ -91,12 +92,7 @@
 	"categories": ["国产剧","大陆综艺","国产动漫","日韩综艺","日韩动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","韩国剧","欧美剧","香港剧","泰国剧","日本剧","纪录片","剧情片","动画片","战争片"]},
 	    
 //优质影视网址：优质资源主域名:yzzy.tv hdzyk.com（备用网址): 1080zyk1.com 至 1080zyk10.com,"playUrl": "https://vip.zykbf.com/?url="   https://gitee.com/tvkj/tw/blob/main/svip.json
-	    
-
-{"key":"zy_云解析","name":"步步资源", "type":1, "api":"https://api.yparse.com/api/json","playurl":"https://yparse.ik9.cc/index.php?url=", "searchable": 1, "quickSearch": 1, "filterable": 1,
-	"categories": ["短剧","国产剧","微电影","韩国剧","日本剧","泰国剧", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片","动画片", "香港剧",  "台湾剧","欧美剧", "海外剧"]},
-//https://www.yparse.com/help
-	    
+	        
  {"key": "UU影视","name": "UU影视","type": 3,"api": "csp_XBPQ",
 	 "ext": { "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8","主页url": "https://uuys.cc","二次截取": "module-page&&<div id=\"page\">","数组": "<a&&</div></div>","图片": "data-original=\"&&\"","标题": "title=\"&&\"",

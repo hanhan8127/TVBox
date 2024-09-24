@@ -65,7 +65,10 @@
 //https://hhzyapi.com/
 
 //{"key":"影视家","name":"影视家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xpath/影视家.json"},
-{"key": "💥 天堂","name": "天堂影院","type": 3,"api": "csp_TvDy","searchable": 1,"filterable": 1},
+{"key": "💥 天堂","name": "天堂影院","type": 3,"api": "csp_TvDy","searchable": 1,"filterable": 1,"jar":"https://gitlab.com/zikai1982/my/-/raw/master/source/custom_spider_20240907.jar"},
+
+
+	    
 {"key":"Jianpian","name":"荐片影视","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://api2.rinhome.com"},	 
 	    
 {"key": "兄弟影视s","name": "兄弟影视","type": 3,"api": "csp_Xdys", "searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/spider.jar"},	    
@@ -175,8 +178,11 @@
 {"key": "短剧吧","name": "短剧吧","type": 3,"api": "csp_XBPQ","playerType": "2","searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"分类url": "https://www.duanju8.cc/show/{cateId}--{by}------{catePg}---.html;;ar1","分类": "恋爱&反转&悬疑&穿越&古装&都市","分类值": "lianai&fanzhuan&xuanyi&chuanyue&guzhuang&dushi",
              "副标题": "<div class=\"v-item-bottom\">&&</div>","嗅探词": "m3u8#.m3u8#.mp4#mp4#/obj/", "导演": "导演:&&</div>", "主演": "主演:&&</div>", "简介": "<p>&&</p>"}},
-//{"key":"hipy_js_短剧天堂","name":"短剧天堂","type":3,"api": "https://yubox.xyz/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 87,"ext": "https://yubox.xyz/drpy_js/短剧天堂.js"},
+//{"key":"hipy_js_短剧天堂","name":"短剧天堂","type":3,"api": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 87,"ext": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/JS/天堂短剧.js"},
 
+
+/%E5%A4%A9%E5%A0%82%E7%9F%AD%E5%89%A7.js
+	    
 {"key": "csp_七新","name": "七新秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,
          "ext": {"主页url":"https://www.7xdy.com/","简介":"+<span class=\"detail-content\" style=*>&&</span>",
         "影片状态":"状态：&&</p>","搜索url":"/search.php;post;searchword={wd}","线路数组":"<h3&&/h3>","线路标题":"胜寒+src=*>&&<",

@@ -65,7 +65,7 @@
 //https://hhzyapi.com/
 
 //{"key":"影视家","name":"影视家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xpath/影视家.json"},
-
+{"key": "💥 天堂","name": "天堂影院","type": 3,"api": "csp_TvDy","searchable": 1,"filterable": 1},
 {"key":"Jianpian","name":"荐片影视","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://api2.rinhome.com"},	 
 	    
 {"key": "兄弟影视s","name": "兄弟影视","type": 3,"api": "csp_Xdys", "searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/spider.jar"},	    

@@ -4,6 +4,8 @@
 
 CCTV-13新闻,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226571/index.m3u8$5.5M_1080
 CCTV-6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+CCTV-6电影,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
+
 CCTV-4K,http://cqcbn3.live.cbncdn.cn:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 CCTV-4K,http://cqcbn4.live.cbncdn.cn:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 CCTV-4K,https://live.mxdyeah.top/live.php?id=CCTV4K
@@ -38,27 +40,6 @@ CCTV-16奥运4K,https://live.mxdyeah.top/live.php?id=CCTV16_4K
 CCTV-16奥运,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$4.0M_1080
 CCTV-17农村,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$4.0M_1080
 
-CCTV-1综合,http://124.205.11.205:91/live/CCTV1hd-5M/live.m3u8
-CCTV-2财经,http://124.205.11.205:91/live/CCTV2hd-5M/live.m3u8
-CCTV-3综艺,http://124.205.11.205:91/live/CCTV3hd-5M/live.m3u8
-CCTV-4国际,http://124.205.11.205:91/live/CCTV4hd-5M/live.m3u8
-CCTV-5体育,http://124.205.11.205:91/live/CCTV5hd-5M/live.m3u8
-CCTV-5+赛事,http://124.205.11.205:91/live/CCTV5+-5M/live.m3u8
-CCTV-6电影,http://124.205.11.205:91/live/CCTV6hd-5M/live.m3u8
-CCTV-7军事,http://124.205.11.205:91/live/CCTV6hd-5M/live.m3u8
-CCTV-8电视剧,http://124.205.11.205:91/live/CCTV8hd-5M/live.m3u8
-CCTV-9纪录,http://124.205.11.205:91/live/CCTV9hd-5M/live.m3u8
-CCTV-10科教,http://124.205.11.205:91/live/CCTV10hd-5M/live.m3u8
-CCTV-11戏曲,http://124.205.11.205:91/live/CCTV11hd-5M/live.m3u8
-CCTV-12社会,http://124.205.11.205:91/live/CCTV12hd-5M/live.m3u8
-CCTV-13新闻,http://124.205.11.205:91/live/CCTV13hd-5M/live.m3u8
-CCTV-14少儿,http://124.205.11.205:91/live/CCTV14hd-5M/live.m3u8
-CCTV-15音乐,http://124.205.11.205:91/live/CCTV15hd-5M/live.m3u8
-CCTV-16奥运,http://124.205.11.205:91/live/CCTV16hd-8M/live.m3u8
-CCTV-17农村,http://124.205.11.205:91/live/CCTV17hd-5M/live.m3u8
-
-CCTV-2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-
 
 CCTV-1综合,https://live.mxdyeah.top/live.php?id=cctv1HD
 CCTV-2财经,https://live.mxdyeah.top/live.php?id=cctv2HD
@@ -89,6 +70,26 @@ CCTV央视台球,https://live.mxdyeah.top/live.php?id=ystqHD
 CCTV风云足球,https://live.mxdyeah.top/live.php?id=fyzqHD
 CCTV文化精品,https://live.mxdyeah.top/live.php?id=yswhHD
 CCTV高尔夫网球，https://live.mxdyeah.top/live.php?id=golfHD
+
+CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV-4国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV-5体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-5+赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-6电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV-7军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-8电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-9纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV-11戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV-12社会,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV-15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV-16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
 
 CCTV-1综合,http://cqcbn3.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 CCTV-2财经,http://cqcbn3.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8

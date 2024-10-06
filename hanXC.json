@@ -105,7 +105,7 @@
 {"key": "无忧短剧","name": "无忧短剧","type": 3,"api": "csp_Duanj","jar": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/spider.jar","searchable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433}},
 {"key": "星芽短剧2","name": "星芽短剧","type": 3,"api": "csp_AppXY","searchable": 1,"filterable": 0,"jar":"https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Fo.txt?ref=main"},
 
-{"key": "rbys","name": "热播影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"changeable": 1,"timeout": 10,"playerType": 2,"ext": "AO7TcBkd8I/B5wQc4Qma+pU=","jar": "./lib/nx6.jar;md5;7949BE328984866E5E47D85228DBAC2A"},	    
+{"key": "rbys","name": "热播影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"changeable": 1,"timeout": 10,"playerType": 2,"ext": "AO7TcBkd8I/B5wQc4Qma+pU=","jar": "https://pz.nianxin.top/tvbox//lib/nx6.jar"},	    
 
 {"key":"zy_1080","name":"1080影视","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","playurl":"https://vip.zykbf.com/?url=",
 	"categories": ["国产剧","大陆综艺","国产动漫","日韩综艺","日韩动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","韩国剧","欧美剧","香港剧","泰国剧","日本剧","纪录片","剧情片","动画片","战争片"]},
@@ -130,8 +130,9 @@
 
 {"key": "xm影视","name": "小马影视","type": 3,"api": "csp_AppYsV2","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://mas.szyyds.cn/api.php/app/"},
 //https://szyyds.cn/
+	    
 {"key": "酷云影视","name": "酷云影视","type": 3,"api": "csp_AppkyYs","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://sc1080.top/"},
-//https://szyyds.cn/
+
 {"key":"csp_LiteApple","name":"苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 {"key": "白嫖者","name": "白嫖影视","type": 3,"ua": "okhttp/3.15","api": "csp_XBPQ","ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
@@ -181,8 +182,6 @@
 {"key":"可可影视","name":"可可影视","type":3,"api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/javyou/n03n/raw/master/jar/ou20240707.jar"},	    
 //https://dl.keke5.app/	    https://www.kkys01.com   https://www.kkys02.com
 
-
-	    
 {"key": "csp_七新","name": "七新秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,
          "ext": {"主页url":"https://www.7xdy.com/","简介":"+<span class=\"detail-content\" style=*>&&</span>",
         "影片状态":"状态：&&</p>","搜索url":"/search.php;post;searchword={wd}","线路数组":"<h3&&/h3>","线路标题":"胜寒+src=*>&&<",
@@ -229,9 +228,7 @@
 		"搜索模式": "1","搜索url": "/so/{wd}----------{pg}---.html","搜索数组": "pic\">&&</li>","搜索副标题": "text-overflow\">&&</p >","搜索链接": "href=\"&&\"",
                 "分类url": "https://kedays.org/shaixuan/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影&剧集&综艺&动漫&少儿&短剧","分类值":"dianying&lianxuju&zongyi&dongman&shaoer&duanju"}},
-	    
-{"key":"小马影视","name":"小马影视","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"changeable": 1,"ext": "https://mas.szyyds.cn/api.php/app/"},
-	    
+	        
 {"key": "采集之王","name": "全网采集","type": 3,"api": "https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"ext": "https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/采集之王.js?type=url&params=https://raw.bgithub.xyz/PizazzGY/TVBox/main/JSON/采集静态.json$1$1"},
 	    
   

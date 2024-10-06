@@ -43,7 +43,7 @@
 		"二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接":"\"url\"*\"&&\""}},    
 //骚火发布页http://shapp.us/；https://saohuo.tv/	  https://hhjx.hhplayer.com/api.php   
 	    
-{"key": "追剧影视","name": "追剧｜APP","type": 3,"api": "csp_AppZJ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://z.kzjtv.com/","jar": "https://raw.bgithub.xyz/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar"},
+{"key": "追剧影视","name": "追剧｜APP","type": 3,"api": "csp_AppZJ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://z.kzjtv.com/","jar": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/spider.jar"},
 	    
 //{"key":"csp_TianTian","name":"天天影视","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},	 
 {"key":"天天影视","name":"天天影视","type":3,"api":"csp_AppTT","jar":"https://gitee.com/javyou/n03n/raw/master/jar/ou20240707.jar","searchable":1,"quickSearch":1,"filterable":1},
@@ -149,8 +149,6 @@
 //https://json.heimuer.xyz/ 
 //{"key": "drpy_js_黑木耳资源","name": "木耳影视","type": 3,"api": "https://raw.bgithub.xyz/guot55/yg/main/lib/drpy2.min.js","ext": "https://raw.bgithub.xyz/guot55/yg/main/lib/mr.js"},
 
-{"key": "啾啾影视","name": "啾啾影视","type": 3,"api": "csp_Wexjiohub","searchable": 1,"changeable": 1,"jar": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Fo.txt?ref=main"},
-
 {"key": "XBPQ_文才","name": "文才秒播","type": 3,"api": "csp_XBPQ",
 	"ext": {"滤词": "","直接播放": "0",
         "播放请求头": "User-Agent$Mozilla/5.0 (Linux; Android 12; TAS-AL00 Build/HUAWEITAS-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.com/",
@@ -172,8 +170,8 @@
 {"key":"可可影视","name":"可可影视","type":3,"api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/javyou/n03n/raw/master/jar/ou20240707.jar"},	    
 //https://dl.keke5.app/	    https://www.kkys01.com   https://www.kkys02.com
 
-{"key": "无忧短剧","name": "无忧｜短剧","type": 3,"api": "csp_Duanj","searchable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433},"jar": "https://raw.bgithub.xyz/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar"},
-{"key": "在线短剧","name": "在线｜短剧","type": 3,"api": "csp_Duanju","searchable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433},"jar": "https://raw.bgithub.xyz/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar"},
+{"key": "无忧短剧","name": "无忧｜短剧","type": 3,"api": "csp_Duanj","jar": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/spider.jar","searchable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433}},
+{"key": "在线短剧","name": "在线｜短剧","type": 3,"api": "csp_Duanju",,"jar": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/spider.jar""searchable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433}},
 {"key": "星芽短剧","name": "星芽｜短剧","type": 3,"api": "csp_AppXY","searchable": 1,"quickSearch": 0,"filterable": 0},
 {"key": "天堂短剧","name": "天堂｜短剧","type": 3,"api": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/JS/drpy2.min.js","ext": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/JS/天堂短剧.js"},
 {"key": "爱你短剧","name": "爱你｜短剧","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/XYQHiker/爱你短剧.json"},

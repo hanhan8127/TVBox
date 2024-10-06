@@ -43,7 +43,7 @@
 		"二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接":"\"url\"*\"&&\""}},    
 //骚火发布页http://shapp.us/；https://saohuo.tv/	  https://hhjx.hhplayer.com/api.php   
 	    
-{"key": "追剧影视","name": "追剧｜APP","type": 3,"api": "csp_AppZJ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://z.kzjtv.com/"},
+{"key": "追剧影视","name": "追剧｜APP","type": 3,"api": "csp_AppZJ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://z.kzjtv.com/","jar": "https://raw.bgithub.xyz/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar"},
 	    
 //{"key":"csp_TianTian","name":"天天影视","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},	 
 {"key":"天天影视","name":"天天影视","type":3,"api":"csp_AppTT","jar":"https://gitee.com/javyou/n03n/raw/master/jar/ou20240707.jar","searchable":1,"quickSearch":1,"filterable":1},
@@ -60,9 +60,7 @@
 	    
 {"key": " 8号影视","name": "8号影院","type": 3,"api": "csp_XBPQ","playerType": "2","searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"语言": "中文","请求头": "手机","地址发布页": "http://www.bahaoys.com","主页url": "http://www.soutiyi.com/","分类url": "http://www.soutiyi.com/frim/{cateId}-{catePg}.html"}},
-{"key": "9527","name": "9527","type": 3,"api": "csp_XBPQ","playerType": "2","searchable": 1,"quickSearch": 1,"filterable": 1,
-      "ext": {"分类url": "https://www.jialihotel.cn/s/{cateId}/page/{catePg}/year/{year}.html","图片": "data-original=\"&&\"","标题": "<a class=\"fed-list-title*>&&</a>","副标题": "<span class=\"fed-list-remarks*>&&</span>","链接": "href=\"&&\"","线路数组": "class=\"fed-drop-btns*>&&</li>","线路标题": ">&&</a>","分类": "电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"}},
-	    	    
+	    
 //{"key":"zy_火狐", "name":"火狐资源", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "quickSearch": 1,"categories": ["短剧", "内地剧","大陆综艺","中国动漫","韩剧","动画片","剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片","犯罪片","日本动漫","欧美动漫","日剧","马泰剧","台湾剧","香港剧","欧美剧","日韩综艺","港台综艺","欧美综艺"]},	    
 //https://hhzyapi.com/
 

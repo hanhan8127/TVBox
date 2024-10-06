@@ -22,7 +22,7 @@
         {"url": "http://itvbox.cc/云星日记","name": "云星"},
         {"url": "http://ygbhbox.3vfree.club/pg/jsm.json","name": "宝盒"},
         {"url": "https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master","name": "春盈"},         
-	{"url": "https://yubox.xyz/xc.json","name": "XC"}
+	{"url": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/api.json","name": "XC"}
 
 
     ]

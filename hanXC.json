@@ -43,7 +43,7 @@
 		"二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接":"\"url\"*\"&&\""}},    
 //骚火发布页http://shapp.us/；https://saohuo.tv/	  https://hhjx.hhplayer.com/api.php   
 	    
-{"key": "追剧影视","name": "追剧｜APP","type": 3,"api": "csp_AppZJ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://z.kzjtv.com/","jar": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/spider.jar"},
+{"key": "追剧影视","name": "追剧天堂","type": 3,"api": "csp_AppZJ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://z.kzjtv.com/","jar": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/spider.jar"},
 	    
 //{"key":"csp_TianTian","name":"天天影视","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},	 
 {"key":"天天影视","name":"天天影视","type":3,"api":"csp_AppTT","jar":"https://gitee.com/javyou/n03n/raw/master/jar/ou20240707.jar","searchable":1,"quickSearch":1,"filterable":1},
@@ -65,7 +65,7 @@
 //https://hhzyapi.com/
 
 //{"key":"影视家","name":"影视家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xpath/影视家.json"},
-{"key": "💥 天堂","name": "天堂影院","type": 3,"api": "csp_TvDy","searchable": 1,"filterable": 1,"jar":"https://gitlab.com/zikai1982/my/-/raw/master/source/custom_spider_20240907.jar"},
+{"key": "天堂","name": "天堂影院","type": 3,"api": "csp_TvDy","searchable": 1,"filterable": 1,"jar":"https://gitlab.com/zikai1982/my/-/raw/master/source/custom_spider_20240907.jar"},
 
 
 	    
@@ -170,14 +170,14 @@
 {"key":"可可影视","name":"可可影视","type":3,"api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/javyou/n03n/raw/master/jar/ou20240707.jar"},	    
 //https://dl.keke5.app/	    https://www.kkys01.com   https://www.kkys02.com
 
-{"key": "无忧短剧","name": "无忧｜短剧","type": 3,"api": "csp_Duanj","jar": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/spider.jar","searchable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433}},
-{"key": "在线短剧","name": "在线｜短剧","type": 3,"api": "csp_Duanju","jar": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/spider.jar","searchable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433}},
-{"key": "星芽短剧","name": "星芽｜短剧","type": 3,"api": "csp_AppXY","searchable": 1,"quickSearch": 0,"filterable": 0},
-{"key": "天堂短剧","name": "天堂｜短剧","type": 3,"api": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/JS/drpy2.min.js","ext": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/JS/天堂短剧.js"},
-{"key": "爱你短剧","name": "爱你｜短剧","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/XYQHiker/爱你短剧.json"},
-{"key": "河马短剧","name": "河马｜短剧","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/XYQHiker/河马短剧.json"},	    
+{"key": "无忧短剧","name": "无忧短剧","type": 3,"api": "csp_Duanj","jar": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/spider.jar","searchable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433}},
+{"key": "在线短剧","name": "在线短剧","type": 3,"api": "csp_Duanju","jar": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/spider.jar","searchable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433}},
+{"key": "星芽短剧","name": "星芽短剧","type": 3,"api": "csp_AppXY","searchable": 1,"quickSearch": 0,"filterable": 0},
+{"key": "天堂短剧","name": "天堂短剧","type": 3,"api": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/JS/drpy2.min.js","ext": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/JS/天堂短剧.js"},
+{"key": "爱你短剧","name": "爱你短剧","type": 3,"api": "csp_XYQHiker","jar": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/spider.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/XYQHiker/爱你短剧.json"},
+{"key": "河马短剧","name": "河马短剧","type": 3,"api": "csp_XYQHiker","jar": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/spider.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/XYQHiker/河马短剧.json"},	    
 
-{"key": "星芽短剧","name": "星芽短剧","type": 3,"api": "csp_AppXY","searchable": 1,"filterable": 0,"jar":"https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Fo.txt?ref=main"},
+{"key": "星芽短剧2","name": "星芽短剧","type": 3,"api": "csp_AppXY","searchable": 1,"filterable": 0,"jar":"https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Fo.txt?ref=main"},
 {"key": "短剧吧","name": "短剧吧","type": 3,"api": "csp_XBPQ","playerType": "2","searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"分类url": "https://www.duanju8.cc/show/{cateId}--{by}------{catePg}---.html;;ar1","分类": "恋爱&反转&悬疑&穿越&古装&都市","分类值": "lianai&fanzhuan&xuanyi&chuanyue&guzhuang&dushi",
              "副标题": "<div class=\"v-item-bottom\">&&</div>","嗅探词": "m3u8#.m3u8#.mp4#mp4#/obj/", "导演": "导演:&&</div>", "主演": "主演:&&</div>", "简介": "<p>&&</p>"}},

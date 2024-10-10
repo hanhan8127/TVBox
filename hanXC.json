@@ -47,9 +47,7 @@
 		"ext": {"分类url": "https://www.kanbd.com/s/{cateId}-{area}-{by}------{catePg}---{year}.html",
 			"分类": "电影$movie#连续剧$series#动漫$anime#综艺$variety#动画片$animation#纪录片$documentary#电影解说$jieshuo#网络短剧$skit#体育$sports","过滤词": "/hls/#php"}},
 	    
-
-
-{"key": "界影视", "name": "新界影视", "type": 3, "api": "csp_XBPQ", "changeable": 0,"jar": "https://gitee.com/juanxiao/bh/raw/master/o2.jar",
+{"key": "界影视", "name": "新界影视", "type": 3, "api": "csp_XBPQ", "changeable": 0,"jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
             "ext": {"主页url": "https://www.hkybqufgh.com/", "简介": "</label>&&</div>", "嗅探词":"m3u8","影片类型": "tags\">&&director\">", 
                 "影片状态": "bottom\">&&</div>", "二次截取": "videoList\":\\[&&\\]", "数组": "{&&}[不包含:伦理剧]", "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",", 
                 "标题": "vodName\":\"&&\"", "副标题": "vodRemarks\":\"&&\"", "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,", 

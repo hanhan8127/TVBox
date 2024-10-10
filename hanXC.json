@@ -47,13 +47,14 @@
 		"ext": {"分类url": "https://www.kanbd.com/s/{cateId}-{area}-{by}------{catePg}---{year}.html",
 			"分类": "电影$movie#连续剧$series#动漫$anime#综艺$variety#动画片$animation#纪录片$documentary#电影解说$jieshuo#网络短剧$skit#体育$sports","过滤词": "/hls/#php"}},
 	    
-{"key": "界影视", "name": "新界影视", "type": 3, "api": "csp_XBPQ", "changeable": 0,"jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
-            "ext": {"主页url": "https://www.hkybqufgh.com/", "简介": "</label>&&</div>", "嗅探词":"m3u8","影片类型": "tags\">&&director\">", 
-                "影片状态": "bottom\">&&</div>", "二次截取": "videoList\":\\[&&\\]", "数组": "{&&}[不包含:伦理剧]", "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",", 
-                "标题": "vodName\":\"&&\"", "副标题": "vodRemarks\":\"&&\"", "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,", 
-                "导演": "导演:</div>&&主演", "主演": "主演:</div>&&别名", "线路标题": "", "播放数组": "listitem\">&&info\">", "播放列表": "<a&&</a>", "倒序": "否", 
-                "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}", "搜索副标题":"class=\"boottom\"*<div>&&</div","分类": "电影$1#电视剧$2#综艺$3#动漫$4", 
-                "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
+ {"key": "文采影视", "name": "文采┃秒播", "type": 3, "api": "csp_XBPQ", "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","changeable": 0,
+            "ext": {"主页url": "https://www.hkybqufgh.com/", "简介": "</label>&&</div>", "嗅探词":"m3u8","影片类型": "tags\">&&director\">", "影片状态": "bottom\">&&</div>", 
+                "二次截取": "videoList\":\\[&&\\]", "数组": "{&&}[不包含:伦理剧]", "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",", 
+                "标题": "vodName\":\"&&\"", "副标题": "vodRemarks\":\"&&\"",  "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,", 
+                "导演": "导演:</div>&&主演", "主演": "主演:</div>&&别名",  "线路标题": "宝盒专享", "播放数组": "listitem\">&&info\">", 
+                "播放列表": "<a&&</a>", "倒序": "否", "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}", "搜索副标题":"class=\"boottom\"*<div>&&</div",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4", "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
+
 //https://gitee.com/juanxiao/bh/raw/master/o.jar
 //https://raw.bgithub.xyz/guot55/yg/refs/heads/main/box%E5%8E%9F.json
 	    
@@ -300,7 +301,6 @@
         {"name":"寒0","type": 0,"url": "https://ylu.cc/index.php?url="},  
 	{"name":"胜1","type":1,"url":"https://www.playm3u8.cn/jiexi.php?url="}, 
 	{"name":"寒1","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
-        {"name":"胜2","type":1,"url":"https://www.playm3u8.cn/jiexi.php?url="},
         {"name":"寒2","type":0,"url":"https://www.8090g.cn/?url="},
         {"name":"胜3","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","header":{"User-Agent": "okhttp/4.9.3"}},
         {"name":"寒3","type":0,"url":"https://jx.xmflv.com/?url="},

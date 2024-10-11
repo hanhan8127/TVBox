@@ -70,6 +70,14 @@
                 "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集","嗅探词": ".m3u8?#c1.rrcdnbf3.com#.m3u8#.mp4","跳转解析": "默认$https://cdn.zyc888.top/?url=",
                 "分类url": "https://85k.icu/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$47#纪录片$29"}},
+
+  {"key": "奈落","name": "奈落影院","type": 3,"api": "csp_XBPQ","filterable": 1,
+            "ext": {"请求头": "User-Agent$MOBILE_UA","主页url": "","搜索url": "https://www.newfii.com/vodsearch/{wd}----------{pg}---.html","播放组数": "module-blocklist&&</div>",
+                "跳转播放链接": "var player_*url\":\"&&\"","跳转解析": "默认$var Player*url=","数组": "module-item&&</div>",
+                "线路标题": "<span>&&</span>","标题": "title=\"&&\"","图片": "data-src=\"&&\"","副标题": ">&&</div>",
+                "线路数组": "module-tab-item tab-item&&</div>","简介": "<span>&&</span>","链接": "href=\"&&\"",
+                "分类url": "https://www.newfii.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "电影$1#剧集$2#综艺$4#动漫$3#记录片$5#B站$39#短剧$53#体育$45","筛选": ""}},
 	    
 {"key":"旺旺","name":"旺旺影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html",
@@ -92,13 +100,6 @@
 
 {"key":"晴天","name":"晴天影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.qinttv.com/qtyy/{cateId}/area/{area}/page/{catePg}/year/{year}.html","搜索url":"https://www.qinttv.com/qtcz.html;post;wd={wd}&submit=","分类":"电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi"},"jar": "https://raw.bgithub.xyz/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar"},
 
-  {"key": "奈落","name": "奈落影院","type": 3,"api": "csp_XBPQ","jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","filterable": 1,
-            "ext": {"请求头": "User-Agent$MOBILE_UA","主页url": "","搜索url": "https://www.newfii.com/vodsearch/{wd}----------{pg}---.html","播放组数": "module-blocklist&&</div>",
-                "跳转播放链接": "var player_*url\":\"&&\"","跳转解析": "默认$var Player*url=","数组": "module-item&&</div>",
-                "线路标题": "<span>&&</span>","标题": "title=\"&&\"","图片": "data-src=\"&&\"","副标题": ">&&</div>",
-                "线路数组": "module-tab-item tab-item&&</div>","简介": "<span>&&</span>","链接": "href=\"&&\"",
-                "分类url": "https://www.newfii.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-                "分类": "电影$1#剧集$2#综艺$4#动漫$3#记录片$5#B站$39#短剧$53#体育$45","筛选": ""}},
 	    
 {"key":"素白白","name": "素白影视","type": 3,"api": "csp_Subaibai","searchable": 1,"changeable": 1,"jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBP.jar"},
 {"key": "白白 | XBPQ","name": "素白影视","type": 3,"api": "csp_XBPQ", "playerType": "2","searchable": 1,"quickSearch": 1,"filterable": 1,

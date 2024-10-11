@@ -28,14 +28,10 @@
 {"key":"糯米","name":"糯米秒播","type":3,"api":"csp_Nmyswv","jar": "https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt","timeout":15,"searchable":1,"quickSearch":1,"changeable":1}, 
 {"key":"金牌秒播","name":"金牌秒播","type":3,"api":"csp_Jpys","jar": "https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //https://gitee.com/juanxiao/bh/raw/master/o.jar	    
-{"key": "金牌影视", "name": "金牌影视", "type":3,"api":"csp_XBPQ", "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","changeable": 0,
-	"ext": {"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","简介":"剧情介绍:+简介:</div>&&</div></div>","数组":"content-card\">&&</div></div></a></div></div>",
-   "标题":"<div class=\"title\">&&</div>", "副标题":"tag\">&&</div>", "线路标题":"在线播放",
-   "播放数组":"main-list-sections&&</div></div>", "分类url":"https://www.6umkq9b.com/vod/show/id/{cateId}/type/{class}/area/{area}/year/{year}/page/{catePg};;d0","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},  
 
-{"key": "新界影视22", "name": "新界影视22", "type": 3, "api": "csp_XBPQ", "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","changeable": 0,
+{"key": "金牌影视", "name": "金牌影视", "type": 3, "api": "csp_XBPQ", "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","changeable": 0,
             "ext": {"主页url": "http://www.yuhelover.com/", "简介": "</label>&&</div>", "嗅探词":"m3u8","影片类型": "tags\">&&director\">", "影片状态": "bottom\">&&</div>", 
-                "二次截取": "videoList\":\\[&&\\]", "数组": "{&&}[不包含:伦理剧]", 
+                "二次截取": "videoList\":\\[&&\\]", "数组": "{&&}[不包含:伦理剧]", "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
                 "标题": "vodName\":\"&&\"", "副标题": "vodRemarks\":\"&&\"",  "链接": "http://www.yuhelover.com/detail/+vodId\":&&,", 
                 "导演": "导演:</div>&&主演", "主演": "主演:</div>&&别名",  "线路标题": "寒", "播放数组": "listitem\">&&info\">", 
                 "播放列表": "<a&&</a>", "倒序": "否", "搜索url": "http://www.yuhelover.com/vod/search/{wd}", "搜索副标题":"class=\"boottom\"*<div>&&</div",

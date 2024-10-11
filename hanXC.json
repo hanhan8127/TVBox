@@ -28,10 +28,11 @@
 {"key":"糯米","name":"糯米秒播","type":3,"api":"csp_Nmyswv","jar": "https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt","timeout":15,"searchable":1,"quickSearch":1,"changeable":1}, 
 {"key":"金牌秒播","name":"金牌秒播","type":3,"api":"csp_Jpys","jar": "https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //https://gitee.com/juanxiao/bh/raw/master/o.jar	    
-{"key": "金牌影视", "name": "金牌|影视", "type":3,"api":"csp_XBPQ",  "jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBP.jar", 
+{"key": "金牌影视", "name": "金牌影视", "type":3,"api":"csp_XBPQ",  "jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar", 
 	"ext": {"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","简介":"剧情介绍:+简介:</div>&&</div></div>","数组":"content-card\">&&</div></div></a></div></div>",
    "标题":"<div class=\"title\">&&</div>", "副标题":"tag\">&&</div>", "线路标题":"在线播放",
    "播放数组":"main-list-sections&&</div></div>", "分类url":"https://www.chrqj.com/vod/show/id/{cateId}/type/{class}/area/{area}/year/{year}/page/{catePg};;d0","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},
+	    
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://bgithub.xyz/guot55/yg
 //{"key":"cj_360","name":"360资源","type":1,"api":"https://360zy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playUrl":"https://www.360jiexi.com/player/?url=","categories":["国产剧","大陆综艺","韩国剧","成长逆袭","年代穿越","古装仙侠","现代都市","国产动漫","动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","日本动漫","香港剧","欧美剧","日本剧","港台综艺","日韩综艺"]},    
 //360zy.com 360zy.net 360zy.vip 360zy.top 360zy.tv 

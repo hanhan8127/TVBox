@@ -28,11 +28,11 @@
 {"key":"糯米","name":"糯米秒播","type":3,"api":"csp_Nmyswv","jar": "https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt","timeout":15,"searchable":1,"quickSearch":1,"changeable":1}, 
 {"key":"金牌秒播","name":"金牌秒播","type":3,"api":"csp_Jpys","jar": "https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //https://gitee.com/juanxiao/bh/raw/master/o.jar	    
-{"key": "金牌影视", "name": "金牌影视", "type":3,"api":"csp_XBPQ",  "jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar", 
+{"key": "金牌影视", "name": "金牌影视", "type":3,"api":"csp_XBPQ", 
 	"ext": {"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","简介":"剧情介绍:+简介:</div>&&</div></div>","数组":"content-card\">&&</div></div></a></div></div>",
    "标题":"<div class=\"title\">&&</div>", "副标题":"tag\">&&</div>", "线路标题":"在线播放",
-   "播放数组":"main-list-sections&&</div></div>", "分类url":"https://www.6umkq9b.com/type/id/{cateId}/type/{class}/area/{area}/year/{year}/page/{catePg};;d0","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},
-//"分类url":"https://www.6umkq9b.com/vod/show/id/{cateId}/type/{class}/area/{area}/year/{year}/page/{catePg};;d0","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},  
+   "播放数组":"main-list-sections&&</div></div>", "分类url":"https://www.6umkq9b.com/vod/show/id/{cateId}/type/{class}/area/{area}/year/{year}/page/{catePg};;d0","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},  
+
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://bgithub.xyz/guot55/yg
 //{"key":"cj_360","name":"360资源","type":1,"api":"https://360zy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playUrl":"https://www.360jiexi.com/player/?url=","categories":["国产剧","大陆综艺","韩国剧","成长逆袭","年代穿越","古装仙侠","现代都市","国产动漫","动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","日本动漫","香港剧","欧美剧","日本剧","港台综艺","日韩综艺"]},    
 //360zy.com 360zy.net 360zy.vip 360zy.top 360zy.tv 
@@ -63,7 +63,13 @@
 
 //{"key":"csp_Dyxs","name":"电影先生","jar": "https://raw.bgithub.xyz/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1},
 //https://dianyi.ng/          https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json
-
+	    
+{"key": "85K","name": "85影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+            "ext": {"影片地区": "","影片年代": "<div class=\"module-info-tag\">&&</div>",
+                "影片状态": "备注：&&</div>","影片类型": "module-info-tag\">&&立即播放","线路数组": "data-dropdown-value=&&</div>",
+                "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集","嗅探词": ".m3u8?#c1.rrcdnbf3.com#.m3u8#.mp4","跳转解析": "默认$https://cdn.zyc888.top/?url=",
+                "分类url": "https://85k.icu/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$47#纪录片$29"}},
 	    
 {"key":"旺旺","name":"旺旺影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html",
@@ -85,6 +91,14 @@
 //https://xdys.vip/      https://www.brovod.com/          http://47.99.102.252/xc.json
 
 {"key":"晴天","name":"晴天影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.qinttv.com/qtyy/{cateId}/area/{area}/page/{catePg}/year/{year}.html","搜索url":"https://www.qinttv.com/qtcz.html;post;wd={wd}&submit=","分类":"电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi"},"jar": "https://raw.bgithub.xyz/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar"},
+
+  {"key": "奈落","name": "奈落影院","type": 3,"api": "csp_XBPQ","jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","filterable": 1,
+            "ext": {"请求头": "User-Agent$MOBILE_UA","主页url": "","搜索url": "https://www.newfii.com/vodsearch/{wd}----------{pg}---.html","播放组数": "module-blocklist&&</div>",
+                "跳转播放链接": "var player_*url\":\"&&\"","跳转解析": "默认$var Player*url=","数组": "module-item&&</div>",
+                "线路标题": "<span>&&</span>","标题": "title=\"&&\"","图片": "data-src=\"&&\"","副标题": ">&&</div>",
+                "线路数组": "module-tab-item tab-item&&</div>","简介": "<span>&&</span>","链接": "href=\"&&\"",
+                "分类url": "https://www.newfii.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "电影$1#剧集$2#综艺$4#动漫$3#记录片$5#B站$39#短剧$53#体育$45","筛选": ""}},
 	    
 {"key":"素白白","name": "素白影视","type": 3,"api": "csp_Subaibai","searchable": 1,"changeable": 1,"jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBP.jar"},
 {"key": "白白 | XBPQ","name": "素白影视","type": 3,"api": "csp_XBPQ", "playerType": "2","searchable": 1,"quickSearch": 1,"filterable": 1,

@@ -69,13 +69,6 @@
 
 //{"key":"csp_Dyxs","name":"电影先生","jar": "https://raw.bgithub.xyz/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1},
 //https://dianyi.ng/          https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json
-	    
-{"key": "85K","name": "85影视","type": 3,"api": "csp_XBPQ","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,
-            "ext": {"影片地区": "","影片年代": "<div class=\"module-info-tag\">&&</div>",
-                "影片状态": "备注：&&</div>","影片类型": "module-info-tag\">&&立即播放","线路数组": "data-dropdown-value=&&</div>",
-                "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集","嗅探词": ".m3u8?#c1.rrcdnbf3.com#.m3u8#.mp4","跳转解析": "默认$https://cdn.zyc888.top/?url=",
-                "分类url": "https://85k.icu/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$47#纪录片$29"}},
 
   {"key": "奈落","name": "奈落影院","type": 3,"api": "csp_XBPQ","filterable": 1,"jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBP.jar",
             "ext": {"请求头": "User-Agent$MOBILE_UA","主页url": "","搜索url": "https://www.newfii.com/vodsearch/{wd}----------{pg}---.html","播放组数": "module-blocklist&&</div>",
@@ -104,11 +97,11 @@
 
 //https://xdys.vip/      https://www.brovod.com/          http://47.99.102.252/xc.json
 
-{"key":"晴天","name":"晴天影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.qinttv.com/qtyy/{cateId}/area/{area}/page/{catePg}/year/{year}.html","搜索url":"https://www.qinttv.com/qtcz.html;post;wd={wd}&submit=","分类":"电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi"},"jar": "https://raw.bgithub.xyz/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar"},
+{"key":"晴天","name":"晴天影视","type":3,"api":"csp_XBPQ","jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBP.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.qinttv.com/qtyy/{cateId}/area/{area}/page/{catePg}/year/{year}.html","搜索url":"https://www.qinttv.com/qtcz.html;post;wd={wd}&submit=","分类":"电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi"}},
 
 	    
-{"key":"素白白","name": "素白影视","type": 3,"api": "csp_Subaibai","searchable": 1,"changeable": 1,"jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBP.jar"},
-{"key": "白白 | XBPQ","name": "素白影视","type": 3,"api": "csp_XBPQ", "playerType": "2","searchable": 1,"quickSearch": 1,"filterable": 1,
+{"key":"素白白","name": "素白影视","type": 3,"api": "csp_Subaibai","searchable": 1,"changeable": 1},
+{"key": "白白 | XBPQ","name": "素白影视","type": 3,"api": "csp_XBPQ", "jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBP.jar","playerType": "2","searchable": 1,"quickSearch": 1,"filterable": 1,
     "ext":{"作者": "插兜","站名": "sbb影视","主页url": "https://www.subaibaiys.com","请求头":"Referer$https://www.subaibaiys.com/",
     "分类": "电影&国产剧&电视剧&热门电影&高分电影&动漫电影&香港经典电影&欧美剧&韩剧&动漫剧",
     "分类值": "new-movie&domestic-drama&tv-drama&hot-month&high-movie&cartoon-movie&hongkong-movie&american-drama&korean-drama&anime-drama",

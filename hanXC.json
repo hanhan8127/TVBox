@@ -36,9 +36,9 @@
                 "导演": "导演:</div>&&主演", "主演": "主演:</div>&&别名",  "线路标题": "寒", "播放数组": "listitem\">&&info\">", 
                 "播放列表": "<a&&</a>", "倒序": "否", "搜索url": "http://www.yuhelover.com/vod/search/{wd}", "搜索副标题":"class=\"boottom\"*<div>&&</div",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4", "分类url": "http://www.yuhelover.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
-{"key":"荐片弹幕","name":"荐片弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
+{"key":"荐片弹幕","name":"荐片弹幕","type":3,"api":"csp_Jianpian","jar": "https://www.gitlink.org.cn/api/guot55/yg/raw/jar%2Fbhtv.txt?ref=main","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 
-{"key":"文才弹幕","name":"文才弹幕","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
+{"key":"文才弹幕","name":"文才弹幕","type":3,"api":"csp_Jpys","jar": "https://www.gitlink.org.cn/api/guot55/yg/raw/jar%2Fbhtv.txt?ref=main","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 	    
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://bgithub.xyz/guot55/yg
 //{"key":"cj_360","name":"360资源","type":1,"api":"https://360zy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playUrl":"https://www.360jiexi.com/player/?url=","categories":["国产剧","大陆综艺","韩国剧","成长逆袭","年代穿越","古装仙侠","现代都市","国产动漫","动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","日本动漫","香港剧","欧美剧","日本剧","港台综艺","日韩综艺"]},    

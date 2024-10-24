@@ -28,7 +28,7 @@
 {"key":"金牌秒播","name":"金牌秒播","type":3,"api":"csp_Jpys","jar": "https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //https://gitee.com/juanxiao/bh/raw/master/o.jar	    
 
-{"key": "金牌影视", "name": "金牌影视", "type": 3, "api": "csp_XBPQ", "jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar","changeable": 0,
+{"key": "金牌影视", "name": "金牌影视", "type": 3, "api": "csp_XBPQ", "jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/bhtv.jar","changeable": 0,
             "ext": {"主页url": "http://www.yuhelover.com/", "简介": "</label>&&</div>", "嗅探词":"m3u8","影片类型": "tags\">&&director\">", "影片状态": "bottom\">&&</div>", 
                 "二次截取": "videoList\":\\[&&\\]", "数组": "{&&}[不包含:伦理剧]", "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
                 "标题": "vodName\":\"&&\"", "副标题": "vodRemarks\":\"&&\"",  "链接": "http://www.yuhelover.com/detail/+vodId\":&&,", 
@@ -37,7 +37,15 @@
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4", "分类url": "http://www.yuhelover.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://bgithub.xyz/guot55/yg
 //https://gitee.com/tvkj/tw/blob/main/svip.json
-{"key": "天天","name": "天天影视","jar": "https://gitee.com/xiaofei1980/tvbox/raw/master/lib/fix24914.jar","type": 3,"api": "csp_TTian","playerType": 1, "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="},
+  {"key": "新界影视", "name": "新界影视", "type": 3, "api": "csp_XBPQ","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/bhtv.jar", "changeable": 0,
+            "ext": {"主页url": "https://www.hkybqufgh.com/", "简介": "</label>&&</div>", "嗅探词":"m3u8",
+                "影片类型": "tags\">&&director\">", "影片状态": "bottom\">&&</div>", "二次截取": "videoList\":\\[&&\\]", "数组": "{&&}[不包含:伦理剧]", 
+                "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",", "标题": "vodName\":\"&&\"", "副标题": "vodRemarks\":\"&&\"", "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,", 
+                "导演": "导演:</div>&&主演", "主演": "主演:</div>&&别名", "线路标题": "宝盒专享", "播放数组": "listitem\">&&info\">",  "播放列表": "<a&&</a>", "倒序": "否", 
+                "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}", "搜索副标题":"class=\"boottom\"*<div>&&</div","分类": "电影$1#电视剧$2#综艺$3#动漫$4", 
+                "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
+	    
+{"key": "天天","name": "天天影视","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/fix24914.jar","type": 3,"api": "csp_TTian","playerType": 1, "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="},
 {"key": "萌米","name": "萌米影视","type": 3,"api": "csp_AppTT","timeout": 15,"playerType": 1,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="},	    
 
 //{"key":"cj_360","name":"360资源","type":1,"api":"https://360zy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playUrl":"https://www.360jiexi.com/player/?url=","categories":["国产剧","大陆综艺","韩国剧","成长逆袭","年代穿越","古装仙侠","现代都市","国产动漫","动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","日本动漫","香港剧","欧美剧","日本剧","港台综艺","日韩综艺"]},    
@@ -242,16 +250,6 @@
 //https://xinlangzy.com/   xinlangzy.com、 xinlangziyuan.com、 xinlangziyuan.net、 xinlangzy.net
 	        
 {"key": "采集之王","name": "全网采集","type": 3,"api": "https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"ext": "https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/采集之王.js?type=url&params=https://raw.bgithub.xyz/PizazzGY/TVBox/main/JSON/采集静态.json$1$1"},
-
- 
-  {"key": "新界影视", "name": "新界影视", "type": 3, "api": "csp_XBPQ","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/bhtv.jar", "changeable": 0,
-            "ext": {"主页url": "https://www.hkybqufgh.com/", "简介": "</label>&&</div>", "嗅探词":"m3u8",
-                "影片类型": "tags\">&&director\">", "影片状态": "bottom\">&&</div>", "二次截取": "videoList\":\\[&&\\]", "数组": "{&&}[不包含:伦理剧]", 
-                "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",", "标题": "vodName\":\"&&\"", "副标题": "vodRemarks\":\"&&\"", "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,", 
-                "导演": "导演:</div>&&主演", "主演": "主演:</div>&&别名", "线路标题": "宝盒专享", "播放数组": "listitem\">&&info\">",  "播放列表": "<a&&</a>", "倒序": "否", 
-                "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}", "搜索副标题":"class=\"boottom\"*<div>&&</div","分类": "电影$1#电视剧$2#综艺$3#动漫$4", 
-                "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
-
 	    
 //https://gitee.com/juanxiao/bh/raw/master/o.jar
 //https://raw.bgithub.xyz/guot55/yg/refs/heads/main/box%E5%8E%9F.json	    

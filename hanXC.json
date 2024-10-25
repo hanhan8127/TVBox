@@ -22,10 +22,10 @@
 {"key":"TV直播","name":"电视直播","type": 3,"api": "https://d.kstore.space/download/2883/sdtv.js","jar":"https://d.kstore.space/download/2883/sdtv.jar","ext": "https://d.kstore.space/download/2883/sdtv.txt"},	    
 {"key": "Aid","name": "急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
 
+{"key": "南瓜影视2","name": "南瓜影视","type": 3,"api": "csp_Nangua","searchable": 1,"quickSearch": 1,"filterable": 1},	    
 {"key":"南瓜影视","name":"南瓜影视","type":3,"api":"https://raw.bgithub.xyz/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/master/js/南瓜影视.js"},
 {"key":"南瓜","name":"南瓜影视","type":3,"api":"https://raw.bgithub.xyz/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.bgithub.xyz/yoursmile66/TVBox/main/js/南瓜.js"},
 	    
-{"key": "南瓜影视2","name": "南瓜影视","type": 3,"api": "csp_Nangua","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "农民影视","name": "农民秒播","type": 3,"api": "csp_WexNmys","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBP.jar","searchable": 1,"changeable": 1},	    
 {"key":"糯米","name":"糯米秒播","type":3,"api":"csp_Nmyswv","jar": "https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt","timeout":15,"searchable":1,"quickSearch":1,"changeable":1}, 
 {"key":"金牌秒播","name":"金牌秒播","type":3,"api":"csp_Jpys","jar": "https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
@@ -109,11 +109,11 @@
     "ext": {"分类url": "https://dianyi.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html", "简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
         "搜索url": "https://dianyi.ng/search--------------.html?wd={wd}","搜索数组": "<div class=\"module-item-pic\">&&</div>","图片": "src=\"&&\"",
         "搜索标题": "title=\"&&\"","搜索副标题": ">&&</a>","副标题": "胜寒+module-item-note&&</div>","线路数组": "data-dropdown-value=&&</div>",
-        "线路标题": "胜寒专享+<span>&&</small>[替换:<span></small>共]+集","播放数组": "<div class=\"scroll-content\">&&</div>","播放标题": "<span>&&</span>",
+        "线路标题": "寒+<span>&&</small>[替换:<span></small>共]+集","播放数组": "<div class=\"scroll-content\">&&</div>","播放标题": "<span>&&</span>",
         "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"}},
 	    
 	    
-//https://dianyi.ng/          https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json
+//https://dianyi.ng/    https://XianShe.ng   https://xn--44qz85a01qpc.com/   https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json
 
   {"key": "奈落","name": "奈落影院","type": 3,"api": "csp_XBPQ","filterable": 1,
             "ext": {"请求头": "User-Agent$MOBILE_UA","主页url": "","搜索url": "https://www.newfii.com/vodsearch/{wd}----------{pg}---.html","播放组数": "module-blocklist&&</div>",

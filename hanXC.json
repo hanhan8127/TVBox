@@ -41,7 +41,7 @@
 {"key":"快看聚合","name":"快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable":1,"filterable": 1},	    
 //{"key": "app_快看1","name":"️快看影视","searchable":1,"type": 1,"playerType":2,"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list","categories":["国产剧","热门短剧","网络电影","国产综艺","国产动漫","动画电影","动作片","冒险片","喜剧片","爱情片","奇幻片","灾难片","科幻片","恐怖片","剧情片","战争片","日本动漫","韩国剧","港台剧","欧美剧","港台综艺"]},
 //{"key":"guazi","name":"瓜子影视","type":3,"api":"csp_WebGZ","jar": "http://64.112.42.49:1688/https://github.com/yuyu10245/yuyu/blob/master/jar/xc09.zip","searchable":0,"quickSearch":0,"filterable":0},	    
-{"key": "瓜子影视","name": "瓜子┃影视","type": 3,"api": "csp_Gz360","searchable": 1,"quickSearch": 1,"filterable": 1},	 
+{"key": "瓜子影视","name": "瓜子影视","type": 3,"api": "csp_Gz360","searchable": 1,"quickSearch": 1,"filterable": 1},	 
 {"key":"瓜子","name":"瓜子影视","type":3,"api":"csp_Gz360","jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1},
 //	https://gitee.com/tv888/tv/raw/master/svip.json    https://raw.bgithub.xyz/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar
 	    
@@ -105,7 +105,7 @@
 
 {"key": "小苹果","name": "苹果影视","type": 3,"api": "csp_Xpg","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key": "XBPQ_电影先生","name": "先生┃影视","type": 3,"api": "csp_XBPQ",
+{"key": "XBPQ_电影先生","name": "先生影视","type": 3,"api": "csp_XBPQ",
     "ext": {"分类url": "https://dianyi.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html", "简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
         "搜索url": "https://dianyi.ng/search--------------.html?wd={wd}","搜索数组": "<div class=\"module-item-pic\">&&</div>","图片": "src=\"&&\"",
         "搜索标题": "title=\"&&\"","搜索副标题": ">&&</a>","副标题": "胜寒+module-item-note&&</div>","线路数组": "data-dropdown-value=&&</div>",
@@ -127,9 +127,6 @@
 	"ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html",
 		"分类":"短剧$26#国产剧$12#电影$1#电视剧$2#动漫$4#综艺$3"}},
 	    
-{"key": " 8号影视","name": "8号影院","type": 3,"api": "csp_XBPQ","playerType": "2","searchable": 1,"quickSearch": 1,"filterable": 1,
-      "ext": {"语言": "中文","请求头": "手机","地址发布页": "http://www.bahaoys.com","主页url": "http://www.soutiyi.com/","分类url": "http://www.soutiyi.com/frim/{cateId}-{catePg}.html"}},
-
 {"key": "FreeOK","name": "️️Free影视","type": 3,"api": "csp_FreeOK","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.freeok.pro"},
     
 //{"key":"zy_火狐", "name":"火狐资源", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "quickSearch": 1,"categories": ["短剧", "内地剧","大陆综艺","中国动漫","韩剧","动画片","剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片","犯罪片","日本动漫","欧美动漫","日剧","马泰剧","台湾剧","香港剧","欧美剧","日韩综艺","港台综艺","欧美综艺"]},	    
@@ -172,8 +169,8 @@
 	    
 //优质影视网址：优质资源主域名:yzzy.tv hdzyk.com（备用网址): 1080zyk1.com 至 1080zyk10.com,"playUrl": "https://vip.zykbf.com/?url="   https://gitee.com/tvkj/tw/blob/main/svip.json	        
 	
-{"key": "追剧影视", "name": "追剧┃影视", "type": 3,"api": "csp_AppZJ","searchable": 1, "quickSearch": 1,"filterable": 1,"ext": "http://z.kzjtv.com/"},
-
+{"key": "追剧影视","name": "追剧影视","type": 3,"api": "csp_AppZJ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://z.kzjtv.com/"},
+	    
 {"key": "白嫖者","name": "白嫖影视","type": 3,"ua": "okhttp/3.15","api": "csp_XBPQ","ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 	"分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"寒+剧情介绍：&&</p >"}},
 
@@ -232,7 +229,7 @@
             "ext": {"分类url": "https://www.iysdq.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "国产剧$21#香港剧$22#台湾剧$23#韩国剧$24#日本剧$25#欧美剧$26#泰国剧$27#海外剧$28#电影$1#动漫$4#综艺$3"}},
 
-{"key":"飞飞影视PQ","name":"飞飞影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"飞飞影视PQ","name":"飞飞影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar",
  "ext":{"分类url": "https://www.ffys.fun/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html", 
         "分类": "电影$20#剧集$21#动漫$22#综艺$23#记录片$24#爽剧$25","简介":"寒+<p>&&</p>","线路数组": "data-dropdown-value=&&</div>","线路标题": "寒+<span>&&</span>"}},
 	    
@@ -249,7 +246,6 @@
                 "嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com","影片地区": "",
                 "影片年代": "class=\"detail-tags-item\">&&</a>","影片类型": "<div class=\"detail-tags fs-margin-top fs-margin-bottom\">&&立即播放",
                 "影片状态": "备注:&&</div>","导演": "导演:</div>&&</div>","主演": "演员:</div>&&</div>","简介": "detail-desc\">&&</p>"}},
-	    
 	    
 //   https://www.kkys01.com   https://www.kkys02.com
 

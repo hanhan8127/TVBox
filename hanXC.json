@@ -105,11 +105,14 @@
 
 {"key":"Jianpian","name":"荐片影视","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://api2.rinhome.com"},	 
 	    
-//{"key": "兄弟影视s","name": "兄弟影视","type": 3,"api": "csp_Xdys", "searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/spider.jar"},	    
-//{"key": "兄弟影视","name": "兄弟影视","type": 3,"api": "csp_Wexxiongdiys","searchable": 1,"changeable": 1,"jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBP.jar"},
+{"key": "兄弟影视s","name": "兄弟影视","type": 3,"api": "csp_Xdys", "searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/spider.jar"},	    
+{"key": "兄弟影视","name": "兄弟影视","type": 3,"api": "csp_Wexxiongdiys","searchable": 1,"changeable": 1,"jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBP.jar"},
 
 //https://xdys.vip/      https://www.brovod.com/          http://47.99.102.252/xc.json
-
+{"key": "雨见视频","name": "雨见蓝光","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBP.jar",
+        "ext": {"影片类型": "类型：&&</li>","简介": "胜寒提醒您:请勿相信影片中的广告+简介：&&</div>",
+        "分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"}},
 
  {"key":"极速资源","name":"极速影院","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,
 	 "categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧","日剧","韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺","日韩动漫","欧美动漫","港台动漫","海外动漫"]},

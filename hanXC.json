@@ -62,7 +62,7 @@
 		"分类": "电影$movie#连续剧$series#动漫$anime#综艺$variety#动画片$animation#纪录片$documentary#电影解说$jieshuo#网络短剧$skit#体育$sports",
 		"嗅探词": ".m3u8#.m3u8?#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4#video_mp4","过滤词": "/hls/#php"}},
 
- {"key": "骚火影视","name": "骚火┃影视","type": 3,"api": "csp_SaoHuo","searchable": 1,"quickSearch": 1,"filterable": 1},
+ {"key": "骚火影视","name": "骚火影视","type": 3,"api": "csp_SaoHuo","searchable": 1,"quickSearch": 1,"filterable": 1},
 	    
 {"key": "骚火","name": "骚火影视","type": 3,"api": "csp_SaoHuo",
       "searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,
@@ -130,6 +130,7 @@
 {"key": " 8号影视","name": "8号影院","type": 3,"api": "csp_XBPQ","playerType": "2","searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"语言": "中文","请求头": "手机","地址发布页": "http://www.bahaoys.com","主页url": "http://www.soutiyi.com/","分类url": "http://www.soutiyi.com/frim/{cateId}-{catePg}.html"}},
 
+{"key": "FreeOK","name": "️️Free影视","type": 3,"api": "csp_FreeOK","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.freeok.pro"},
     
 //{"key":"zy_火狐", "name":"火狐资源", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "quickSearch": 1,"categories": ["短剧", "内地剧","大陆综艺","中国动漫","韩剧","动画片","剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片","犯罪片","日本动漫","欧美动漫","日剧","马泰剧","台湾剧","香港剧","欧美剧","日韩综艺","港台综艺","欧美综艺"]},	    
 //https://hhzyapi.com/
@@ -139,7 +140,7 @@
 {"key":"Jianpian","name":"荐片影视","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://api2.rinhome.com"},	 
 	    
 //{"key": "兄弟影视s","name": "兄弟影视","type": 3,"api": "csp_Xdys", "searchable": 1,"quickSearch": 1,"filterable": 1},	    
-{//"key": "兄弟影视","name": "兄弟影视","type": 3,"api": "csp_Wexxiongdiys","searchable": 1,"changeable": 1"},
+//{"key": "兄弟影视","name": "兄弟影视","type": 3,"api": "csp_Wexxiongdiys","searchable": 1,"changeable": 1"},
 
 //https://xdys.vip/      https://www.brovod.com/          http://47.99.102.252/xc.json
 {"key": "雨见视频","name": "雨见蓝光","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,

@@ -309,17 +309,6 @@
 {"key":"芒果","name":"忙果官源","type":3,"ua": "okhttp/3.15","api":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.js","ext":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/芒果视频.js"},
 {"key":"搜狗","name":"嗖狗官源","type":3,"ua": "okhttp/3.15","api":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.js","ext":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/搜狗视频.js"},
 	    
-{
-      "key": "meowtv_sejy",
-      "name":"少儿┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "http://47.99.102.252/jar/y.jar",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/儿童.json"
-    },
 
 {"key": "meowtv_sejy","name": "少儿课堂","type": 3,"api": "csp_Bili","jar": "http://47.99.102.252/jar/y.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/儿童.json"},
 {"key": "meowtv_xxkt","name": "小学课堂","type": 3,"api": "csp_Bili","jar": "http://47.99.102.252/jar/y.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/小学.json"},

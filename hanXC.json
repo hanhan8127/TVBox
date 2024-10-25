@@ -321,8 +321,8 @@
       "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/儿童.json"
     },
 
-{"key": "meowtv_gzkt","name": "少儿课堂","type": 3,"api": "csp_Bili","jar": "http://47.99.102.252/jar/y.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/儿童.json"},
-{"key": "meowtv_gzkt","name": "小学课堂","type": 3,"api": "csp_Bili","jar": "http://47.99.102.252/jar/y.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/小学.json"},
+{"key": "meowtv_sejy","name": "少儿课堂","type": 3,"api": "csp_Bili","jar": "http://47.99.102.252/jar/y.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/儿童.json"},
+{"key": "meowtv_xxkt","name": "小学课堂","type": 3,"api": "csp_Bili","jar": "http://47.99.102.252/jar/y.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/小学.json"},
 {"key": "meowtv_czkt","name": "初中课堂","type": 3,"api": "csp_Bili","jar": "http://47.99.102.252/jar/y.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/初中.json"},
 {"key": "meowtv_gzkt","name": "高中课堂","type": 3,"api": "csp_Bili","jar": "http://47.99.102.252/jar/y.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/高中.json"},
 	    

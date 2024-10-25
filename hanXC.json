@@ -26,8 +26,9 @@
 	    {"key": "农民影视","name": "农民秒播","type": 3,"api": "csp_WexNmys","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBP.jar","searchable": 1,"changeable": 1},	    
 {"key":"糯米","name":"糯米秒播","type":3,"api":"csp_Nmyswv","jar": "https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt","timeout":15,"searchable":1,"quickSearch":1,"changeable":1}, 
 {"key":"金牌秒播","name":"金牌秒播","type":3,"api":"csp_Jpys","jar": "https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-//https://gitee.com/juanxiao/bh/raw/master/o.jar	    
-
+//https://gitee.com/juanxiao/bh/raw/master/o.jar
+	    
+{"key": "csp_JPYY","name": "金牌影院","type": 3,"searchable": 1,"changeable": 1,"api": "csp_Jpyy","playerType": 1,"filterable": 1,"ext": ""},
 	    
 {"key": "天天","name": "天天影视","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/fix24914.jar","type": 3,"api": "csp_TTian","playerType": 1, "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="},
 {"key": "萌米","name": "萌米影视","type": 3,"api": "csp_AppTT","timeout": 15,"playerType": 1,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="},	    

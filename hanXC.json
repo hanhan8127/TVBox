@@ -3,8 +3,7 @@
 {
 
     "spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/spider.jar",	
-   // "jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBPQ.jar",
-  // "jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBP.jar",	
+	
   // "spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/Yoursmile.jar",
    //"spider":""jar": "https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt",",
   
@@ -195,10 +194,8 @@
 //https://json.heimuer.xyz/ 
 	    
 {"key": "XBPQ_文才","name": "文才秒播","type": 3,"api": "csp_XBPQ",
-	"ext": {"滤词": "","直接播放": "0",
-        "播放请求头": "User-Agent$Mozilla/5.0 (Linux; Android 12; TAS-AL00 Build/HUAWEITAS-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.com/",
-        "首页": "90","起始页": "1",
-        "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg};;rc","分类": "电影&电视剧&动漫&综艺",
+	"ext": {"滤词": "","直接播放": "0","播放请求头": "User-Agent$Mozilla/5.0 (Linux; Android 12; TAS-AL00 Build/HUAWEITAS-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.com/",
+        "首页": "90","起始页": "1", "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg};;rc","分类": "电影&电视剧&动漫&综艺",
         "分类值": "0&14&75&69","二次截取": "list\":\\[&&\\]","数组": "{&&}[不包含:伦理剧]","图片": "vod_pic\":\"&&\"",
         "标题": "vod_name\":\"&&\"","副标题": "vod_remarks\":\"&&\"+_+vod_pubdate\":\"&&\"","链接": "https://m.cfkj86.com/detail/+vod_id\":&&,",
         "线路二次截取": "","线路数组": "span class=\"label\">&&/span>","线路标题": "胜寒","播放数组": "episodeList\":\\[&&\\][替换:nid\":>>nid\":/1/]","播放列表": "{&&}","播放标题": "name\":\"&&\"",
@@ -215,8 +212,7 @@
 {"key": "iysdq","name": "影院大全","type": 3,"api": "csp_XBPQ","searchable": 1, "quickSearch": 1,"filterable": 1,
             "ext": {"分类url": "https://www.iysdq.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "国产剧$21#香港剧$22#台湾剧$23#韩国剧$24#日本剧$25#欧美剧$26#泰国剧$27#海外剧$28#电影$1#动漫$4#综艺$3"}},
-
-//{"key":"可可影视","name":"可可影视","type":3,"api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/javyou/n03n/raw/master/jar/ou20240707.jar"},	    
+    
 { "key": "可可","name": "可可影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
         "ext": {"主页url": "https://www.kkys02.com/","分类url": "https://www.kkys02.com/{cateId}-{catePg}.html[https://www.kkys02.com/{cateId}-.html];;ak",
                 "分类": "&热映电影&热播剧集&热门综艺&国产剧&台湾剧&韩国剧&欧美剧&香港剧&泰国剧&日本剧&动作片&喜剧片&科幻片&恐怖片&爱情片&剧情片&战争片&传记片&动画片&国产动漫&日本动漫&韩国动漫&欧美动漫&大陆综艺&香港综艺&台湾综艺&日本综艺&韩国综艺&欧美综艺&短剧",
@@ -304,10 +300,10 @@
 {"key":"芒果","name":"忙果官源","type":3,"ua": "okhttp/3.15","api":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.js","ext":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/芒果视频.js"},
 {"key":"搜狗","name":"嗖狗官源","type":3,"ua": "okhttp/3.15","api":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.js","ext":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/搜狗视频.js"},
 	    
-{"key": "meowtv_sejy","name": "少儿课堂","type": 3,"api": "csp_Bili","jar": "http://47.99.102.252/jar/y.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/儿童.json"},
-{"key": "meowtv_xxkt","name": "小学课堂","type": 3,"api": "csp_Bili","jar": "http://47.99.102.252/jar/y.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/小学.json"},
-{"key": "meowtv_czkt","name": "初中课堂","type": 3,"api": "csp_Bili","jar": "http://47.99.102.252/jar/y.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/初中.json"},
-{"key": "meowtv_gzkt","name": "高中课堂","type": 3,"api": "csp_Bili","jar": "http://47.99.102.252/jar/y.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/高中.json"},
+{"key": "meowtv_sejy","name": "少儿课堂","type": 3,"api": "csp_Bili","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/儿童.json"},
+{"key": "meowtv_xxkt","name": "小学课堂","type": 3,"api": "csp_Bili","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/小学.json"},
+{"key": "meowtv_czkt","name": "初中课堂","type": 3,"api": "csp_Bili","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/初中.json"},
+{"key": "meowtv_gzkt","name": "高中课堂","type": 3,"api": "csp_Bili","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/高中.json"},
 	    
 {"key": "csp_hanhan","name": "请勿相信影片中广告！","type": 1,"playerType": 2,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1}
 

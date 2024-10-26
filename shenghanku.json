@@ -3,25 +3,25 @@
 
         {"url": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/hanXC.json","name": "胜寒"},  
 	     
-	{"url": "https://www.gitlink.org.cn/api/zikai/myy/raw/source%2Fmain2.json?ref=master","name": "瑶瑶"},
 	{"url": "http://www.mpanso.com/小米/DEMO.json","name": "小米2"},       
         {"url": "http://ok321.top/ok","name": "OK线路"}, 
         {"url": "http://www.饭太硬.com/tv","name": "饭太硬"},                                                                                                 
         {"url": "https://bitbucket.org/xduo/libs/raw/master/index.json","name": "道长"},
         {"url": "https://raw.bgithub.xyz/xyq254245/xyqonlinerule/main/XYQTVBox.json","name": "香雅情"}, 
         {"url": "https://raw.bgithub.xyz/PizazzGY/TVBox/main/api.json","name": "潇洒"}, 
-	{"url": "http://肥猫.com","name": "肥猫"},  
-        {"url": "http://ttkx.live:55/天天开心","name": "开心"},                                  
-        {"url": "http://ygbh.live/box.php","name": "月光"},
-        {"url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh","name": "欧歌"},      
-        {"url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0","name": "吾爱"},   
+	{"url": "http://肥猫.com","name": "肥猫"},                                  
+        {"url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh","name": "欧歌"}, 
+	{"url": "http://tv.nxog.top/m/","name": "欧歌"},    
+
         {"url": "https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json","name": "南风"},    
         {"url": "https://fmbox.cc","name": "星辰"}, 
         {"url": "http://我不是.摸鱼儿.top","name": "摸鱼"},  
         {"url": "http://meowtv.cn/tv","name": "喵影视"},   
+        {"url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/","name": "王小二"},   
+        {"url": "https://tv.xn--yhqu5zs87a.top/","name": "菜妮丝"},  	    
         {"url": "http://itvbox.cc/云星日记","name": "云星"},
         {"url": "http://ygbhbox.3vfree.club/pg/jsm.json","name": "宝盒"},
-        {"url": "https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master","name": "春盈"},         
+
 	{"url": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/api.json","name": "API"}, 
         {"url": "http://47.99.102.252/xc.json","name": "XC星辰"}
 

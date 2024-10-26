@@ -191,7 +191,8 @@
 
 {"key": "drpy_js_黑木耳资源","name": "木耳影视","type": 3,"api": "https://raw.bgithub.xyz/guot55/yg/main/lib/drpy2.min.js","ext": "https://raw.bgithub.xyz/guot55/yg/main/lib/mr.js"},
 
-{"key":"cj_heimuer","name":"木耳影视","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playUrl":"https://hoplayer.com/index.html?url=","categories":["国产剧","国产综艺","国产动漫","古装短剧","虐恋短剧","甜宠短剧","逆袭短剧","悬疑短剧","重生短剧","神豪短剧","战争片","动作片","喜剧片","爱情片","科幻片","恐怖片","韩剧","欧美剧","泰剧","日剧"]},    
+{"key":"cj_heimuer","name":"木耳影视","type":4,"api":"https://json02.heimuer.xyz/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playUrl":"https://hoplayer.com/index.html?url=",
+	"categories":["国产剧","国产综艺","国产动漫","虐恋短剧","甜宠短剧","逆袭短剧","悬疑短剧","重生短剧","神豪短剧","战争片","动作片","喜剧片","爱情片","科幻片","恐怖片","韩剧","欧美剧","泰剧","日剧"]},    
 //https://json.heimuer.xyz/ ,https://json02.heimuer.xyz/api.php/provide/vod/?ac=list,https://json.doube.eu.org/app/index.php?site=webheimuer,https://heimuer.tv/
 	    
 {"key": "XBPQ_文才","name": "文才秒播","type": 3,"api": "csp_XBPQ",

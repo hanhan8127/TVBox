@@ -12,10 +12,9 @@
 	{"url": "http://肥猫.com","name": "肥猫"},                                  
         {"url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh","name": "欧歌"}, 
 	{"url": "http://tv.nxog.top/m/","name": "欧歌"},    
-
         {"url": "https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json","name": "南风"},    
         {"url": "https://fmbox.cc","name": "星辰"}, 
-        {"url": "http://我不是.摸鱼儿.top","name": "摸鱼"},  
+       
         {"url": "http://meowtv.cn/tv","name": "喵影视"},   
         {"url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/","name": "王小二"},   
         {"url": "https://tv.xn--yhqu5zs87a.top/","name": "菜妮丝"},  	    
@@ -23,6 +22,8 @@
         {"url": "http://ygbhbox.3vfree.club/pg/jsm.json","name": "宝盒"},
 
 	{"url": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/api.json","name": "API"}, 
+
+	{"url": "http://我不是.摸鱼儿.top","name": "摸鱼"},      
         {"url": "http://47.99.102.252/xc.json","name": "XC星辰"}
 
 	    

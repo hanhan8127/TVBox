@@ -190,8 +190,9 @@
 
 
 {"key": "drpy_js_黑木耳资源","name": "木耳影视","type": 3,"api": "https://raw.bgithub.xyz/guot55/yg/main/lib/drpy2.min.js","ext": "https://raw.bgithub.xyz/guot55/yg/main/lib/mr.js"},
-{"key": "php_heimuer","name": "木耳影视","type": 4,"api": "https://json.doube.eu.org/app/index.php?site=webheimuer","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0}, 
-//https://json.heimuer.xyz/ 
+
+{"key":"cj_heimuer","name":"木耳影视","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playUrl":"https://hoplayer.com/index.html?url=","categories":["短剧","电影","电视剧","综艺","动漫"]},    
+//https://json.heimuer.xyz/ ,https://json02.heimuer.xyz/api.php/provide/vod/?ac=list,https://json.doube.eu.org/app/index.php?site=webheimuer,https://heimuer.tv/
 	    
 {"key": "XBPQ_文才","name": "文才秒播","type": 3,"api": "csp_XBPQ",
 	"ext": {"滤词": "","直接播放": "0","播放请求头": "User-Agent$Mozilla/5.0 (Linux; Android 12; TAS-AL00 Build/HUAWEITAS-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.com/",
@@ -214,6 +215,7 @@
                 "分类": "国产剧$21#香港剧$22#台湾剧$23#韩国剧$24#日本剧$25#欧美剧$26#泰国剧$27#海外剧$28#电影$1#动漫$4#综艺$3"}},
 	    
 {"key": "全网影视","name": "全网影视","type": 3,"api": "csp_Quanwk","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://888.qkw2.cc"},
+//https://m.91qkw.cc/,https://www.91qkw.com/,https://www.qkw1.com/,https://888.qkw2.cc,https://888.91qkw.com
 {"key": "看客影视","name": "看客影视","type": 3,"api": "csp_Kanke","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kmeiju.com"},
 
 { "key": "可可","name": "可可影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,

@@ -91,7 +91,6 @@
     "搜索副标题":"text-right\">&&</span>","搜索图片":"data-original=\"&&\"","搜索链接":"href=\"&&\"","线路数组":"<h3&&/h3>","线路标题":"胜寒专享+>&&<","播放链接":"href='&&'",
     "分类url":"http://www.xingchenwu.com/{cateId}/index{catePg}.html[http://www.xingchenwu.com/{cateId}/index.html];;ak", "分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
 
-
 {"key": "小苹果","name": "苹果影视","type": 3,"api": "csp_Xpg","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "XBPQ_电影先生","name": "先生影视","type": 3,"api": "csp_XBPQ",
@@ -99,9 +98,7 @@
         "搜索url": "https://dianyi.ng/search--------------.html?wd={wd}","搜索数组": "<div class=\"module-item-pic\">&&</div>","图片": "src=\"&&\"",
         "搜索标题": "title=\"&&\"","搜索副标题": ">&&</a>","副标题": "胜寒+module-item-note&&</div>","线路数组": "data-dropdown-value=&&</div>",
         "线路标题": "寒+<span>&&</small>[替换:<span></small>共]+集","播放数组": "<div class=\"scroll-content\">&&</div>","播放标题": "<span>&&</span>",
-        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"}},
-	    
-	    
+        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"}},    
 //https://dianyi.ng/    https://XianShe.ng   https://xn--44qz85a01qpc.com/   https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json
 
   {"key": "奈落","name": "奈落影院","type": 3,"api": "csp_XBPQ","filterable": 1,
@@ -188,16 +185,6 @@
                 "线路数组":"<h3&&</h3>","线路标题":"+>&&","分类url":"https://www.5jcd.com/show_/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ax",
                 "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}}, 
 
-
-{"key": "drpy_js_黑木耳资源","name": "木耳影视","type": 3,"api": "https://raw.bgithub.xyz/guot55/yg/main/lib/drpy2.min.js","ext": "https://raw.bgithub.xyz/guot55/yg/main/lib/mr.js"},
-
-{"key":"cj_heimuer","name":"木耳影视","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,
-	"categories":["国产剧","国产综艺","国产动漫","虐恋短剧","甜宠短剧","逆袭短剧","悬疑短剧","重生短剧","神豪短剧","战争片","动作片","喜剧片","爱情片","科幻片","恐怖片","韩剧","欧美剧","泰剧","日剧"]},    
-//https://json.heimuer.xyz/ ,https://json02.heimuer.xyz/api.php/provide/vod/?ac=list,https://json.doube.eu.org/app/index.php?site=webheimuer,https://heimuer.tv/
-{"key":"黑木耳","name":"黑木耳","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","国产综艺","国产动漫","虐恋短剧","甜宠短剧","逆袭短剧","悬疑短剧","重生短剧","神豪短剧","战争片","动作片","喜剧片","爱情片","科幻片","恐怖片","韩剧","欧美剧","泰剧","日剧"]}, 
-
-
-
 {"key": "XBPQ_文才","name": "文才秒播","type": 3,"api": "csp_XBPQ",
 	"ext": {"滤词": "","直接播放": "0","播放请求头": "User-Agent$Mozilla/5.0 (Linux; Android 12; TAS-AL00 Build/HUAWEITAS-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.com/",
         "首页": "90","起始页": "1", "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg};;rc","分类": "电影&电视剧&动漫&综艺",
@@ -212,13 +199,12 @@
         "类型": "喜剧$22#动作$23#战争$25#爱情$26#悬疑$27#武侠$28#科幻$30#冒险$31#警匪$32#动画$33#惊悚$34#犯罪$35#恐怖$36#剧情$37#历史$38#纪录$39#传记$40#歌舞$41国产剧$14#欧美剧$15#港台剧$16#日韩剧$62#其他剧$68国产动漫$75#日韩动漫$76#欧美动漫$77#港台动漫$78#其他动漫$80||国产综艺$69#港台综艺$70#日韩综艺$72#欧美综艺$73#其他综艺$74"}},
 
 {"key":"海纳TV","name":"海纳TV","type":3,"api":"csp_XBPQ","ext": {"主页url":"https://hainatv.net/","分类url": "https://hainatv.net/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html","分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$59#解说$64"}},
-
-	    
+ 
 {"key": "iysdq","name": "影院大全","type": 3,"api": "csp_XBPQ","searchable": 1, "quickSearch": 1,"filterable": 1,
             "ext": {"分类url": "https://www.iysdq.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "国产剧$21#香港剧$22#台湾剧$23#韩国剧$24#日本剧$25#欧美剧$26#泰国剧$27#海外剧$28#电影$1#动漫$4#综艺$3"}},
 	    
-{"key": "全网影视","name": "全网影视","type": 3,"api": "csp_Quanwk","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://888.qkw2.cc"},
+//{"key": "全网影视","name": "全网影视","type": 3,"api": "csp_Quanwk","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://888.qkw2.cc"},
 //https://m.91qkw.cc/,https://www.91qkw.com/,https://www.qkw1.com/,https://888.qkw2.cc,https://888.91qkw.com
 {"key": "看客影视","name": "看客影视","type": 3,"api": "csp_Kanke","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kmeiju.com"},
 
@@ -278,6 +264,11 @@
 	        
 {"key": "采集之王","name": "全网采集","type": 3,"api": "https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"ext": "https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/采集之王.js?type=url&params=https://raw.bgithub.xyz/PizazzGY/TVBox/main/JSON/采集静态.json$1$1"},
 {"key":"海纳TV","name":"海纳TV","type":3,"api":"csp_XBPQ","ext": {"主页url":"https://hainatv.net/","分类url": "https://hainatv.net/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html","分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$59#解说$64"}},
+
+{"key":"黑木耳","name":"黑木耳","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"https://hoplayer.com/index.html?url=",
+	"categories":["国产剧","国产综艺","国产动漫","虐恋短剧","甜宠短剧","逆袭短剧","悬疑短剧","重生短剧","神豪短剧","战争片","动作片","喜剧片","爱情片","科幻片","恐怖片","韩剧","欧美剧","泰剧","日剧"]}, 
+//https://json.heimuer.xyz/ ,https://json02.heimuer.xyz/api.php/provide/vod/?ac=list,https://json.doube.eu.org/app/index.php?site=webheimuer,https://heimuer.tv/
+	    
 	    
 {"key": "金牌影视", "name": "金牌影视", "type": 3, "api": "csp_XBPQ", "changeable": 0,
             "ext": {"主页url": "http://www.yuhelover.com/", "简介": "</label>&&</div>", "嗅探词":"m3u8","影片类型": "tags\">&&director\">", "影片状态": "bottom\">&&</div>", 

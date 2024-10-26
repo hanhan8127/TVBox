@@ -129,7 +129,7 @@
 
 //{"key":"影视家","name":"影视家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xpath/影视家.json"},
 
-{"key":"csp_Jianpian","name":"荐片影视","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/jianpian.json"},	    
+{"key":"csp_Jianpian","name":"荐片影视","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.bgithub.xyz/yoursmile66/TVBox/main/sub/jianpian.json"},	    
 {"key": "荐片弹幕","name": "荐片影视","type": 3,"api": "csp_Jianpian","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true}},	  	    
 {"key":"Jianpian","name":"荐片影视","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://api2.rinhome.com"},	 
   
@@ -279,7 +279,7 @@
 {"key": "采集之王","name": "全网采集","type": 3,"api": "https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"ext": "https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/采集之王.js?type=url&params=https://raw.bgithub.xyz/PizazzGY/TVBox/main/JSON/采集静态.json$1$1"},
 {"key":"海纳TV","name":"海纳TV","type":3,"api":"csp_XBPQ","ext": {"主页url":"https://hainatv.net/","分类url": "https://hainatv.net/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html","分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$59#解说$64"}},
 	    
-{"key": "金牌影视", "name": "金牌影视", "type": 3, "api": "csp_XBPQ", "jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/bhtv.jar","changeable": 0,
+{"key": "金牌影视", "name": "金牌影视", "type": 3, "api": "csp_Jpys", "changeable": 0,
             "ext": {"主页url": "http://www.yuhelover.com/", "简介": "</label>&&</div>", "嗅探词":"m3u8","影片类型": "tags\">&&director\">", "影片状态": "bottom\">&&</div>", 
                 "二次截取": "videoList\":\\[&&\\]", "数组": "{&&}[不包含:伦理剧]", "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
                 "标题": "vodName\":\"&&\"", "副标题": "vodRemarks\":\"&&\"",  "链接": "http://www.yuhelover.com/detail/+vodId\":&&,", 
@@ -309,10 +309,6 @@
 {"key":"芒果","name":"忙果官源","type":3,"ua": "okhttp/3.15","api":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.js","ext":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/芒果视频.js"},
 {"key":"搜狗","name":"嗖狗官源","type":3,"ua": "okhttp/3.15","api":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.js","ext":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/搜狗视频.js"},
 	    
-{"key":"少儿","name":"🅱️少儿","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/少儿教育.json"},
-{"key":"小学","name":"🅱️小学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/小学课堂.json"},
-{"key":"初中","name":"🅱️初中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/初中课堂.json"},
-{"key":"高中","name":"🅱️高中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/高中课堂.json"},
 {"key": "meowtv_sejy","name": "少儿课堂","type": 3,"api": "csp_Bili","jar": "http://47.99.102.252/jar/y.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/儿童.json"},
 {"key": "meowtv_xxkt","name": "小学课堂","type": 3,"api": "csp_Bili","jar": "http://47.99.102.252/jar/y.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/小学.json"},
 {"key": "meowtv_czkt","name": "初中课堂","type": 3,"api": "csp_Bili","jar": "http://47.99.102.252/jar/y.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/初中.json"},

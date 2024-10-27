@@ -109,7 +109,8 @@
         "线路标题": "寒+<span>&&</small>[替换:<span></small>共]+集","播放数组": "<div class=\"scroll-content\">&&</div>","播放标题": "<span>&&</span>",
         "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"}},    
 //https://dianyi.ng/    https://XianShe.ng   https://xn--44qz85a01qpc.com/   https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json
-
+{"key":"csp_AppDaMi","name":"大米影视","type":3,"playerType":"2","api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app-v1.ecoliving168.com/"},
+{"key":"csp_AppRZ","name":"忍者影视","type":3,"playerType":"2","api":"csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz/"},
   {"key": "奈落","name": "奈落影院","type": 3,"api": "csp_XBPQ","filterable": 1,
             "ext": {"请求头": "User-Agent$MOBILE_UA","主页url": "","搜索url": "https://www.newfii.com/vodsearch/{wd}----------{pg}---.html","播放组数": "module-blocklist&&</div>",
                 "跳转播放链接": "var player_*url\":\"&&\"","跳转解析": "默认$var Player*url=","数组": "module-item&&</div>",
@@ -268,13 +269,9 @@
 //https://xinlangzy.com/   xinlangzy.com、 xinlangziyuan.com、 xinlangziyuan.net、 xinlangzy.net
 	        
 {"key": "采集之王","name": "全网采集","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"ext": "https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/采集之王.js?type=url&params=https://raw.bgithub.xyz/PizazzGY/TVBox/main/JSON/采集静态.json$1$1"},
-{"key":"js_采集之王","name":"采集之王","type":3,"api":"http://ttkx.cc:55/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"http://ttkx.cc:55/lib/采集之王[合].js?type=url&params=.http://ttkx.cc:55/lib/采集静态.json$1"},
-	    
 	    
 {"key":"海纳TV","name":"海纳TV","type":3,"api":"csp_XBPQ","ext": {"主页url":"https://hainatv.net/","分类url": "https://hainatv.net/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html","分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$59#解说$64"}},
 
-
-{"key":"hipy_js_黑木耳","name":"木耳秒播","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/main/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"dmFyIHJ1bGUgPSB7CiAgICDmqKHmnb86ICfph4fpm4YxJywKICAgIHRpdGxlOiAn6buR5pyo6ICz6LWE5rqQW+i1hF0nLAogICAgaG9zdDogJ2h0dHBzOi8vd3d3LmhlaW11ZXIudHYnLAogICAgLy8gaG9tZVRpZDogJzEzJywKICAgIGhvbWVUaWQ6ICcnLAogICAgY2F0ZV9leGNsdWRlOiAnXueUteW9sSR8XueUteinhuWJpyR8Xue7vOiJuiR8XuWKqOa8qyQnLAogICAgcGFyc2VfdXJsOiAnJywKfQ=="},	    
 {"key":"木耳","name":"木耳秒播","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod","searchable":1,"filterable":1,"changeable":1,"timeout":10,
 	"categories":["国产剧","国产综艺","国产动漫","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","剧情片","动作片","冒险片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","欧美动漫","日本动漫","韩国动漫","港台动漫"],
 	"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"}},

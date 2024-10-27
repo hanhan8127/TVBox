@@ -177,6 +177,9 @@
 	"地区": "大陆$大陆#香港$香港#台湾$台湾#美国$美国#日本$日本#韩国$韩国#泰国$泰国#印度$印度||内地$内地#韩国$韩国#香港$香港#台湾$台湾#日本$日本#美国$美国#泰国$泰国#英国$英国#新加坡$新加坡#其他$其他||内地$内地#港台$港台#日韩$日韩#欧美$欧美||国产$国产#日本$日本#欧美$欧美#其他$其他",
 	"年代": "2009-2024"}},
 
+{"key": "白嫖","name": "白嫖影视","type": 3,"ua": "okhttp/3.15","api": "csp_XBPQ","ext": {"分类url": "https://www.6699z.cn/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+	"分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"寒+剧情介绍：&&</p >"}},	    
+	    
 {"key": "白嫖者联盟2","name": "️白嫖影视","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1,"filterable": 1,
             "ext": {"分类url": "https://www.6699z.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影&剧集&综艺&动漫&短剧","分类值": "1&2&3&4&58",

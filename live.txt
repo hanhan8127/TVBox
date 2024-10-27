@@ -87,9 +87,27 @@ CCTV-12社会,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/inde
 CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV-15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-CCTV-16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV-16奥运,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
+CCTV-1综合,http://117.72.68.25:9930/migu.php?id=cctv1
+CCTV-2财经,http://117.72.68.25:9930/migu.php?id=cctv2
+CCTV-3综艺,http://117.72.68.25:9930/migu.php?id=cctv3
+CCTV-4国际,http://117.72.68.25:9930/migu.php?id=cctv4
+CCTV5-体育,http://117.72.68.25:9930/migu.php?id=cctv5
+CCTV-5+赛事,http://117.72.68.25:9930/migu.php?id=cctv5p
+CCTV6-电影,http://117.72.68.25:9930/migu.php?id=cctv6
+CCTV-7军事,http://117.72.68.25:9930/migu.php?id=cctv7
+CCTV-8电视剧,http://117.72.68.25:9930/migu.php?id=cctv8
+CCTV-9纪录,http://117.72.68.25:9930/migu.php?id=cctv9
+CCTV-10科教,http://117.72.68.25:9930/migu.php?id=cctv10
+CCTV-11戏曲,http://117.72.68.25:9930/migu.php?id=cctv11
+CCTV-12社会,http://117.72.68.25:9930/migu.php?id=cctv12
+CCTV-13新闻,http://117.72.68.25:9930/migu.php?id=cctv13
+CCTV-14少儿,http://117.72.68.25:9930/migu.php?id=cctv14
+CCTV-15音乐,http://117.72.68.25:9930/migu.php?id=cctv15
+CCTV17-农村,http://117.72.68.25:9930/migu.php?id=cctv17
+CCTV发现之旅,http://117.72.68.25:9930/migu.php?id=fxzl
 
 CCTV-1综合,http://cqcbn3.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 CCTV-2财经,http://cqcbn3.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
@@ -614,6 +632,45 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 青海卫视,https://live.mxdyeah.top/live.php?id=qinghaiSD
 山东教育,https://live.mxdyeah.top/live.php?id=sdjiaoyuSD
 
+东方卫视,http://117.72.68.25:9930/migu.php?id=dfws
+湖南卫视x,http://117.72.68.25:9930/migu.php?id=hunws
+江西卫视,http://117.72.68.25:9930/migu.php?id=jxws
+江苏卫视,http://117.72.68.25:9930/migu.php?id=jsws
+湖北卫视,http://117.72.68.25:9930/migu.php?id=hubws
+重庆卫视,http://117.72.68.25:9930/migu.php?id=cqws
+吉林卫视,http://117.72.68.25:9930/migu.php?id=jlws
+辽宁卫视,http://117.72.68.25:9930/migu.php?id=lnws
+内蒙古卫视,http://117.72.68.25:9930/migu.php?id=nmws
+宁夏卫视,http://117.72.68.25:9930/migu.php?id=nxws
+甘肃卫视,http://117.72.68.25:9930/migu.php?id=gsws
+青海卫视,http://117.72.68.25:9930/migu.php?id=qhws
+陕西卫视,http://117.72.68.25:9930/migu.php?id=sxws
+山东卫视,http://117.72.68.25:9930/migu.php?id=sdws
+河南卫视,http://117.72.68.25:9930/migu.php?id=hnws
+东南卫视x,http://117.72.68.25:9930/migu.php?id=dnws
+海峡卫视,http://117.72.68.25:9930/migu.php?id=hxws
+广东卫视x,http://117.72.68.25:9930/migu.php?id=gdws
+大湾区卫视,http://117.72.68.25:9930/migu.php?id=dwqws
+广西卫视,http://117.72.68.25:9930/migu.php?id=gxws
+云南卫视,http://117.72.68.25:9930/migu.php?id=ynws
+贵州卫视,http://117.72.68.25:9930/migu.php?id=gzws
+新疆卫视,http://117.72.68.25:9930/migu.php?id=xjws
+西藏卫视,http://117.72.68.25:9930/migu.php?id=xzws
+海南卫视,http://117.72.68.25:9930/migu.php?id=hinws
+
+湖南卫视,http://121.24.98.129:8090/hls/56/index.m3u8
+浙江卫视,http://121.24.98.129:8090/hls/79/index.m3u8
+东方卫视,http://121.24.98.129:8090/hls/77/index.m3u8
+江苏卫视,http://121.24.98.129:8090/hls/38/index.m3u8
+北京卫视,http://121.24.98.129:8090/hls/32/index.m3u8
+安徽卫视,http://121.24.98.129:8090/hls/81/index.m3u8
+深圳卫视,http://121.24.98.129:8090/hls/84/index.m3u8
+东南卫视,http://121.24.98.129:8090/hls/36/index.m3u8
+
+海南卫视,http://117.72.68.25:9930/migu.php?id=hinws
+大湾区卫视,http://117.72.68.25:9930/migu.php?id=dwqws
+
+
 浙江卫视,http://cqcbn3.live.cbncdn.cn:8090/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8
 江苏卫视,http://cqcbn3.live.cbncdn.cn:8090/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
 北京卫视,http://cqcbn3.live.cbncdn.cn:8090/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
@@ -805,12 +862,8 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 
 港澳台外,#genre#
 
-凤凰中文,http://yujukoo.gicp.net:8888/udp/239.93.0.162:2192$成都联通
-凤凰资讯,http://yujukoo.gicp.net:8888/udp/239.93.0.118:2191$成都联通
 
-凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
@@ -822,7 +875,7 @@ http://nas.jdshipin.com:8801/1905.php?id=1905dy
 凤凰中文,https://epg.pw/stream/c77a6c3e914fd27b23140776fce89ecf408b6e3adb44621bef4ffce24931d730.m3u8
 凤凰中文,https://epg.pw/stream/4449f787f5ea0c3b693485107c2f18722fb73ffe25173e86b3a6c88ee50f8f28.m3u8
 凤凰中文,https://epg.pw/stream/bed861174ca3f5d4dd96d8bfc52fd0e2990a69c3e02324ef736495435192d7fa.m3u8
-
+凤凰中文,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
 凤凰中文,http://wg.lloydind.cn:9999/udp/233.50.200.42:5140 
 凤凰中文,http://wg.lloydind.cn:9999/udp/233.50.200.191:5140
 凤凰资讯,http://wg.lloydind.cn:9999/udp/233.50.200.192:5140

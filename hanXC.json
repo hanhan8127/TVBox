@@ -110,8 +110,11 @@
         "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"}},    
 //https://dianyi.ng/    https://XianShe.ng   https://xn--44qz85a01qpc.com/   https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json
 {"key":"csp_AppDaMi","name":"大米影视","type":3,"playerType":"2","api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app-v1.ecoliving168.com/"},
-{"key":"csp_AppRZ","name":"忍者影视","type":3,"playerType":"2","api":"csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz/"},
-  {"key": "奈落","name": "奈落影院","type": 3,"api": "csp_XBPQ","filterable": 1,
+{"key":"csp_AppRZ","name":"忍者影视","type":3,"playerType":"2","api":"csp_AppRZ","jar": "http://ttkx.cc:55/lib/ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz/"},
+
+
+	    
+{"key": "奈落","name": "奈落影院","type": 3,"api": "csp_XBPQ","filterable": 1,
             "ext": {"请求头": "User-Agent$MOBILE_UA","主页url": "","搜索url": "https://www.newfii.com/vodsearch/{wd}----------{pg}---.html","播放组数": "module-blocklist&&</div>",
                 "跳转播放链接": "var player_*url\":\"&&\"","跳转解析": "默认$var Player*url=","数组": "module-item&&</div>",
                 "线路标题": "<span>&&</span>","标题": "title=\"&&\"","图片": "data-src=\"&&\"","副标题": ">&&</div>",

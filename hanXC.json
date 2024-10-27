@@ -22,8 +22,13 @@
 {"key": "Aid","name": "急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
     
 {"key": "农民影视","name": "农民秒播","type": 3,"api": "csp_WexNmys","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBP.jar","searchable": 1,"changeable": 1},
-
+{"key":"百姓","name":"农民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"剧情介绍：&&</p>",
+	"分类url":"https://www.gymboreejn.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html[https://www.gymboreejn.com/vodtype/{cateId}.html]",
+	"分类":"电影$1#剧集$2#综艺$3#动漫$4#动画片$29#短剧$31#影视解说$32#邵氏电影$39"}},
+	    
 {"key":"糯米","name":"糯米秒播","type":3,"api":"csp_Nmyswv","jar": "https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt","timeout":15,"searchable":1,"quickSearch":1,"changeable":1}, 
+	    
+{"key": "csp_Jpys","name": "金牌影视","type": 3, "api": "csp_Jpys","searchable": 1,"quickSearch": 1,"changeable": 1},	
 {"key":"金牌秒播","name":"金牌秒播","type":3,"api":"csp_Jpys","jar": "https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //https://gitee.com/juanxiao/bh/raw/master/o.jar
     
@@ -31,7 +36,7 @@
 //{"key":"南瓜影视","name":"南瓜影视","type":3,"api":"https://raw.bgithub.xyz/qist/tvbox/master/lib/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/master/js/南瓜影视.js"},
 //{"key":"南瓜","name":"南瓜影视","type":3,"api":"https://raw.bgithub.xyz/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.bgithub.xyz/yoursmile66/TVBox/main/js/南瓜.js"},
 	
-{"key": "csp_Jpys","name": "金牌影视","type": 3, "api": "csp_Jpys","searchable": 1,"quickSearch": 1,"changeable": 1},	    
+    
   
 {"key": "天天影视", "name": "天天影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},	    
 {"key": "天天","name": "天天影视","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/fix24914.jar","type": 3,"api": "csp_TTian","playerType": 1, "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="},
@@ -96,6 +101,13 @@
     "搜索副标题":"text-right\">&&</span>","搜索图片":"data-original=\"&&\"","搜索链接":"href=\"&&\"","线路数组":"<h3&&/h3>","线路标题":"胜寒专享+>&&<","播放链接":"href='&&'",
     "分类url":"http://www.xingchenwu.com/{cateId}/index{catePg}.html[http://www.xingchenwu.com/{cateId}/index.html];;ak", "分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
 
+{"key":"hipy_js_黑木耳","name":"木耳秒播","type":3,"api":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"dmFyIHJ1bGUgPSB7CiAgICDmqKHmnb86ICfph4fpm4YxJywKICAgIHRpdGxlOiAn6buR5pyo6ICz6LWE5rqQW+i1hF0nLAogICAgaG9zdDogJ2h0dHBzOi8vd3d3LmhlaW11ZXIudHYnLAogICAgLy8gaG9tZVRpZDogJzEzJywKICAgIGhvbWVUaWQ6ICcnLAogICAgY2F0ZV9leGNsdWRlOiAnXueUteW9sSR8XueUteinhuWJpyR8Xue7vOiJuiR8XuWKqOa8qyQnLAogICAgcGFyc2VfdXJsOiAnJywKfQ=="},	    
+{"key":"木耳","name":"木耳秒播","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod","searchable":1,"filterable":1,"changeable":1,"timeout":10,"playUrl":"https://hoplayer.com/index.html?url=",
+	"categories":["国产剧","国产综艺","国产动漫","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","剧情片","动作片","冒险片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片",
+		"港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","欧美动漫","日本动漫","韩国动漫","港台动漫"],
+	"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"}},
+
+	    
 {"key": "小苹果","name": "苹果影视","type": 3,"api": "csp_Xpg","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "XBPQ_电影先生","name": "先生影视","type": 3,"api": "csp_XBPQ",
@@ -264,10 +276,13 @@
 //https://xinlangzy.com/   xinlangzy.com、 xinlangziyuan.com、 xinlangziyuan.net、 xinlangzy.net
 	        
 {"key": "采集之王","name": "全网采集","type": 3,"api": "https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"ext": "https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/采集之王.js?type=url&params=https://raw.bgithub.xyz/PizazzGY/TVBox/main/JSON/采集静态.json$1$1"},
+{"key":"js_采集之王","name":"采集之王","type":3,"api":"http://ttkx.cc:55/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"http://ttkx.cc:55/lib/采集之王[合].js?type=url&params=.http://ttkx.cc:55/lib/采集静态.json$1"},
+	    
+	    
 {"key":"海纳TV","name":"海纳TV","type":3,"api":"csp_XBPQ","ext": {"主页url":"https://hainatv.net/","分类url": "https://hainatv.net/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html","分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$59#解说$64"}},
 
-{"key":"黑木耳","name":"黑木耳","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"https://hoplayer.com/index.html?url=",
-	"categories":["国产剧","国产综艺","国产动漫","虐恋短剧","甜宠短剧","逆袭短剧","悬疑短剧","重生短剧","神豪短剧","战争片","动作片","喜剧片","爱情片","科幻片","恐怖片","韩剧","欧美剧","泰剧","日剧"]}, 
+
+
 //https://json.heimuer.xyz/ ,https://json02.heimuer.xyz/api.php/provide/vod/?ac=list,https://json.doube.eu.org/app/index.php?site=webheimuer,https://heimuer.tv/
 	    
 	    

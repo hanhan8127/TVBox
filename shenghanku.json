@@ -1,8 +1,9 @@
 {
     "urls": [
-
-        {"url": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/hanXC.json","name": "胜寒"},  
-        {"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/shenghanku.json","name": "胜寒"},  	     
+        {"url": "https://raw.gitmirror.com/hanhan8127/TVBox/main/hanXC.json","name": "胜寒"},  
+        {"url": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/hanXC.json","name": "胜寒1"},  
+        {"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json","name": "胜寒2"},  
+	    
 	{"url": "http://www.mpanso.com/小米/DEMO.json","name": "小米2"},       
         {"url": "http://ok321.top/ok","name": "OK线路"}, 
         {"url": "http://www.饭太硬.com/tv","name": "饭太硬"},                                                                                                 

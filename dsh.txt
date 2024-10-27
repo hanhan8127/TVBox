@@ -2,14 +2,14 @@
 
 {
 
-    "spider":"https://raw.gitmirror.com/hanhan8127/TVBox/main/spider.jar",	
+    "spider":"https://hub.gitmirror.com/https://raw.githubusercontent.com/hanhan8127/TVBox/refs/heads/main/spider.jar",	
 	
-  // "spider":"https://raw.gitmirror.com/hanhan8127/TVBox/main/Yoursmile.jar",
+  // "spider":"https://hub.gitmirror.com/https://raw.githubusercontent.com/hanhan8127/TVBox/refs/heads/main/Yoursmile.jar",
    //"spider":""jar": "https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt",",
   
     "lives": [
 	    {"name": "live","type": 0,
-            "url": "https://raw.gitmirror.com/hanhan8127/TVBox/main/live.txt#https://mirror.ghproxy.com/raw.bgithub.xyz/hanhan8127/TVBox/main/live.txt",
+            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hanhan8127/TVBox/refs/heads/main/live.txt#https://mirror.ghproxy.com/raw.bgithub.xyz/hanhan8127/TVBox/main/live.txt",
 	    "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    
@@ -21,7 +21,7 @@
 {"key":"TV直播","name":"电视直播","type": 3,"api": "https://d.kstore.space/download/2883/sdtv.js","jar":"https://d.kstore.space/download/2883/sdtv.jar","ext": "https://d.kstore.space/download/2883/sdtv.txt"},	    
 {"key": "Aid","name": "急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
     
-{"key": "农民影视","name": "农民秒播","type": 3,"api": "csp_WexNmys","jar": "https://raw.gitmirror.com/hanhan8127/TVBox/main/XBP.jar","searchable": 1,"changeable": 1},
+{"key": "农民影视","name": "农民秒播","type": 3,"api": "csp_WexNmys","jar": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hanhan8127/TVBox/refs/heads/main/XBP.jar","searchable": 1,"changeable": 1},
 {"key":"百姓","name":"农民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"剧情介绍：&&</p>",
 	"分类url":"https://www.gymboreejn.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html[https://www.gymboreejn.com/vodtype/{cateId}.html]",
 	"分类":"电影$1#剧集$2#综艺$3#动漫$4#动画片$29#短剧$31#影视解说$32#邵氏电影$39"}},
@@ -39,7 +39,7 @@
     
   
 {"key": "天天影视", "name": "天天影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},	    
-{"key": "天天","name": "天天影视","jar": "https://raw.gitmirror.com/hanhan8127/TVBox/main/fix24914.jar","type": 3,"api": "csp_TTian","playerType": 1, "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="},
+{"key": "天天","name": "天天影视","jar": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hanhan8127/TVBox/refs/heads/main/fix24914.jar","type": 3,"api": "csp_TTian","playerType": 1, "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="},
 
 {"key":"cj_360","name":"360资源","type":1,"api":"https://360zy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playUrl":"https://www.360jiexi.com/player/?url=","categories":["国产剧","大陆综艺","韩国剧","成长逆袭","年代穿越","古装仙侠","现代都市","国产动漫","动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","日本动漫","香港剧","欧美剧","日本剧","港台综艺","日韩综艺"]},    
 //360zy.com 360zy.net 360zy.vip 360zy.top 360zy.tv 
@@ -51,7 +51,7 @@
 {"key":"瓜子","name":"瓜子影视","type":3,"api":"csp_Gz360","jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1},
 //	https://gitee.com/tv888/tv/raw/master/svip.json    https://raw.bgithub.xyz/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar
 	    
-{"key": "白白XBPQ","name": "素白影视","type": 3,"api": "csp_XBPQ","jar":"https://raw.gitmirror.com/hanhan8127/TVBox/main/XBP.jar","playerType": "2","searchable": 1,"quickSearch": 1,"filterable": 1,
+{"key": "白白XBPQ","name": "素白影视","type": 3,"api": "csp_XBPQ","jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/hanhan8127/TVBox/refs/heads/main/XBP.jar","playerType": "2","searchable": 1,"quickSearch": 1,"filterable": 1,
     "ext":{"作者": "插兜","站名": "sbb影视","主页url": "https://www.subaibaiys.com","请求头":"Referer$https://www.subaibaiys.com/",
     "分类": "电影&国产剧&电视剧&热门电影&高分电影&动漫电影&香港经典电影&欧美剧&韩剧&动漫剧",
     "分类值": "new-movie&domestic-drama&tv-drama&hot-month&high-movie&cartoon-movie&hongkong-movie&american-drama&korean-drama&anime-drama",
@@ -101,7 +101,7 @@
     "搜索副标题":"text-right\">&&</span>","搜索图片":"data-original=\"&&\"","搜索链接":"href=\"&&\"","线路数组":"<h3&&/h3>","线路标题":"胜寒专享+>&&<","播放链接":"href='&&'",
     "分类url":"http://www.xingchenwu.com/{cateId}/index{catePg}.html[http://www.xingchenwu.com/{cateId}/index.html];;ak", "分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
 
-{"key":"hipy_js_黑木耳","name":"木耳秒播","type":3,"api":"https://raw.gitmirror.com/hanhan8127/TVBox/main/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,
+{"key":"hipy_js_黑木耳","name":"木耳秒播","type":3,"api":"https://hub.gitmirror.com/https://raw.githubusercontent.com/hanhan8127/TVBox/refs/heads/main/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,
 	"ext":"dmFyIHJ1bGUgPSB7CiAgICDmqKHmnb86ICfph4fpm4YxJywKICAgIHRpdGxlOiAn6buR5pyo6ICz6LWE5rqQW+i1hF0nLAogICAgaG9zdDogJ2h0dHBzOi8vd3d3LmhlaW11ZXIudHYnLAogICAgLy8gaG9tZVRpZDogJzEzJywKICAgIGhvbWVUaWQ6ICcnLAogICAgY2F0ZV9leGNsdWRlOiAnXueUteW9sSR8XueUteinhuWJpyR8Xue7vOiJuiR8XuWKqOa8qyQnLAogICAgcGFyc2VfdXJsOiAnJywKfQ=="},	    
 {"key":"木耳","name":"木耳秒播","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod","searchable":1,"filterable":1,"changeable":1,"timeout":10,"playUrl":"https://hoplayer.com/index.html?url=",
 	"categories":["国产剧","国产综艺","国产动漫","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","剧情片","动作片","冒险片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片",
@@ -322,10 +322,10 @@
 {"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"},
 {"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"},
 	    
-{"key": "meowtv_sejy","name": "少儿课堂","type": 3,"api": "csp_Bili","jar": "https://raw.gitmirror.com/hanhan8127/TVBox/main/ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/儿童.json"},
-{"key": "meowtv_xxkt","name": "小学课堂","type": 3,"api": "csp_Bili","jar": "https://raw.gitmirror.com/hanhan8127/TVBox/main/ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/小学.json"},
-{"key": "meowtv_czkt","name": "初中课堂","type": 3,"api": "csp_Bili","jar": "https://raw.gitmirror.com/hanhan8127/TVBox/main/ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/初中.json"},
-{"key": "meowtv_gzkt","name": "高中课堂","type": 3,"api": "csp_Bili","jar": "https://raw.gitmirror.com/hanhan8127/TVBox/main/ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/高中.json"},
+{"key": "meowtv_sejy","name": "少儿课堂","type": 3,"api": "csp_Bili","jar": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hanhan8127/TVBox/refs/heads/main/ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/儿童.json"},
+{"key": "meowtv_xxkt","name": "小学课堂","type": 3,"api": "csp_Bili","jar": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hanhan8127/TVBox/refs/heads/main/ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/小学.json"},
+{"key": "meowtv_czkt","name": "初中课堂","type": 3,"api": "csp_Bili","jar": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hanhan8127/TVBox/refs/heads/main/ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/初中.json"},
+{"key": "meowtv_gzkt","name": "高中课堂","type": 3,"api": "csp_Bili","jar": "https://hub.gitmirror.com/https://raw.githubusercontent.com/hanhan8127/TVBox/refs/heads/main/ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/高中.json"},
 	    
 {"key": "csp_hanhan","name": "请勿相信影片中广告！","type": 1,"playerType": 2,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1}
 

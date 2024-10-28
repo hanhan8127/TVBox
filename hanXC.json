@@ -299,12 +299,12 @@
 	      
 {"key": "hipy_js_腾云驾雾[官]","name": "藤藤视频","type": 3,"api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/tx.js"},
 
-{"key":"drpy_js_360影视","name":"360","type":3,"api":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/360影视.js"},
-{"key":"drpy_js_奇珍异兽","name":"爱奇艺","type":3,"api":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/奇珍异兽.js"},
-{"key":"drpy_js_百忙无果","name":"芒果","type":3,"api":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/百忙无果.js"},
-{"key":"drpy_js_腾云驾雾","name":"腾讯","type":3,"api":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/腾云驾雾.js"},
-{"key":"drpy_js_菜狗","name":"搜狗","type":3,"api":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/菜狗.js"},
-{"key":"drpy_js_优酷","name":"优酷","type":3,"api":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/优酷.js"},
+{"key":"drpy_js_360影视","name":"360","type":3,"api":"./drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/360影视.js"},
+{"key":"drpy_js_奇珍异兽","name":"爱奇艺22","type":3,"api":"./drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/奇珍异兽.js"},
+{"key":"drpy_js_百忙无果","name":"芒果","type":3,"api":"./drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/百忙无果.js"},
+{"key":"drpy_js_腾云驾雾","name":"腾讯","type":3,"api":"./drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/腾云驾雾.js"},
+{"key":"drpy_js_菜狗","name":"搜狗","type":3,"api":"./drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/菜狗.js"},
+{"key":"drpy_js_优酷","name":"优酷","type":3,"api":"./drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/优酷.js"},
 	    
 {"key": "meowtv_sejy","name": "少儿课堂","type": 3,"api": "csp_Bili","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/儿童.json"},
 {"key": "meowtv_xxkt","name": "小学课堂","type": 3,"api": "csp_Bili","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/小学.json"},

@@ -10,7 +10,7 @@
   
     "lives": [
 	    {"name": "live","type": 0,
-            "url": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/live.txt"
+            "url": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/live.txt",
 	//http://rihou.cc:555/gggg.nzk&&&https://tuapi.eees.cc/api.php?category=meinv&type=302
 	    "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -19,7 +19,7 @@
 
     "sites": [
 
-{"key":"豆豆","name":"胜寒提醒：切勿相信视频中广告！2","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},	    
+{"key":"豆豆","name":"胜寒提醒：切勿相信视频中广告！","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},	    
    
 {"key": "Aid","name": "急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
     

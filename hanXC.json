@@ -2,11 +2,11 @@
 
 {
 
-    "spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/spider.jar",	
+ // "spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/spider.jar",	
   // "spider": "https://github.moeyy.xyz/https://raw.bgithub.xyz/hanhan8127/TVBox/refs/heads/main/spider.jar",
   //xc星辰玉玉软件
   // "spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/Yoursmile.jar",
-   //"spider":""jar": "https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt",",
+     "spider":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt",
   
     "lives": [
 	    {"name": "live","type": 0,
@@ -18,7 +18,7 @@
 
     "sites": [
 {"key": "csp_Douban","name": "胜寒提醒：切勿相信视频中广告！","type": 3,"api": "csp_Douban","searchable": 0},
-	    
+{"key":"豆豆","name":"胜寒提醒：切勿相信视频中广告！2","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},	    
 {"key":"TV直播","name":"电视直播","type": 3,"api": "https://d.kstore.space/download/2883/sdtv.js","jar":"https://d.kstore.space/download/2883/sdtv.jar","ext": "https://d.kstore.space/download/2883/sdtv.txt"},	    
 {"key": "Aid","name": "急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
     

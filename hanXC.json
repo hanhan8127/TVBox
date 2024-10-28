@@ -61,7 +61,7 @@
 {"key":"瓜子","name":"瓜子影视","type":3,"api":"csp_Gz360","jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1},
 //	https://gitee.com/tv888/tv/raw/master/svip.json    https://raw.bgithub.xyz/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar
 	    
-{"key": "白白XBPQ","name": "素白影视","type": 3,"api": "csp_XBPQ","jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBP.jar","playerType": "2","searchable": 1,"quickSearch": 1,"filterable": 1,
+{"key": "白白XBPQ","name": "素白影视","type": 3,"api": "csp_XBPQ","playerType": "2","searchable": 1,"quickSearch": 1,"filterable": 1,
     "ext":{"作者": "插兜","站名": "sbb影视","主页url": "https://www.subaibaiys.com","请求头":"Referer$https://www.subaibaiys.com/",
     "分类": "电影&国产剧&电视剧&热门电影&高分电影&动漫电影&香港经典电影&欧美剧&韩剧&动漫剧",
     "分类值": "new-movie&domestic-drama&tv-drama&hot-month&high-movie&cartoon-movie&hongkong-movie&american-drama&korean-drama&anime-drama",

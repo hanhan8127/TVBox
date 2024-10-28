@@ -3,10 +3,10 @@
 {
 
  // "spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/spider.jar",	
-  // "spider": "https://raw.bgithub.xyz/hanhan8127/TVBox/refs/heads/main/spider.jar",
+   "spider": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar",
   //xc星辰玉玉软件
   // "spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/Yoursmile.jar",
-     "spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/refs/heads/main/fan.txt",
+// "spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/refs/heads/main/fan.txt",
   
     "lives": [
 	    {"name": "live","type": 0,

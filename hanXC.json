@@ -2,10 +2,10 @@
 
 {
 
-  "spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/main/spider.jar",	
+  //"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/main/spider.jar",	
  //"spider": "http://64.112.42.49:1688/https://raw.bgithub.xyz/yuyu10245/yuyu/refs/heads/master/jar/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
   //xc星辰玉玉软件http://47.99.102.252/xc.json
- //"spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/Yoursmile.jar",
+ "spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/Yoursmile.jar",
 // "spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/refs/heads/main/fan.txt",
   
     "lives": [
@@ -20,7 +20,7 @@
     "sites": [
    
 {"key": "csp_Douban","name": "胜寒提醒：请勿相信视频中广告","type": 3,"api": "csp_Douban","searchable": 0},
-{"key": "Aid","name": "急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
+{"key": "Aid","name": "急救教学123","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
     
 {"key": "农民影视","name": "农民秒播","type": 3,"api": "csp_WexNmys","searchable": 1,"changeable": 1},
 {"key":"百姓","name":"农民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"剧情介绍：&&</p>",

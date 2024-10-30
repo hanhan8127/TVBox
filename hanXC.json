@@ -28,23 +28,21 @@
 
 {"key":"农民","name":"农民秒播","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},
 {"key":"瓜子","name":"瓜子影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},	    
-{"key": "瓜子┃影视","name": "瓜子┃影视","type": 3, "api": "csp_Gz360","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "南瓜影视","name": "南瓜┃影视","type": 3,"api": "csp_Nangua","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "瓜子影视","name":"瓜子影视","type": 3, "api": "csp_Gz360","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "南瓜影视","name": "南瓜影视","type": 3,"api": "csp_Nangua","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"南瓜","name":"南瓜影视2","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/refs/heads/main/fan.txt"},   
 {"key":"南瓜2","name":"南瓜影视3","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/南瓜.js"},
 	    
-{"key":"糯米","name":"糯米秒播","type":3,"api":"csp_Nmyswv","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"糯米","name":"糯米秒播","type":3,"api":"csp_Nmyswv","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},
 
 {"key":"苹果","name":"苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},	    
 {"key":"文采","name":"金牌影视","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},	    
 
 {"key": "csp_JPYY","name": "金牌影院","type": 3,"api": "csp_Jpyy","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729938537491/1026.jar","searchable": 1,"changeable": 1,"playerType": 1,"filterable": 1,"ext": ""},
 
-    
-
-{"key":"萌米","name":"萌米多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
-{"key":"欢视","name":"欢视多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
-{"key":"热播","name":"热播多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},	    
+{"key":"萌米","name":"萌米多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar": "https://pz.nianxin.top/tvbox//lib/nx6.jar"},
+{"key":"欢视","name":"欢视多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv","jar": "https://pz.nianxin.top/tvbox//lib/nx6.jar"},
+{"key":"热播","name":"热播多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU=","jar": "https://pz.nianxin.top/tvbox//lib/nx6.jar"},	    
 {"key": "天天影视", "name": "天天影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},	
 	        
 {"key": "csp_Czsapp","name": "厂长影视","type": 3,"api": "csp_Czsapp","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729938537491/1026.jar","playerType": 2,"ext": "https://www.czzy.site/"},
@@ -165,13 +163,39 @@
 {"key": "天堂短剧","name": "天堂短剧","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/JS/drpy2.min.js","ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/JS/天堂短剧.js"},
 {"key": "爱你短剧","name": "爱你短剧","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/XYQHiker/爱你短剧.json"},
 {"key": "无忧短剧","name": "无忧短剧","type": 3,"api": "csp_Duanj","searchable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433}},
-{"key": "爱你短剧2","name":"爱你短剧","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://47.99.102.252/json/aini.json"},
+{"key": "爱你短剧2","name":"爱你短剧","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,
+    "ext": {"规则名": "爱你短剧","规则作者": "香雅情","请求头参数": "MOBILE_UA","网页编码格式": "UTF-8","图片是否需要代理": "否",
+    "是否开启获取首页数据": "是","首页推荐链接": "https://ainidj.com/","首页列表数组规则": "body&&.module-items","首页片单列表数组规则": ".module-item:lt(12)","首页片单是否Jsoup写法": "1","分类起始页码": "1",
+    "分类链接": "https://ainidj.com/vodshwo/{cateId}--------{catePg}---.html","分类名称": "穿越&战神&重生&爱情&萌娃&神医&古代&玄幻&言情","分类名称替换词": "fenle&fenlei2&fenlei3&fenlei4&guda&shenyi&gudai&xuanhuan&yanqing",
+    "筛选数据": {},"筛选子分类名称": "","筛选子分类替换词": "","筛选类型名称": "","筛选类型替换词": "*","筛选地区名称": "","筛选地区替换词": "*","筛选年份名称": "","筛选年份替换词": "*","筛选语言名称": "","筛选语言替换词": "*",
+    "筛选排序名称": "时间&人气&评分","筛选排序替换词": "time&hits&score","分类截取模式": "1","分类列表数组规则": ".module-items&&.module-item","分类片单是否Jsoup写法": "是","分类片单标题": ".video-name&&Text",
+    "分类片单链接": "a&&href","分类片单图片": ".lazy&&data-src","分类片单副标题": ".module-item-text&&Text","分类片单链接加前缀": "https://ainidj.com","分类片单链接加后缀": "","搜索请求头参数": "User-Agent$MOBILE_UA",
+    "搜索链接": "https://ainidj.com/vodsearch/{wd}----------{SearchPg}---.html","POST请求数据": "","搜索截取模式": "1","搜索列表数组规则": ".module-items&&.module-search-item","搜索片单是否Jsoup写法": "是","搜索片单图片": ".lazyload&&data-src",
+    "搜索片单标题": ".video-info&&h3&&Text","搜索片单链接": "a&&href","搜索片单副标题": ".video-serial&&Text","搜索片单链接加前缀": "https://ainidj.com","搜索片单链接加后缀": "","链接是否直接播放": "否","直接播放链接加前缀": "","直接播放链接加后缀": "","直接播放直链视频请求头": "",
+    "详情是否Jsoup写法": "是","类型详情": "","年代详情": "","地区详情": "","演员详情": "","简介详情": ".video-info-main&&.video-info-content&&Text","线路列表数组规则": ".module-tab-items&&.module-tab-item",
+    "线路标题": "Text","播放列表数组规则": "body&&.module-player-list","选集列表数组规则": ".scroll-content&&a","选集标题链接是否Jsoup写法": "是","选集标题": "a&&Text","选集链接": "a&&href","是否反转选集序列": "否",
+    "选集链接加前缀": "https://ainidj.com","选集链接加后缀": "","分析MacPlayer": "否","是否开启手动嗅探": "否","手动嗅探视频链接关键词": ".mp4#.m3u8#.flv#video/tos","手动嗅探视频链接过滤词": ".html#=http"}},
 
+	    
+{"key": "河马短剧","name": "河马短剧","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,
+    "ext": {"规则名": "河马短剧","规则作者": "香雅情","请求头参数": "MOBILE_UA","网页编码格式": "UTF-8","图片是否需要代理": "否",
+    "是否开启获取首页数据": "否","首页推荐链接": "https://www.kuaikaw.cn","首页列表数组规则": "body&&.module-items","首页片单列表数组规则": ".module-item:lt(12)","首页片单是否Jsoup写法": "1",
+    "分类起始页码": "1","分类链接": "https://www.kuaikaw.cn/browse/{cateId}/{catePg}[firstPage=https://www.kuaikaw.cn/browse/{cateId}]","分类名称": "全部","分类名称替换词": "0","筛选数据": "ext",
+    "筛选子分类名称": "全部&民国&萌宝&动漫&超能&甜宠&豪门恩怨&长生&神医&寻亲&抗战谍战&电视剧&奇幻&闪婚&职场商战&权谋&高手下山&神话&时空之旅&欢喜冤家&都市&体育&家庭&喜剧&都市修仙&神豪&科幻&致富&奇幻脑洞&强者回归&励志&复仇&电影&马甲&亲情&小人物&无敌&现实&重生&穿越&年代&悬疑&婚姻&家国情仇&虐恋&古装&仙侠&玄幻仙侠&传承觉醒&功夫武打&戏曲歌舞&情感&逆袭&战争",
+    "筛选子分类替换词": "0&590-839&589&1115&442&462&585&1073&438&1125&1093&1092-1097&715&713&943&840-1101&474&1094&718&717&1129&1128&714-1126&917&1124&475&1130&918&721&476&1076-1100&416-463&1091-1096&719&835-837&472&1074&441-469&439-465&916&716-722&445-470&1127&915&466&444-468&1102&720&473&1095&1098&838&417-464&1099",
+    "筛选类型名称": "","筛选类型替换词": "*","筛选地区名称": "","筛选地区替换词": "*","筛选年份名称": "","筛选年份替换词": "*", "筛选语言名称": "","筛选语言替换词": "*",
+    "筛选排序名称": "时间&人气&评分","筛选排序替换词": "time&hits&score","分类截取模式": "1","分类列表数组规则": ".BrowseList_listBox__MyeBa&&.BrowseList_listItem__h7lD4","分类片单是否Jsoup写法": "是","分类片单标题": "img&&alt",
+    "分类片单链接": "a&&href","分类片单图片": "img&&src","分类片单副标题": ".BrowseList_lastChapter__dkL54&&Text","分类片单链接加前缀": "https://www.kuaikaw.cn","分类片单链接加后缀": "","搜索请求头参数": "User-Agent$MOBILE_UA",
+    "搜索链接": "https://www.kuaikaw.cn/search/{SearchPg}?searchValue={wd}","POST请求数据": "","搜索截取模式": "1", "搜索列表数组规则": ".search_searchList__AvbeR&&.MTagBookList_tagBookItem__C_038","搜索片单是否Jsoup写法": "是","搜索片单图片": "img&&src",
+    "搜索片单标题": "img&&alt","搜索片单链接": "a&&href","搜索片单副标题": "","搜索片单链接加前缀": "https://www.kuaikaw.cn","搜索片单链接加后缀": "","链接是否直接播放": "否","直接播放链接加前缀": "",
+    "直接播放链接加后缀": "","直接播放直链视频请求头": "","详情是否Jsoup写法": "是","类型详情": "","年代详情": "","地区详情": "","演员详情": "","简介详情": ".introduction_introBox__t4Bbz&&Text",
+    "线路列表数组规则": "","线路标题": "Text","播放列表数组规则": "body&&.CatalogList_swiperBox__5kdPs","选集列表数组规则": "a:not(:has(img))","选集标题链接是否Jsoup写法": "是","选集标题": "a&&Text","选集链接": "a&&href",
+    "是否反转选集序列": "否","选集链接加前缀": "https://www.kuaikaw.cn","选集链接加后缀": "","分析MacPlayer": "否","是否开启手动嗅探": "否","手动嗅探视频链接关键词": ".mp4#.m3u8#.flv#video/tos","手动嗅探视频链接过滤词": ".html#=http"
+}},
 //{"key":"hipy_js_短剧天堂","name":"短剧天堂","type":3,"api": "./drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 87,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/JS/天堂短剧.js"},
 	    
 //作者: "香雅情"
 	    
-{"key": "rbys","name": "热播影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"changeable": 1,"timeout": 10,"playerType": 2,"ext": "AO7TcBkd8I/B5wQc4Qma+pU=","jar": "https://pz.nianxin.top/tvbox//lib/nx6.jar"},	    
 {"key": "热播库","name": "热播观影","type": 3,"changeable": 1,"api": "csp_XBPQ","playerType": "1",
       "ext": {"主页url": "https://rebozj.pro", "数组": "class=\"stui-vodlist__thumb lazyload&&</a>","图片": "data-original=\"&&\"","标题": "title=\"&&\"","链接": "href=\"&&\"","副标题": "class=\"pic-text text-right\"><b>&&</span>",
         "搜索模式": "1","嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com","搜索url": "https://rebozj.pro/type/id-.html?wd={wd}","线路数组": "<h4 class=\"title&&/h4>","线路标题": ">&&<","播放列表": "<a&&/a>","播放标题": ">&&<",

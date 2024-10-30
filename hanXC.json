@@ -18,8 +18,8 @@
 
     "sites": [
 	    
-{"key":"豆豆","name":"胜寒提醒：请勿相信视频中广告","type": 3, "api": "csp_DouDou","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/main/fan.txt","searchable": 0,"quickSearch": 0,"filterable": 0},
 
+{"key": "csp_Douban","name": "胜寒提醒：请勿相信视频中广告","type": 3,"api": "csp_Douban","searchable": 0},
 {"key": "Aid","name": "急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
     
 {"key":"百姓","name":"农民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"剧情介绍：&&</p>",
@@ -28,21 +28,24 @@
 
 {"key":"农民","name":"农民秒播","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},
 {"key":"瓜子","name":"瓜子影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},	    
-{"key":"糯米","name":"糯米秒播","type":3,"api":"csp_Nmyswv","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/refs/heads/main/fan.txt"},
+{"key": "瓜子┃影视","name": "瓜子┃影视","type": 3, "api": "csp_Gz360","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "南瓜影视","name": "南瓜┃影视","type": 3,"api": "csp_Nangua","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"南瓜","name":"南瓜影视2","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/refs/heads/main/fan.txt"},   
+{"key":"南瓜2","name":"南瓜影视3","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/南瓜.js"},
+	    
+{"key":"糯米","name":"糯米秒播","type":3,"api":"csp_Nmyswv","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 
 {"key":"苹果","name":"苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},	    
-{"key":"文采","name":"金牌影视","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/refs/heads/main/fan.txt"},	    
+{"key":"文采","name":"金牌影视","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},	    
 
 {"key": "csp_JPYY","name": "金牌影院","type": 3,"api": "csp_Jpyy","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729938537491/1026.jar","searchable": 1,"changeable": 1,"playerType": 1,"filterable": 1,"ext": ""},
 
     
-{"key":"南瓜","name":"南瓜影视","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/refs/heads/main/fan.txt"},   
-{"key":"南瓜2","name":"南瓜影视","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/南瓜.js"},
 
 {"key":"萌米","name":"萌米多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 {"key":"欢视","name":"欢视多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
 {"key":"热播","name":"热播多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},	    
-{"key": "天天影视", "name": "天天影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/refs/heads/main/spider.jar"},	
+{"key": "天天影视", "name": "天天影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},	
 	        
 {"key": "csp_Czsapp","name": "厂长影视","type": 3,"api": "csp_Czsapp","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729938537491/1026.jar","playerType": 2,"ext": "https://www.czzy.site/"},
 //https://cz01.vip/  cz01.tv

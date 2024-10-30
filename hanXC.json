@@ -4,8 +4,8 @@
 
   //"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/main/spider.jar",	
   //xc星辰玉玉软件http://47.99.102.252/xc.json
- "spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/Yoursmile.jar",
-// "spider":"https://raw.bgithub.xyz/hanhan8127/TVBox/refs/heads/main/fan.txt",
+ "spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/main/Yoursmile.jar",
+// "spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/refs/heads/main/fan.txt",
   
     "lives": [
 	    {"name": "live","type": 0,
@@ -18,8 +18,8 @@
 
     "sites": [
 	    
-{"key":"csp_Douban","name":"胜寒提醒：请勿相信视频中广告","type":3,"api":"csp_Douban","searchable":0,"filterable":1,"changeable":1,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","filter":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/douban.json"}},
-//{"key": "csp_Douban","name": "胜寒提醒：请勿相信视频中广告","type": 3,"api": "csp_Douban","searchable": 0,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/main/spider.jar"},
+{"key":"豆豆","name":"胜寒提醒：请勿相信视频中广告","type": 3, "api": "csp_DouDou","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/main/fan.txt","searchable": 0,"quickSearch": 0,"filterable": 0},
+
 {"key": "Aid","name": "急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
     
 {"key":"百姓","name":"农民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"剧情介绍：&&</p>",
@@ -37,10 +37,11 @@
 
     
 {"key":"南瓜","name":"南瓜影视","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/refs/heads/main/fan.txt"},   
-{"key":"南瓜2","name":"南瓜影视","type":3,"api":"https://raw.bgithub.xyz/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.bgithub.xyz/yoursmile66/TVBox/main/js/南瓜.js"},
+{"key":"南瓜2","name":"南瓜影视","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/南瓜.js"},
 
 {"key":"萌米","name":"萌米多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
-{"key":"欢视","name":"欢视多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},	    
+{"key":"欢视","name":"欢视多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
+{"key":"热播","name":"热播多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},	    
 {"key": "天天影视", "name": "天天影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/refs/heads/main/spider.jar"},	
 	        
 {"key": "csp_Czsapp","name": "厂长影视","type": 3,"api": "csp_Czsapp","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729938537491/1026.jar","playerType": 2,"ext": "https://www.czzy.site/"},
@@ -151,19 +152,19 @@
 //{"key": "兄弟影视","name": "兄弟影视","type": 3,"api": "csp_Wexxiongdiys","searchable": 1,"changeable": 1"},
 
 //https://xdys.vip/      https://www.brovod.com/          http://47.99.102.252/xc.json
-{"key": "雨见视频","name": "雨见蓝光","type": 3,"api": "csp_XBPQ","jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/XBP.jar","searchable": 1,"quickSearch": 1,"filterable": 1,
+{"key": "雨见视频","name": "雨见蓝光","type": 3,"api": "csp_XBPQ","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/main/XBP.jar","searchable": 1,"quickSearch": 1,"filterable": 1,
         "ext": {"影片类型": "类型：&&</li>","简介": "胜寒提醒您:请勿相信影片中的广告+简介：&&</div>",
         "分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"}},
 
 {"key": "在线短剧","name":"在线短剧","type": 3,"api": "csp_Duanju","searchable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433}},
 {"key": "星芽短剧","name":"星芽短剧","type": 3,"api": "csp_AppXY","searchable": 1,"quickSearch": 0,"filterable": 0},
-{"key": "天堂短剧","name": "天堂短剧","type": 3,"api": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/JS/drpy2.min.js","ext": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/JS/天堂短剧.js"},
-{"key": "爱你短剧","name": "爱你短剧","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/XYQHiker/爱你短剧.json"},
+{"key": "天堂短剧","name": "天堂短剧","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/JS/drpy2.min.js","ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/JS/天堂短剧.js"},
+{"key": "爱你短剧","name": "爱你短剧","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/XYQHiker/爱你短剧.json"},
 {"key": "无忧短剧","name": "无忧短剧","type": 3,"api": "csp_Duanj","searchable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433}},
 {"key": "爱你短剧2","name":"爱你短剧","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://47.99.102.252/json/aini.json"},
 
-//{"key":"hipy_js_短剧天堂","name":"短剧天堂","type":3,"api": "./drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 87,"ext": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/JS/天堂短剧.js"},
+//{"key":"hipy_js_短剧天堂","name":"短剧天堂","type":3,"api": "./drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 87,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/JS/天堂短剧.js"},
 	    
 //作者: "香雅情"
 	    
@@ -256,7 +257,7 @@
 	    
 {"key":"新6V","name":"6V影视","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "https://www.xb6v.com/", "categories":["短剧","国剧", "电视剧","综艺","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","日韩剧","欧美剧"]},	    
 	        
-//{"key": "采集之王","name": "全网采集","type": 3,"api": "https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"ext": "https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/采集之王.js?type=url&params=https://raw.bgithub.xyz/PizazzGY/TVBox/main/JSON/采集静态.json$1$1"},
+//{"key": "采集之王","name": "全网采集","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/采集之王.js?type=url&params=https://raw.bgithub.xyz/PizazzGY/TVBox/main/JSON/采集静态.json$1$1"},
 	    
 {"key":"海纳TV","name":"海纳TV","type":3,"api":"csp_XBPQ","ext": {"主页url":"https://hainatv.net/","分类url": "https://hainatv.net/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html","分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$59#解说$64"}},
 
@@ -292,17 +293,17 @@
 	      
 {"key": "hipy_js_腾云驾雾[官]","name": "藤藤视频","type": 3,"api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/tx.js"},
 
-{"key":"drpy_js_360影视","name":"360","type":3,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/360影视.js"},
-{"key":"drpy_js_奇珍异兽","name":"爱奇艺","type":3,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/奇珍异兽.js"},
-{"key":"drpy_js_百忙无果","name":"芒果","type":3,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/百忙无果.js"},
-{"key":"drpy_js_腾云驾雾","name":"腾讯","type":3,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/腾云驾雾.js"},
-{"key":"drpy_js_菜狗","name":"搜狗","type":3,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/菜狗.js"},
-{"key":"drpy_js_优酷","name":"优酷","type":3,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/drpy2.min.js","ext":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/优酷.js"},
+{"key":"drpy_js_360影视","name":"360","type":3,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/360影视.js"},
+{"key":"drpy_js_奇珍异兽","name":"爱奇艺","type":3,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/奇珍异兽.js"},
+{"key":"drpy_js_百忙无果","name":"芒果","type":3,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/百忙无果.js"},
+{"key":"drpy_js_腾云驾雾","name":"腾讯","type":3,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/腾云驾雾.js"},
+{"key":"drpy_js_菜狗","name":"搜狗","type":3,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/菜狗.js"},
+{"key":"drpy_js_优酷","name":"优酷","type":3,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/优酷.js"},
 	    
-{"key": "meowtv_sejy","name": "少儿课堂","type": 3,"api": "csp_Bili","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/儿童.json"},
-{"key": "meowtv_xxkt","name": "小学课堂","type": 3,"api": "csp_Bili","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/小学.json"},
-{"key": "meowtv_czkt","name": "初中课堂","type": 3,"api": "csp_Bili","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/初中.json"},
-{"key": "meowtv_gzkt","name": "高中课堂","type": 3,"api": "csp_Bili","jar": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/高中.json"},
+{"key": "meowtv_sejy","name": "少儿课堂","type": 3,"api": "csp_Bili","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/main/ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/儿童.json"},
+{"key": "meowtv_xxkt","name": "小学课堂","type": 3,"api": "csp_Bili","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/main/ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/小学.json"},
+{"key": "meowtv_czkt","name": "初中课堂","type": 3,"api": "csp_Bili","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/main/ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/初中.json"},
+{"key": "meowtv_gzkt","name": "高中课堂","type": 3,"api": "csp_Bili","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/main/ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/高中.json"},
 	    
 {"key": "csp_hanhan","name": "请勿相信影片中广告！","type": 1,"playerType": 2,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1}
 

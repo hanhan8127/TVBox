@@ -232,7 +232,7 @@
 //{"key":"海纳TV","name":"海纳TV","type":3,"api":"csp_XBPQ","jar":"./XBP.jar","ext": {"主页url":"https://hainatv.net/","分类url": "https://hainatv.net/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html","分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$59#解说$64"}},
 {"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
 
-{"key": "全网影视","name": "全看影视","type": 3,"api": "csp_Quanwk","jar":"https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/c3BpZGVyLmphcg==?isDownload=true","ext": "https://m.91qkw.com/"},    
+//{"key": "全网影视","name": "全看影视","type": 3,"api": "csp_Quanwk","jar":"https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/c3BpZGVyLmphcg==?isDownload=true","ext": "https://m.91qkw.com/"},    
 //https://m.91qkw.cc/,https://www.91qkw.com/,https://www.qkw1.com/,https://888.qkw2.cc,https://888.91qkw.com           
 
 { "key":"keke","name":"可可影视","type": 3,"api": "csp_XBPQ","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar","searchable": 1,"quickSearch": 1,"filterable": 1,

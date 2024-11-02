@@ -2,14 +2,14 @@
 
 {
 
- //  "spider":"https://github.moeyy.xyz/https://raw.bgithub.xyz/hanhan8127/TVBox/main/spider.jar",	
+ //  "spider":"./spider.jar",	
   //xc星辰玉玉软件http://47.99.102.252/xc.json
- //"spider":"https://github.moeyy.xyz/https://raw.bgithub.xyz/hanhan8127/TVBox/main/Yoursmile.jar",
- "spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/refs/heads/main/han.txt",
+ //"spider":"./Yoursmile.jar",
+ "spider":"./han.txt",
  // https://github.com/qist/tvbox/blob/master/0821.json
     "lives": [
 	    {"name": "live","type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt",
+            "url": "./live.txt",
 	//http://rihou.cc:555/gggg.nzk&&&https://tuapi.eees.cc/api.php?category=meinv&type=302
 	    "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -29,8 +29,8 @@
 	"分类url":"https://www.gymboreejn.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html[https://www.gymboreejn.com/vodtype/{cateId}.html]",
 	"分类":"电影$1#剧集$2#综艺$3#动漫$4#动画片$29#短剧$31#影视解说$32#邵氏电影$39"}},	    
 
-{"key":"农民","name":"农民秒播","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},
-{"key":"瓜子","name":"瓜子影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},	    
+{"key":"农民","name":"农民秒播","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1,"jar": "./Yoursmile.jar"},
+{"key":"瓜子","name":"瓜子影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"jar": "./Yoursmile.jar"},	    
 
 
 {"key":"热播","name":"热播多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},

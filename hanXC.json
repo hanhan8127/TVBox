@@ -61,7 +61,7 @@
 //https://xinlangzy.com/   xinlangzy.com、 xinlangziyuan.com、 xinlangziyuan.net、 xinlangzy.net
 	    
 {"key":"快看聚合","name":"快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable":1,"filterable": 1,"jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},	    
-key": "骚火影视","name": "骚火影视","type": 3,"api": "csp_SaoHuo","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},
+{"key": "骚火影视","name": "骚火影视","type": 3,"api": "csp_SaoHuo","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},
 
 {"key": "骚火2","name": "骚火影视","type": 3,"api": "csp_XBPQ","jar": "./XBP.jar", "searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,
       "ext": {"嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4","分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","倒序": "1",

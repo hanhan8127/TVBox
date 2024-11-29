@@ -22,7 +22,7 @@
 
 {"key": "Aid","name":"急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
 {"key":"金牌","name":"金牌影视","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key": "文才弹幕","name": "文才弹幕","type": 3,"api": "csp_Jpys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true}
+{"key": "文才弹幕","name": "文才弹幕","type": 3,"api": "csp_Jpys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},
 
 {"key": "csp_JPYY","name":"金牌影院","type": 3,"api": "csp_Jpyy","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729938537491/1026.jar","searchable": 1,"changeable": 1,"playerType": 1,"filterable": 1,"ext": ""},
 {"key":"糯米","name":"糯米秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},	     

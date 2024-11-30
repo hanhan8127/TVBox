@@ -18,7 +18,7 @@
 
     "sites": [
 	    
-{"key":"豆豆","name":"胜寒提醒：请勿相信视频中广告！","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"csp_DouDou","name":"胜寒提醒：请勿相信视频中广告！","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 {"key": "Aid","name":"急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
 {"key":"金牌","name":"金牌影视","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
@@ -32,9 +32,8 @@
 	"分类url":"https://www.gymboreejn.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html[https://www.gymboreejn.com/vodtype/{cateId}.html]",
 	"分类":"电影$1#剧集$2#综艺$3#动漫$4#动画片$29#短剧$31#影视解说$32#邵氏电影$39"}},	    
 {"key":"瓜子","name":"瓜子影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},	    
-{"key": "大米星球","name": "大米｜APP","type": 3,"api": "https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/drpy2.min.js","ext": "https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/APPV2.js?type=url&params=https://damifan.wiki"},
-{"key": "大米星球2","name": "大米APP","type": 3,"api": "./drpy2.min.js","ext": "https://raw.bgithub.xyz/PizazzGY/TVBox/main/JS/APPV2.js?type=url&params=https://app-v1.ecoliving168.com/"},
-{"key":"csp_AppDaMi","name":"大米影视","type":3,"playerType":"2","api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://damifan.wiki"},
+
+//{"key":"csp_AppDaMi","name":"大米影视","type":3,"playerType":"2","api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app-v1.ecoliving168.com/"},
 {"key":"csp_AppRZ","name":"忍者影视","type":3,"playerType":"2","api":"csp_AppRZ","jar": "http://ttkx.cc:55/lib/ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz/"},
 {"key":"天天","name": "天天影视","type": 3,"api": "csp_TTian","playerType": 1,"ext": "baHR0cDovL29wLnlzZHFqcy5jbg==","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"},	    
 
@@ -177,6 +176,8 @@
                 "嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com","影片地区": "",
                 "影片年代": "class=\"detail-tags-item\">&&</a>","影片类型": "<div class=\"detail-tags fs-margin-top fs-margin-bottom\">&&立即播放",
                 "影片状态": "备注:&&</div>","导演": "导演:</div>&&</div>","主演": "演员:</div>&&</div>","简介": "detail-desc\">&&</p>"}},
+
+{"key": "可可","name": "可可多线", "type": 3,"api": "csp_Kekys","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1, "changeable": 1},
 	    
 //   https://www.kkys01.com   https://www.kkys02.com
         
@@ -206,16 +207,6 @@
                 "导演": "导演:</div>&&主演", "主演": "主演:</div>&&别名", "线路标题": "宝盒专享", "播放数组": "listitem\">&&info\">",  
 	        "播放列表": "<a&&</a>", "倒序": "否", "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}", "搜索副标题":"class=\"boottom\"*<div>&&</div",
 	        "分类": "电影$1#电视剧$2#综艺$3#动漫$4", "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},	
-
-
-
-
-
-
-
-
-
-    
 
 //https://raw.bgithub.xyz/guot55/yg/refs/heads/main/box%E5%8E%9F.json
 	    

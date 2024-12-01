@@ -102,7 +102,9 @@
     "搜索url":"http://www.xingchenwu.com/search.php;post;searchword={wd}","搜索数组":"stui-vodlist__thumb lazyload\"&&</a>","搜索标题":"title=\"&&\"",
     "搜索副标题":"text-right\">&&</span>","搜索图片":"data-original=\"&&\"","搜索链接":"href=\"&&\"","线路数组":"<h3&&/h3>","线路标题":"胜寒专享+>&&<","播放链接":"href='&&'",
     "分类url":"http://www.xingchenwu.com/{cateId}/index{catePg}.html[http://www.xingchenwu.com/{cateId}/index.html];;ak", "分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
-	    
+{"key": "网飞猫影视","name": "飞猫┃影视","type": 3,"api": "csp_XBPQ","jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/yg/raw/jar%2Fbhtv.txt?ref=main",
+            "ext": {"数组": "module-item\">&&</div>","剧情": "[替换:伦理>>NETFLIX]","图片": "https://vres.vukfnqr.com+data-original=\"&&\"",
+                "分类url": "https://www.ncat2.com/show/{cateId}-{class}-{area}--{year}-2-{catePg}.html","分类": "短剧$6#电影$1#电视剧$2#综艺$4#动漫$3"}},	    
 
 {"key": "XBPQ_电影先生","name": "先生影视","type": 3,"api": "csp_XBPQ","jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar",
     "ext": {"分类url": "https://dianyi.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html", "简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",

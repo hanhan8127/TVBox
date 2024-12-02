@@ -23,9 +23,17 @@
 {"key": "Aid","name":"急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
 {"key":"金牌","name":"金牌影视","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key": "csp_JPYY","name":"金牌影院","type": 3,"api": "csp_Jpyy","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729938537491/1026.jar","searchable": 1,"changeable": 1,"playerType": 1,"filterable": 1,"ext": ""},
-{"key": "csp_JPYY","name": "金牌秒播", "type": 3, "searchable": 1,"changeable": 1,"api": "csp_Jpyy","jar": "https://d.kstore.dev/download/7337/tw/lib/1020.jar","playerType": 1,"filterable": 1,"ext": ""},  
-{"key": "金牌影视","name": "金牌影视","type": 3,"jar": "https://d.kstore.dev/download/7337/tw/tvkj.jar","api": "./lib/drpy2.min.js","ext": "./lib/金牌影视.js"},
-	    
+{"key": "csp_JPYY2","name": "金牌秒播", "type": 3, "searchable": 1,"changeable": 1,"api": "csp_Jpyy","jar": "https://d.kstore.dev/download/7337/tw/lib/1020.jar","playerType": 1,"filterable": 1,"ext": ""},  
+{"key": "金牌影视1","name": "金牌影视","type": 3,"jar": "https://d.kstore.dev/download/7337/tw/tvkj.jar","api": "./lib/drpy2.min.js","ext": "./lib/金牌影视.js"},
+{"key": "金牌影视2", "name": "金牌影视", "type": 3, "api": "csp_XBPQ", "jar":".XBP.jar","changeable": 0,
+            "ext": {"主页url": "http://www.yuhelover.com/", "简介": "</label>&&</div>", "嗅探词":"m3u8","影片类型": "tags\">&&director\">", "影片状态": "bottom\">&&</div>", 
+                "二次截取": "videoList\":\\[&&\\]", "数组": "{&&}[不包含:伦理剧]", "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
+                "标题": "vodName\":\"&&\"", "副标题": "vodRemarks\":\"&&\"",  "链接": "http://www.yuhelover.com/detail/+vodId\":&&,", 
+                "导演": "导演:</div>&&主演", "主演": "主演:</div>&&别名",  "线路标题": "寒", "播放数组": "listitem\">&&info\">", 
+                "播放列表": "<a&&</a>", "倒序": "否", "搜索url": "http://www.yuhelover.com/vod/search/{wd}", "搜索副标题":"class=\"boottom\"*<div>&&</div",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4", "分类url": "http://www.yuhelover.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
+//https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://bgithub.xyz/guot55/yg
+  
 {"key":"糯米","name":"糯米秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},	     
 {"key": "瓜子","name": "瓜子秒播","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "./lib/drpy2.min.js","ext": "./lib/瓜子.js"},
 //https://d.kstore.dev/download/7337/tw/%E8%87%AA%E7%94%A8%E5%8B%BF%E4%BC%A0.txt,   https://qixing.myhkw.com/DC.txt
@@ -198,15 +206,7 @@
 
 //https://json.heimuer.xyz/ ,https://json02.heimuer.xyz/api.php/provide/vod/?ac=list,https://json.doube.eu.org/app/index.php?site=webheimuer,https://heimuer.tv/
 	    
-{"key": "金牌影视", "name": "金牌影视", "type": 3, "api": "csp_XBPQ", "jar":"https://d.kstore.dev/download/7337/tw/lib/1020.jar","changeable": 0,
-            "ext": {"主页url": "http://www.yuhelover.com/", "简介": "</label>&&</div>", "嗅探词":"m3u8","影片类型": "tags\">&&director\">", "影片状态": "bottom\">&&</div>", 
-                "二次截取": "videoList\":\\[&&\\]", "数组": "{&&}[不包含:伦理剧]", "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
-                "标题": "vodName\":\"&&\"", "副标题": "vodRemarks\":\"&&\"",  "链接": "http://www.yuhelover.com/detail/+vodId\":&&,", 
-                "导演": "导演:</div>&&主演", "主演": "主演:</div>&&别名",  "线路标题": "寒", "播放数组": "listitem\">&&info\">", 
-                "播放列表": "<a&&</a>", "倒序": "否", "搜索url": "http://www.yuhelover.com/vod/search/{wd}", "搜索副标题":"class=\"boottom\"*<div>&&</div",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4", "分类url": "http://www.yuhelover.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
-//https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://bgithub.xyz/guot55/yg
-//https://gitee.com/tvkj/tw/blob/main/svip.json
+
   {"key": "新界影视", "name": "新界影视", "type": 3, "api": "csp_XBPQ", "jar":"https://d.kstore.dev/download/7337/tw/lib/1020.jar","changeable": 0,
             "ext": {"主页url": "https://www.hkybqufgh.com/", "简介": "</label>&&</div>", "嗅探词":"m3u8","影片类型": "tags\">&&director\">", "影片状态": "bottom\">&&</div>", 
 	        "二次截取": "videoList\":\\[&&\\]", "数组": "{&&}[不包含:伦理剧]", "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",", 

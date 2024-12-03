@@ -102,7 +102,7 @@
 {"key":"快看聚合","name":"快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable":1,"filterable": 1,"jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},	    
 {"key": "骚火影视","name": "骚火影视","type": 3,"api": "csp_SaoHuo","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},
 
-{"key": "骚火2","name": "骚火影视","type": 3,"api": "csp_XBPQ","jar": "./lib/Yoursmile.jar", "searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,
+{"key": "骚火2","name": "骚火影视","type": 3,"api": "csp_XBPQ","jar": "./Yoursmile.jar", "searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,
       "ext": {"嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4","分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","倒序": "1",
       "分类": "大陆$20#电影$1#电视剧$2#动漫$4#港剧$21#韩剧$22#台剧$26#日剧$24#美剧$23","数组二次截取": "class=\"v_list\">&&</ul>","数组": "\"v_img\"&&/div>",
       "标题": "title=\"&&\"","副标题": "v_note\"&&</div","跳转播放链接": "<iframe*src=\"&&\"",
@@ -113,20 +113,20 @@
 	"搜索url":"https://www.qinttv.com/qtcz.html;post;wd={wd}&submit=","分类":"电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi"},"jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},
 
 	    
-{"key": "xbpq_鲨鱼","name": "鲨鱼影视","type": 3,"api": "csp_XBPQ","jar": "./lib/Yoursmile.jar",
+{"key": "xbpq_鲨鱼","name": "鲨鱼影视","type": 3,"api": "csp_XBPQ","jar": ".Yoursmile.jar",
 	"ext": {"简介":"class=\"detail-sketch\"&&<br","分类url": "https://www.sdkuaiji.org/shayuyy/{cateId}/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
 		"分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongmna",
 		"类型": "动作片$dongzhuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#剧情片$juqing#恐怖片$kongbu#战争片$zhanzheng#悬疑片$xuanyi#动画片$donghua#纪录片$jilu||大陆剧$dalu#欧美剧$oumei#港澳剧$gangao#韩国剧$hanguo#台湾剧$tw#泰国剧$taiguo#日本剧$rb#短剧$duanju||大陆综艺$dlzy#港台综艺$gtzy#日韩综艺$rhzy#欧美综艺$omzy||国产动漫$gcdm#日韩动漫$rhdm#欧美动漫$omdm#海外动漫$hwdm"}}, 
 	    
-{"key": "zj","name": "追剧影视","type": 3,"api": "csp_XBPQ","jar": "./lib/Yoursmile.jar","ext": {"分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html","分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"}},
+{"key": "zj","name": "追剧影视","type": 3,"api": "csp_XBPQ","jar": ".Yoursmile.jar","ext": {"分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html","分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"}},
     
-{"key":"citytv","name":"城市影视","type":3,"api":"csp_XBPQ","jar": "./lib/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"citytv","name":"城市影视","type":3,"api":"csp_XBPQ","jar": "./Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1,
  "ext":{"分类url":"https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
   "分类": "电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi#短剧$duanju",
   "简介":"寒+class=\"detail-sketch\">&&</span>","线路数组": "#playlist&&</li>","线路标题": "寒+>&&</a>[排序:神马云播>阿里云播>]","播放标题":">&&<[不包含:1080P]"}},
 
-{"key": "csp_星辰","name":"星辰秒播","type": 3,"api": "csp_XBPQ","jar": "./lib/Yoursmile.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/星辰影视.json"},	    
-{"key":"xcys","name":"星辰影视","type":3,"api":"csp_XBPQ","jar": "./lib/Yoursmile.jar","ext": {"分类url":"http://m.disc800.com/species/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html","分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5"}},
+{"key": "csp_星辰","name":"星辰秒播","type": 3,"api": "csp_XBPQ","jar": "./Yoursmile.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/星辰影视.json"},	    
+{"key":"xcys","name":"星辰影视","type":3,"api":"csp_XBPQ","jar": "./Yoursmile.jar","ext": {"分类url":"http://m.disc800.com/species/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html","分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5"}},
     
 	    
 {"key": "网飞猫影视","name": "飞猫影视","type": 3,"api": "csp_XBPQ","jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/yg/raw/jar%2Fbhtv.txt?ref=main",

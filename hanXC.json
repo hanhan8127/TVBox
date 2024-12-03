@@ -2,9 +2,9 @@
 
 {
 
- //  "spider":"./spider.jar",	
+ "spider":"https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/yg/raw/jar%2Fbhtv.txt?ref=main",	
   //xc星辰玉玉软件http://47.99.102.252/xc.json
- "spider":"./fan.txt",
+// "spider":"./fan.txt",
 //https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt
  //https://bgithub.xyz/qist/tvbox/blob/master/0821.json
     "lives": [
@@ -18,7 +18,7 @@
 
     "sites": [
 	    
-{"key":"csp_DouDou","name":"胜寒提醒：请勿相信视频中广告！","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"csp_DouDou","name":"2胜寒提醒：请勿相信视频中广告！","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 {"key": "Aid","name":"急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
 {"key":"金牌","name":"金牌影视","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
@@ -35,7 +35,7 @@
 	        "播放列表": "<a&&</a>", "倒序": "否", "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}", "搜索副标题":"class=\"boottom\"*<div>&&</div",
 	        "分类": "电影$1#电视剧$2#综艺$3#动漫$4", "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},	
 //https://raw.bgithub.xyz/guot55/yg/refs/heads/main/box%E5%8E%9F.json
-{"key": "XBPQ_文才","name": "金牌秒播","type": 3,"api": "csp_XBPQ","jar":"./lib/Yoursmile.jar",
+{"key":"XBPQ_文才","name": "文采秒播","type": 3,"api": "csp_XBPQ","jar":"./lib/Yoursmile.jar",
 	"ext": {"滤词": "","直接播放": "0","播放请求头": "User-Agent$Mozilla/5.0 (Linux; Android 12; TAS-AL00 Build/HUAWEITAS-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.com/",
         "首页": "90","起始页": "1", "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg};;rc","分类": "电影&电视剧&动漫&综艺",
         "分类值": "0&14&75&69","二次截取": "list\":\\[&&\\]","数组": "{&&}[不包含:伦理剧]","图片": "vod_pic\":\"&&\"",
@@ -47,7 +47,7 @@
         "搜索二次截取": "list\":\\[&&\\]","搜索数组": "{&&}[不包含:伦理]","搜索图片": "vod_pic\":\"&&\"","搜索标题": "vod_name\":\"&&\"","搜索副标题": "vod_remarks\":\"&&\"",
         "搜索链接": "https://m.cfkj86.com/detail/+vod_id\":&&,","筛选": "1",
         "类型": "喜剧$22#动作$23#战争$25#爱情$26#悬疑$27#武侠$28#科幻$30#冒险$31#警匪$32#动画$33#惊悚$34#犯罪$35#恐怖$36#剧情$37#历史$38#纪录$39#传记$40#歌舞$41国产剧$14#欧美剧$15#港台剧$16#日韩剧$62#其他剧$68国产动漫$75#日韩动漫$76#欧美动漫$77#港台动漫$78#其他动漫$80||国产综艺$69#港台综艺$70#日韩综艺$72#欧美综艺$73#其他综艺$74"}},
-  {"key": "文采影视", "name": "文采秒播", "type": 3, "api": "csp_XBPQ", "jar":"./lib/Yoursmile.jar","changeable": 0,
+  {"key":"文采影视", "name": "文采秒播", "type": 3, "api": "csp_XBPQ", "jar":"./lib/Yoursmile.jar","changeable": 0,
         "ext": {"主页url": "https://www.hkybqufgh.com/", "简介": "</label>&&</div>", 
         "嗅探词":"m3u8","影片类型": "tags\">&&director\">", "影片状态": "bottom\">&&</div>",  "二次截取": "videoList\":\\[&&\\]", 
         "数组": "{&&}[不包含:伦理剧]", "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",", "标题": "vodName\":\"&&\"", "副标题": "vodRemarks\":\"&&\"", "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,", 

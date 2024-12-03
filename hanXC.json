@@ -25,15 +25,17 @@
 {"key": "csp_JPYY","name":"金牌影院","type": 3,"api": "csp_Jpyy","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729938537491/1026.jar","searchable": 1,"changeable": 1,"playerType": 1,"filterable": 1,"ext": ""},
 {"key": "csp_JPYY2","name": "金牌秒播", "type": 3, "searchable": 1,"changeable": 1,"api": "csp_Jpyy","jar": "https://d.kstore.dev/download/7337/tw/lib/1020.jar","playerType": 1,"filterable": 1,"ext": ""},  
 {"key": "金牌影视1","name": "金牌影视","type": 3,"jar": "https://d.kstore.dev/download/7337/tw/tvkj.jar","api": "./lib/drpy2.min.js","ext": "./lib/金牌影视.js"},
-{"key": "金牌影视2", "name": "金牌影视", "type": 3, "api": "csp_XBPQ", "jar":".XBP.jar","changeable": 0,
-            "ext": {"主页url": "http://www.yuhelover.com/", "简介": "</label>&&</div>", "嗅探词":"m3u8","影片类型": "tags\">&&director\">", "影片状态": "bottom\">&&</div>", 
-                "二次截取": "videoList\":\\[&&\\]", "数组": "{&&}[不包含:伦理剧]", "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
-                "标题": "vodName\":\"&&\"", "副标题": "vodRemarks\":\"&&\"",  "链接": "http://www.yuhelover.com/detail/+vodId\":&&,", 
-                "导演": "导演:</div>&&主演", "主演": "主演:</div>&&别名",  "线路标题": "寒", "播放数组": "listitem\">&&info\">", 
-                "播放列表": "<a&&</a>", "倒序": "否", "搜索url": "http://www.yuhelover.com/vod/search/{wd}", "搜索副标题":"class=\"boottom\"*<div>&&</div",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4", "分类url": "http://www.yuhelover.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
+{"key": "新界影视","name": "新界影视","type": 3,"jar": "https://d.kstore.dev/download/7337/tw/tvkj.jar","api": "./lib/drpy2.min.js","ext": "./lib/新界影视.js"},
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://bgithub.xyz/guot55/yg
-  
+  {"key": "新界影视", "name": "新界影视", "type": 3, "api": "csp_XBPQ", "jar":"https://d.kstore.dev/download/7337/tw/lib/1020.jar","changeable": 0,
+            "ext": {"主页url": "https://www.hkybqufgh.com/", "简介": "</label>&&</div>", "嗅探词":"m3u8","影片类型": "tags\">&&director\">", "影片状态": "bottom\">&&</div>", 
+	        "二次截取": "videoList\":\\[&&\\]", "数组": "{&&}[不包含:伦理剧]", "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",", 
+	        "标题": "vodName\":\"&&\"", "副标题": "vodRemarks\":\"&&\"", "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,", 
+                "导演": "导演:</div>&&主演", "主演": "主演:</div>&&别名", "线路标题": "宝盒专享", "播放数组": "listitem\">&&info\">",  
+	        "播放列表": "<a&&</a>", "倒序": "否", "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}", "搜索副标题":"class=\"boottom\"*<div>&&</div",
+	        "分类": "电影$1#电视剧$2#综艺$3#动漫$4", "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},	
+//https://raw.bgithub.xyz/guot55/yg/refs/heads/main/box%E5%8E%9F.json
+	    
 {"key":"糯米","name":"糯米秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},	     
 {"key": "瓜子","name": "瓜子秒播","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "./lib/drpy2.min.js","ext": "./lib/瓜子.js"},
 //https://d.kstore.dev/download/7337/tw/%E8%87%AA%E7%94%A8%E5%8B%BF%E4%BC%A0.txt,   https://qixing.myhkw.com/DC.txt
@@ -41,14 +43,14 @@
 {"key": "nangua2","name": "南瓜秒播","type": 3,"playerType": "2","api": "./lib/南瓜.js"},	    
 {"key":"AppGZ","name":"瓜子影视","type":3,"api":"csp_AppGZ","jar":"https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/eGMxMTEyLnppcA==?isDownload=true","searchable":1,"quickSearch":0,"filterable":0,"ext":"KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="},
 {"key":"农民影视","name":"农民影视","type":3,"api":"csp_Nmys","jar":"https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"农民","name":"农民秒播","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},
+{"key":"农民","name":"农民秒播","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_nmys","name":"旺旺影视","type": 3,"api": "csp_XYQHiker","jar": "https://d.kstore.dev/download/7337/tw/lib/1020.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/旺旺影视.json"},	    
 {"key":"百姓","name":"农民影视","type":3,"api":"csp_XBPQ","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"剧情介绍：&&</p>",
 	"分类url":"https://www.gymboreejn.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html[https://www.gymboreejn.com/vodtype/{cateId}.html]",
 	"分类":"电影$1#剧集$2#综艺$3#动漫$4#动画片$29#短剧$31#影视解说$32#邵氏电影$39"}},
-{"key": "csp_农民影视","name": "旺旺秒播","type": 3,"api": "csp_XYQHiker","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/旺旺影视.json"},
 {"key":"瓜子","name":"瓜子影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},	    
 
-//{"key":"csp_AppDaMi","name":"大米影视","type":3,"playerType":"2","api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app-v1.ecoliving168.com/"},
+{"key":"csp_AppDaMi","name":"大米影视","type":3,"playerType":"2","api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app-v1.ecoliving168.com/"},
 //{"key":"csp_AppRZ","name":"忍者影视","type":3,"playerType":"2","api":"csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz/"},
 {"key":"天天","name": "天天影视","type": 3,"api": "csp_TTian","playerType": 1,"ext": "baHR0cDovL29wLnlzZHFqcy5jbg==","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"},	    
 {"key":"萌米","name":"萌米影视","api":"csp_AppTT","type":3,"searchable":1,"changeable":1,"timeout":15,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
@@ -205,17 +207,6 @@
 	"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"}},
 
 //https://json.heimuer.xyz/ ,https://json02.heimuer.xyz/api.php/provide/vod/?ac=list,https://json.doube.eu.org/app/index.php?site=webheimuer,https://heimuer.tv/
-	    
-
-  {"key": "新界影视", "name": "新界影视", "type": 3, "api": "csp_XBPQ", "jar":"https://d.kstore.dev/download/7337/tw/lib/1020.jar","changeable": 0,
-            "ext": {"主页url": "https://www.hkybqufgh.com/", "简介": "</label>&&</div>", "嗅探词":"m3u8","影片类型": "tags\">&&director\">", "影片状态": "bottom\">&&</div>", 
-	        "二次截取": "videoList\":\\[&&\\]", "数组": "{&&}[不包含:伦理剧]", "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",", 
-	        "标题": "vodName\":\"&&\"", "副标题": "vodRemarks\":\"&&\"", "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,", 
-                "导演": "导演:</div>&&主演", "主演": "主演:</div>&&别名", "线路标题": "宝盒专享", "播放数组": "listitem\">&&info\">",  
-	        "播放列表": "<a&&</a>", "倒序": "否", "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}", "搜索副标题":"class=\"boottom\"*<div>&&</div",
-	        "分类": "电影$1#电视剧$2#综艺$3#动漫$4", "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},	
-
-//https://raw.bgithub.xyz/guot55/yg/refs/heads/main/box%E5%8E%9F.json
 	    
 {"key":"飞飞影视PQ","name":"飞飞影视","type":3,"api":"csp_XBPQ","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1,
  "ext":{"分类url": "https://www.ffys.fun/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html", 

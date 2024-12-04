@@ -24,8 +24,8 @@
 {"key":"金牌","name":"金牌影视","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
 {"key": "csp_JPYY2","name": "金牌秒播", "type": 3, "api": "csp_Jpyy","jar": "./lib/1020.jar","searchable": 1,"changeable": 1,"playerType": 1,"filterable": 1,"ext": ""},  
-{"key": "金牌影视1","name": "金牌影视","type": 3,"jar": "./lib/tvkj.jar","api": "./lib/drpy2.min.js","ext": "./lib/金牌影视.js"},
-{"key": "新界影视","name": "新界影视","type": 3,"jar": "./lib/tvkj.jar","api": "./lib/drpy2.min.js","ext": "./lib/新界影视.js"},
+{"key": "金牌影视1","name": "金牌影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/金牌影视.js"},
+{"key": "新界影视","name": "新界影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/新界影视.js"},
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://bgithub.xyz/guot55/yg
   {"key": "新界影视2", "name": "新界影视", "type": 3, "api": "csp_XBPQ", "changeable": 0,"jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/yg/raw/jar%2Fbhtv.txt?ref=main",
             "ext": {"主页url": "https://www.hkybqufgh.com/", "简介": "</label>&&</div>", "嗅探词":"m3u8","影片类型": "tags\">&&director\">", "影片状态": "bottom\">&&</div>", 
@@ -48,7 +48,7 @@
         "搜索链接": "https://m.cfkj86.com/detail/+vod_id\":&&,","筛选": "1",
         "类型": "喜剧$22#动作$23#战争$25#爱情$26#悬疑$27#武侠$28#科幻$30#冒险$31#警匪$32#动画$33#惊悚$34#犯罪$35#恐怖$36#剧情$37#历史$38#纪录$39#传记$40#歌舞$41国产剧$14#欧美剧$15#港台剧$16#日韩剧$62#其他剧$68国产动漫$75#日韩动漫$76#欧美动漫$77#港台动漫$78#其他动漫$80||国产综艺$69#港台综艺$70#日韩综艺$72#欧美综艺$73#其他综艺$74"}},
 
-	    
+{"key": "瓜子影视", "name": "瓜子｜影视","type": 3, "api": "csp_Gz360","searchable": 1,"quickSearch": 1,"filterable": 1},	    
 {"key":"糯米","name":"糯米秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},	     
 {"key": "瓜子","name": "瓜子秒播","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "./lib/drpy2.min.js","ext": "./lib/瓜子.js"},
 {"key":"瓜子2","name":"瓜子影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/Yoursmile.jar"},	    

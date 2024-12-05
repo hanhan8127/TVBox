@@ -23,8 +23,8 @@
 {"key": "Aid","name":"急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
 {"key":"金牌","name":"金牌影视","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key": "csp_JPYY","name": "金牌秒播", "type": 3, "api": "csp_Jpyy","jar": "./lib/1020.jar","searchable": 1,"changeable": 1,"playerType": 1,"filterable": 1,"ext": ""},  
-{"key": "金牌影视1","name": "金牌影视","type": 3,"jar": "./lib/tvkj.jar","api": "./lib/drpy2.min.js","ext": "./lib/金牌影视.js"},
-{"key": "新界影视","name": "新界影视","type": 3,"jar": "./lib/tvkj.jar","api": "./lib/drpy2.min.js","ext": "./lib/新界影视.js"},
+{"key": "金牌影视","name": "金牌影视","type": 3,"jar": "https://d.kstore.dev/download/7337/tw/lib/tvkj.jar","api": "./lib/drpy2.min.js","ext": "./lib/金牌影视.js"},
+{"key": "新界影视","name": "新界影视","type": 3,"jar": "./lib/Yoursmile.jar","api": "./lib/drpy2.min.js","ext": "./lib/新界影视.js"},
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://bgithub.xyz/guot55/yg
 	
 //https://raw.bgithub.xyz/guot55/yg/refs/heads/main/box%E5%8E%9F.json
@@ -191,12 +191,6 @@
  "ext":{"分类url": "https://www.ffys.fun/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html", 
         "分类": "电影$20#剧集$21#动漫$22#综艺$23#记录片$24#爽剧$25","简介":"寒+<p>&&</p>","线路数组": "data-dropdown-value=&&</div>","线路标题": "寒+<span>&&</span>"}},
 
-{"key": "爱奇","name":"爱意官源","type": 3,"jar": "./lib/tvkj.jar","api": "./lib/drpy2.min.js","ext": "./lib/爱奇艺.js"},
-{"key": "腾讯","name":"藤迅官源","type": 3,"jar": "./lib/tvkj.jar","api": "./lib/drpy2.min.js","ext": "./lib/腾讯VIP.js"},
-{"key": "芒果","name":"忙菓管源","type": 3,"jar": "./lib/tvkj.jar","api": "./lib/drpy2.min.js","ext": "./lib/芒果.js"},
-{"key": "搜狗","name":"嗖枸官源","type": 3,"jar": "./lib/tvkj.jar","api": "./lib/drpy2.min.js","ext": "./lib/搜狗.js"},
-{"key": "优酷","name":"尤库官源","type": 3,"jar": "./lib/tvkj.jar","api": "./lib/drpy2.min.js","ext": "./lib/优酷.js"},	    
-{"key": "360影视","name":"360影视","type": 3,"jar": "./lib/tvkj.jar","api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/360影视.js"},
 	    
 {"key":"drpy_js_360影视","name":"360影视","type":3,"api":"./drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/360影视.js"},
 {"key":"drpy_js_奇珍异兽","name":"爱奇艺","type":3,"api":"./drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/奇珍异兽.js"},

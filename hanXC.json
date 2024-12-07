@@ -53,8 +53,9 @@
 
 {"key":"nangua2","name":"南瓜秒播","type": 3,"jar":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/spider.jar","playerType": "2","api": "./lib/南瓜.js"},	    
 {"key":"农民影视","name":"农民影视","type":3,"api":"csp_Nmys","jar":"https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"骚火","name":"影视 | 骚火[直连]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-	"ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","分类url":"https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
+
+{"key":"骚火","name":"骚火直连","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+       "ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","分类url":"https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
 		"分类":"电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4","数组二次截取":"class=\"v_list\">&&</ul>","数组":"\"v_img\"&&/div>",
 		"标题":"title=\"&&\"","副标题":"v_note\"&&</div","跳转播放链接":"<iframe*src=\"&&\"",
 		"二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
@@ -62,8 +63,8 @@
 
 {"key":"天天","name": "天天影视","type": 3,"api": "csp_TTian","playerType": 1,"ext": "baHR0cDovL29wLnlzZHFqcy5jbg==","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"},	    
 {"key":"木星","name":"木星多线","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"},
-{"key":"csp_AppDaMi","name":"大米影视","type":3,"jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/yg/raw/jar%2Fbhtv.txt?ref=main","playerType":"2","api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app-v1.ecoliving168.com/"},
-
+{"key":"csp_AppDaMi","name":"大米影视","type":3,"jar": "./bhtv.txt","playerType":"2","api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app-v1.ecoliving168.com/"},
+ {"key":"FreeOK","name":"️️富瑞┃影视","type":3,"api":"csp_FreeOK","jar": "./bhtv.txt","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.freeok.lol"},
 	    
 {"key": "csp_XYQBiu_骚火VIP","name": "骚火秒播","type": 3,"api": "csp_XBPQ","jar": "./Yoursmile.jar","searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"站名":"骚火影视", "主页url":"https://saohuo.vip/","简介":"+<p class=\"p_txt show_part\"&&</p>","导演":"</h1><p>* / 导演：&& /","主演":"主演：&&</p>",
@@ -115,7 +116,7 @@
 //https://xinlangzy.com/   xinlangzy.com、 xinlangziyuan.com、 xinlangziyuan.net、 xinlangzy.net
 	    
 {"key":"快看聚合","name":"快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"changeable":1,"filterable": 1,"jar": "./bhtv.txt"},	    
-
+{"key":"csp_Kuaikan","name":"快看影视","type":3,"api":"csp_Kuaikan","jar":"./Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1},
 	    
 {"key":"晴天","name":"影视晴天","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.qinttv.com/qtyy/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
 	"搜索url":"https://www.qinttv.com/qtcz.html;post;wd={wd}&submit=","分类":"电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi"},"jar": "./Yoursmile.jar"},

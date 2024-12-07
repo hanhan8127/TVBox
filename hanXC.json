@@ -54,17 +54,10 @@
 {"key":"nangua2","name":"南瓜秒播","type": 3,"jar":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/spider.jar","playerType": "2","api": "./lib/南瓜.js"},	    
 {"key":"农民影视","name":"农民影视","type":3,"api":"csp_Nmys","jar":"https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"骚火","name":"骚火直连","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-       "ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","分类url":"https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
-		"分类":"电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4","数组二次截取":"class=\"v_list\">&&</ul>","数组":"\"v_img\"&&/div>",
-		"标题":"title=\"&&\"","副标题":"v_note\"&&</div","跳转播放链接":"<iframe*src=\"&&\"",
-		"二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
-		"三次跳转播放链接":"\"url\"*\"&&\""},"jar": "./Yoursmile.jar"},
-
 {"key":"天天","name": "天天影视","type": 3,"api": "csp_TTian","playerType": 1,"ext": "baHR0cDovL29wLnlzZHFqcy5jbg==","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"},	    
 {"key":"木星","name":"木星多线","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"},
 {"key":"csp_AppDaMi","name":"大米影视","type":3,"jar": "./bhtv.txt","playerType":"2","api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app-v1.ecoliving168.com/"},
- {"key":"FreeOK","name":"️️富瑞┃影视","type":3,"api":"csp_FreeOK","jar": "./bhtv.txt","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.freeok.lol"},
+ {"key":"FreeOK","name":"️️富瑞影视","type":3,"api":"csp_FreeOK","jar": "./bhtv.txt","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.freeok.lol"},
 	    
 {"key": "csp_XYQBiu_骚火VIP","name": "骚火秒播","type": 3,"api": "csp_XBPQ","jar": "./Yoursmile.jar","searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"站名":"骚火影视", "主页url":"https://saohuo.vip/","简介":"+<p class=\"p_txt show_part\"&&</p>","导演":"</h1><p>* / 导演：&& /","主演":"主演：&&</p>",
@@ -209,12 +202,12 @@
 //https://json.heimuer.xyz/ ,https://json02.heimuer.xyz/api.php/provide/vod/?ac=list,https://json.doube.eu.org/app/index.php?site=webheimuer,https://heimuer.tv/
 	    
 	    
-{"key":"drpy_js_360影视","name":"360影视","type":3,"api":"./drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/360影视.js"},
-{"key":"drpy_js_奇珍异兽","name":"爱奇艺","type":3,"api":"./drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/奇珍异兽.js"},
-{"key":"drpy_js_百忙无果","name":"芒果视频","type":3,"api":"./drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/百忙无果.js"},
-{"key":"drpy_js_腾云驾雾","name":"腾讯视频","type":3,"api":"./drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/腾云驾雾.js"},
-{"key":"drpy_js_菜狗","name":"搜狗视频","type":3,"api":"./drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/菜狗.js"},
-{"key":"drpy_js_优酷","name":"优酷视频","type":3,"api":"./drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/优酷.js"},	    
+{"key":"drpy_js_360影视","name":"360影视","type":3,"api":"./drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/360影视.js"},
+{"key":"drpy_js_奇珍异兽","name":"爱奇艺","type":3,"api":"./drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/奇珍异兽.js"},
+{"key":"drpy_js_百忙无果","name":"芒果视频","type":3,"api":"./drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/百忙无果.js"},
+{"key":"drpy_js_腾云驾雾","name":"腾讯视频","type":3,"api":"./drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/腾云驾雾.js"},
+{"key":"drpy_js_菜狗","name":"搜狗视频","type":3,"api":"./drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/菜狗.js"},
+{"key":"drpy_js_优酷","name":"优酷视频","type":3,"api":"./drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/优酷.js"},	    
 {"key": "meowtv_sejy","name": "少儿课堂","type": 3,"api": "csp_Bili","jar": "./ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/儿童.json"},
 {"key": "meowtv_xxkt","name": "小学课堂","type": 3,"api": "csp_Bili","jar": "./ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/小学.json"},
 {"key": "meowtv_czkt","name": "初中课堂","type": 3,"api": "csp_Bili","jar": "./ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/初中.json"},

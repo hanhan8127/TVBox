@@ -81,7 +81,7 @@
 		"分类url":"https://www.5jcd.com/show_/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ax",
                 "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
     
-{"key":"csp_AppRZ","name":"忍者影视","type":3,"jar": "./bhtv.txt",","playerType":"2","api":"csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz/"},
+{"key":"csp_AppRZ","name":"忍者影视","type":3,"jar": "./bhtv.txt","playerType":"2","api":"csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz/"},
 
 {"key":"萌米","name":"萌米影视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 	    
@@ -93,7 +93,6 @@
 
 //https://cz01.vip/  cz01.tv   https://www.czzy.site/  https://czzy.top/  www.czzyvideo.com   WWW.CZZY77.COM
 {"key":"zxzj","name":"在线秒播","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},	    
-
 
 //https://hhzyapi.com/	 https://www.haohuaziyuan.com/  http://www.haohuazy.com/ 
 

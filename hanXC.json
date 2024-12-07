@@ -28,7 +28,7 @@
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://bgithub.xyz/guot55/yg
 	
 //https://raw.bgithub.xyz/guot55/yg/refs/heads/main/box%E5%8E%9F.json
-{"key":"XBPQ_文才","name": "文采秒播","type": 3,"api": "csp_XBPQ","jar": "./Yoursmile.jar",
+{"key":"XBPQ_文才","name": "文采秒播","type": 3,"api": "csp_XBPQ","jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/yg/raw/jar%2Fbhtv.txt?ref=main",
 	"ext": {"滤词": "","直接播放": "0","播放请求头": "User-Agent$Mozilla/5.0 (Linux; Android 12; TAS-AL00 Build/HUAWEITAS-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.com/",
         "首页": "90","起始页": "1", "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg};;rc","分类": "电影&电视剧&动漫&综艺",
         "分类值": "0&14&75&69","二次截取": "list\":\\[&&\\]","数组": "{&&}[不包含:伦理剧]","图片": "vod_pic\":\"&&\"",
@@ -43,15 +43,16 @@
   
 {"key":"糯米","name":"糯米秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},	     
 {"key": "瓜子","name": "瓜子秒播","type":3,"jar":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/spider.jar","searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "./lib/drpy2.min.js","ext": "./lib/瓜子.js"},
-{"key":"瓜子2","name":"瓜子影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"jar": "./Yoursmile.jar"},	    
-{"key":"腾讯","name":"腾讯(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/tengxun.js"},
-{"key":"芒果","name":"芒果(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/mgtv.js"},
-{"key":"闪雷","name":"闪雷┃MP4","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/闪电.js"},
+	    
+{"key":"腾讯","name":"腾讯视频","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/tengxun.js"},
+{"key":"芒果","name":"芒果视频","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/mgtv.js"},
+{"key":"闪雷","name":"闪电视频","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/闪电.js"},
+    
 //https://d.kstore.dev/download/7337/tw/%E8%87%AA%E7%94%A8%E5%8B%BF%E4%BC%A0.txt,   https://qixing.myhkw.com/DC.txt
 
 {"key":"nangua2","name":"南瓜秒播","type": 3,"jar":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/spider.jar","playerType": "2","api": "./lib/南瓜.js"},	    
 {"key":"农民影视","name":"农民影视","type":3,"api":"csp_Nmys","jar":"https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "骚火影视","name": "骚火影视","type": 3,"api": "csp_SaoHuo","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./Yoursmile.jar"},
+
 {"key": "骚火2","name": "骚火影视","type": 3,"api": "csp_XBPQ","jar": "./Yoursmile.jar", "searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,
       "ext": {"嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4","分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","倒序": "1",
               "分类": "大陆$20#电影$1#电视剧$2#动漫$4#港剧$21#韩剧$22#台剧$26#日剧$24#美剧$23","数组二次截取": "class=\"v_list\">&&</ul>","数组": "\"v_img\"&&/div>",
@@ -88,7 +89,7 @@
 {"key":"厂长","name":"厂长影视","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "www.czzyvideo.com"},
 //https://cz01.vip/  cz01.tv   https://www.czzy.site/  https://czzy.top/  www.czzyvideo.com   WWW.CZZY77.COM
 {"key":"zxzj","name":"在线秒播","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},	    
-{"key": "闪雷影视","name": "雷电影视","jar": "./lib/tvkj.jar","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/闪雷影视.js"},
+
 
 //https://hhzyapi.com/	 https://www.haohuaziyuan.com/  http://www.haohuazy.com/ 
 {"key":"木星","name":"木星多线","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"},

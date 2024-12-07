@@ -4,7 +4,7 @@
 
  //"spider":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/spider.jar",	
   //xc星辰玉玉软件http://47.99.102.252/xc.json
-   "spider":"./fan.txt",
+   "spider":"./Yoursmile.jar",
 //https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt
  //https://bgithub.xyz/qist/tvbox/blob/master/0821.json
     "lives": [
@@ -43,21 +43,21 @@
   
 {"key":"糯米","name":"糯米秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},	     
 {"key": "瓜子","name": "瓜子秒播","type":3,"jar":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/spider.jar","searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "./lib/drpy2.min.js","ext": "./lib/瓜子.js"},
-{"key":"瓜子2","name":"瓜子影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/Yoursmile.jar"},	    
+{"key":"瓜子2","name":"瓜子影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"jar": "./Yoursmile.jar"},	    
 {"key":"腾讯","name":"腾讯(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/tengxun.js"},
 {"key":"芒果","name":"芒果(官)","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/mgtv.js"},
-{"key":"闪雷","name":"闪雷┃MP4","type":3,"api":"./FTY/drpy2.min.js","ext":"./lib/闪电.js"},
+{"key":"闪雷","name":"闪雷┃MP4","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/闪电.js"},
 //https://d.kstore.dev/download/7337/tw/%E8%87%AA%E7%94%A8%E5%8B%BF%E4%BC%A0.txt,   https://qixing.myhkw.com/DC.txt
 
 {"key":"nangua2","name":"南瓜秒播","type": 3,"jar":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/spider.jar","playerType": "2","api": "./lib/南瓜.js"},	    
 {"key":"农民影视","name":"农民影视","type":3,"api":"csp_Nmys","jar":"https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "骚火影视","name": "骚火影视","type": 3,"api": "csp_SaoHuo","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},
+{"key": "骚火影视","name": "骚火影视","type": 3,"api": "csp_SaoHuo","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./Yoursmile.jar"},
 {"key": "骚火2","name": "骚火影视","type": 3,"api": "csp_XBPQ","jar": "./Yoursmile.jar", "searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,
       "ext": {"嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4","分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","倒序": "1",
               "分类": "大陆$20#电影$1#电视剧$2#动漫$4#港剧$21#韩剧$22#台剧$26#日剧$24#美剧$23","数组二次截取": "class=\"v_list\">&&</ul>","数组": "\"v_img\"&&/div>",
               "标题": "title=\"&&\"","副标题": "v_note\"&&</div","跳转播放链接": "<iframe*src=\"&&\"",
               "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接": "\"url\"*\"&&\""}},
-{"key": "csp_XYQBiu_骚火VIP","name": "骚火秒播","type": 3,"api": "csp_XBPQ","jar": "./XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,
+{"key": "csp_XYQBiu_骚火VIP","name": "骚火秒播","type": 3,"api": "csp_XBPQ","jar": "./Yoursmile.jar","searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"站名":"骚火影视", "主页url":"https://saohuo.vip/","简介":"+<p class=\"p_txt show_part\"&&</p>","导演":"</h1><p>* / 导演：&& /","主演":"主演：&&</p>",
               "影片地区":"</h1><p>&& / ","影片年代":"<p>* / && /", "影片状态":"v_note\">&&</div>","搜索url":"/search.php?searchword={wd}",
               "线路二次截取":"<ul class=\"from_list\">&&</ul>","线路数组":"<li&&/li>","线路标题":"+>&&<[替换:1号线路>>骚火专线#2线路>>骚火备用]","跳转播放链接":"<iframe*src=\"&&\"",

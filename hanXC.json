@@ -58,11 +58,11 @@
 {"key":"木星","name":"木星多线","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"},
 {"key":"csp_AppDaMi","name":"大米影视","type":3,"jar": "./bhtv.txt","playerType":"2","api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app-v1.ecoliving168.com/"},
 //{"key":"FreeOK","name":"️️富瑞影视","type":3,"api":"csp_FreeOK","jar": "./bhtv.txt","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.freeok.lol"},
-{"key":"Freeok","name":"影视 | Freeok[直连]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-	"ext":{"分类url":"https://www.freeok.lol/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1","分类":"电影&剧集&动漫&综艺&短剧&少儿","分类值":"1&2&3&4&12&5",
+{"key":"Freeok","name":"影视 | Freeok[直连]","type":3,"api":"csp_XBPQ","jar": "./Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1,
+	"ext":{"分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1","分类":"电影&剧集&动漫&综艺&短剧&少儿","分类值":"1&2&3&4&12&5",
 		"副标题":"<div class=\"module-item-note\">&&</div>","嗅探词":"m3u8#.m3u8#.mp4#freeok.mp4#/obj/","线路数组":"data-dropdown-value=&&</div>",
-		"线路数组": "data-dropdown-value=&&</div>[不包含:夸克]","导演":"导演：&&</div>","主演":"主演：&&</div>","简介":"<p>&&</p>"},"jar": "./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},	    
-//https://link3.cc/dizhifabu
+		"线路数组": "data-dropdown-value=&&</div>[不包含:夸克]","导演":"导演：&&</div>","主演":"主演：&&</div>","简介":"<p>&&</p>"}},	    
+//https://link3.cc/dizhifabu      https://www.freeok.vip
 	    
 {"key": "csp_XYQBiu_骚火VIP","name": "骚火秒播","type": 3,"api": "csp_XBPQ","jar": "./Yoursmile.jar","searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"站名":"骚火影视", "主页url":"https://saohuo.vip/","简介":"+<p class=\"p_txt show_part\"&&</p>","导演":"</h1><p>* / 导演：&& /","主演":"主演：&&</p>",
@@ -70,8 +70,8 @@
               "线路二次截取":"<ul class=\"from_list\">&&</ul>","线路数组":"<li&&/li>","线路标题":"+>&&<[替换:1号线路>>骚火专线#2线路>>骚火备用]","跳转播放链接":"<iframe*src=\"&&\"",
               "二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
               "三次跳转播放链接":"\"url\"*\"&&\"",  "嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4", 
-              "分类url":"https://saohuo.vip/list/{cateId}-{catePg}.html[https://saohuo.vip/list/{cateId}.html];;kdvr1au0",
-             //"分类url":"https://saohuo.vip/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId};;akd",
+              //"分类url":"https://saohuo.vip/list/{cateId}-{catePg}.html[https://saohuo.vip/list/{cateId}.html];;kdvr1au0",
+             "分类url":"https://saohuo.vip/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId};;akd",
              "分类":"电影$1#电视剧$2#韩剧$22#美剧$22#综艺$3#动漫$4"}},
 //骚火发布页http://shapp.us/；https://saohuo.tv/	  https://hhjx.hhplayer.com/api.php 
 

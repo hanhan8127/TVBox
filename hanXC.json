@@ -2,7 +2,6 @@
 
 {
 
- //"spider":"https://raw.bgithub.xyz/PizazzGY/TVBox/main/spider.jar",	
   //xc星辰玉玉软件http://47.99.102.252/xc.json
    "spider":"./fan.txt",
 //https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt
@@ -28,7 +27,7 @@
 {"key": "新界影视","name": "新界影视","type": 3,"jar": "./Yoursmile.jar","api": "./lib/drpy2.min.js","ext": "./lib/新界影视.js"},
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://bgithub.xyz/guot55/yg
 	
-//https://raw.bgithub.xyz/guot55/yg/refs/heads/main/box%E5%8E%9F.json
+//https://raw.bgithub.xyz/guot55/yg/refs/heads/main/box%E5%8E%9F.json    ./bhtv.txt
 {"key":"XBPQ_文才","name": "文采秒播","type": 3,"api": "csp_XBPQ","jar": "./bhtv.txt",
 	"ext": {"滤词": "","直接播放": "0","播放请求头": "User-Agent$Mozilla/5.0 (Linux; Android 12; TAS-AL00 Build/HUAWEITAS-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Referer$https://m.cfkj86.com/",
         "首页": "90","起始页": "1", "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg};;rc","分类": "电影&电视剧&动漫&综艺",
@@ -128,7 +127,7 @@
         "分类": "电视剧$2#电影$1#综艺$3#动漫$4","数组": "class=\"pack-ykpack\">&&pack-subtitle cor3 hidden","简介": "胜寒提醒:请勿信广告+id=\"cText\">&&</a>",
         "线路数组": "channelname swiper-slide\">&&</a>","线路标题": "专享+&nbsp;&&<[排序:超清>极速蓝光][不包含:FF线路#蓝光2#蓝光9#蓝光7#XL线路#YH线路#HN线路]"}},
 	    
-{"key": "热播库","name": "热播观影","type": 3,"changeable": 1,"api": "csp_XBPQ","jar":"./Yoursmile.jar","playerType": "1",
+{"key": "热播库","name": "热播观影","type": 3,"changeable": 1,"api": "csp_XBPQ","jar": "./bhtv.txt","playerType": "1",
       "ext": {"主页url": "https://rebozj.pro", "数组": "class=\"stui-vodlist__thumb lazyload&&</a>","图片": "data-original=\"&&\"","标题": "title=\"&&\"","链接": "href=\"&&\"","副标题": "class=\"pic-text text-right\"><b>&&</span>",
         "搜索模式": "1","嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com","搜索url": "https://rebozj.pro/type/id-.html?wd={wd}","线路数组": "<h4 class=\"title&&/h4>","线路标题": ">&&<","播放列表": "<a&&/a>","播放标题": ">&&<",
 	"影片类型": "类型：&&</p>","导演": "导演：&&</p>","主演": "主演：&&</p>","简介": "display: none;\">&&</span>",
@@ -181,19 +180,7 @@
 	"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"}},
 
 //https://json.heimuer.xyz/ ,https://json02.heimuer.xyz/api.php/provide/vod/?ac=list,https://json.doube.eu.org/app/index.php?site=webheimuer,https://heimuer.tv/
-	    
-	    
-{"key":"drpy_js_360影视","name":"360影视","type":3,"api":"./drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/360影视.js"},
-{"key":"drpy_js_奇珍异兽","name":"爱奇艺","type":3,"api":"./drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/奇珍异兽.js"},
-{"key":"drpy_js_百忙无果","name":"芒果视频","type":3,"api":"./drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/百忙无果.js"},
-{"key":"drpy_js_腾云驾雾","name":"腾讯视频","type":3,"api":"./drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/腾云驾雾.js"},
-{"key":"drpy_js_菜狗","name":"搜狗视频","type":3,"api":"./drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/菜狗.js"},
-{"key":"drpy_js_优酷","name":"优酷视频","type":3,"api":"./drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/js/优酷.js"},	    
-{"key": "meowtv_sejy","name": "少儿课堂","type": 3,"api": "csp_Bili","jar": "./ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/儿童.json"},
-{"key": "meowtv_xxkt","name": "小学课堂","type": 3,"api": "csp_Bili","jar": "./ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/小学.json"},
-{"key": "meowtv_czkt","name": "初中课堂","type": 3,"api": "csp_Bili","jar": "./ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/初中.json"},
-{"key": "meowtv_gzkt","name": "高中课堂","type": 3,"api": "csp_Bili","jar": "./ketang.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/高中.json"},
-	    
+	        
 {"key": "csp_hanhan","name": "请勿相信影片广告！","type": 1,"playerType": 2,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1}
 
 ],

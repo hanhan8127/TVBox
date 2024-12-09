@@ -22,7 +22,7 @@
 {"key": "Aid","name":"急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
 {"key":"金牌","name":"金牌影视","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
   
-{"key": "金牌影视","name": "金牌影视2","type": 3,"jar":"./bhtv.txt","api": "./lib/drpy2.min.js","ext": "./lib/金牌影视.js"},
+{"key": "金牌影视","name": "金牌影视","type": 3,"jar":"./bhtv.txt","api": "./lib/drpy2.min.js","ext": "./lib/金牌影视.js"},
 //https://d.kstore.dev/download/7337/tw/lib/tvkj.jar	    
 {"key": "新界影视","name": "新界影视","type": 3,"jar":"./bhtv.txt","api": "./lib/drpy2.min.js","ext": "./lib/新界影视.js"},
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://bgithub.xyz/guot55/yg
@@ -76,7 +76,7 @@
 
 //https://hhzyapi.com/	 https://www.haohuaziyuan.com/  http://www.haohuazy.com/ 
 
-{"key": "js_星芽短剧","name": "星芽短剧","type": 3,"jar": "./lib/tvkj.jar","api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/星芽短剧.js"},
+{"key": "js_星芽短剧","name": "星芽短剧","type": 3,"jar": "./bhtv.txt","api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/星芽短剧.js"},
 
 {"key":"极速资源","name":"极速影院","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,
 	 "categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧","日剧","韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺","日韩动漫","欧美动漫","港台动漫","海外动漫"]},

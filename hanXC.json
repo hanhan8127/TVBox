@@ -57,7 +57,6 @@
 {"key": "csp_骚火VIP","name": "骚火秒播","type": 3,"api": "csp_XBPQ","jar": "./bhtv.txt","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/骚火影视.json"},	    
 //骚火发布页http://shapp.us/；https://saohuo.tv/	  https://hhjx.hhplayer.com/api.php 
     
-{"key":"csp_AppRZ","name":"忍者影视","type":3,"jar": "./bhtv.txt","playerType":"2","api":"csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz/"},
 {"key":"布蕾","name":"布蕾影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0,"ext":"http://47.99.102.252/drpy_js/bulei.js"},	    
 
 {"key":"极速资源","name":"极速影院","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -152,7 +151,7 @@
                 "影片年代": "class=\"detail-tags-item\">&&</a>","影片类型": "<div class=\"detail-tags fs-margin-top fs-margin-bottom\">&&立即播放",
                 "影片状态": "备注:&&</div>","导演": "导演:</div>&&</div>","主演": "演员:</div>&&</div>","简介": "detail-desc\">&&</p>"}},
 
-//   https://www.kkys01.com   https://www.kkys02.com
+//   https://www.kkys01.com   https://www.kkys02.com        https://dl.kkys02.com/
 	        
 {"key": "csp_hanhan","name": "请勿相信影片广告！","type": 1,"playerType": 2,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1}
 

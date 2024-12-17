@@ -786,9 +786,7 @@ NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/in
 
 重庆频道,#genre#
 
-重庆卫视,https://sjlivecdn9.cbg.cn/202506252322/app_2/_definst_/ls_2.stream/chunklist.m3u8
-重庆新闻,https://sjlivecdn9.cbg.cn/202506252322/app_2/_definst_/ls_3.stream/chunklist.m3u8
-重庆新闻,https://sjlivecdn9.cbg.cn/202506252322/app_2/_definst_/ls_3.stream/chunklist.m3u8
+重庆新闻,https://sjlivecdn.cbg.cn/202412171546/7f148fd75a23f0bffe365a53ea29fe22/app_2/_definst_/ls_3.stream/chunklist.m3u8
 
 重庆新闻,https://live.mxdyeah.top/live.php?id=CQTVNewsHD
 重庆影视,https://live.mxdyeah.top/live.php?id=cqyingshiHD

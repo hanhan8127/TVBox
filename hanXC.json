@@ -67,8 +67,7 @@
 {"key": "csp_非凡资源","name": "非凡影院","type": 1,"api": "http://api.ffzyapi.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["短剧","国产剧","大陆综艺", "国产动漫","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
 //非凡资源备用网址:ffzy1.tv ffzy2.tv ffzy3.tv ffzy4.tv ffzy5.tv
 
-{"key":"zy_1080","name":"1080影视","type":1,"api":"https://api.yzzy-api.com/inc/ldg_api.php","playurl":"https://vip.zykbf.com/?url=",
-	"categories": ["国产剧","大陆综艺","国产动漫","日韩综艺","日韩动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","韩国剧","欧美剧","香港剧","泰国剧","日本剧","纪录片","剧情片","动画片","战争片"]},
+//{"key":"zy_1080","name":"1080影视","type":1,"api":"https://api.yzzy-api.com/inc/ldg_api.php","playurl":"https://vip.zykbf.com/?url=","categories": ["国产剧","大陆综艺","国产动漫","日韩综艺","日韩动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","韩国剧","欧美剧","香港剧","泰国剧","日本剧","纪录片","剧情片","动画片","战争片"]},
 	    
 //优质影视网址：优质资源主域名:yzzy.tv hdzyk.com（备用网址): 1080zyk1.com 至 1080zyk10.com,"playUrl": "https://vip.zykbf.com/?url="   https://gitee.com/tvkj/tw/blob/main/svip.json	        
 
@@ -87,14 +86,7 @@
 	    
 {"key": "网飞猫影视","name": "飞猫影视","type": 3,"api": "csp_XBPQ","jar": "./bhtv.txt",
             "ext": {"数组": "module-item\">&&</div>","剧情": "[替换:伦理>>NETFLIX]","图片": "https://vres.vukfnqr.com+data-original=\"&&\"",
-                "分类url": "https://www.ncat2.com/show/{cateId}-{class}-{area}--{year}-2-{catePg}.html","分类": "短剧$6#电影$1#电视剧$2#综艺$4#动漫$3"}},	    
-
-{"key": "XBPQ_电影先生","name": "先生影视","type": 3,"api": "csp_XBPQ","jar": "./bhtv.txt",
-    "ext": {"分类url": "https://xn--44qz85a01qpc.com/pianku-{cateId}-{area}-------{catePg}---{year}.html", "简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
-        "搜索url": "https://dianyi.ng/search--------------.html?wd={wd}","搜索数组": "<div class=\"module-item-pic\">&&</div>","图片": "src=\"&&\"",
-        "搜索标题": "title=\"&&\"","搜索副标题": ">&&</a>","副标题": "module-item-note&&</div>","线路数组": "data-dropdown-value=&&</div>",
-        "线路标题": "寒+<span>&&</small>[替换:<span></small>共]+集","播放数组": "<div class=\"scroll-content\">&&</div>","播放标题": "<span>&&</span>",
-        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"}},    
+                "分类url": "https://www.ncat2.com/show/{cateId}-{class}-{area}--{year}-2-{catePg}.html","分类": "短剧$6#电影$1#电视剧$2#综艺$4#动漫$3"}},	     
 	    
 //https://dianyi.ng/    https://XianShe.ng   https://xn--44qz85a01qpc.com/   https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json
 
@@ -129,6 +121,13 @@
                 "影片状态": "备注:&&</div>","导演": "导演:</div>&&</div>","主演": "演员:</div>&&</div>","简介": "detail-desc\">&&</p>"}},
 
 //   https://www.kkys01.com   https://www.kkys02.com        https://dl.kkys02.com/
+
+{"key": "XBPQ_电影先生","name": "先生影视","type": 3,"api": "csp_XBPQ","jar": "./bhtv.txt",
+    "ext": {"分类url": "https://xn--44qz85a01qpc.com/pianku-{cateId}-{area}-------{catePg}---{year}.html", "简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
+        "搜索url": "https://dianyi.ng/search--------------.html?wd={wd}","搜索数组": "<div class=\"module-item-pic\">&&</div>","图片": "src=\"&&\"",
+        "搜索标题": "title=\"&&\"","搜索副标题": ">&&</a>","副标题": "module-item-note&&</div>","线路数组": "data-dropdown-value=&&</div>",
+        "线路标题": "寒+<span>&&</small>[替换:<span></small>共]+集","播放数组": "<div class=\"scroll-content\">&&</div>","播放标题": "<span>&&</span>",
+        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"}},   	    
 	        
 {"key": "csp_hanhan","name": "请勿相信影片广告！","type": 1,"playerType": 2,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1}
 

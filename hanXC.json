@@ -63,11 +63,11 @@
 {"key": "csp_非凡资源","name": "非凡影院","type": 1,"api": "http://api.ffzyapi.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["短剧","国产剧","大陆综艺", "国产动漫","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
 //非凡资源备用网址:ffzy1.tv ffzy2.tv ffzy3.tv ffzy4.tv ffzy5.tv
 
-//{"key":"zy_1080","name":"1080影视","type":1,"api":"https://api.yzzy-api.com/inc/ldg_api.php","playurl":"https://vip.zykbf.com/?url=","categories": ["国产剧","大陆综艺","国产动漫","日韩综艺","日韩动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","韩国剧","欧美剧","香港剧","泰国剧","日本剧","纪录片","剧情片","动画片","战争片"]},
+//{"key":"zy_1080","name":"1080影视","type":1,"api":"https://api.yzzy-api.com/inc/api.php?ac=list","playurl":"https://vip.zykbf.com/?url=","categories": ["国产剧","大陆综艺","国产动漫","日韩综艺","日韩动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","韩国剧","欧美剧","香港剧","泰国剧","日本剧","纪录片","剧情片","动画片","战争片"]},
 	    
 //优质影视网址：优质资源主域名:yzzy.tv hdzyk.com（备用网址): 1080zyk1.com 至 1080zyk10.com,"playUrl": "https://vip.zykbf.com/?url="   https://gitee.com/tvkj/tw/blob/main/svip.json	        
 
-//{"key":"zy_新浪","name":"新浪影院","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","playurl":"https://www.xlzyfa.com/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["大陆剧","综艺","动漫","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
+{"key":"zy_新浪","name":"新浪影院","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/","playurl":"https://www.xinlangjiexi.com/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["大陆剧","综艺","动漫","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
 //https://xinlangzy.com/   xinlangzy.com、 xinlangziyuan.com、 xinlangziyuan.net、 xinlangzy.net
 	    
 
@@ -85,16 +85,6 @@
 	    
 //https://dianyi.ng/    https://XianShe.ng   https://xn--44qz85a01qpc.com/   https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json
 
-{"key": "白嫖者","name": "白嫖影视","type": 3,"ua": "okhttp/3.15","api": "csp_XBPQ","ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-	"分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"寒+剧情介绍：&&</p >"}},
-
-{"key": "xbpq_白嫖者联盟","name": "️白嫖联盟","type": 3,"api": "csp_XBPQ","filterable": 1,"changeable": 1,"ext": {"主页url": "https://www.qyzf88.com/",
-	"标题": "itle=\"&&\"","副标题": "class=\"pic-text text-right\">&&</span>","图片": "data-original=\"&&\"","简介": "剧情介绍：&&</div",
-	"搜索url": "https://www.qyzf88.com/qyvodsearch/-------------.html?wd={wd}&submit=","分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
-	"分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-	"地区": "大陆$大陆#香港$香港#台湾$台湾#美国$美国#日本$日本#韩国$韩国#泰国$泰国#印度$印度||内地$内地#韩国$韩国#香港$香港#台湾$台湾#日本$日本#美国$美国#泰国$泰国#英国$英国#新加坡$新加坡#其他$其他||内地$内地#港台$港台#日韩$日韩#欧美$欧美||国产$国产#日本$日本#欧美$欧美#其他$其他",
-	"年代": "2009-2024"}},
-  
 
 //{"key":"海纳TV","name":"海纳TV","type":3,"api":"csp_XBPQ","jar": "./bhtv.txt","ext": {"主页url":"https://hainatv.net/","分类url": "https://hainatv.net/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html","分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$59#解说$64"}},
 
@@ -140,7 +130,8 @@
 
 	{"name": "胜0","type": 1,"url": "https://www.pangujiexi.com/pangu/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"]}}, 
 	{"name": "胜0","url": "https://jx.xmflv.cc/?url=","type": 0,"ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","qq 预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]}},
-	{"name":"胜1","type":1,"url":"https://www.playm3u8.cn/jiexi.php?url="}, 
+
+	{"name":"胜1","url":"https://www.playm3u8.cn/jiexi.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},	 
 	{"name":"寒1","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
         {"name":"胜2","type":0,"url":"https://www.8090g.cn/?url="},
         {"name":"寒2","type":1,"url":"http://vip.wpsseo.cn/jiexi/?v="},          

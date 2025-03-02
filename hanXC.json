@@ -16,8 +16,8 @@
 
     "sites": [
 	    
-{"key":"csp_DouDou","name":"胜寒提醒：请勿相信视频中广告！","jar": "./fan.txt","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
-
+{"key":"csp_DouDou","name":"胜寒提醒：请勿相信视频中广告！","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"filterable": 0},
+	    
 {"key": "Aid","name":"急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
 {"key": "js_星芽短剧","name":"星芽短剧","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/星芽短剧.js"},
 {"key":"Wexduanjuvop","name":"🍉短剧┃秒播🍉","type":3,"api":"csp_WexduanjuvopGuard","searchable":1,"changeable":1},

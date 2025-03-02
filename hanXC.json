@@ -116,6 +116,19 @@
 
 //   https://www.kkys01.com   https://www.kkys02.com        https://dl.kkys02.com/
 
+{"key":"drpy_js_360影视","name":"官源360","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/360影视.js"},
+{"key":"drpy_js_奇珍异兽","name":"官源爱奇艺","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/奇珍异兽.js"},
+{"key":"drpy_js_百忙无果","name":"官源芒果","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/百忙无果.js"},
+{"key":"drpy_js_腾云驾雾","name":"官源腾讯","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/腾云驾雾.js"},
+{"key":"drpy_js_菜狗","name":"官源搜狗","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/菜狗.js"},
+{"key":"drpy_js_优酷","name":"官源优酷","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/优酷.js"},
+{"key":"dr_兔小贝","name":"儿童启蒙","type":3,"api":"https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"少儿教育","name":"少儿教育","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce4019465168f841292"}},
+{"key":"小学课堂","name":"小学课堂","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb42128a"}},
+{"key":"初中课堂","name":"初中课堂","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb2d1289"}},
+{"key":"高中教育","name":"高中课堂","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bd90128b"}},
+		    
+
 {"key": "csp_hanhan","name": "请勿相信影片广告！","type": 1,"playerType": 2,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1}
 
 ],

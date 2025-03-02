@@ -1,7 +1,7 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 
 {
-  "spider":"https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/yg/raw/jar%2Fbhtv.txt?ref=main",
+  "spider":".bhtv.txt",
 //https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt  https://bgithub.xyz/guot55/yg/blob/main/box%E5%8E%9F.json
  //https://bgithub.xyz/qist/tvbox/blob/master/0821.json
     "lives": [
@@ -45,18 +45,13 @@
 //https://d.kstore.dev/download/7337/tw/%E8%87%AA%E7%94%A8%E5%8B%BF%E4%BC%A0.txt,   https://qixing.myhkw.com/DC.txt
 
 
-//{"key":"nangua2","name":"南瓜秒播","type": 3,"jar":"./spider.jar","playerType": "2","api": "./lib/南瓜.js"},	    
-//{"key":"农民影视","name":"农民影视","type":3,"api":"csp_Nmys","jar":"https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/MTEwNS5qYXI=?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"天天","name":"天天影视","type":3,"api":"csp_AppTT","jar":".fan.txt","searchable":1,"quickSearch":1,"filterable":1},    
-{"key":"天天2","name":"天天影视","type": 3,"api": "csp_TTian","playerType": 1,"ext": "baHR0cDovL29wLnlzZHFqcy5jbg==","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"},	    
-{"key":"萌米","name":"萌米影视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 {"key": "大师兄","name": "师兄影视", "type": 3, "api": "csp_XBPQ", "ext": {"简介": "剧情介绍：&&</p >", "分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
 	    	
 {"key":"木星","name":"木星多线","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"},
 //{"key":"csp_AppDaMi2","name":"大米影视","type":3,"playerType":"2","api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://damifan.wiki"},   
 //{"key":"csp_AppDaMi","name":"大米影视","type":3,"playerType":"2","api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app-v1.ecoliving168.com/"},
      
-{"key":"FreeOK","name":"️️FreeOK影视","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.freeok.lol"},	    
+//{"key":"FreeOK","name":"️️FreeOK影视","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.freeok.lol"},	    
 //https://link3.cc/dizhifabu      https://www.freeok.vip
 
 

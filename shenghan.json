@@ -15,8 +15,7 @@
 
 
 {"key":"原创","name":"原创不卡","type":3,"api":"csp_YCyzGuard","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"苹果","name":"苹果影视","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"厂长","name":"厂长影视","type":3,"api":"csp_NewCzGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzyvideo.com/"},
+
 {"key":"糯米","name":"糯米秒播","type":3,"api":"csp_NmyswvGuard","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"文采","name":"文采秒播","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
@@ -29,12 +28,13 @@
 //360zy.com 360zy.net 360zy.vip 360zy.top 360zy.tv 
 {"key": "csp_非凡资源","name": "非凡影院","type": 1,"api": "http://api.ffzyapi.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["短剧","国产剧","大陆综艺", "国产动漫","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
 //非凡资源备用网址:ffzy1.tv ffzy2.tv ffzy3.tv ffzy4.tv ffzy5.tv
-{"key":"drpy_js_360影视","name":"官源┃360[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
-{"key":"drpy_js_奇珍异兽","name":"官源┃爱奇艺[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
-{"key":"drpy_js_百忙无果","name":"官源┃芒果[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/百忙无果.js"},
-{"key":"drpy_js_腾云驾雾","name":"官源┃腾讯[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾.js"},
-{"key":"drpy_js_菜狗","name":"官源┃搜狗[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/菜狗.js"},
-{"key":"drpy_js_优酷","name":"官源┃优酷[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
+	
+{"key":"drpy_js_360影视","name":"官源360","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/360影视.js"},
+{"key":"drpy_js_奇珍异兽","name":"官源爱奇艺","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/奇珍异兽.js"},
+{"key":"drpy_js_百忙无果","name":"官源芒果","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/百忙无果.js"},
+{"key":"drpy_js_腾云驾雾","name":"官源腾讯","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/腾云驾雾.js"},
+{"key":"drpy_js_菜狗","name":"官源搜狗","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/菜狗.js"},
+{"key":"drpy_js_优酷","name":"官源优酷","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/优酷.js"},
 
 {"key": "csp_hanhan","name": "请勿相信影片广告！","type": 1,"playerType": 2,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1}
 

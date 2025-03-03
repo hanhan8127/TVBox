@@ -1,20 +1,20 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 
 {
-"spider":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt",
-
-//	https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt,   https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/Yoursmile.jar
-"lives": [{"name": "live","type": 0,"url": "./live.txt","playerType":2,
+  "spider":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt",
+ //https://bgithub.xyz/qist/tvbox/blob/master/0821.json       ,https://bgithub.xyz/guot55/yg/blob/main/box%E5%8E%9F.json
+ // https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/Yoursmile.jar
+"lives": [{"name": "live","type": 0,
+	"url": "./live.txt","playerType":2,
 	"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-	"logo": "https://live.fanmingming.com/tv/{name}.png"}
-        
-],
+	"logo": "https://live.fanmingming.com/tv/{name}.png"
+}],
 
 "sites":[
 
 {"key":"豆瓣","name":"胜寒提醒：请勿相信视频中广告！","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key": "Aid","name":"急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
-{"key": "js_星芽短剧","name":"星芽短剧","type":3,"api":"./lib/drpy2.min.js","ext": "./lib/星芽短剧.js"},
+{"key": "Aid","name":"急救教学","jar": "./bhtv.txt","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
+{"key": "星芽短剧","name":"星芽短剧","jar": "./bhtv.txt","type":3,"api":"./lib/drpy2.min.js","ext": "./lib/星芽短剧.js"},
 {"key":"厂长","name":"厂长不卡","type":3,"api":"csp_NewCzGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzyvideo.com/"},
 {"key":"文采","name":"金牌秒播","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"贱贱","name":"荐片影视","type":3,"api":"csp_JPJGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
@@ -25,7 +25,7 @@
 {"key":"木星","name":"木星影视","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA=="},
 {"key":"可可","name":"可可影视","type":3,"api":"csp_KekysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
-{"key":"闪雷","name":"闪雷影视","type":3,"api":"./FTY/drpy2.min.js","ext":"./js/678.js"},	
+{"key":"闪雷","name":"闪雷影视","type":3,"api":"./FTY/drpy2.min.js","ext":"./lib/678.js"},	
 {"key":"drpy_js_骚火电影","name":"骚火电影","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/骚火电影.js"},
 {"key":"drpy_js_星辰影院","name":"星辰影院","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/星辰.js"},
 {"key":"drpy_js_8号影院","name":"8号影院","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/8号影院.js"},

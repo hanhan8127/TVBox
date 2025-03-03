@@ -23,12 +23,12 @@
 {"key":"苹果","name":"苹果影视","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"瓜子","name":"瓜子影视","type":3,"jar": "./bhtv.txt","api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},	
 {"key":"csp_Nongm","name":"农民影视","jar": "./bhtv.txt","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wwgz.cn"},  
-{"key":"csp_SaoHuo","name":"骚火影视","type":3,"api":"csp_SaoHuo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shdy5.us"},
-{"key":"csp_Jiaozi","name":"饺子影视","type":3,"api":"csp_Jiaozi","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "全网影视","name": "全看影视","type": 3,"api": "csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},    
+{"key":"csp_SaoHuo","name":"骚火影视","jar":"./lib/Yoursmile.jar","type":3,"api":"csp_SaoHuo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shdy5.us"},
+{"key":"csp_Jiaozi","name":"饺子影视","jar":"./lib/Yoursmile.jar","type":3,"api":"csp_Jiaozi","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "全网影视","name": "全看影视","jar":"./lib/Yoursmile.jar","type": 3,"api": "csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},    
 //https://m.91qkw.cc/,https://www.91qkw.com/,https://www.qkw1.com/,https://888.qkw2.cc,https://888.91qkw.com 	
-{"key":"csp_xlys","name":"🧲修罗","type":3,"api":"csp_xlys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.xlys.ltd.ua"},
-{"key":"csp_Mp4Mov","name":"🧲Mp4电影","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.momp4.cc"},
+{"key":"csp_xlys","name":"🧲修罗","jar":"./lib/Yoursmile.jar","type":3,"api":"csp_xlys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.xlys.ltd.ua"},
+{"key":"csp_Mp4Mov","name":"🧲Mp4电影","jar":"./lib/Yoursmile.jar","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.momp4.cc"},
 
 {"key":"神车","name":"神车秒播","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"},		
 {"key":"木星","name":"木星影视","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA=="},
@@ -46,7 +46,7 @@
 //https://d.kstore.dev/download/7337/tw/lib/tvkj.jar	    
 //{"key": "新界影视","name": "新界影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/新界影视.js"},
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://bgithub.xyz/guot55/yg
-{"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","jar": "./bhtv.txt","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
+{"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","jar":"./bhtv.txt","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
 {"key": "网飞猫影视","name": "飞猫影视","type": 3,"api": "csp_XBPQ","jar":"./lib/XBPQ.jar",
             "ext": {"数组": "module-item\">&&</div>","剧情": "[替换:伦理>>NETFLIX]","图片": "https://vres.vukfnqr.com+data-original=\"&&\"",
                 "分类url": "https://www.ncat2.com/show/{cateId}-{class}-{area}--{year}-2-{catePg}.html","分类": "短剧$6#电影$1#电视剧$2#综艺$4#动漫$3"}},	     

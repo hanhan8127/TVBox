@@ -14,7 +14,7 @@
 
 {"key":"豆瓣","name":"胜寒提醒：请勿相信视频中广告！","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "Aid","name":"急救教学","jar": "./bhtv.txt","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
-{"key": "星芽短剧","name":"星芽短剧","jar": "./bhtv.txt","type":3,"api":"./lib/drpy2.min.js","ext": "./lib/星芽短剧.js"},
+{"key": "星芽短剧","name":"星芽短剧","type":3,"api":"./lib/drpy2.min.js","ext": "./lib/星芽短剧.js"},
 {"key":"厂长","name":"厂长不卡","type":3,"api":"csp_NewCzGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzyvideo.com/"},
 {"key":"文采","name":"金牌秒播","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"贱贱","name":"荐片影视","type":3,"api":"csp_JPJGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
@@ -35,8 +35,8 @@
 //https://d.kstore.dev/download/7337/tw/lib/tvkj.jar	    
 //{"key": "新界影视","name": "新界影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/新界影视.js"},
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://bgithub.xyz/guot55/yg
-{"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","jar": "./bhtv.txt","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
-{"key": "网飞猫影视","name": "飞猫影视","type": 3,"api": "csp_XBPQ","jar": "./bhtv.txt",
+{"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
+{"key": "网飞猫影视","name": "飞猫影视","type": 3,"api": "csp_XBPQ","jar":"./lib/XBPQ.jar",
             "ext": {"数组": "module-item\">&&</div>","剧情": "[替换:伦理>>NETFLIX]","图片": "https://vres.vukfnqr.com+data-original=\"&&\"",
                 "分类url": "https://www.ncat2.com/show/{cateId}-{class}-{area}--{year}-2-{catePg}.html","分类": "短剧$6#电影$1#电视剧$2#综艺$4#动漫$3"}},	     
 	    
@@ -50,7 +50,8 @@
 {"key":"drpy_js_8号影院","name":"8号影院","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/8号影院.js"},
 {"key":"drpy_js_348电影网","name":"348电影网","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/348电影网.js"},
 {"key":"drpy_js_TVB云播","name":"TVB云播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/TVB云播.js"},
-{"key": "大师兄","name": "师兄影视", "type": 3, "api": "csp_XBPQ","jar": "./bhtv.txt", "ext": {"简介": "剧情介绍：&&</p >", "分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
+{"key": "大师兄","name": "师兄影视", "type": 3, "api": "csp_XBPQ","jar":"./lib/XBPQ.jar","ext": {"简介": "剧情介绍：&&</p >", "分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
+
 {"key":"华为吧","name":"影视你看","type":1,"api":"https://huaweiba.live/api.php/provide/vod/","searchable":1,
 	"categories":["国产剧","短剧","国产综艺","国产动漫","日韩动漫","冒险片","剧情片","动作片","动画电影","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","歌舞片","灾难片","爱情片","科幻片","犯罪片","经典片","网络电影","战争片","欧美剧","日剧","韩剧","台剧","泰剧","港剧","新马剧","其他剧","动漫","综艺","体育","纪录片","篮球","足球","网球","斯诺克","欧美动漫","新马泰动漫","港台动漫","其他动漫","日韩综艺","欧美综艺","新马泰综艺","港台综艺","其他综艺"]},
 {"key": "csp_非凡资源","name": "非凡影院","type": 1,"api": "http://api.ffzyapi.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -62,12 +63,13 @@
 {"key":"cj_360","name":"360资源","type":1,"api":"https://360zy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playUrl":"https://www.360jiexi.com/player/?url=",
 	"categories":["国产剧","大陆综艺","韩国剧","成长逆袭","年代穿越","古装仙侠","现代都市","国产动漫","动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","日本动漫","香港剧","欧美剧","日本剧","港台综艺","日韩综艺"]},
 //360zy.com 360zy.net 360zy.vip 360zy.top 360zy.tv 
-{"key":"晴天","name":"影视晴天","type":3,"api":"csp_XBPQ","jar": "./bhtv.txt","searchable":1,"quickSearch":1,"filterable":1,
+	
+{"key":"晴天","name":"影视晴天","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"分类url":"https://www.qinttv.com/qtyy/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
 	"搜索url":"https://www.qinttv.com/qtcz.html;post;wd={wd}&submit=","分类":"电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi"}},
 
-//{"key": "csp_星辰","name":"星辰秒播","type": 3,"api": "csp_XBPQ","jar": "./bhtv.txt","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/星辰影视.json"},	    
-//{"key":"xcys","name":"星辰影视","type":3,"api":"csp_XBPQ","jar": "./bhtv.txt","ext": {"分类url":"http://m.disc800.com/species/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html","分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5"}},
+//{"key": "csp_星辰","name":"星辰秒播","type": 3,"api": "csp_XBPQ","jar":"./lib/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/星辰影视.json"},	    
+//{"key":"xcys","name":"星辰影视","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","ext": {"分类url":"http://m.disc800.com/species/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html","分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5"}},
     
 
 	

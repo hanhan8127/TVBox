@@ -16,11 +16,11 @@
 {"key":"csp_DouBan","name":"胜寒提醒您：请勿相信视频中广告！","type":3,"api":"csp_DouBan","searchable":0,"filterable":1,"changeable":1},
 
 {"key": "全网影视","name": "全看影视","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},    
-{"key": "全网影视","name": "全看影视","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.qkwaa.com/"},  	
+{"key": "全网影视2","name": "全看影视","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.qkwaa.com/"},  	
 //https://m.91qkw.cc/,https://www.91qkw.com/,https://www.qkwaa.com/,https://888.qkw2.cc,https://888.91qkw.com 
 //"jar": "./bhtv.txt",
 {"key":"金牌","name":"金牌影视","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
+{"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","jar":"./bhtv.txt","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
 {"key":"csp_SP360","name":"360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 //{"key":"csp_Czsapp","name":"厂长影视","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.czzyvideo.com"},
 //{"key":"csp_Nongm","name":"农民影视","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wwgz.cn"},
@@ -54,11 +54,9 @@
 {"key":"drpy_js_8号影院","name":"8号影院","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/8号影院.js"},
 {"key":"drpy_js_348电影网","name":"348电影网","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/348电影网.js"},
 
-{"key": "大师兄","name": "师兄影视", "type": 3, "api": "csp_XBPQ","jar":"./lib/XBPQ.jar","ext": {"简介": "剧情介绍：&&</p >", "分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
-{"key":"晴天","name":"影视晴天","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","searchable":1,"quickSearch":1,"filterable":1,
-	"ext":{"分类url":"https://www.qinttv.com/qtyy/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
-	"搜索url":"https://www.qinttv.com/qtcz.html;post;wd={wd}&submit=","分类":"电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi"}},
-	//"jar":"./bhtv.txt",
+{"key":"可可","name":"☕️可可","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/可可影视.json"},
+{"key":"csp_Fantuan","name":"🍙饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"click":"document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","ext":"https://www.fantuan.vip"},
+{"key":"csp_Ddys","name":"📺低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"华为吧","name":"影视你看","type":1,"api":"https://huaweiba.live/api.php/provide/vod/","searchable":1,
 	"categories":["国产剧","短剧","国产综艺","国产动漫","日韩动漫","冒险片","剧情片","动作片","动画电影","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","歌舞片","灾难片","爱情片","科幻片","犯罪片","经典片","网络电影","战争片","欧美剧","日剧","韩剧","台剧","泰剧","港剧","新马剧","其他剧","动漫","综艺","体育","纪录片","篮球","足球","网球","斯诺克","欧美动漫","新马泰动漫","港台动漫","其他动漫","日韩综艺","欧美综艺","新马泰综艺","港台综艺","其他综艺"]},
 {"key": "csp_非凡资源","name": "非凡影院","type": 1,"api": "http://api.ffzyapi.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -70,8 +68,6 @@
 {"key":"cj_360","name":"360资源","type":1,"api":"https://360zy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playUrl":"https://www.360jiexi.com/player/?url=",
 	"categories":["国产剧","大陆综艺","韩国剧","成长逆袭","年代穿越","古装仙侠","现代都市","国产动漫","动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","日本动漫","香港剧","欧美剧","日本剧","港台综艺","日韩综艺"]},
 //360zy.com 360zy.net 360zy.vip 360zy.top 360zy.tv 
-	
-
 
 
 {"key":"drpy_js_360影视","name":"官源360","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/360影视.js"},

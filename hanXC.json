@@ -3,7 +3,7 @@
 {
   "spider":"./o.jar",
 	
- //https://fmbox.cc       ,https://bgithub.xyz/guot55/yg/blob/main/box%E5%8E%9F.json
+ //https://fmbox.cc,   https://bgithub.xyz/guot55/yg/blob/main/box%E5%8E%9F.json
  // https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/Yoursmile.jar
 "lives": [{"name": "live","type": 0,
 	"url": "./live.txt","playerType":2,
@@ -25,8 +25,8 @@
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://bgithub.xyz/guot55/yg  https://chuang999.com/
 //{"key": "金牌影视","name": "金牌影视","jar":"./bhtv.txt","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/金牌影视.js"},	
 {"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
-
-{"key":"瓜子影视1","name":"瓜子影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"真心影视","name":"真心影视","type":3,"api":"csp_WebGZ","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"360","name":"360影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "瓜子","name": "瓜子秒播","type":3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "./lib/drpy2.min.js","ext": "./lib/瓜子.js"},		
 {"key":"低端影视","name":"低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"厂长影视","type":3,"jar":"./Yoursmile.jar","api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.czzyvideo.com"},
@@ -35,16 +35,16 @@
 //骚火发布页http://shapp.us/；https://saohuo.tv/	  https://hhjx.hhplayer.com/api.php 	
 {"key":"Appdyyz","name":"影视站长","type":3,"api":"csp_AppGetApp","searchable":1,"quickSearch":0,"filterable":0,"ext":"w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCoVpcUFfDjMOcw67DnsOPwqXCnFdqwpnCmsOiw63DrsKjwqNqX8Kow6DCs8Ocw6VlaMKWwqfCr8Ohwq3DpsKvwp5naMKRwqrCo8OewqfDnsKswqnCqmLCp8OWw6nDpsK0aGZoacKow5TDqsOiwqjCo8KYwqBXwqXCk8Khw4LDqMKcwqTCh8Kfw6vDl8KhwrPCmlpXXFDCoMOnw6PDqcKhbVBXwovlh77phZvmkJ/lkZzCpuWGn+S9h+WQp2rlv6roqLnotr7mvInnrZPCkFdcUMKgwrTDn8Osw4XCmMKpV2rCmcKaw57DssOzwq3CpMKmwpHDqcOcw5vDqcOqwqzCqcKUwqPCoMKfwprCoMK7wpjCo3nCpsKgwq3CmsKgw57CrMKpwqrCpMOvw5TDqsOiw5vCo8KgwqnCqcOdw6bCocKlwppawpTClcKTw6vDrMOqw63DhcKYwqlXasKZwprDscKuwq9kYGJkwrHCmsO3"},
 {"key":"nm","name":"农民影视","type":3,"api":"csp_WebNM","jar":"https://lz.qaiu.top/d/lz/irCNk2p8aaqh","searchable":1,"quickSearch":0,"filterable":0,"ext":"w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKawqpewpPDp8KawqbCmcKhwqfCmcKgV8KzwpPCocOU5Ye/6YSb5o+V5ZCTXOWHpeS+iuWRscKz5b+r6Ke56LW05ruA56yJw5bCmsKmwpnCocKXwpXCk8Kiw7LDo8Ouw4TDn8KsV2pQwqDDqsKvwq7Cq2NiZGjCoMOw"},
-	
+{"key":"csp_SuBaiBai","name":"素白影视","type":3,"api":"csp_SuBaiBai","jar":"https://123.yp22.cn/d/lz/iHcFs2hv7raf","playerType":2,"ext":"https://subaibai.com/"},	
 {"key":"csp_Jiaozi","name":"饺子影视","type":3,"api":"csp_Jiaozi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xlys","name":"修罗影院","type":3,"api":"csp_xlys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.xlys.ltd.ua"},
 
 
-//{"key": "天天影视","name": "天天影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "天天影视","name": "天天影视","jar":"./fan.jar","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"可可2","name":"可可影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.bgithub.xyz/yoursmile66/TVBox/refs/heads/main/sub/可可影视.json"},
 
-{"key": "星芽短剧","name":"星芽短剧","type":3,"api":"./lib/drpy2.min.js","ext": "./lib/星芽短剧.js"},
+{"key": "星芽短剧","name":"星芽短剧","jar":"./fan.jar","type":3,"api":"./lib/drpy2.min.js","ext": "./lib/星芽短剧.js"},
 {"key":"你好帅","name":"好帅短剧","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html","分类":"穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan","播放数组":"<divclass=\"sort-item\"&&</div>"}},
    	    
 //https://dianyi.ng/    https://XianShe.ng   https://xn--44qz85a01qpc.com/   https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json
@@ -55,8 +55,6 @@
 {"key":"drpy_js_8号影院","name":"8号影院","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/8号影院.js"},
 {"key":"drpy_js_348电影网","name":"348电影网","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/348电影网.js"},
 
-
-	
 {"key": "csp_非凡资源","name": "非凡影院","type": 1,"api": "http://api.ffzyapi.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,
 	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
 //非凡资源备用网址:ffzy1.tv ffzy2.tv ffzy3.tv ffzy4.tv ffzy5.tv

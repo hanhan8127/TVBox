@@ -1,7 +1,7 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 
 {
-  "spider":"./lib/Yoursmile.jar",
+  "spider":"./Yoursmile.jar",
 //"spider":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt",
  //https://bgithub.xyz/qist/tvbox/blob/master/0821.json       ,https://bgithub.xyz/guot55/yg/blob/main/box%E5%8E%9F.json
  // https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/Yoursmile.jar
@@ -14,11 +14,28 @@
 "sites":[
 
 {"key":"csp_DouBan","name":"胜寒提醒您：请勿相信视频中广告！","type":3,"api":"csp_DouBan","searchable":0,"filterable":1,"changeable":1},
-	
 {"key": "Aid","name":"急救教学","type":3,"api":"csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
 {"key": "全网影视","name": "全看影视","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},    
 //https://m.91qkw.cc/,https://www.91qkw.com/,https://www.qkw1.com/,https://888.qkw2.cc,https://888.91qkw.com 
 //"jar": "./bhtv.txt",
+	
+
+{"key":"金牌","name":"金牌影视","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"原创","name":"原创不卡","jar":".fan.txt","type":3,"api":"csp_YCyzGuard","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},	
+{"key":"厂长","name":"厂长不卡","jar":".fan.txt","type":3,"api":"csp_NewCzGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzyvideo.com/"},
+{"key":"糯米","name":"糯米秒播","jar":".fan.txt","type":3,"api":"csp_NmyswvGuard","searchable":1,"quickSearch":1,"changeable":1},	
+{"key":"苹果","name":"苹果影视","jar":".fan.txt","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"瓜子2","name":"瓜子影视","jar":"./bhtv.txt","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},		
+
+
+
+{"key":"神车","name":"神车秒播","type":3,"jar":".fan.txt","api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"},		
+{"key":"木星","name":"木星影视","type":3,"jar":".fan.txt","api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA=="},
+{"key":"可可","name":"可可影视","type":3,"jar":".fan.txt","api":"csp_KekysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+
+	
+
 
 //骚火发布页http://shapp.us/；https://saohuo.tv/	  https://hhjx.hhplayer.com/api.php 
   

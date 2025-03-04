@@ -1,7 +1,7 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 
 {
-  "spider":"https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar",
+  "spider":"./lib/Yoursmile.jar",
 //"spider":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt",
  //https://bgithub.xyz/qist/tvbox/blob/master/0821.json       ,https://bgithub.xyz/guot55/yg/blob/main/box%E5%8E%9F.json
  // https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/Yoursmile.jar
@@ -16,19 +16,19 @@
 {"key":"csp_DouBan","name":"胜寒提醒：请勿相信视频中广告！","type":3,"api":"csp_DouBan","searchable":0,"filterable":1,"changeable":1},
 	
 {"key": "Aid","name":"急救教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
-{"key": "全网影视","name": "全看影视","jar":"https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar","type": 3,"api": "csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},    
+{"key": "全网影视","name": "全看影视","type": 3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},    
 //https://m.91qkw.cc/,https://www.91qkw.com/,https://www.qkw1.com/,https://888.qkw2.cc,https://888.91qkw.com 
 //"jar": "./bhtv.txt",
 	
-{"key":"厂长","name":"厂长不卡","jar": ".fan.txt","type":3,"api":"csp_NewCzGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzyvideo.com/"},
+{"key":"厂长","name":"厂长不卡","jar":".fan.txt","type":3,"api":"csp_NewCzGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzyvideo.com/"},
 
 {"key":"金牌","name":"金牌影视","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"原创","name":"原创不卡","jar": ".fan.txt","type":3,"api":"csp_YCyzGuard","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},	
+{"key":"原创","name":"原创不卡","jar":".fan.txt","type":3,"api":"csp_YCyzGuard","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},	
 
-{"key":"糯米","name":"糯米秒播","jar": ".fan.txt","type":3,"api":"csp_NmyswvGuard","searchable":1,"quickSearch":1,"changeable":1},	
-{"key":"苹果","name":"苹果影视","jar": ".fan.txt","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"瓜子2","name":"瓜子影视","jar": "./bhtv.txt","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},	
+{"key":"糯米","name":"糯米秒播","jar":".fan.txt","type":3,"api":"csp_NmyswvGuard","searchable":1,"quickSearch":1,"changeable":1},	
+{"key":"苹果","name":"苹果影视","jar":".fan.txt","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"瓜子2","name":"瓜子影视","jar":"./bhtv.txt","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},	
 {"key":"csp_SP360","name":"💘360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},	
 {"key":"csp_Nongm","name":"农民影视","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wwgz.cn"},  
 {"key":"csp_SaoHuo","name":"骚火影视","type":3,"api":"csp_SaoHuo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shdy5.us"},
@@ -46,9 +46,9 @@
   
 {"key": "瓜子","name": "瓜子秒播","jar": "./bhtv.txt","type":3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "./lib/drpy2.min.js","ext": "./lib/瓜子.js"},
 //https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar
-//{"key":"金牌影视3","name": "金牌影视3","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/金牌影视3.js"},  	    
-//{"key":"金牌影视2","name": "金牌影视","jar": "./bhtv.txt","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/金牌影视2.js"},  
-//{"key": "金牌影视","name": "金牌影视","jar": "./bhtv.txt","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/金牌影视.js"},
+//{"key":"金牌影视3","name": "金牌影视3","type":3,"api": "./lib/drpy2.min.js","ext": "./lib/金牌影视3.js"},  	    
+//{"key":"金牌影视2","name": "金牌影视","jar":"./bhtv.txt","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/金牌影视2.js"},  
+//{"key": "金牌影视","name": "金牌影视","jar":"./bhtv.txt","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/金牌影视.js"},
 //{"key": "星芽短剧","name":"星芽短剧","type":3,"api":"./lib/drpy2.min.js","ext": "./lib/星芽短剧.js"},
 //https://d.kstore.dev/download/7337/tw/lib/tvkj.jar	    
 //{"key": "新界影视","name": "新界影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/新界影视.js"},

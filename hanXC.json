@@ -1,7 +1,7 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 
 {
-  "spider":"https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;DF7184AAABAEF68D4AB452231F988947",
+  "spider":"https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar",
 //"spider":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt",
  //https://bgithub.xyz/qist/tvbox/blob/master/0821.json       ,https://bgithub.xyz/guot55/yg/blob/main/box%E5%8E%9F.json
  // https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/Yoursmile.jar
@@ -36,14 +36,14 @@
 //{"key":"神车","name":"神车秒播","type":3,"jar":".fan.txt","api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"},		
 //{"key":"木星","name":"木星影视","type":3,"jar":".fan.txt","api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA=="},
 //{"key":"可可","name":"可可影视","type":3,"jar":".fan.txt","api":"csp_KekysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"可可2","name":"可可影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.bgithub.xyz/yoursmile66/TVBox/refs/heads/main/sub/可可影视.json"},
+{"key":"可可2","name":"可可影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.bgithub.xyz/yoursmile66/TVBox/refs/heads/main/sub/可可影视.json"},
 
-{"key":"金牌影视3","name": "金牌影视3","type":3,"api": "./lib/drpy2.min.js","ext": "./lib/金牌影视3.js"},  	    
-{"key":"金牌影视2","name": "金牌影视","jar":"./bhtv.txt","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/金牌影视2.js"},  
+//{"key":"金牌影视3","name": "金牌影视3","type":3,"api": "./lib/drpy2.min.js","ext": "./lib/金牌影视3.js"},  	    
+//{"key":"金牌影视2","name": "金牌影视","jar":"./bhtv.txt","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/金牌影视2.js"},  
 //{"key": "金牌影视","name": "金牌影视","jar":"./bhtv.txt","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/金牌影视.js"},
 //{"key": "星芽短剧","name":"星芽短剧","type":3,"api":"./lib/drpy2.min.js","ext": "./lib/星芽短剧.js"},
 //https://d.kstore.dev/download/7337/tw/lib/tvkj.jar	    
-{"key": "新界影视","name": "新界影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/新界影视.js"},
+//{"key": "新界影视","name": "新界影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/新界影视.js"},
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://bgithub.xyz/guot55/yg
      	    
 //https://dianyi.ng/    https://XianShe.ng   https://xn--44qz85a01qpc.com/   https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json

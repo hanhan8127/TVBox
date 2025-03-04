@@ -2,8 +2,8 @@
 
 {
   "spider":"./o.jar",
-//"spider":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt",
- //https://bgithub.xyz/qist/tvbox/blob/master/0821.json       ,https://bgithub.xyz/guot55/yg/blob/main/box%E5%8E%9F.json
+	
+ //https://fmbox.cc       ,https://bgithub.xyz/guot55/yg/blob/main/box%E5%8E%9F.json
  // https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/Yoursmile.jar
 "lives": [{"name": "live","type": 0,
 	"url": "./live.txt","playerType":2,
@@ -18,10 +18,16 @@
 {"key": "全视","name":"全看影视","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},  
 {"key":"全网影视","name":"全看影视","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.qkwaa.com/"},  	
 //https://m.91qkw.cc/,https://www.91qkw.com/,https://www.qkwaa.com/,https://888.qkw2.cc,https://888.91qkw.com ,https://888.qkw1.cc/
-
+{"key":"界影视","name":"影界影视","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hkybqufgh.com/"},
+{"key":"金牌影视1","name":"金牌影视","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.yuhelover.com/"},	
+{"key":"金牌影视1","name":"金牌影视","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.cfkj86.com"},		
+//{"key": "新界影视","name": "新界影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/新界影视.js"},
+//https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://bgithub.xyz/guot55/yg
+	
 {"key":"金牌","name":"金牌影视","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
 //"jar":"./bhtv.txt",
+{"key":"界影视","name":"影界影视","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hkybqufgh.com/"},	
 {"key":"csp_Czsapp","name":"厂长影视","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.czzyvideo.com"},
 {"key":"csp_Nongm","name":"农民影视","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wwgz.cn"},
 {"key":"csp_SaoHuo","name":"骚火影视","type":3,"api":"csp_SaoHuo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shdy5.us"},
@@ -44,8 +50,7 @@
  {"key":"你好帅","name":"好帅短剧","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html","分类":"穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan","播放数组":"<divclass=\"sort-item\"&&</div>"}},
 {"key":"大师兄","name":"大师┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},
 
-//{"key": "新界影视","name": "新界影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/新界影视.js"},
-//https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://bgithub.xyz/guot55/yg
+
      	    
 //https://dianyi.ng/    https://XianShe.ng   https://xn--44qz85a01qpc.com/   https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json
  

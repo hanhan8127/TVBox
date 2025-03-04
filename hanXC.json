@@ -15,9 +15,9 @@
 
 {"key":"csp_DouBan","name":"胜寒提醒您：请勿相信视频中广告！","type":3,"api":"csp_DouBan","searchable":0,"filterable":1,"changeable":1},
 
-{"key": "全网影视","name": "全看影视","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},  
+{"key":"全网影视","name":"全看影视","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},  
 
- 	
+{"key": "全视","name":"全看影视","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},  	
 //https://m.91qkw.cc/,https://www.91qkw.com/,https://www.qkwaa.com/,https://888.qkw2.cc,https://888.91qkw.com ,https://888.qkw1.cc/
 //"jar": "./bhtv.txt",
 {"key":"金牌","name":"金牌影视","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -33,7 +33,7 @@
 {"key":"csp_xlys","name":"修罗影院","type":3,"api":"csp_xlys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.xlys.ltd.ua"},
 {"key":"csp_Mp4Mov","name":"Mp4电影","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.momp4.cc"},
 {"key":"瓜子2","name":"瓜子影视","jar":"./bhtv.txt","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},		
-{"key": "瓜子","name": "瓜子秒播","type":3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "./lib/drpy2.min.js","ext": "./lib/瓜子.js"},
+//{"key": "瓜子","name": "瓜子秒播","type":3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "./lib/drpy2.min.js","ext": "./lib/瓜子.js"},
 {"key": "天天影视","name": "天天影视","jar":"./bhtv.txt","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 //{"key":"神车","name":"神车秒播","type":3,"jar":".fan.txt","api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"},		

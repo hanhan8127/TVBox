@@ -1,7 +1,7 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 
 {
-  "spider":"./Yoursmile.jar",
+  "spider":"https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;DF7184AAABAEF68D4AB452231F988947",
 //"spider":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt",
  //https://bgithub.xyz/qist/tvbox/blob/master/0821.json       ,https://bgithub.xyz/guot55/yg/blob/main/box%E5%8E%9F.json
  // https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/Yoursmile.jar
@@ -17,7 +17,7 @@
 
 {"key": "全网影视","name": "全看影视","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},    
 {"key": "全网影视2","name": "全看影视","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.qkwaa.com/"},  	
-//https://m.91qkw.cc/,https://www.91qkw.com/,https://www.qkwaa.com/,https://888.qkw2.cc,https://888.91qkw.com 
+//https://m.91qkw.cc/,https://www.91qkw.com/,https://www.qkwaa.com/,https://888.qkw2.cc,https://888.91qkw.com ,https://888.qkw1.cc/
 //"jar": "./bhtv.txt",
 {"key":"金牌","name":"金牌影视","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","jar":"./bhtv.txt","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
@@ -36,6 +36,7 @@
 //{"key":"神车","name":"神车秒播","type":3,"jar":".fan.txt","api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"},		
 //{"key":"木星","name":"木星影视","type":3,"jar":".fan.txt","api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA=="},
 //{"key":"可可","name":"可可影视","type":3,"jar":".fan.txt","api":"csp_KekysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"可可2","name":"可可影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.bgithub.xyz/yoursmile66/TVBox/refs/heads/main/sub/可可影视.json"},
 
 {"key":"金牌影视3","name": "金牌影视3","type":3,"api": "./lib/drpy2.min.js","ext": "./lib/金牌影视3.js"},  	    
 {"key":"金牌影视2","name": "金牌影视","jar":"./bhtv.txt","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/金牌影视2.js"},  
@@ -54,10 +55,7 @@
 {"key":"drpy_js_8号影院","name":"8号影院","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/8号影院.js"},
 {"key":"drpy_js_348电影网","name":"348电影网","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/348电影网.js"},
 
-{"key":"可可","name":"☕️可可","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/可可影视.json"},
-{"key":"csp_Fantuan","name":"🍙饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"click":"document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","ext":"https://www.fantuan.vip"},
-{"key":"csp_Ddys","name":"📺低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"华为吧","name":"影视你看","type":1,"api":"https://huaweiba.live/api.php/provide/vod/","searchable":1,
+
 	"categories":["国产剧","短剧","国产综艺","国产动漫","日韩动漫","冒险片","剧情片","动作片","动画电影","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","歌舞片","灾难片","爱情片","科幻片","犯罪片","经典片","网络电影","战争片","欧美剧","日剧","韩剧","台剧","泰剧","港剧","新马剧","其他剧","动漫","综艺","体育","纪录片","篮球","足球","网球","斯诺克","欧美动漫","新马泰动漫","港台动漫","其他动漫","日韩综艺","欧美综艺","新马泰综艺","港台综艺","其他综艺"]},
 {"key": "csp_非凡资源","name": "非凡影院","type": 1,"api": "http://api.ffzyapi.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,
 	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},

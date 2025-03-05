@@ -41,8 +41,7 @@
 {"key":"csp_Jiaozi","name":"饺子影视","type":3,"api":"csp_Jiaozi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xlys","name":"修罗影院","type":3,"api":"csp_xlys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.xlys.ltd.ua"},
 
-{"key":"天天","name":"天天影视","type":3,"api":"csp_TTian","playerType":1,"ext":"baHR0cDovL3R0LnlzZHFqcy5jbg=="},
-
+{"key":"天天","name":"天天影视","jar":"http://cdn.qiaoji8.com/fix250304.jar","type":3,"api":"csp_TTian","playerType":1,"ext":"baHR0cDovL3R0LnlzZHFqcy5jbg=="},
 
 {"key":"可可2","name":"可可影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.bgithub.xyz/yoursmile66/TVBox/refs/heads/main/sub/可可影视.json"},
 	

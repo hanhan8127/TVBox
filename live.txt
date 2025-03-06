@@ -6,6 +6,7 @@ CCTV-13新闻,https://live.mxdyeah.top/live.php?id=CCTVNewsHD
 CCTV-4K,https://live.mxdyeah.top/live.php?id=CCTV4K
 
 CCTV-1综合,https://live.mxdyeah.top/live.php?id=cctv1HD
+CCTV-1综合,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV-2财经,https://live.mxdyeah.top/live.php?id=cctv2HD
 CCTV-3综艺,https://live.mxdyeah.top/live.php?id=cctv3HD
 CCTV-4国际,https://live.mxdyeah.top/live.php?id=cctv4HD

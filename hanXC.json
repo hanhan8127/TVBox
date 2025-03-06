@@ -6,7 +6,7 @@
  //https://fmbox.cc,   https://bgithub.xyz/guot55/yg/blob/main/box%E5%8E%9F.json
  // https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/Yoursmile.jar
 "lives": [{"name": "live","type": 0,
-	"url": "./itv.txt","playerType":2,
+	"url": "./live.txt","playerType":2,
 	"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
 	"logo": "https://live.fanmingming.com/tv/{name}.png"
 }],

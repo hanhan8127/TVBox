@@ -3,6 +3,8 @@
 央视频道,#genre#
 
 CCTV-13新闻,https://live.mxdyeah.top/live.php?id=CCTVNewsHD
+CCTV-4K,http://1752e145z8.vicp.fun:35455/gaoma/cctv4k.m3u8
+CCTV-4K,http://xiaoya.crccxw.top:35455/gaoma/cctv4k.m3u8
 CCTV-4K,https://live.mxdyeah.top/live.php?id=CCTV4K
 
 CCTV-1综合,http://1752e145z8.vicp.fun:35455/gaoma/cctv1.m3u8

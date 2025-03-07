@@ -14,6 +14,11 @@
 "sites":[
 
 {"key":"豆瓣","name":"胜寒提醒您：请勿相信视频中广告！","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
+
+{"key": "巧技一","name": "🗺︎巧技┃秒播","type": 3,"api": "csp_qiao2","playerType": 2,"ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"},
+//"jar": "./jar/巧技.jar",
+	
+{"key": "全网","name": "🌯全网┃秒播","jar": "./jar/欧歌.jar","type": 3,"api": "csp_Quanwk","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.91qkw.com"},	
 	
 {"key": "全视","name":"全看影视","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},  
 //https://m.91qkw.cc/,https://www.91qkw.com/,https://www.qkwaa.com/,https://888.qkw2.cc,https://888.91qkw.com ,https://888.qkw1.cc/
@@ -49,7 +54,7 @@
 {"key":"你好帅","name":"好帅短剧","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html","分类":"穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan","播放数组":"<divclass=\"sort-item\"&&</div>"}},
    	    
 //https://dianyi.ng/    https://XianShe.ng   https://xn--44qz85a01qpc.com/   https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json
- 
+{"key": "木星","name": "🌞木星┃秒播","type": 3,"api": "csp_AppSxGuard","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK"},
 {"key":"闪雷","name":"闪雷影视","type":3,"api":"./FTY/drpy2.min.js","ext":"./lib/678.js"},	
 {"key":"drpy_js_骚火电影","name":"骚火电影","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/骚火电影.js"},
 {"key":"drpy_js_星辰影院","name":"星辰影院","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/星辰.js"},

@@ -15,12 +15,12 @@
 
 {"key":"豆瓣","name":"胜寒提醒您：请勿相信视频中广告！","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
 
-{"key": "巧技","name": "巧技秒播","jar":"./巧技(推荐影视).jar","type": 3,"api": "csp_qiao2","playerType": 2,"ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"},
-{"key": "天天","name": "🦢天天┃秒播","jar":"./巧技(推荐影视).jar",","type": 3,"api": "csp_TTian","playerType": 1,"ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="},
+{"key":"巧技","name":"巧技秒播","jar":"./巧技(推荐影视).jar","type": 3,"api": "csp_qiao2","playerType": 2,"ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"},
+{"key":"天天","name":"天天┃秒播","jar":"./巧技(推荐影视).jar","type": 3,"api": "csp_TTian","playerType": 1,"ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="},
 
-{"key": "全网","name": "🌯全网┃秒播","jar": "./欧歌(全网影视)","type": 3,"api": "csp_Quanwk","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.91qkw.com"},	
+{"key":"全网","name":"全网┃秒播","jar":"./欧歌(全网影视).jar","type": 3,"api": "csp_Quanwk","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.91qkw.com"},	
 	
-{"key": "全视","name":"全看影视","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},  
+{"key":"全视","name":"全看影视","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},  
 //https://m.91qkw.cc/,https://www.91qkw.com/,https://www.qkwaa.com/,https://888.qkw2.cc,https://888.91qkw.com ,https://888.qkw1.cc/
 	
 {"key":"界影视","name":"影界影视","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hkybqufgh.com/"},

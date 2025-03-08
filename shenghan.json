@@ -3,7 +3,7 @@
 
 {
 
-"spider": "https://raw.bgithub.xyz/hanhan8127/TVBox/refs/heads/main/fan.txt",
+"spider": "./fan.txt",
 "lives": [{"group": "redirect","channels": [{"name":"『live","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3d3dy5nYS5jbi8yMDI1LzAxMTUvbGl2ZS50eHQ="]}]}],
 //========================================================================
 

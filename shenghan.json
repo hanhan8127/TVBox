@@ -2,45 +2,36 @@
 
 
 {
-"notifytext" : "【春盈天下】公告：👉永久免费,仅供测试学习.关注野草口令:9464",
-"notifytextTime":"60",
-"spider": "http://cdn.qiaoji8.com/fix250217.jar;md5;af43496cbaaf5b4734fd2bfdaf3359a8",
+
+"spider": ".fan.txt",
 "lives": [{"group": "redirect","channels": [{"name":"『live","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3d3dy5nYS5jbi8yMDI1LzAxMTUvbGl2ZS50eHQ="]}]}],
 //========================================================================
 
   "sites": [
+{"key":"豆瓣","name":"胜寒提醒：请勿相信视频中广告！","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"filterable": 0},	  
 {"key": "js豆瓣","name": "🌺┃春盈天下┃💑┃👉永久免费,仅供测试学习.请勿贩卖和购买┃💑┃","type": 3,"api": "./lib/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/ysxsbk/xduo/-/raw/main/libs/douban.js"},
 {"key": "天天","name": "天天┃App","type": 3,"api": "csp_TTian","playerType": 1,"ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="},
 {"key": "巧技一","name": "巧技一┃App","type": 3,"api": "csp_qiao2","playerType": 2,"ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739517660808/cksp.txt"},
 {"key": "热播","name": "热播┃App","type": 3,"api": "csp_TTian","playerType": 1,"ext": "caHR0cDovL3YucmJvdHYuY24="},
 {"key": "追剧","name": "追剧┃App","type": 3,"api": "csp_TTian","playerType": 1,"ext": "daHR0cDovL3YubGt1eXMuY24="},
 {"key": "剧评","name": "剧评┃App","type": 3,"api": "csp_Jpys","playerType": 1,"ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="},
-{"key": "木头","name": "木头┃App","type": 3,"api": "csp_Shark","playerType": 1,"ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="},
-{"key": "永夜","name": "永夜┃App","type": 3,"api": "csp_Muou","playerType": 2,"ext": "caHR0cDovL211b3UuNTZ1eGkuY29tfENvZmZlZTRLfDQuMS44"},
-{"key": "星河","name": "星河┃App","type": 3,"api": "csp_Muou","playerType": 2,"ext": "caHR0cHM6Ly9odC5tb3liay5jbnzphZLlrqLlvbHop4Z8NC4xLjg="},
+
 {"key": "23ys","name": "二三┃App","type": 3,"api": "csp_Muou","playerType": 2,"ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"},
-{"key": "主角","name": "主角┃App","type": 3,"api": "csp_Muou","playerType": 2,"ext": "caHR0cHM6Ly9tdW91Lmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44"},
+
 {"key": "时常","name": "时常┃App","type": 3,"api": "csp_Xdai","playerType": 1,"ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="},
-{"key": "雨滴","name": "雨滴┃App","type": 3,"api": "csp_Xdai","playerType": 1,"ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="},
+
 {"key": "现代","name": "现代┃App","type": 3,"api": "csp_Xdai","playerType": 1,"ext": "caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ="},
-{"key": "玉米","name": "玉米┃App","type": 3,"api": "csp_Xdai","playerType": 1,"ext": "jaHR0cDovL3NkeXMudXMvc2QudHh0fDdmOWI0OWRhZjkyOGNjZTd8N2Y5YjQ5ZGFmOTI4Y2NlN3w0NDI="},
+
 {"key": "优质","name": "优质┃App","type": 3,"api": "csp_Xdai","playerType": 1,"ext": "jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="},
-{"key": "木叶","name": "木叶┃App","type": 3,"api": "csp_Xdai","playerType": 2,"ext": "saHR0cDovL2hvc3QueXl5cy5uZXdzLzI1MDEyMy50eHR8UnVOOUxSdndUUmdwUW5wS3xSdU45TFJ2d1RSZ3BRbnBLfDU0Ng=="},
+
 {"key": "蝴蝶","name": "蝴蝶┃App","type": 3,"api": "csp_Hudie","playerType": 2,"ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"},
-{"key": "柠檬","name": "柠檬┃App","type": 3,"api": "csp_Nmvod","playerType": 2,"ext": "eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="},
-{"key": "蚂蚁","name": "蚂蚁┃App","type": 3,"api": "csp_Mayiys","searchable": 1,"quickSearch": 1,"filterable": 0,"playerType": 1,"ext": "jaHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L21heWkudHh0"},
-{"key": "Lib","name": "Lib┃直连","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "faHR0cHM6Ly9saWJ2aW8ucHcvc3RhdGljL2pzL3BsYXllcmNvbmZpZy5qcw=="},
-{"key": "NoSearch_csp_DiDuan", "name": "低端┃无搜索", "type": 3,"api": "csp_Ddrk","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 0},
+
 {"key": "快看","name": "快看┃直连","type": 3,"api": "csp_Kuaikan","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1},
 {"key": "360_spider","name": "360┃解析","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"playerType": 2,"ext": ""},
-{"key": "ZXZJ","name": "在线┃直连","api": "csp_Zxzj","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"playerType": 2,"ext": "caHR0cHM6Ly93d3cuenh6anlzLmNvbS8="},
-{"key": "csp_CZSPP","name": "厂长┃直连","type": 3,"api": "csp_Czsapp","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 0,"ext": "maHR0cHM6Ly93d3cuY3p6eTc3LmNvbS8="},
-{"key": "csp_sbb","name": "布布┃直连","type": 3,"api": "csp_Czsapp","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 0,"ext": "maHR0cHM6Ly93d3cuc3ViYWliYWl5cy5jb20="},
-{"key": "csp_xlys","name": "修罗┃直连","type": 3,"api": "csp_Bdys01","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 0,"ext": "maHR0cHM6Ly93d3cuc3ViYWliYWl5cy5jb20="},
-{"key": "csp_Auete","name": "Auete┃无搜索", "type": 3, "api": "csp_Auete","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1},
+
 {"key": "NoSearch_csp_BBB","name": "哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1, "ext": "naHR0cHM6Ly93d3cucWlhb2ppOC5jb20vdHZib3gvYmlsaS5qc29u"},
 
-{"key":"豆瓣","name":"胜寒提醒：请勿相信视频中广告！","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"filterable": 0},
+
 {"key": "Aid","name":"急救教学","jar": "./bhtv.txt","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
 {"key": "星芽短剧","name":"星芽短剧","type":3,"api":"./lib/drpy2.min.js","ext": "./lib/星芽短剧.js"},
 {"key":"厂长","name":"厂长不卡","type":3,"api":"csp_NewCzGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzyvideo.com/"},

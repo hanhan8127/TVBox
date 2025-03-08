@@ -9,22 +9,21 @@
 
   "sites": [
 {"key":"豆瓣","name":"胜寒提醒：请勿相信视频中广告！","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"filterable": 0},	  
-{"key": "js豆瓣","name": "🌺┃春盈天下┃💑┃👉永久免费,仅供测试学习.请勿贩卖和购买┃💑┃","type": 3,"api": "./lib/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://jihulab.com/ysxsbk/xduo/-/raw/main/libs/douban.js"},
-{"key": "天天","name": "天天┃App","type": 3,"api": "csp_TTian","playerType": 1,"ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="},
-{"key": "巧技一","name": "巧技一┃App","type": 3,"api": "csp_qiao2","playerType": 2,"ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739517660808/cksp.txt"},
-{"key": "热播","name": "热播┃App","type": 3,"api": "csp_TTian","playerType": 1,"ext": "caHR0cDovL3YucmJvdHYuY24="},
-{"key": "追剧","name": "追剧┃App","type": 3,"api": "csp_TTian","playerType": 1,"ext": "daHR0cDovL3YubGt1eXMuY24="},
-{"key": "剧评","name": "剧评┃App","type": 3,"api": "csp_Jpys","playerType": 1,"ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="},
+{"key": "天天","name": "天天┃App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_TTian","playerType": 1,"ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="},
+{"key": "巧技一","name": "巧技一┃App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_qiao2","playerType": 2,"ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739517660808/cksp.txt"},
+{"key": "热播","name": "热播┃App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_TTian","playerType": 1,"ext": "caHR0cDovL3YucmJvdHYuY24="},
+{"key": "追剧","name": "追剧┃App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_TTian","playerType": 1,"ext": "daHR0cDovL3YubGt1eXMuY24="},
+{"key": "剧评","name": "剧评┃App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_Jpys","playerType": 1,"ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="},
 
-{"key": "23ys","name": "二三┃App","type": 3,"api": "csp_Muou","playerType": 2,"ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"},
+{"key": "23ys","name": "二三┃App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_Muou","playerType": 2,"ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"},
 
-{"key": "时常","name": "时常┃App","type": 3,"api": "csp_Xdai","playerType": 1,"ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="},
+{"key": "时常","name": "时常┃App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_Xdai","playerType": 1,"ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="},
 
-{"key": "现代","name": "现代┃App","type": 3,"api": "csp_Xdai","playerType": 1,"ext": "caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ="},
+{"key": "现代","name": "现代┃App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_Xdai","playerType": 1,"ext": "caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ="},
 
-{"key": "优质","name": "优质┃App","type": 3,"api": "csp_Xdai","playerType": 1,"ext": "jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="},
+{"key": "优质","name": "优质┃App","jar": "./bhtv.txt","type": 3,"api": "csp_Xdai","playerType": 1,"ext": "jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="},
 
-{"key": "蝴蝶","name": "蝴蝶┃App","type": 3,"api": "csp_Hudie","playerType": 2,"ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"},
+{"key": "蝴蝶","name": "蝴蝶┃App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_Hudie","playerType": 2,"ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"},
 
 {"key": "快看","name": "快看┃直连","type": 3,"api": "csp_Kuaikan","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1},
 {"key": "360_spider","name": "360┃解析","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"playerType": 2,"ext": ""},

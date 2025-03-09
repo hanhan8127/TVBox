@@ -3,13 +3,13 @@
 
 {
 
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt",
+"spider": "http://cdn.qiaoji8.com/fix250304.jar",
 "lives": [{"group": "redirect","channels": [{"name":"『live","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3d3dy5nYS5jbi8yMDI1LzAxMTUvbGl2ZS50eHQ="]}]}],
 //========================================================================
 
   "sites": [
 {"key":"豆瓣","name":"胜寒提醒：请勿相信视频中广告！","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"filterable": 0},	  
-{"key": "天天","name": "天天App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_TTian","playerType": 1,"ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="},
+{"key": "天天","name": "天天App","type": 3,"api": "csp_TTian","playerType": 1,"ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="},
 {"key": "巧技一","name": "巧技App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_qiao2","playerType": 2,"ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739517660808/cksp.txt"},
 {"key": "热播","name": "热播App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_TTian","playerType": 1,"ext": "caHR0cDovL3YucmJvdHYuY24="},
 {"key": "追剧","name": "追剧App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_TTian","playerType": 1,"ext": "daHR0cDovL3YubGt1eXMuY24="},
@@ -33,18 +33,18 @@
 
 {"key": "Aid","name":"急救教学","jar": "./bhtv.txt","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
  {"key": "河马短剧","name": "河马｜短剧","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQHiker/河马短剧.json"},	  
-{"key": "星芽短剧","name":"星芽短剧","type":3,"api":"./lib/drpy2.min.js","ext": "./lib/星芽短剧.js"},
+{"key": "星芽短剧","name":"星芽短剧","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt","type":3,"api":"./lib/drpy2.min.js","ext": "./lib/星芽短剧.js"},
 
-{"key":"厂长","name":"厂长不卡","type":3,"api":"csp_NewCzGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzyvideo.com/"},
-{"key":"文采","name":"金牌秒播","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"贱贱","name":"荐片影视","type":3,"api":"csp_JPJGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
-{"key":"原创","name":"原创不卡","type":3,"api":"csp_YCyzGuard","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},	
-{"key":"糯米","name":"糯米秒播","type":3,"api":"csp_NmyswvGuard","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"苹果","name":"苹果影视","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"神车","name":"神车秒播","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"},		
-{"key":"木星","name":"木星影视","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA=="},
-{"key":"可可","name":"可可影视","type":3,"api":"csp_KekysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_SaoHuo","name":"骚火影视","type":3,"api":"csp_SaoHuo","playerType":2},
+{"key":"厂长","name":"厂长不卡","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt","type":3,"api":"csp_NewCzGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzyvideo.com/"},
+{"key":"文采","name":"金牌秒播","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"贱贱","name":"荐片影视","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt","type":3,"api":"csp_JPJGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
+{"key":"原创","name":"原创不卡","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt","type":3,"api":"csp_YCyzGuard","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},	
+{"key":"糯米","name":"糯米秒播","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt","type":3,"api":"csp_NmyswvGuard","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"苹果","name":"苹果影视","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt","type":3,"api":"csp_LiteAppleGuard","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"神车","name":"神车秒播","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"},		
+{"key":"木星","name":"木星影视","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA=="},
+{"key":"可可","name":"可可影视","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt","type":3,"api":"csp_KekysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_SaoHuo","name":"骚火影视","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt","type":3,"api":"csp_SaoHuo","playerType":2},
 {"key": "csp_骚火VIP","name": "骚火秒播","type": 3,"api": "csp_XBPQ","jar": "./bhtv.txt","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/骚火影视.json"},	    
 //骚火发布页http://shapp.us/；https://saohuo.tv/	  https://hhjx.hhplayer.com/api.php 
 	    
@@ -65,13 +65,13 @@
 //{"key": "全网影视","name": "全看影视","type": 3,"api": "csp_Quanwk","jar":"https://www.xplaza.cn/api/repo/ugB0S2uQhGaqSxXd/yuyu/bWFpbg==/getFile/c3BpZGVyLmphcg==?isDownload=true","ext": "https://m.91qkw.com/"},    
 //https://m.91qkw.cc/,https://www.91qkw.com/,https://www.qkw1.com/,https://888.qkw2.cc,https://888.91qkw.com  
 	
-{"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},	
-{"key":"闪雷","name":"闪雷影视","type":3,"api":"./FTY/drpy2.min.js","ext":"./lib/678.js"},	
-{"key":"drpy_js_骚火电影","name":"骚火电影","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/骚火电影.js"},
-{"key":"drpy_js_星辰影院","name":"星辰影院","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/星辰.js"},
-{"key":"drpy_js_8号影院","name":"8号影院","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/8号影院.js"},
-{"key":"drpy_js_348电影网","name":"348电影网","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/348电影网.js"},
-{"key":"drpy_js_TVB云播","name":"TVB云播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/TVB云播.js"},
+{"key":"快看影视","name":"快看影视","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},	
+{"key":"闪雷","name":"闪雷影视","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt","type":3,"api":"./FTY/drpy2.min.js","ext":"./lib/678.js"},	
+{"key":"drpy_js_骚火电影","name":"骚火电影","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/骚火电影.js"},
+{"key":"drpy_js_星辰影院","name":"星辰影院","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/星辰.js"},
+{"key":"drpy_js_8号影院","name":"8号影院","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/8号影院.js"},
+{"key":"drpy_js_348电影网","name":"348电影网","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/348电影网.js"},
+{"key":"drpy_js_TVB云播","name":"TVB云播","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/TVB云播.js"},
 {"key": "大师兄","name": "师兄影视", "type": 3, "api": "csp_XBPQ", "ext": {"简介": "剧情介绍：&&</p >", "分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
 {"key":"华为吧","name":"影视你看","type":1,"api":"https://huaweiba.live/api.php/provide/vod/","searchable":1,
 	"categories":["国产剧","短剧","国产综艺","国产动漫","日韩动漫","冒险片","剧情片","动作片","动画电影","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","歌舞片","灾难片","爱情片","科幻片","犯罪片","经典片","网络电影","战争片","欧美剧","日剧","韩剧","台剧","泰剧","港剧","新马剧","其他剧","动漫","综艺","体育","纪录片","篮球","足球","网球","斯诺克","欧美动漫","新马泰动漫","港台动漫","其他动漫","日韩综艺","欧美综艺","新马泰综艺","港台综艺","其他综艺"]},

@@ -7,25 +7,6 @@ CCTV-4K,http://1752e145z8.vicp.fun:35455/gaoma/cctv4k.m3u8
 CCTV-4K,http://xiaoya.crccxw.top:35455/gaoma/cctv4k.m3u8
 CCTV-4K,https://live.mxdyeah.top/live.php?id=CCTV4K
 
-CCTV-1综合,http://z.b.bkpcp.top/m.php?id=cctv1
-CCTV-2财经,http://z.b.bkpcp.top/m.php?id=cctv2
-CCTV-3综艺,http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV-4国际,http://z.b.bkpcp.top/m.php?id=cctv4
-
-CCTV-5体育,http://z.b.bkpcp.top/m.php?id=cctv5
-CCTV-5+赛事,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV-6电影,http://z.b.bkpcp.top/m.php?id=cctv6
-CCTV-7军事,http://z.b.bkpcp.top/m.php?id=cctv7
-CCTV-8电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
-CCTV-9纪录,http://z.b.bkpcp.top/m.php?id=cctv9
-CCTV-10科教,http://z.b.bkpcp.top/m.php?id=cctv10
-CCTV-11戏曲,http://z.b.bkpcp.top/m.php?id=cctv11
-CCTV-12社会,http://z.b.bkpcp.top/m.php?id=cctv12
-CCTV-13新闻,http://z.b.bkpcp.top/m.php?id=cctv13
-CCTV-14少儿,http://z.b.bkpcp.top/m.php?id=cctv14
-CCTV-15音乐,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV-16奥运,http://z.b.bkpcp.top/m.php?id=cctv16
-CCTV-17农村,http://z.b.bkpcp.top/m.php?id=cctv17
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8

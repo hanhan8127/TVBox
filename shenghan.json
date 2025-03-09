@@ -9,30 +9,32 @@
 
   "sites": [
 {"key":"豆瓣","name":"胜寒提醒：请勿相信视频中广告！","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"filterable": 0},	  
-{"key": "天天","name": "天天┃App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_TTian","playerType": 1,"ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="},
-{"key": "巧技一","name": "巧技一┃App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_qiao2","playerType": 2,"ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739517660808/cksp.txt"},
-{"key": "热播","name": "热播┃App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_TTian","playerType": 1,"ext": "caHR0cDovL3YucmJvdHYuY24="},
-{"key": "追剧","name": "追剧┃App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_TTian","playerType": 1,"ext": "daHR0cDovL3YubGt1eXMuY24="},
-{"key": "剧评","name": "剧评┃App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_Jpys","playerType": 1,"ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="},
+{"key": "天天","name": "天天App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_TTian","playerType": 1,"ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="},
+{"key": "巧技一","name": "巧技App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_qiao2","playerType": 2,"ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739517660808/cksp.txt"},
+{"key": "热播","name": "热播App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_TTian","playerType": 1,"ext": "caHR0cDovL3YucmJvdHYuY24="},
+{"key": "追剧","name": "追剧App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_TTian","playerType": 1,"ext": "daHR0cDovL3YubGt1eXMuY24="},
+{"key": "剧评","name": "剧评App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_Jpys","playerType": 1,"ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="},
 
-{"key": "23ys","name": "二三┃App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_Muou","playerType": 2,"ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"},
+{"key": "23ys","name": "二三App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_Muou","playerType": 2,"ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"},
 
-{"key": "时常","name": "时常┃App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_Xdai","playerType": 1,"ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="},
+{"key": "时常","name": "时常App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_Xdai","playerType": 1,"ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="},
 
-{"key": "现代","name": "现代┃App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_Xdai","playerType": 1,"ext": "caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ="},
+{"key": "现代","name": "现代App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_Xdai","playerType": 1,"ext": "caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ="},
 
-{"key": "优质","name": "优质┃App","jar": "./bhtv.txt","type": 3,"api": "csp_Xdai","playerType": 1,"ext": "jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="},
+{"key": "优质","name": "优质App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_Xdai","playerType": 1,"ext": "jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="},
 
-{"key": "蝴蝶","name": "蝴蝶┃App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_Hudie","playerType": 2,"ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"},
+{"key": "蝴蝶","name": "蝴蝶App","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_Hudie","playerType": 2,"ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"},
 
-{"key": "快看","name": "快看┃直连","type": 3,"api": "csp_Kuaikan","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1},
-{"key": "360_spider","name": "360┃解析","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"playerType": 2,"ext": ""},
+{"key": "快看","name": "快看直连","type": 3,"api": "csp_Kuaikan","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1},
+{"key": "360_spider","name": "360解析","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"playerType": 2,"ext": ""},
 
-{"key": "NoSearch_csp_BBB","name": "哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1, "ext": "naHR0cHM6Ly93d3cucWlhb2ppOC5jb20vdHZib3gvYmlsaS5qc29u"},
+{"key": "NoSearch_csp_BBB","name": "哔哩哔哩","jar": "http://cdn.qiaoji8.com/fix250217.jar","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1, "ext": "naHR0cHM6Ly93d3cucWlhb2ppOC5jb20vdHZib3gvYmlsaS5qc29u"},
 
 
 {"key": "Aid","name":"急救教学","jar": "./bhtv.txt","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8},"gridview": "0-0-4.1"},
+ {"key": "河马短剧","name": "河马｜短剧","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQHiker/河马短剧.json"},	  
 {"key": "星芽短剧","name":"星芽短剧","type":3,"api":"./lib/drpy2.min.js","ext": "./lib/星芽短剧.js"},
+
 {"key":"厂长","name":"厂长不卡","type":3,"api":"csp_NewCzGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzyvideo.com/"},
 {"key":"文采","name":"金牌秒播","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"贱贱","name":"荐片影视","type":3,"api":"csp_JPJGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},

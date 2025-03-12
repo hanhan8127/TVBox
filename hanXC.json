@@ -30,7 +30,7 @@
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://bgithub.xyz/guot55/yg  https://chuang999.com/
 //https://gitee.com/senno/tvbox/raw/master/api.json;
 	
-{"key":"全视1","name":"全网影视","type":3,"api":"csp_Quanwk","jar":"./o.jar",searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},  
+{"key":"全视1","name":"全网影视","type":3,"api":"csp_Quanwk","jar":"./o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},  
 {"key":"全视2","name":"全网影视","type":3,"api":"csp_Quanwk","jar":"./o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.qkwaa.com/"}, 
 {"key":"全视3","name":"全网影视","type":3,"api":"csp_Quanwk","jar":"./o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://888.91qkw.com/"}, 	
 //https://m.91qkw.cc/,https://www.91qkw.com/,https://www.qkwaa.com/,https://888.qkw2.cc,https://888.91qkw.com ,https://888.qkw1.cc/

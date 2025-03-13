@@ -24,6 +24,8 @@
 {"key":"天天1","name":"天天秒播","type": 3,"api": "csp_TTian","playerType": 1,"ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="},
 {"key":"厂长","name":"厂长影视","jar":"./fan.txt","type":3,"api":"csp_NewCzGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzyvideo.com/"},
 {"key":"csp_CZSPP","name":"厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"maHR0cHM6Ly93d3cuY3p6eTc3LmNvbS8="},
+{"key":"糯米","name":"糯米秒播","jar":"./fan.txt","type":3,"api":"csp_NmyswvGuard","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_Nongm1","name":"农民影视","type":3,"jar":"./fan.txt","api":"csp_NmyswvGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wwgz.cn"},
 		
 {"key":"星芽短剧","name":"星芽短剧","type":3,"api":"csp_AppXY","jar":"./lib/jar.php","searchable":1,"quickSearch":0,"filterable":0},
 {"key": "星芽短剧2","name":"星芽短剧","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/xingya.js"},	
@@ -31,16 +33,18 @@
 {"key":"你好帅","name":"好帅短剧","type":3,"api":"csp_XBPQ","jar":"./lib/jar.php","ext":{"分类url":"https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html","分类":"穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan","播放数组":"<divclass=\"sort-item\"&&</div>"}},
   	    
 //{"key": "追剧3","name": "天天影视","type": 3,"api": "csp_TTian","playerType": 1,"ext": "daHR0cDovL3YubGt1eXMuY24="},
-{"key": "天天4","name": "天天影视","type": 3,"api": "csp_TTian","playerType": 1,"ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="},		
-{"key":"界影视","name":"影界影视","jar":"./fan.txt","type":3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hkybqufgh.com/"},
-{"key":"金牌影视1","name":"金牌影视","jar":"./fan.txt","type":3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.yuhelover.com/"},	
-{"key":"金牌影视2","name":"金牌影视","jar":"./fan.txt","type":3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.cfkj86.com"},		
-{"key":"文采","name":"文采秒播","jar":"./fan.txt","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key": "天天4","name": "天天影视","type": 3,"api": "csp_TTian","playerType": 1,"ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="},
+{"key":"文采","name":"文采秒播","jar":"./fan.txt","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},	
+{"key":"界影视","name":"影界影视","jar":"./fan.txt","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hkybqufgh.com/"},
+{"key":"金牌影视1","name":"金牌影视","jar":"./fan.txt","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.yuhelover.com/"},	
+{"key":"金牌影视2","name":"金牌影视","jar":"./fan.txt","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.cfkj86.com"},		
+{"key":"金牌影视3","name":"金牌影视","jar":"./fan.txt","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://chuang999.com/"},	
 //{"key":"金牌2","name": "金牌秒播","type": 3,"api": "https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/jpys.js"},
 {"key": "剧评","name": "金牌影视","type": 3,"api": "csp_Jpys","playerType": 1,"ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="},	
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://bgithub.xyz/guot55/yg  https://chuang999.com/
 //https://gitee.com/senno/tvbox/raw/master/api.json;
-{"key": "奥特","name": "奥特秒播","type": 3,"jar":"./fan.txt","api": "csp_AueteGuard","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.com/"},	
+{"key":"奥特","name": "奥特秒播","type": 3,"jar":"./fan.txt","api": "csp_AueteGuard","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.com/"},	
+{"key":"奥特2","name": "奥特秒播","type": 3,"api": "csp_AueteGuard","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.com/"},	
 //https://v.auete.com/   https://auete.cc/
 	
 //{"key":"全视1","name":"全网影视","type":3,"api":"csp_Quanwk","jar":"./o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},  
@@ -56,9 +60,6 @@
 {"key": "瓜子app","name": "瓜子APP","type": 3,"api": "https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/guazi.js"},
 {"key":"NoSearch_csp_DiDuan","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},	
 
-{"key":"糯米","name":"糯米秒播","jar":"./fan.txt","type":3,"api":"csp_NmyswvGuard","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_Nongm1","name":"农民影视1","type":3,"jar":"./fan.txt","api":"csp_NmyswvGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wwgz.cn"},
-{"key":"csp_Nongm","name":"农民影视","type":3,"jar":"./Yoursmile.jar","api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wwgz.cn"},
 //{"key":"csp_SaoHuo","name":"骚火影视","type":3,"api":"csp_SaoHuo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shdy5.us"},
 {"key":"drpy_js_骚火电影","name":"骚火电影","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/骚火电影.js"},
 //骚火发布页http://shapp.us/；https://saohuo.tv/	  https://hhjx.hhplayer.com/api.php 		

@@ -13,7 +13,7 @@
 }],
 
 "sites":[
-{"key":"豆","name":"胜寒提醒您：请勿相信视频中广告！","jar":"./fan.txt","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
+{"key":"豆豆","name":"胜寒提醒您：请勿相信视频中广告！","jar":"./fan.txt","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
 //{"key":"豆瓣","name":"胜寒提醒您：请勿相信视频中广告！","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
 
 {"key":"巧技","name":"巧技秒播","type": 3,"api": "csp_qiao2","playerType": 2,"ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"},
@@ -26,7 +26,7 @@
 {"key":"csp_CZSPP","name":"厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"maHR0cHM6Ly93d3cuY3p6eTc3LmNvbS8="},
 {"key":"糯米","name":"糯米秒播","jar":"./fan.txt","type":3,"api":"csp_NmyswvGuard","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Nongm1","name":"农民影视","type":3,"jar":"./fan.txt","api":"csp_NmyswvGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wwgz.cn"},
-{"key":"csp_Kanke","name":"瓜籽影视","type":3,"api":"csp_Kanke","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.guaziys.com"},		
+{"key":"csp_Kanke","name":"瓜籽影视1","type":3,"api":"csp_KankeGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.guaziys.com"},		
 {"key":"星芽短剧","name":"星芽短剧","type":3,"api":"csp_AppXY","jar":"./lib/jar.php","searchable":1,"quickSearch":0,"filterable":0},
 {"key": "星芽短剧2","name":"星芽短剧","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/xingya.js"},	
 {"key":"河马短剧","name":"河马短剧","type":3,"api":"csp_AppHMDJ","jar":"./lib/jar.php","searchable":1,"quickSearch":0,"filterable":0,"ext":"KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="},

@@ -44,7 +44,7 @@
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://bgithub.xyz/guot55/yg  https://chuang999.com/
 //https://gitee.com/senno/tvbox/raw/master/api.json;
 
-{"key":"奥特2","name":"奥特秒播","type": 3,"api": "csp_Auete","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.com/"},	
+{"key":"奥特2","name":"奥特秒播","jar":"./fan.txt","type": 3,"api": "csp_Auete","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.com/"},	
 //https://v.auete.com/   https://auete.cc/
 	
 //{"key":"全视1","name":"全网影视","type":3,"api":"csp_Quanwk","jar":"./o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},  

@@ -40,12 +40,12 @@
 
 {"key":"奥特","name":"奥特多线","type":3,"api":"csp_AueteGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"},	
 //https://v.auete.com/   https://auete.cc/
-{"key": "csp_XYQHiker_骚火电影VIP","name": "骚火秒播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/香雅情.jar","ext": "./json/骚火电影VIP.json"},
-{"key":"大师兄","name":"师兄秒播","type":3,"api":"csp_XBPQ","jar": "./jar/欧歌.jar","ext":{"分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},	
+{"key": "csp_骚火","name": "骚火秒播","type": 3,"api":"csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/香雅情.jar","ext": "./json/骚火电影VIP.json"},
+{"key":"大师兄","name":"师兄秒播","type":3,"api":"csp_XBPQ","jar":"./lib/jar.php","ext":{"分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},	
 {"key": "珍品","name": "珍品影视","type": 3,"api": "csp_XBPQ","jar":"./lib/jar.php",
 	"ext": {"分类url": "https://www.zpcxb.com/zptop/area/{area}/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}},
 {"key": "鸡肋影视","name": "鸡肋影视","type": 3,"api": "csp_XBPQ","jar":"./lib/jar.php",
-	"ext": {"分类url": "https://www.zpcxb.com/zptop/area/{area}/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}},
+	"ext": {"分类url": "https://www.jileitv.com/zptop/area/{area}/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}},
 //https://www.jileitv.com/       https://www.ysmdhk.com/           ,"jar": "./jar/珍品影视.jar" 
 //{"key":"全视1","name":"全网影视","type":3,"api":"csp_Quanwk","jar":"./o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},  
 //{"key":"全视2","name":"全网影视","type":3,"api":"csp_Quanwk","jar":"./o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.qkwaa.com/"}, 

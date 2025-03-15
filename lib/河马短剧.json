@@ -11,7 +11,7 @@
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
     "分类链接": "https://www.kuaikaw.cn/browse/{cateId}/{catePg}[firstPage=https://www.kuaikaw.cn/browse/{cateId}]",
-    "分类名称": "河马",
+    "分类名称": "短剧全部",
     "分类名称替换词": "0",
     //"筛选数据": {},
     "筛选数据": "ext",

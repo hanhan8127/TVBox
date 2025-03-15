@@ -36,12 +36,17 @@
 {"key":"河马短剧","name":"河马短剧","type":3,"api":"csp_AppHMDJ","jar":"./lib/jar.php","searchable":1,"quickSearch":0,"filterable":0,"ext":"KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="},
 {"key":"你好帅","name":"好帅短剧","type":3,"api":"csp_XBPQ","jar":"./lib/jar.php","ext":{"分类url":"https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html","分类":"穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan","播放数组":"<divclass=\"sort-item\"&&</div>"}},
 
-{"key": "追剧3","name": "天天影视","type": 3,"api": "csp_TTian","playerType": 1,"ext": "daHR0cDovL3YubGt1eXMuY24=","jar":"./lib/fix250304.jar"},
 {"key": "天天4","name": "天天影视","type": 3,"api": "csp_TTian","playerType": 1,"ext": "baHR0cDovL3R0LnlzZHFqcy5jbg==","jar":"./lib/fix250304.jar"},
 
 {"key":"奥特","name":"奥特多线","type":3,"api":"csp_AueteGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"},	
 //https://v.auete.com/   https://auete.cc/
-	
+{"key": "csp_XYQHiker_骚火电影VIP","name": "骚火秒播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/香雅情.jar","ext": "./json/骚火电影VIP.json"},
+{"key":"大师兄","name":"师兄秒播","type":3,"api":"csp_XBPQ","jar": "./jar/欧歌.jar","ext":{"分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},	
+{"key": "珍品","name": "珍品影视","type": 3,"api": "csp_XBPQ","jar":"./lib/jar.php",
+	"ext": {"分类url": "https://www.zpcxb.com/zptop/area/{area}/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}},
+{"key": "鸡肋影视","name": "鸡肋影视","type": 3,"api": "csp_XBPQ","jar":"./lib/jar.php",
+	"ext": {"分类url": "https://www.zpcxb.com/zptop/area/{area}/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}},
+//https://www.jileitv.com/       https://www.ysmdhk.com/           ,"jar": "./jar/珍品影视.jar" 
 //{"key":"全视1","name":"全网影视","type":3,"api":"csp_Quanwk","jar":"./o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},  
 //{"key":"全视2","name":"全网影视","type":3,"api":"csp_Quanwk","jar":"./o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.qkwaa.com/"}, 
 //{"key":"全视3","name":"全网影视","type":3,"api":"csp_Quanwk","jar":"./o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://888.91qkw.com/"}, 	
@@ -49,6 +54,7 @@
 {"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","jar":"./o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
 {"key":"23ys","name":"二三影视","type": 3,"api": "csp_Muou","playerType": 2,"ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44","jar":"./lib/fix250304.jar"},
 {"key":"360_spider","name":"360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":""},
+{"key":"瓜子","name":"🌻瓜子影视┃秒播","jar": "./jar/欧歌.jar","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},	
 {"key":"蝴蝶","name":"蝴蝶影视","type":3,"api":"csp_Hudie","playerType":2,"ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w","jar":"./lib/fix250304.jar"},
 
 {"key": "瓜子app","name": "瓜子APP","type": 3,"api": "https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/guazi.js"},
@@ -75,7 +81,10 @@
 {"key":"cj_360","name":"360资源","type":1,"api":"https://360zy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playUrl":"https://www.360jiexi.com/player/?url=",
 	"categories":["国产剧","大陆综艺","韩国剧","成长逆袭","年代穿越","古装仙侠","现代都市","国产动漫","动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","日本动漫","香港剧","欧美剧","日本剧","港台综艺","日韩综艺"]},
 //360zy.com 360zy.net 360zy.vip 360zy.top 360zy.tv 
+{"key": "豪华资源","name": "豪华资源","type": 1,"searchable": 1,"quickSearch": 1,"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+	"categories": ["短剧","内地剧","大陆综艺","中国动漫","香港剧","欧美剧","韩剧","日剧","马泰剧","动画片","日本动漫","欧美动漫","剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片","犯罪片","日韩综艺","港台综艺","欧美综艺"]},
 
+	
 {"key":"腾讯","name":"腾讯视频","type": 3,"api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/drpy2.min.js","ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/腾讯弹幕.js"},
 {"key":"芒果","name":"芒果视频","type": 3,"api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/drpy2.min.js","ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/芒果弹幕.js"},
 {"key":"爱奇艺","name":"爱奇艺视频","type": 3,"api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/drpy2.min.js","ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/爱奇艺弹幕.js"},

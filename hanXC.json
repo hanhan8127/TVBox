@@ -27,7 +27,7 @@
 	"categories": ["国产剧","综艺","动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片","惊悚片","犯罪片","悬疑片","惊悚片","港台剧","日韩剧","泰国剧", "欧美剧" ]},	
 {"key":"巧技","name":"巧技秒播","type": 3,"api": "csp_qiao2","playerType": 2,"ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt","jar":"./lib/fix250304.jar"},
 {"key":"23ys","name":"二三影视","type": 3,"api": "csp_Muou","playerType": 2,"ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44","jar":"./lib/fix250304.jar",
-	"categories": ["国产剧","电影","剧集","综艺","动漫","日韩剧","泰国剧","喜剧片",动作片","爱情片","科幻片","恐怖片","剧情片","战争片","日韩动漫"]},
+	"categories": ["国产剧","电影","剧集","综艺","动漫","日韩剧","泰国剧","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","日韩动漫"]},
 	
 //{"key":"天天1","name":"天天秒播","type": 3,"api": "csp_TTian","playerType": 1,"ext": "baHR0cDovL3R0LnlzZHFqcy5jbg==","jar":"./lib/fix250304.jar"},
 //{"key":"厂长","name":"厂长影视","type":3,"api":"csp_NewCzGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzyvideo.com/"},

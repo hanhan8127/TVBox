@@ -29,6 +29,10 @@
 {"key":"23ys","name":"二三影视","type": 3,"api": "csp_Muou","playerType": 2,"ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44","jar":"./lib/fix250304.jar",
 	"categories": ["国产剧","电影","剧集","综艺","动漫","日韩剧","泰国剧","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","日韩动漫"]},
 	
+{"key":"腾讯","name":"腾讯视频","type": 3,"api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/drpy2.min.js","ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/腾讯弹幕.js"},
+{"key":"芒果","name":"芒果视频","type": 3,"api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/drpy2.min.js","ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/芒果弹幕.js"},
+{"key":"爱奇艺","name":"爱奇艺视频","type": 3,"api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/drpy2.min.js","ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/爱奇艺弹幕.js"},
+	
 //{"key":"天天1","name":"天天秒播","type": 3,"api": "csp_TTian","playerType": 1,"ext": "baHR0cDovL3R0LnlzZHFqcy5jbg==","jar":"./lib/fix250304.jar"},
 //{"key":"厂长","name":"厂长影视","type":3,"api":"csp_NewCzGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzyvideo.com/"},
 {"key":"csp_CZSPP","name":"厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"maHR0cHM6Ly93d3cuY3p6eTc3LmNvbS8=","jar":"./lib/fix250304.jar"},
@@ -89,11 +93,6 @@
 {"key":"zy_最大资源","name":"最大资源","type":1,"api":"https://zuidazy.co/api.php/provide/vod/","searchable": 1, "quickSearch": 1, 
 	"categories": ["国产剧","大陆综艺","国产动漫","韩剧","美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","悬疑片","犯罪片"]},
 //资源站域名：zuidazy.me，zuidazy.co，zuida.xyz;zuidazy.me，zuidazy.co，zuida.xyz；https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/at/xml/  
-
-	
-{"key":"腾讯","name":"腾讯视频","type": 3,"api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/drpy2.min.js","ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/腾讯弹幕.js"},
-{"key":"芒果","name":"芒果视频","type": 3,"api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/drpy2.min.js","ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/芒果弹幕.js"},
-{"key":"爱奇艺","name":"爱奇艺视频","type": 3,"api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/drpy2.min.js","ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/爱奇艺弹幕.js"},
 	
 {"key": "csp_hanhan","name": "请勿相信影片广告！","type": 1,"playerType": 2,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1}
 

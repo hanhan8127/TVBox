@@ -26,6 +26,8 @@
 {"key":"天翼资源","name":"天翼影视","type":1,"api":"https://www.911ysw.top/tianyi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1 , 
 	"categories": ["国产剧","综艺","动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片","惊悚片","犯罪片","悬疑片","惊悚片","港台剧","日韩剧","泰国剧", "欧美剧" ]},	
 {"key":"巧技","name":"巧技秒播","type": 3,"api": "csp_qiao2","playerType": 2,"ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt","jar":"./lib/fix250304.jar"},
+{"key":"23ys","name":"二三影视","type": 3,"api": "csp_Muou","playerType": 2,"ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44","jar":"./lib/fix250304.jar",
+	"categories": ["国产剧","电影","剧集","综艺","动漫","日韩剧","泰国剧","喜剧片",动作片","爱情片","科幻片","恐怖片","剧情片","战争片","日韩动漫"]},
 	
 //{"key":"天天1","name":"天天秒播","type": 3,"api": "csp_TTian","playerType": 1,"ext": "baHR0cDovL3R0LnlzZHFqcy5jbg==","jar":"./lib/fix250304.jar"},
 //{"key":"厂长","name":"厂长影视","type":3,"api":"csp_NewCzGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzyvideo.com/"},
@@ -49,37 +51,34 @@
 {"key": "鸡肋影视","name": "鸡肋影视","type": 3,"api": "csp_XBPQ","jar":"./lib/jar.php",
 	"ext": {"分类url": "https://www.jileitv.com/area/{area}/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}},
 //https://www.jileitv.com/       https://www.ysmdhk.com/           ,"jar": "./jar/珍品影视.jar" 
+
+{"key": "花姐影院","name": "花姐影院","type": 3,"api": "csp_XBPQ","jar":"./lib/jar.php","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"数组": "<li class=\"fed-list-item&&</li>","搜索url": "http://iyiwang.com/search.php?searchword={wd}",
+        "分类url":"http://iyiwang.com//search.php?searchtype=5&area={area}&class={class}&by={by}&year={year}&tid={cateId}&yuyan={lang}&page={catePg}","分类": "国产剧&电视剧&电影&综艺&动漫","分类值": "13&2&1&3&4&40"}},	    
+//http://iyiwang.com/    https://www.huajie2.com
+	
 //{"key":"全视1","name":"全网影视","type":3,"api":"csp_Quanwk","jar":"./o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},  
 //{"key":"全视2","name":"全网影视","type":3,"api":"csp_Quanwk","jar":"./o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.qkwaa.com/"}, 
 //{"key":"全视3","name":"全网影视","type":3,"api":"csp_Quanwk","jar":"./o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://888.91qkw.com/"}, 	
 //https://m.91qkw.cc/,https://www.91qkw.com/,https://www.qkwaa.com/,https://888.qkw2.cc,https://888.91qkw.com ,https://888.qkw1.cc/
 {"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","jar":"./o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
-{"key":"23ys","name":"二三影视","type": 3,"api": "csp_Muou","playerType": 2,"ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44","jar":"./lib/fix250304.jar"},
-{"key":"360_spider","name":"360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":""},
-{"key":"瓜子","name":"🌻瓜子影视┃秒播","jar": "./jar/欧歌.jar","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},	
+
 {"key":"蝴蝶","name":"蝴蝶影视","type":3,"api":"csp_Hudie","playerType":2,"ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w","jar":"./lib/fix250304.jar"},
 
 {"key": "瓜子app","name": "瓜子APP","type": 3,"api": "https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/guazi.js"},
 
 {"key":"低端","name":"低端影视","type":3,"api":"csp_DdrkGuard","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"csp_SaoHuo","name":"骚火影视","type":3,"api":"csp_SaoHuo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shdy5.us"},
-{"key":"drpy_js_骚火电影","name":"骚火电影","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/骚火电影.js"},
+//{"key":"drpy_js_骚火电影","name":"骚火电影","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/骚火电影.js"},
 //骚火发布页http://shapp.us/；https://saohuo.tv/	  		
-{"key": "木星","name": "木星秒播","type": 3,"api": "csp_AppSxGuard","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK"},
-{"key":"萌米","name":"萌米多线","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I2bux0Y8Qze6tVlMg=="},
-{"key":"欢视","name":"欢视多线","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B+Qsa7gqa+pU="},	
+
 
 //https://dianyi.ng/    https://XianShe.ng   https://xn--44qz85a01qpc.com/   https://raw.bgithub.xyz/yoursmile66/TVBox/main/XC.json
-
-{"key":"drpy_js_348电影网","name":"348电影","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/348电影网.js"},
 
 {"key": "csp_非凡资源","name": "非凡影院","type": 1,"api": "http://ffzy.tv/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,
 	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
 //非凡资源备用网址:ffzy1.tv ffzy2.tv ffzy3.tv ffzy4.tv ffzy5.tv      http://ffzy.tv/api.php/provide/vod/   
 		    
-{"key": "花姐影院","name": "花姐影院","type": 3,"api": "csp_XBPQ","jar":"./lib/jar.php","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"数组": "<li class=\"fed-list-item&&</li>","搜索url": "http://iyiwang.com/search.php?searchword={wd}",
-        "分类url":"http://iyiwang.com//search.php?searchtype=5&area={area}&class={class}&by={by}&year={year}&tid={cateId}&yuyan={lang}&page={catePg}","分类": "国产剧&电视剧&电影&综艺&动漫","分类值": "13&2&1&3&4&40"}},	    
-//http://iyiwang.com/    https://www.huajie2.com
+
 {"key":"极速资源","name":"极速影院","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,
 	 "categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧","日剧","韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 //https://jszyapi.com/   www.jisuzy.com    www.jisuzy.tv   www.jisuziyuan.com   www.jszy666.com         https://jisjiexi.com/play/?url=	    

@@ -21,27 +21,7 @@
 {"key":"金牌影视1","name":"金牌影视","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.yuhelover.com/"},	
 {"key":"金牌影视2","name":"金牌影视","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.cfkj86.com"},		
 {"key":"金牌影视3","name":"金牌影视","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://chuang999.com/"},
-	
-//{"key": "iysdq","name": "影院大全","type": 3,"api": "csp_XBPQ","searchable": 1, "quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.iysdq.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "国产剧$21#香港剧$22#台湾剧$23#韩国剧$24#日本剧$25#欧美剧$26#泰国剧$27#海外剧$28#电影$1#动漫$4#综艺$3"}},
-//https://www.iysdq.net/       https://www.iysdq.com	
 
-//{"key":"金牌2","name": "金牌秒播","type": 3,"api": "https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/jpys.js"},	
-//https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://bgithub.xyz/guot55/yg  https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com
-//https://gitee.com/senno/tvbox/raw/master/api.json;
-
-{"key": "白嫖2","name":"️白嫖影视","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
-            "ext": {"分类url": "https://198mv.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-                "分类": "电影&剧集&综艺&动漫&短剧","分类值": "1&2&3&4&58",
-                "类型": "动作片$6#喜剧片$7#爱情片$8#高分经典科幻片$9#恐怖片$10#剧情片$11#战争片$12||国产剧$13#香港剧$28#恋爱不分国度$29#台湾剧$27#美国剧$31#泰国剧$33#其它剧$35||无||无||无"}},
-//新增36条备用地址:如网站无法打开请使用下面方法打开域名前面随便加一个26个英文字母A-Z 或者一个数字 1-10就是一个新的地址，例如：a.188mv.com b.188mv.com或者：1.188mv.com 2.188mv.com      最新地址：www.198mv.com www.188mv.com	
-{"key": "白嫖1","name": "️白嫖影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
-            "ext": {"分类url": "https://www.6699z.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-                "分类": "电影&剧集&综艺&动漫&短剧","分类值": "1&2&3&4&58",
-                "类型": "动作片$6#喜剧片$7#爱情片$8#高分经典科幻片$9#恐怖片$10#剧情片$11#战争片$12||国产剧$13#香港剧$28#恋爱不分国度$29#台湾剧$27#美国剧$31#泰国剧$33#其它剧$35||无||无||无"}},
-//https://www.6699z.cn/dplayer/?url=	    	    
-{"key": "白嫖者","name": "白嫖影视","type": 3,"ua": "okhttp/3.15","api": "csp_XBPQ","ext": {"分类url": "https://www.qyzf88.com/qyvodtype/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-	"分类":"电影$1#电视剧$2#樱花动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"寒+剧情介绍：&&</p >"}},
-	
 //{"key":"巧技","name":"巧技专线","type":3,"api":"csp_qiao2","jar":"./lib/fix250304.jar","playerType":2,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"},
 {"key":"天天","name":"天天影视","type": 3,"api": "csp_TTian","playerType":1,"ext":"baHR0cDovL3R0LnlzZHFqcy5jbg=="},
 {"key":"23ys","name":"二三 App","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44","categories": ["国产剧","电影","剧集","综艺","动漫","日韩剧","泰国剧","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","日韩动漫"]},

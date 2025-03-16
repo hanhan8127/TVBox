@@ -14,15 +14,31 @@
 "sites":[
 {"key":"豆豆","name":"胜寒提醒您：请勿相信视频中广告！","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
 
-{"key":"文才弹幕","name":"文才秒播","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},	
-{"key":"金牌1","name":"爱V电影","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.gs4x7nq4.com/"},	
-{"key":"界影视","name":"影界影视","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hkybqufgh.com/"},
-{"key":"y5yy","name":"Y5影院","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://helloux9w23vc.com/"},	
-{"key":"金牌影视1","name":"金牌影视","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.yuhelover.com/"},	
-{"key":"金牌影视2","name":"金牌影视","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.cfkj86.com"},		
-{"key":"金牌影视3","name":"金牌影视","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://chuang999.com/"},
 
 
+//{"key":"巧技","name":"巧技专线","type":3,"api":"csp_qiao2","jar":"./lib/fix250304.jar","playerType":2,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"},
+{"key":"天天","name":"天天影视","type": 3,"api": "csp_TTian","playerType":1,"ext":"baHR0cDovL3R0LnlzZHFqcy5jbg=="},
+{"key":"23ys","name":"二三 App","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44","categories": ["国产剧","电影","剧集","综艺","动漫","日韩剧","泰国剧","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","日韩动漫"]},
+{"key":"油条","name":"油条 App","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA=="},
+{"key":"现代","name":"现代 App","type":3,"api":"csp_Xdai","playerType":1,"ext":"caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ="},
+{"key":"蝴蝶","name":"蝴蝶影视","type":3,"api":"csp_Hudie","playerType":2,"ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w"},
+{"key":"现代弹幕","name":"现代弹幕","type":3,"api":"csp_XianDai","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
+
+{"key":"腾讯","name":"腾讯视频","type": 3,"api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/drpy2.min.js","ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/腾讯弹幕.js"},
+{"key":"芒果","name":"芒果视频","type": 3,"api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/drpy2.min.js","ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/芒果弹幕.js"},
+{"key":"爱奇艺","name":"爱奇艺视频","type": 3,"api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/drpy2.min.js","ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/爱奇艺弹幕.js"},
+	
+{"key":"星芽短剧","name":"星芽短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"星芽短剧2","name":"星芽短剧","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/xingya.js"},	
+{"key":"河马短剧","name":"河马短剧","type":3,"api":"csp_AppHMDJ","searchable":1,"quickSearch":0,"filterable":0,"ext":"KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="},
+{"key":"好帅短剧","name":"好帅短剧","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html","分类":"穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan","播放数组":"<divclass=\"sort-item\"&&</div>"}},
+
+{"key": "臻品","name": "臻品影视","type": 3,"api": "csp_XBPQ",
+	"ext": {"分类url": "https://www.zpcxb.com/zptop/area/{area}/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}},
+//https://www.jileitv.com/    https://www.zpcxb.com   https://www.ysmdhk.com/         
+{"key": "花姐影院","name": "花姐影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"数组": "<li class=\"fed-list-item&&</li>","搜索url": "http://iyiwang.com/search.php?searchword={wd}",
+        "分类url":"http://iyiwang.com//search.php?searchtype=5&area={area}&class={class}&by={by}&year={year}&tid={cateId}&yuyan={lang}&page={catePg}","分类": "国产剧&电视剧&电影&综艺&动漫","分类值": "13&2&1&3&4&40"}},	    
+//http://iyiwang.com/    https://www.huajie2.com
 
 	
 //{"key": "iysdq","name": "影院大全","type": 3,"api": "csp_XBPQ","searchable": 1, "quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.iysdq.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "国产剧$21#香港剧$22#台湾剧$23#韩国剧$24#日本剧$25#欧美剧$26#泰国剧$27#海外剧$28#电影$1#动漫$4#综艺$3"}},

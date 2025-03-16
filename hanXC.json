@@ -1,9 +1,9 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 
 {
-  "spider":"./lib/fan.txt",	
+  "spider":"./lib/jar.php",	
  // qiaoji
-	
+//./lib/jar.php          ./lib/fan.txt 
  //https://fmbox.cc,  
 
 "lives": [{"name": "live","type": 0,
@@ -14,14 +14,14 @@
 
 "sites":[
 {"key":"豆豆","name":"胜寒提醒您：请勿相信视频中广告！","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
-{"key":"文采","name":"文采秒播","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},	
-{"key":"金牌1","name":"爱V电影","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.gs4x7nq4.com/"},	
-{"key":"界影视","name":"影界影视","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hkybqufgh.com/"},
-{"key":"y5yy","name":"Y5影院","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://helloux9w23vc.com/"},	
+{"key":"文采","name":"文采秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},	
+{"key":"金牌1","name":"爱V电影","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.gs4x7nq4.com/"},	
+{"key":"界影视","name":"影界影视","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hkybqufgh.com/"},
+{"key":"y5yy","name":"Y5影院","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://helloux9w23vc.com/"},	
 {"key":"金牌影视1","name":"金牌影视","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.yuhelover.com/"},	
 {"key":"金牌影视2","name":"金牌影视","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.cfkj86.com"},		
 {"key":"金牌影视3","name":"金牌影视","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://chuang999.com/"},
-
+//{"key": "iysdq","name": "影院大全","type": 3,"api": "csp_XBPQ","jar":"./lib/jar.php","searchable": 1, "quickSearch": 1,"filterable": 1,"ext":"https://www.iysdq.cc/"},
 	
 //{"key": "iysdq","name": "影院大全","type": 3,"api": "csp_XBPQ","jar":"./lib/jar.php","searchable": 1, "quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.iysdq.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "国产剧$21#香港剧$22#台湾剧$23#韩国剧$24#日本剧$25#欧美剧$26#泰国剧$27#海外剧$28#电影$1#动漫$4#综艺$3"}},
 //https://www.iysdq.net/       https://www.iysdq.com	
@@ -46,7 +46,7 @@
 {"key": "白嫖者","name": "白嫖影视","type": 3,"ua": "okhttp/3.15","api": "csp_XBPQ","jar":"./lib/jar.php","ext": {"分类url": "https://www.qyzf88.com/qyvodtype/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 	"分类":"电影$1#电视剧$2#樱花动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"寒+剧情介绍：&&</p >"}},
 	
-//{"key":"巧技","name":"巧技专线","type":3,"api":"csp_qiao2","jar":"./lib/jar.php","playerType":2,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"},
+//{"key":"巧技","name":"巧技专线","type":3,"api":"csp_qiao2","jar":"./lib/fix250304.jar","playerType":2,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"},
 {"key":"天天","name": "天天影视","type": 3,"api": "csp_TTian","jar":"./lib/jar.php","playerType": 1,"ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="},
 {"key":"23ys","name":"二三App","type":3,"api":"csp_Muou","jar":"./lib/jar.php","playerType":2,"ext":"caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44","categories": ["国产剧","电影","剧集","综艺","动漫","日韩剧","泰国剧","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","日韩动漫"]},
 {"key":"油条","name":"油条App","type":3,"api":"csp_Muou","jar":"./lib/jar.php","playerType":2,"ext":"caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA=="},

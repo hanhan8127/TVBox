@@ -2,8 +2,8 @@
 
 {
   "spider":"./lib/jar.php",	
-//https://gitee.com/ouguoqiang/tvbox/blob/master/ziyong.json 
- //https://xn--tkh-mf3g9f.v.nxog.top/m/111.php 
+	
+// https://gitee.com/ouguoqiang/tvbox/blob/master/ziyong.json https://xn--tkh-mf3g9f.v.nxog.top/m/111.php 
 
 "lives": [{"name": "live","type": 0,
 	"url": "./live.txt","playerType":2,
@@ -12,6 +12,7 @@
 }],
 
 "sites":[
+	
 {"key":"豆豆","name":"胜寒提醒您：请勿相信视频中广告！","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
 
 

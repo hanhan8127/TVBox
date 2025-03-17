@@ -31,7 +31,7 @@
 		"线路数组":"<imgsrc=\"/statics/icon/icon_26.png\"&&</h3>","线路标题":"蓝光专线","分类url":"http://www.soutiyi.com/frim/{cateId}-{catePg}.html",
 		"分类":"国产剧$13日韩剧$16#综艺$3#动漫$4动作片$5#爱情片$6#科幻片$7#恐怖片$8#喜剧片$10#剧情片$12##港台剧$14#欧美剧$15#"}},
 	
-{"key":"iysdq2","name":"影院大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}--------{catePg}---.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}},
+{"key":"iysdq2","name":"影院大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}--------{catePg}---.html","分类":"空白$0#电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}},
 //https://www.iysdq.net/       https://www.iysdq.com	https://www.iysdq.cc/
 {"key":"zj","name":"追剧影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html","分类":"电影$dy#电视剧$dsj#综艺$zy#动漫$dm"}},
 

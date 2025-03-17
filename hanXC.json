@@ -26,7 +26,7 @@
 {"key":"csp_XYQHiker_农民影视","name":"农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jsdelivr.pai233.top/gh/ouhaibo1980/tvbox@master/json/nmys.json"},	
 	
 {"key":"金牌1","name":"金牌秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,
-	"ext":{"site_urls":["https://helloux9w23vc.com/","https://www.gs4x7nq4.com/","http://www.yuhelover.com/","https://www.cfkj86.com/","https://chuang999.com/",https://www.hkybqufgh.com,"https://www.ghw9zwp5.com"]}},
+	"ext":{"site_urls":["https://helloux9w23vc.com/","https://www.gs4x7nq4.com/","http://www.yuhelover.com/","https://www.cfkj86.com/","https://chuang999.com/","https://www.hkybqufgh.com","https://www.ghw9zwp5.com"]}},
 
 //https://www.cfkj86.com/         http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://bgithub.xyz/guot55/yg  https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/
 //https://gitee.com/senno/tvbox/raw/master/api.json;         https://www.gs4x7nq4.com/ 

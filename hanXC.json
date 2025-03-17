@@ -24,10 +24,15 @@
 	
 {"key":"csp_红狐狸","name":"狐狸影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},	
 {"key":"小米电影","name":"小米影视","type":3,"searchable":1,"quickSearch":1,"api":"csp_MovieApp"},    
-{"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
-{"key": "瓜子app","name":"瓜子APP","type": 3,"api": "https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/guazi.js"},	
+{"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"
+	ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
+{"key":"8号影院","name":"8号影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+	"ext":{"搜索url":"http://www.soutiyi.com/search.php?searchword={wd}","搜索链接":"href=\"&&\"","简介":"寒。+<pclass=\"col-pddetail\"&&</span>",
+		"线路数组":"<imgsrc=\"/statics/icon/icon_26.png\"&&</h3>","线路标题":"蓝光专线","分类url":"http://www.soutiyi.com/frim/{cateId}-{catePg}.html",
+		"分类":"国产剧$13日韩剧$16#综艺$3#动漫$4动作片$5#爱情片$6#科幻片$7#恐怖片$8#喜剧片$10#剧情片$12##港台剧$14#欧美剧$15#"}},	
+{"key":"csp_XYQHiker_农民影视","name":"农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jsdelivr.pai233.top/gh/ouhaibo1980/tvbox@master/json/nmys.json"},	
 {"key":"韩小圈","name":"韩小影视","type":3,"api":"csp_HanXiaoQuan","searchable":1,"quickSearch":1,"filterable":1},
-	
+{"key": "瓜子app","name":"瓜子APP","type": 3,"api": "https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/guazi.js"},	
 {"key":"油条","name":"油条App","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA=="},
 {"key":"23ys","name":"二三App","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"},
 {"key":"主角","name":"主角App","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cHM6Ly9tdW91YXBwLmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44"},
@@ -47,7 +52,8 @@
 {"key":"星芽短剧","name":"星芽短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"星芽短剧2","name":"星芽短剧","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/xingya.js"},	
 {"key":"河马短剧","name":"河马短剧","type":3,"api":"csp_AppHMDJ","searchable":1,"quickSearch":0,"filterable":0,"ext":"KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="},
-{"key":"好帅短剧","name":"好帅短剧","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html","分类":"穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan","播放数组":"<divclass=\"sort-item\"&&</div>"}},
+{"key":"好帅短剧","name":"好帅短剧","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html",
+	"分类":"穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan","播放数组":"<divclass=\"sort-item\"&&</div>"}},
 
 //{"key":"全视1","name":"全网影视","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},  
 //https://m.91qkw.cc/,https://www.91qkw.com/,https://www.qkwaa.com/,https://888.qkw2.cc,https://888.91qkw.com ,https://888.qkw1.cc/
@@ -59,19 +65,16 @@
         "分类url":"http://iyiwang.com//search.php?searchtype=5&area={area}&class={class}&by={by}&year={year}&tid={cateId}&yuyan={lang}&page={catePg}","分类": "国产剧&电视剧&电影&综艺&动漫","分类值": "13&2&1&3&4&40"}},	    
 //http://iyiwang.com/    https://www.huajie2.com
 	
-//{"key": "iysdq","name": "影院大全","type": 3,"api": "csp_XBPQ","searchable": 1, "quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.iysdq.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "国产剧$21#香港剧$22#台湾剧$23#韩国剧$24#日本剧$25#欧美剧$26#泰国剧$27#海外剧$28#电影$1#动漫$4#综艺$3"}},
-//https://www.iysdq.net/       https://www.iysdq.com	
+//{"key": "iysdq","name": "影院大全","type": 3,"api": "csp_XBPQ","searchable": 1, "quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.iysdq.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "国产剧$21##电影$1#动漫$4#综艺$3香港剧$22#台湾剧$23#韩国剧$24#日本剧$25#欧美剧$26#泰国剧$27#海外剧$28"}},
+//https://www.iysdq.net/       https://www.iysdq.com	https://www.iysdq.cc/
+{"key": "iysdq","name": "影院大全","type": 3,"api": "csp_XBPQ","searchable": 1, "quickSearch": 1,"filterable": 1,"ext": "https://www.iysdq.cc/"},  
 
 {"key": "白嫖2","name":"️白嫖影视","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
             "ext": {"分类url": "https://198mv.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影&剧集&综艺&动漫&短剧","分类值": "1&2&3&4&58",
-                "类型": "动作片$6#喜剧片$7#爱情片$8#高分经典科幻片$9#恐怖片$10#剧情片$11#战争片$12||国产剧$13#香港剧$28#恋爱不分国度$29#台湾剧$27#美国剧$31#泰国剧$33#其它剧$35||无||无||无"}},
-//新增36条备用地址:如网站无法打开请使用下面方法打开域名前面随便加一个26个英文字母A-Z 或者一个数字 1-10就是一个新的地址，例如：a.188mv.com b.188mv.com或者：1.188mv.com 2.188mv.com      最新地址：www.198mv.com www.188mv.com	
-{"key": "白嫖1","name": "️白嫖影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
-            "ext": {"分类url": "https://www.6699z.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-                "分类": "电影&剧集&综艺&动漫&短剧","分类值": "1&2&3&4&58",
-                "类型": "动作片$6#喜剧片$7#爱情片$8#高分经典科幻片$9#恐怖片$10#剧情片$11#战争片$12||国产剧$13#香港剧$28#恋爱不分国度$29#台湾剧$27#美国剧$31#泰国剧$33#其它剧$35||无||无||无"}},
-//https://www.6699z.cn/dplayer/?url=	    	    
+                "类型": "国产剧$13#香港剧$28#恋爱不分国度$29#台湾剧$27#美国剧$31#泰国剧$35||动作片$6#喜剧片$7#爱情片$8#高分经典科幻片$9#恐怖片$10#剧情片$11#战争片$12||无||无||无"}},
+//新增36条备用地址:如网站无法打开请使用下面方法打开域名前面随便加一个26个英文字母A-Z 或者一个数字 1-10就是一个新的地址，例如：a.188mv.com b.188mv.com或者：1.188mv.com 2.188mv.com      最新地址：www.198mv.com www.188mv.com  https://www.6699z.cn	
+	    
 {"key": "白嫖者","name": "白嫖影视","type": 3,"ua": "okhttp/3.15","api": "csp_XBPQ","ext": {"分类url": "https://www.qyzf88.com/qyvodtype/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 	"分类":"电影$1#电视剧$2#樱花动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"寒+剧情介绍：&&</p >"}},	
 	

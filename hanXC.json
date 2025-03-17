@@ -69,7 +69,7 @@
 //https://www.iysdq.net/       https://www.iysdq.com	https://www.iysdq.cc/
 
 {"key":"zj","name":"8K┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html","分类":"电影$dy#电视剧$dsj#综艺$zy#动漫$dm"}},
-{"key":"iysdq2","name":"影院大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}--------{catePg}---.html","分类":"短剧$5#电影$1#电视剧$2#综艺$3#动漫$4"}},
+{"key":"iysdq2","name":"影院大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}--------{catePg}---.html","分类":"短剧$5#电影$1#电视剧$2-----------#综艺$3#动漫$4"}},
 	
 {"key": "白嫖2","name":"️白嫖影视","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
             "ext": {"分类url": "https://198mv.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",

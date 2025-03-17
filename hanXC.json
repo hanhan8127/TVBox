@@ -24,13 +24,18 @@
 //https://www.iysdq.net/       https://www.iysdq.com	https://www.iysdq.cc/
 {"key":"zj","name":"追剧影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html","分类":"电影$dy#电视剧$dsj#综艺$zy#动漫$dm"}},
 {"key":"csp_XYQHiker_农民影视","name":"农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jsdelivr.pai233.top/gh/ouhaibo1980/tvbox@master/json/nmys.json"},	
+{"key":"金牌1","name":"金牌秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,
+	"ext":{"site_urls":["https://helloux9w23vc.com/","https://www.gs4x7nq4.com/","https://www.hkybqufgh.com/","http://www.yuhelover.com/","https://www.cfkj86.com/","https://chuang999.com/","https://www.ghw9zwp5.com"]}},
 
+//https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/
+//https://gitee.com/senno/tvbox/raw/master/api.json;         https://www.gs4x7nq4.com/ 
+	
 {"key":"瓜子","name":"瓜子影视","type": 3,"api": "https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/guazi.js"},	
 {"key":"360弹幕","name":"360弹幕","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true}},
 
 {"key":"23ys","name":"二三影视","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"},
 {"key":"韩小圈","name":"韩小影视","type":3,"api":"csp_HanXiaoQuan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"油条","name":"油条App","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA=="}
+{"key":"油条","name":"油条App","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA=="},
 {"key":"蝴蝶","name":"蝴蝶App","type":3,"api":"csp_Hudie","playerType":2,"ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w"},
 
 {"key":"巧技","name":"巧记影视","type":3,"api":"csp_qiao2","playerType":2,

@@ -19,7 +19,7 @@
 //https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/
 //https://gitee.com/senno/tvbox/raw/master/api.json;         https://www.gs4x7nq4.com/ 	
 {"key":"xiao","name":"影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://http://www.yuhelover.com//list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
+	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://http://www.yuhelover.com/type/{cateId}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
 
 	
 {"key":"小米电影","name":"小米影视","type":3,"searchable":1,"quickSearch":1,"api":"csp_MovieApp"},    

@@ -26,6 +26,7 @@
 {"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
 {"key": "天天","name": "天天影视","type": 3,"api": "csp_TianTian","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true,"site": "1"}},  
+{"key":"天天影视","name":"💘天天｜弹幕","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://tt.ysdqjs.cn"},	
 {"key":"iysdq2","name":"影院大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}--------{catePg}---.html","分类":"空白$2#电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 
 //https://www.iysdq.net/       https://www.iysdq.com	https://www.iysdq.cc/  
 //{"key":"bestpipe","name":"百思影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.bestpipe.cn/vodshow/{cateId}--------{catePg}---.html","分类":"大陆$21-大陆----------2025#电影$20#电视剧$21#综艺$23#动漫$22#短剧$24"}},	

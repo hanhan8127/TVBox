@@ -20,7 +20,7 @@
 //https://gitee.com/senno/tvbox/raw/master/api.json;         https://www.gs4x7nq4.com/ 	
 {"key":"xiao","name":"影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://http://www.yuhelover.com/type/{cateId}","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
-
+{"key":"金牌影视","name":"💡金牌｜影视","type":3,"api":"csp_WebJP","searchable":1,"quickSearch":1,"filterable":1,"ext":"w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKbwqPDp8Ohw6LDm8OkYcKTwp/CncKgwp/CmsKgw67CnMKgV2rCmcKaw5Xlh77phaLmj5jlkJNc5Yac5L6Q5ZGqwrTlv6roqYDotbfmu4DnrInCjcKgwp/CmsKgw57CmMKTwqLCqcOpw6fDhcOew7NaalBXw7DDqMOzw6LCsGlmV8Kt"},
 	
 {"key":"小米电影","name":"小米影视","type":3,"searchable":1,"quickSearch":1,"api":"csp_MovieApp"},    
 {"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,

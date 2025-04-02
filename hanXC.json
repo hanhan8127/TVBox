@@ -21,7 +21,7 @@
 
 //{"key":"金牌影视","name":"💡金牌｜影视","type":3,"api":"csp_WebJP","searchable":1,"quickSearch":1,"filterable":1,"ext":"w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKbwqPDp8Ohw6LDm8OkYcKTwp/CncKgwp/CmsKgw67CnMKgV2rCmcKaw5Xlh77phaLmj5jlkJNc5Yac5L6Q5ZGqwrTlv6roqYDotbfmu4DnrInCjcKgwp/CmsKgw57CmMKTwqLCqcOpw6fDhcOew7NaalBXw7DDqMOzw6LCsGlmV8Kt"},
 	
-{"key":"小米电影","name":"小米影视","type":3,"searchable":1,"quickSearch":1,"api":"csp_MovieApp"},    
+//{"key":"小米电影","name":"小米影视","type":3,"searchable":1,"quickSearch":1,"api":"csp_MovieApp"},    
 {"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
 
@@ -51,7 +51,6 @@
 {"key":"csp_Lkdy","name":"来看影视","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1},	
 {"key":"zj","name":"追剧影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html","分类":"电影$dy#电视剧$dsj#综艺$zy#动漫$dm"}},
 {"key":"csp_XYQHiker_农民影视","name":"农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/nmys.json"},	
-
 {"key":"csp_红狐狸","name":"狐狸影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},		
 	
 {"key":"360弹幕","name":"360弹幕","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true}},
@@ -61,11 +60,12 @@
 {"key":"油条","name":"油条App","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA=="},
 {"key":"蝴蝶","name":"蝴蝶App","type":3,"api":"csp_Hudie","playerType":2,"ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w"},
 	
-{"key":"巧技","name":"巧巧影视","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://alicliimg.clewm.net/342/790/68790342/17405848473943ab1aa06a0bb25eb570d8adda73bd3d11740584845.jpg"},	
+{"key":"巧技","name":"巧巧影视","type":3,"api":"csp_qiao2","playerType":2,"ext":"adgHZD4T/7tWFulh0C127b9BxztLdgaMQTADJnxZKZbY3ckvairRpCHy4DPsalkJ9gSwgZCDLdy4KBeQLIkceHOCS3Mu2XUxmJoneDAGC0e0spaKT/5U94AdpsDRBWWNtIcqbBwDbaTbLNnjlCBq0AYJceS9Kjm06ECDMd2dGe/KW3J76qu/DmsPuAmnVKn8Q3uSL2uhtsTuukMiEo0/mpxwlwSnuzKnZZhEaplyj5eo4iB7gcnPUzFi8YAQxziTD0MQZYk4vAaV2bpzUMIYXCtb+643J0JYn3In71iBNnncqF4a7tVaO+sj1rAtYwtAHZfyVKRmK8VrIKRxMCT1g9GQ7XF7oxsC/nimhCSWy3Rd8AU91E7hWaFxFAteN7X3+eht6q6fIrpb0tmUHyAR3x5GpES0mSs21xmQk1WhDRwEJLdU/RHyODDhgR+fxALd5sa42IJG6GKMWUKaYBUcANzDdDrQle256UEeh1w9zN0AWQys2rlp5OTk+1yqtlR0/+yV/N+cKaC8G1IkBFEedcAdKlDMvSsxH2xzKuIfpdur1vc8gL72/5YLQt6lR4HRkcbFUjY7tHNY/VVAMkDzMVP4PHdq+kdXT7RpHOEwEukvaG/tsf8EaVKk83LikN98Xpa/HzRuTv4xmFvfb5bKCTHL+T9523/6tvUQaQ+mNyAA="},	
+//https://alicliimg.clewm.net/342/790/68790342/17405848473943ab1aa06a0bb25eb570d8adda73bd3d11740584845.jpg
 {"key": "花姐影院","name": "花姐影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"数组": "<li class=\"fed-list-item&&</li>","搜索url": "http://iyiwang.com/search.php?searchword={wd}",
         "分类url":"http://iyiwang.com//search.php?searchtype=5&area={area}&class={class}&by={by}&year={year}&tid={cateId}&yuyan={lang}&page={catePg}","分类": "国产剧&电视剧&电影&综艺&动漫","分类值": "13&2&1&3&4&40"}},	    
 //http://iyiwang.com/    https://www.huajie2.com
-	
+
 //{"key":"腾讯","name":"腾讯视频","type": 3,"api":"https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/drpy2.min.js","ext":"https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/腾讯弹幕.js"},
 //{"key":"芒果","name":"芒果视频","type": 3,"api":"https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/drpy2.min.js","ext":"https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/芒果弹幕.js"},
 //{"key":"爱奇艺","name":"爱奇艺视频","type": 3,"api":"https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/drpy2.min.js","ext":"https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/爱奇艺弹幕.js"},

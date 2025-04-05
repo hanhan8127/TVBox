@@ -25,7 +25,7 @@
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
 	
 {"key":"农民影视","name":"农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/nmys.json"},		
-
+{"key":"FreeOk","name":"OK影视","type":3,"api":"csp_FreeOk","jar":"https://lz.qaiu.top/d/lz/iZZiO2rkmy5g","searchable":1,"filterable":1},
 //{"key":"bestpipe","name":"百思影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.bestpipe.cn/vodshow/{cateId}--------{catePg}---.html","分类":"大陆$21-大陆----------2025#电影$20#电视剧$21#综艺$23#动漫$22#短剧$24"}},	
 {"key":"csp_红狐狸2","name":"百思影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.bestpipe.cn/vodtype/{cateId}.html","分类":"电影$20#电视剧$21#综艺$23#动漫$22#短剧$24"}},	
 	

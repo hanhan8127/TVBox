@@ -13,17 +13,9 @@
 "sites":[
 	
 {"key":"豆豆","name":"胜寒提醒您：请勿相信视频中广告！","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
-    {
-      "key": "文采",
-      "name": "💮文采┃秒播",
-       "jar": "https://6492.kstore.space/xnf/fty.jar",   
-      "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+{"key": "文采","name": "文采秒播","jar":"https://6492.kstore.space/xnf/fty.jar","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
+{"key": "文采2","name": "文采秒播2","jar":"https://6492.kstore.space/xnf/fty.jar","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext":{"https://www.ghw9zwp5.com"}},	
+},	
 {"key":"金牌","name":"金牌秒播", "type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":{"site_urls":["https://helloux9w23vc.com/","https://www.gs4x7nq4.com/","https://www.hkybqufgh.com/","http://www.yuhelover.com/","https://www.cfkj86.com/","https://chuang999.com/","https://www.ghw9zwp5.com"]}},
 //https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/
 //https://gitee.com/senno/tvbox/raw/master/api.json;         https://www.gs4x7nq4.com/ 	   https://ndhfiohk.com/   https://jieys.com/ 
@@ -67,9 +59,7 @@
 	
 {"key":"360弹幕","name":"360弹幕","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true}},
 
-{"key":"23ys","name":"二三影视","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"},
 {"key":"韩小圈","name":"韩小影视","type":3,"api":"csp_HanXiaoQuan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"油条","name":"油条App","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA=="},
 {"key":"蝴蝶","name":"蝴蝶App","type":3,"api":"csp_Hudie","playerType":2,"ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w"},
 
 {"key": "花姐影院","name": "花姐影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"数组": "<li class=\"fed-list-item&&</li>","搜索url": "http://iyiwang.com/search.php?searchword={wd}",

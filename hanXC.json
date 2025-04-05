@@ -27,7 +27,8 @@
 {"key":"农民影视","name":"农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/nmys.json"},		
 
 //{"key":"bestpipe","name":"百思影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.bestpipe.cn/vodshow/{cateId}--------{catePg}---.html","分类":"大陆$21-大陆----------2025#电影$20#电视剧$21#综艺$23#动漫$22#短剧$24"}},	
-
+{"key":"csp_红狐狸2","name":"百思影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.bestpipe.cn/vodshow/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$20#电视剧$21#综艺$23#动漫$22#短剧$24"}},	
+	
 {"key":"iysdq2","name":"影院大全","type":3,"api":"csp_XBPQ",
 	"ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}--------{catePg}---.html","分类":"空白$2#电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 
 //https://www.iysdq.net/       https://www.iysdq.com	https://www.iysdq.cc/  
@@ -71,9 +72,8 @@
                   "播放数组": "<tbody>&&</tbody>","播放列表": "<a&&/a>[包含:magnet]","播放标题": ">&&<","播放链接": "href=\"&&\"","分类url": "https://www.foxjun.com/channel/{cateId}.html?apage1={catepg}",
                   "分类": "国产剧$guochanju#电影$dianying#动画$donghua#美欧剧$meiouju#日韩剧$rihanju"}},	
 	
-{"key":"腾讯","name":"腾讯视频","type": 3,"api":"https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/drpy2.min.js","ext":"https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/腾讯弹幕.js"},
-{"key":"芒果","name":"芒果视频","type": 3,"api":"https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/drpy2.min.js","ext":"https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/芒果弹幕.js"},
-{"key":"爱奇艺","name":"爱奇艺视频","type": 3,"api":"https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/drpy2.min.js","ext":"https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/bhmax/raw/JS/爱奇艺弹幕.js"},
+{"key": "腾腾","name":"腾腾视频","type": 3,"searchable": 1,"quickSearch": 1,"order_num": 0,"changeable": 0,"api": "http://wang.qijiyun.vip/yunzc/drpy_libs/drpy2.min.js","ext": "http://47.108.190.232:666/lib/10086.js"},
+{"key": "腾腾2","name":"腾云视频","type": 3,"searchable": 1,"quickSearch": 1,"order_num": 0,"changeable": 0,"api": "http://wang.qijiyun.vip/yunzc/drpy_libs/drpy2.min.js","ext": "http://47.108.190.232:666/lib/3.js"},
 
 {"key":"星芽短剧","name":"星芽短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"星芽短剧2","name":"星芽短剧","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/xingya.js"},	

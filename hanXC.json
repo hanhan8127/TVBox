@@ -17,7 +17,8 @@
 //{"key":"金牌","name":"金牌秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":{"site_urls":["https://helloux9w23vc.com/","https://www.gs4x7nq4.com/","https://www.hkybqufgh.com/","http://www.yuhelover.com/","https://www.cfkj86.com/","https://chuang999.com/","https://www.ghw9zwp5.com"]}},
 //https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/
 //https://gitee.com/senno/tvbox/raw/master/api.json;         https://www.gs4x7nq4.com/ 	   https://ndhfiohk.com/   https://jieys.com/ 
-{"key": "金牌影视","name": "金牌影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/金牌影视.js"},
+{"key": "金牌影视","name": "金牌影视", "jar": "https://gitee.com/jwlangzi/best/raw/master/spider.jar","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/金牌影视.js"},
+	
 //{"key":"小米电影","name":"小米影视","type":3,"searchable":1,"quickSearch":1,"api":"csp_MovieApp"},    
 {"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},

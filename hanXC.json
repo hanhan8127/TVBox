@@ -16,7 +16,7 @@
 {"key": "文采","name": "文采秒播","jar":"https://6492.kstore.space/xnf/fty.jar","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "文采2","name": "文采秒播2","jar":"https://6492.kstore.space/xnf/fty.jar","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext":"https://www.ghw9zwp5.com"},	
 	
-{"key":"金牌","name":"金牌秒播", "type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":{"site_urls":["https://helloux9w23vc.com/","https://www.gs4x7nq4.com/","https://www.hkybqufgh.com/","http://www.yuhelover.com/","https://www.cfkj86.com/","https://chuang999.com/","https://www.ghw9zwp5.com"]}},
+{"key":"金牌","name":"金牌秒播","jar":"https://6492.kstore.space/xnf/fty.jar", "type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":{"site_urls":["https://helloux9w23vc.com/","https://www.gs4x7nq4.com/","https://www.hkybqufgh.com/","http://www.yuhelover.com/","https://www.cfkj86.com/","https://chuang999.com/","https://www.ghw9zwp5.com"]}},
 //https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/
 //https://gitee.com/senno/tvbox/raw/master/api.json;         https://www.gs4x7nq4.com/ 	   https://ndhfiohk.com/   https://jieys.com/ 
 //{"key": "金牌影视","name": "金牌影视", "jar": "https://gitee.com/jwlangzi/best/raw/master/spider.jar","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/金牌影视.js"},

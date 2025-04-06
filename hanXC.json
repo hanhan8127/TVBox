@@ -14,7 +14,7 @@
 	
 {"key":"豆豆","name":"胜寒提醒您：请勿相信视频中广告！","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
 {"key": "文采","name": "文采秒播","jar":"https://6492.kstore.space/xnf/fty.jar","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
-{"key": "文采2","name": "文采秒播2","jar":"https://6492.kstore.space/xnf/fty.jar","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext":{"https://www.ghw9zwp5.com"}},	
+{"key": "文采2","name": "文采秒播2","jar":"https://6492.kstore.space/xnf/fty.jar","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext":"https://www.ghw9zwp5.com"},	
 	
 {"key":"金牌","name":"金牌秒播", "type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":{"site_urls":["https://helloux9w23vc.com/","https://www.gs4x7nq4.com/","https://www.hkybqufgh.com/","http://www.yuhelover.com/","https://www.cfkj86.com/","https://chuang999.com/","https://www.ghw9zwp5.com"]}},
 //https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/
@@ -53,7 +53,6 @@
 //https://www.jileitv.com/    https://www.zpcxb.com   https://www.ysmdhk.com/ 
 	
 {"key":"csp_Lkdy","name":"来看影视","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1},	
-{"key":"zj","name":"追剧影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html","分类":"电影$dy#电视剧$dsj#综艺$zy#动漫$dm"}},
 
 {"key":"csp_红狐狸","name":"狐狸影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},		
 	
@@ -65,7 +64,7 @@
 {"key": "花姐影院","name": "花姐影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"数组": "<li class=\"fed-list-item&&</li>","搜索url": "http://iyiwang.com/search.php?searchword={wd}",
         "分类url":"http://iyiwang.com//search.php?searchtype=5&area={area}&class={class}&by={by}&year={year}&tid={cateId}&yuyan={lang}&page={catePg}","分类": "国产剧&电视剧&电影&综艺&动漫","分类值": "13&2&1&3&4&40"}},	    
 //http://iyiwang.com/    https://www.huajie2.com
-{"key":"ttys","name":"天天影视","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"changeable":1,"playerType":1,"ext":"baHR0cDovL3R0LnlzZHFqcy5jbg==","jar":"http://m1839732.ca.caoni.ru/8/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"},	
+{"key": "ttys","name" :"天天影视","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"changeable":1,"playerType":1,"ext":"baHR0cDovL3R0LnlzZHFqcy5jbg==","jar":"http://m1839732.ca.caoni.ru/8/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"},	
 	
 {"key": "狐狸君","name": "狐君4K","type": 3,"api": "csp_XBPQ", "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp","changeable": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,
           "ext": {"搜索模式": "1","搜索url": "https://www.foxjun.com/s/?q={wd}","搜索数组": "class=\"media\">&&/div>", "搜索图片": "src=\"&&\"","搜索标题": "《&&》",

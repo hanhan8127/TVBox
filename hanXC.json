@@ -15,8 +15,8 @@
 "sites":[
 	
 {"key":"豆豆","name":"胜寒提醒您：请勿相信视频中广告！","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
-{"key": "文采","name": "文采秒播","jar":""type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
-//https://6492.kstore.space/xnf/fty.jar",	
+{"key": "文采","name": "文采秒播","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
+//"jar":"https://6492.kstore.space/xnf/fty.jar",	
 {"key": "文采","name": "文采秒播","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740082223598/f0221.txt","type": 3,"api": "csp_Jpys", "playerType": 2, "searchable": 1,"quickSearch": 1,"changeable": 1},	
 	
 {"key":"金牌影视","name":"金牌影视","type":3,"api":"csp_Jpys"},	

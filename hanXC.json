@@ -1,8 +1,8 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 
 {
- 
-	"spider":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php",
+        "spider":"./lib/0405.jar",	
+	//"spider":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php",
 	//"spider":"./lib/jar.php",	
 // https://gitee.com/ouguoqiang/tvbox/blob/master/ziyong.json    https://xn--tkh-mf3g9f.v.nxog.top/m/111.php 
 //https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp          https://tv.nxog.top/m/111.php?ou=公众号欧歌 
@@ -36,15 +36,9 @@
 {"key": "csp_Gz360","name": "瓜子影视","jar":"./lib/0405.jar","type": 3,"quickSearch": 1,"api": "csp_Gz360Guard"},
 {"key": "二三","name": "二三影视","jar":"./lib/0405.jar","type": 3,"api": "csp_AppMuouGuard",
         "ext": "sHR2rlsfjI4L3t4RXQMkn0a7cyj8hTgLGQDyWjFZkT61hGmE5R18ZhLMJJlIIHRp5ExOKgi452hnp8FuUY7LSxZQx7OJfbrcekZ9lorJy3crZXSce0hF8VSymV7+1QsLatyYXT/qCdOJ+V/ONvC8Qp4D3mMHMGs8t9j29y+1Zu2WCQDG7MkiImMiWgydsFhy"},	
-{"key": "人人","name": "人人影视","type": 3,"api": "csp_AppGetGuard",
-        "ext": "sHR2rlsfjI4L3t4RXQMkn5lWAFk63MKp99BaRaCwGwVoPMXpUrRhJupGqVQN8zzRhc0PCuL4mVzuh+KN84Fro7WINX8x2KJlpNKTLBLPlTuVfsg1mblMWUa4ZqZVqz8bk6MbJPrt3r0jg7nCMVsUaeYm/CFBu4z4N5c4sNExHQ44DdF44W2s6KWUWZpSkfRb2WJdy5v0GcpIoQuxWUsh9EnK9D3N3m64NCPyEyiwAVg="},
-{"key": "电影","name": "电影1080P","type": 3,"quickSearch": 1,"api": "csp_AppGetGuard",
-	"ext": "sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYgUMrJ+kztENaDom6MWpmmvbZdw38U+pT14qEwywuRW7eny/HInm+UXxpCyI8e5D7Y4kc2n0QBkeQ2Tk5Y0atLMuupC2ZGF68+oMVeX0Px9e9ODSiSspzQH/Rg1Sz5CHp0GKozVTjPIZHhO159i7A1HwZ+kk77Eh0E7AnBTt6qVBX5G+murD+CKjMLYo6MMmsE"},
-{"key": "奇妙","name": "奇妙影院","type": 3,"quickSearch": 1,"api": "csp_AppGetGuard",
-	"ext": "sHR2rlsfjI4L3t4RXQMknxpI3MBzuaDrH2PsBQxC38op5hYp0OZbDn4iJ615slmjVd+iI7Tl5Ue0Vm2GojmSTYMGSFh2aRBmEOKQ0locA9dvNXmz6vCgBlpFeFm/CQ3n1ep2SM+/awX6EoPD8V5c70mEnJDaI5kqnSlhF/wZJ/r0iCysTPux83KtOhToHnBg/VshjW3X7hDXcrKCadFsFw=="},
-		
+
 //	https://subaibai.vip/   https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json
-//{"key":"小米电影","name":"小米影视","type":3,"searchable":1,"quickSearch":1,"api":"csp_MovieApp"},    
+  
 {"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
 {"key":"TTYS","name":"天天影视","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"changeable":1,"playerType":1,"ext":"baHR0cDovL3R0LnlzZHFqcy5jbg==","jar":"http://m1839732.ca.caoni.ru/8/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"},	

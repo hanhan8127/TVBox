@@ -26,7 +26,7 @@
                              "ext": {"分类url":"https://www.nkvod.com/type/{cateId}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
 
 
-  {"key": "csp_Jpys","name": "💮金牌","type": 3,"api": "csp_XBPQ",
+  {"key": "csp_Jpys2","name": "💮金牌","type": 3,"api": "csp_XBPQ",
 	"ext": {"分类url": "https://helloux9w23vc.com/type/{cateId}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}}, 
 
 	

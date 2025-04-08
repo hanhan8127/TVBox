@@ -22,6 +22,13 @@
 {"key":"iysdq2","name":"影院大全","type":3,"api":"csp_XBPQ",
 	"ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}--------{catePg}---.html","分类":"空白$2#电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 
 //https://www.iysdq.net/       https://www.iysdq.com	https://www.iysdq.cc/  
+  {"key": "耐看观影","name": "耐看观影","type": 3,"api": "csp_XBPQ",
+                             "ext": {"分类url":"https://www.nkvod.com/type/{cateId}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
+
+
+  {"key": "csp_Jpys","name": "💮金牌","type": 3,"api": "csp_XBPQ",
+	"ext": {"分类url": "https://helloux9w23vc.com/type/{cateId}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}}, 
+
 	
 //"jar":"https://6492.kstore.space/xnf/fty.jar",  https://6492.kstore.space/xnf/xnf.json	
 //{"key":"金牌2","name":"金牌秒播","jar":"https://6492.kstore.space/xnf/fty.jar","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://helloux9w23vc.com/"},

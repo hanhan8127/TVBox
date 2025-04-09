@@ -39,7 +39,7 @@
 {"key":"csp_Wwys","name":"农民影视","jar":"./lib/0405.jar","type":3,"quickSearch":1,"api":"csp_WwysGuard","ext":"https://www.wwgz.cn"},	
 {"key": "csp_Lgyy","name": "️流光影视","jar":"./lib/0405.jar","type": 3,"quickSearch": 1,"api": "csp_FreeOkGuard"},	
 {"key": "csp_Lkdy","name": "来看影视","jar":"./lib/0405.jar","type": 3,"quickSearch": 1,"api": "csp_LkdyGuard"},
-{"key": "csp_Jpys","name": "金牌影视","jar":"./lib/0405.jar","type": 3,"quickSearch": 1,"api": "csp_JpysGuard"},	
+	
 {"key":"csp_SAOHUO","name":"火火影视","jar":"./lib/0405.jar","type":3,"quickSearch":1,"api":"csp_SaoHuoGuard"},
 {"key":"csp_baibai","name":"白白影视","jar":"./lib/0405.jar","type":3,"quickSearch":1,"api":"csp_SuBaiBaiGuard","ext":"https://www.subaibai.com"},
 {"key": "csp_Gz360","name": "瓜子影视","jar":"./lib/0405.jar","type": 3,"quickSearch": 1,"api": "csp_Gz360Guard"},

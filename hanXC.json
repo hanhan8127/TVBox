@@ -16,25 +16,18 @@
 	
 {"key":"豆豆","name":"胜寒提醒您：请勿相信视频中广告！","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
 	
-{"key": "文采","name": "金牌秒播","jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
 {"key":"iysdq2","name":"影院大全","type":3,"api":"csp_XBPQ",
 	"ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}--------{catePg}---.html","分类":"空白$2#电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 
 //https://www.iysdq.net/       https://www.iysdq.com	https://www.iysdq.cc/  
-{"key": "耐看观影","name": "耐看观影","type": 3,"api": "csp_XBPQ",
-                             "ext": {"分类url":"https://www.nkvod.com/type/{cateId}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
-{"key": "csp_Jpys2","name": "💮金牌","type": 3,"api": "csp_XBPQ",
-	"ext": {"分类url": "https://helloux9w23vc.com/type/{cateId}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}}, 
-{"key": "海兔影院","name": "🎃海兔┃影视","type": 3,"api": "csp_XBPQ","jar":"./jar/ttkx0801.jar",
-    "ext": {"分类url": "http://www.haitu.xyz/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类": "电视剧$2#电影$1#综艺$3#动漫$4#伦理片$21"}},
 	
 //"jar":"https://6492.kstore.space/xnf/fty.jar",  https://6492.kstore.space/xnf/xnf.json	
 //{"key":"金牌2","name":"金牌秒播","jar":"https://6492.kstore.space/xnf/fty.jar","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://helloux9w23vc.com/"},
 //https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/
 //https://gitee.com/senno/tvbox/raw/master/api.json;         https://www.gs4x7nq4.com/ 	   https://ndhfiohk.com/   https://jieys.com/ 
 //{"key": "闪雷","name": "闪雷影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/闪电.js"},
-	
+//{"key": "文采","name": "金牌秒播","jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},	
 //https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json
 {"key": "二三","name": "二三影视","jar":"./lib/0405.jar","type": 3,"api": "csp_AppMuouGuard",
         "ext": "sHR2rlsfjI4L3t4RXQMkn0a7cyj8hTgLGQDyWjFZkT61hGmE5R18ZhLMJJlIIHRp5ExOKgi452hnp8FuUY7LSxZQx7OJfbrcekZ9lorJy3crZXSce0hF8VSymV7+1QsLatyYXT/qCdOJ+V/ONvC8Qp4D3mMHMGs8t9j29y+1Zu2WCQDG7MkiImMiWgydsFhy"},	

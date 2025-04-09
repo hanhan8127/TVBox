@@ -42,7 +42,7 @@
 	
 {"key":"csp_SAOHUO","name":"火火影视","jar":"./lib/0405.jar","type":3,"quickSearch":1,"api":"csp_SaoHuoGuard"},
 {"key":"csp_baibai","name":"白白影视","jar":"./lib/0405.jar","type":3,"quickSearch":1,"api":"csp_SuBaiBaiGuard","ext":"https://www.subaibai.com"},
-{"key": "白嫖TV","name": "白嫖影视","type": 3,"api": "csp_XBPQ","jar":"./jar/ttkx0801.jar",
+{"key": "白嫖TV","name": "白嫖影视","type": 3,"api": "csp_XBPQ","jar":"https://gitee.com/Muing/zjc/raw/master/jar/ttkx0801.jar",
     "ext": {"分类url": "https://www.baipiaotv.vip/vodshow/{cateId}-{area}--{class}--{letter}---{catePg}---{year}.html","分类": "电视剧$2#电影$1#综艺$3#动漫$4"}},	
 {"key": "csp_Gz360","name": "瓜子影视","jar":"./lib/0405.jar","type": 3,"quickSearch": 1,"api": "csp_Gz360Guard"},
 //https://subaibai.vip/   米https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json

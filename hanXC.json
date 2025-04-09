@@ -25,15 +25,17 @@
 //https://www.iysdq.net/       https://www.iysdq.com	https://www.iysdq.cc/  
 {"key": "耐看观影","name": "耐看观影","type": 3,"api": "csp_XBPQ",
                              "ext": {"分类url":"https://www.nkvod.com/type/{cateId}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
-{"key": "耐看","name": "2222","type": 3,"api": "csp_XBPQ",
-                             "ext": {"分类url":"https://www.baipiaotv.vip/vodshow/{cateId}-----------.html","分类": "国产剧$13#电视剧$2#电影$1#动漫$4#综艺$3"}},	
-//"jar":"https://6492.kstore.space/xnf/fty.jar",  https://6492.kstore.space/xnf/xnf.json	
+{"key": "白嫖影视","name": "白嫖影视","type": 3,"api": "csp_XBPQ",
+                             "ext": {"分类url":"https://www.baipiaotv.vip/vodshow/{cateId}-----------.html","分类": "国产剧$13#日韩剧$15#电影$1#动漫$4#综艺$3"}},	
+
+{"key": "金牌","name": "金牌秒播","type": 3,"api": "csp_XBPQ",
+                             "ext": {"分类url":"https://www.ghw9zwp5.com/vod/show/id/2/type/{cateId}","分类": "国产剧$14#日韩剧$15#电影$1#动漫$4#综艺$3"}},	
 //{"key":"金牌2","name":"金牌秒播","jar":"https://6492.kstore.space/xnf/fty.jar","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://helloux9w23vc.com/"},
 //https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/
 //https://gitee.com/senno/tvbox/raw/master/api.json;         https://www.gs4x7nq4.com/ 	   https://ndhfiohk.com/   https://jieys.com/ 
 //{"key": "闪雷","name": "闪雷影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/闪电.js"},
 //{"key": "文采","name": "金牌秒播","jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},	
-//https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json
+
 {"key": "二三","name": "二三影视","jar":"./lib/0405.jar","type": 3,"api": "csp_AppMuouGuard",
         "ext": "sHR2rlsfjI4L3t4RXQMkn0a7cyj8hTgLGQDyWjFZkT61hGmE5R18ZhLMJJlIIHRp5ExOKgi452hnp8FuUY7LSxZQx7OJfbrcekZ9lorJy3crZXSce0hF8VSymV7+1QsLatyYXT/qCdOJ+V/ONvC8Qp4D3mMHMGs8t9j29y+1Zu2WCQDG7MkiImMiWgydsFhy"},	
 {"key": "天天","name": "天天影视","jar":"./lib/0405.jar","type": 3,"quickSearch": 1,"api": "csp_AppRJGuard",
@@ -43,10 +45,8 @@
 {"key":"csp_Wwys","name":"农民影视","jar":"./lib/0405.jar","type":3,"quickSearch":1,"api":"csp_WwysGuard","ext":"https://www.wwgz.cn"},	
 {"key": "csp_Lgyy","name": "️流光影视","jar":"./lib/0405.jar","type": 3,"quickSearch": 1,"api": "csp_FreeOkGuard"},	
 {"key": "csp_Lkdy","name": "来看影视","jar":"./lib/0405.jar","type": 3,"quickSearch": 1,"api": "csp_LkdyGuard"},
-	
 {"key":"csp_SAOHUO","name":"火火影视","jar":"./lib/0405.jar","type":3,"quickSearch":1,"api":"csp_SaoHuoGuard"},
 {"key":"csp_baibai","name":"白白影视","jar":"./lib/0405.jar","type":3,"quickSearch":1,"api":"csp_SuBaiBaiGuard","ext":"https://www.subaibai.com"},
-//{"key": "白嫖TV","name": "白嫖影视","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.baipiaotv.vip/vodshow/{cateId}-{area}--{class}--{letter}---{catePg}---{year}.html","分类": "电视剧$2#电影$1#综艺$3#动漫$4"}},	
 {"key": "csp_Gz360","name": "瓜子影视","jar":"./lib/0405.jar","type": 3,"quickSearch": 1,"api": "csp_Gz360Guard"},
 //https://subaibai.vip/   米https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json   "jar":"https://gitee.com/Muing/zjc/raw/master/jar/ttkx0801.jar",
   

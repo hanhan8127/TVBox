@@ -27,9 +27,7 @@
                              "ext": {"分类url":"https://www.nkvod.com/type/{cateId}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
 {"key": "白嫖影视","name": "白嫖影视","type": 3,"api": "csp_XBPQ",
                              "ext": {"分类url":"https://www.baipiaotv.vip/vodshow/{cateId}-----------.html","分类": "国产剧$13#日韩剧$15#电影$1#动漫$4#综艺$3"}},	
-
-{"key": "金牌","name": "金牌秒播","type": 3,"api": "csp_XBPQ",
-                             "ext": {"分类url":"https://www.ghw9zwp5.com/vod/show/id/2/type/{cateId}","分类": "国产剧$14#日韩剧$15#电影$1#动漫$4#综艺$3"}},	
+	
 //{"key":"金牌2","name":"金牌秒播","jar":"https://6492.kstore.space/xnf/fty.jar","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://helloux9w23vc.com/"},
 //https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/
 //https://gitee.com/senno/tvbox/raw/master/api.json;         https://www.gs4x7nq4.com/ 	   https://ndhfiohk.com/   https://jieys.com/ 

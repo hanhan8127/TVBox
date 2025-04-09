@@ -24,7 +24,9 @@
 	"ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}--------{catePg}---.html","分类":"空白$2#电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 
 //https://www.iysdq.net/       https://www.iysdq.com	https://www.iysdq.cc/  
 {"key": "耐看观影","name": "耐看观影","type": 3,"api": "csp_XBPQ",
-                             "ext": {"分类url":"https://www.nkvod.com/type/{cateId}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},	
+                             "ext": {"分类url":"https://www.nkvod.com/type/{cateId}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
+{"key": "耐看","name": "2222","type": 3,"api": "csp_XBPQ",
+                             "ext": {"分类url":"https://www.baipiaotv.vip/type/{cateId}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},	
 //"jar":"https://6492.kstore.space/xnf/fty.jar",  https://6492.kstore.space/xnf/xnf.json	
 //{"key":"金牌2","name":"金牌秒播","jar":"https://6492.kstore.space/xnf/fty.jar","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://helloux9w23vc.com/"},
 //https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/
@@ -44,8 +46,7 @@
 	
 {"key":"csp_SAOHUO","name":"火火影视","jar":"./lib/0405.jar","type":3,"quickSearch":1,"api":"csp_SaoHuoGuard"},
 {"key":"csp_baibai","name":"白白影视","jar":"./lib/0405.jar","type":3,"quickSearch":1,"api":"csp_SuBaiBaiGuard","ext":"https://www.subaibai.com"},
-{"key": "白嫖TV","name": "白嫖影视","type": 3,"api": "csp_XBPQ",
-    "ext": {"分类url": "https://www.baipiaotv.vip/vodshow/{cateId}-{area}--{class}--{letter}---{catePg}---{year}.html","分类": "电视剧$2#电影$1#综艺$3#动漫$4"}},	
+//{"key": "白嫖TV","name": "白嫖影视","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.baipiaotv.vip/vodshow/{cateId}-{area}--{class}--{letter}---{catePg}---{year}.html","分类": "电视剧$2#电影$1#综艺$3#动漫$4"}},	
 {"key": "csp_Gz360","name": "瓜子影视","jar":"./lib/0405.jar","type": 3,"quickSearch": 1,"api": "csp_Gz360Guard"},
 //https://subaibai.vip/   米https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json   "jar":"https://gitee.com/Muing/zjc/raw/master/jar/ttkx0801.jar",
   

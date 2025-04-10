@@ -33,7 +33,8 @@
 //https://gitee.com/senno/tvbox/raw/master/api.json;         https://www.gs4x7nq4.com/ 	   https://ndhfiohk.com/   https://jieys.com/ 
 //{"key": "闪雷","name": "闪雷影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/闪电.js"},
 //{"key": "文采","name": "金牌秒播","jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},	
-
+{"key": "雨见视频","name": "雨见蓝光","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+        "ext": {"影片类型": "类型：&&</li>","简介": "简介：&&</div>","分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"}},
 {"key": "二三","name": "二三影视","jar":"./lib/0405.jar","type": 3,"api": "csp_AppMuouGuard",
         "ext": "sHR2rlsfjI4L3t4RXQMkn0a7cyj8hTgLGQDyWjFZkT61hGmE5R18ZhLMJJlIIHRp5ExOKgi452hnp8FuUY7LSxZQx7OJfbrcekZ9lorJy3crZXSce0hF8VSymV7+1QsLatyYXT/qCdOJ+V/ONvC8Qp4D3mMHMGs8t9j29y+1Zu2WCQDG7MkiImMiWgydsFhy"},	
 {"key": "天天","name": "天天影视","jar":"./lib/0405.jar","type": 3,"quickSearch": 1,"api": "csp_AppRJGuard",

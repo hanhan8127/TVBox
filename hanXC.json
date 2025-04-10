@@ -28,10 +28,13 @@
 {"key": "白嫖影视","name": "白嫖影视","type": 3,"api": "csp_XBPQ",
                              "ext": {"分类url":"https://www.baipiaotv.vip/vodshow/{cateId}-----------.html","分类": "国产剧$13#日韩剧$15#电影$1#动漫$4#综艺$3"}},	
 {"key":"bestpipe","name":"百思影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.bestpipe.cn/vodshow/{cateId}-{area}----------.html","分类":"电影$20#剧集$21#短剧$24#综艺$23#动漫$22"}},	
-
+{"key": "csp_非凡资源","name": "非凡影院","type": 1,"api": "http://ffzy.tv/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,
+	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","韩国剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","台湾剧","日本剧","海外剧","泰国剧","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
+//非凡资源备用网址:ffzy1.tv ffzy2.tv ffzy3.tv ffzy4.tv ffzy5.tv      http://ffzy.tv/api.php/provide/vod/
+	
 //{"key":"金牌2","name":"金牌秒播","jar":"https://6492.kstore.space/xnf/fty.jar","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://helloux9w23vc.com/"},
-//https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/
-//https://gitee.com/senno/tvbox/raw/master/api.json;         https://www.gs4x7nq4.com/ 	   https://ndhfiohk.com/   https://jieys.com/ 
+//https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/  http://www.guanyugekj.com/
+//https://gitee.com/senno/tvbox/raw/master/api.json;         https://www.gs4x7nq4.com/ 	   https://ndhfiohk.com/   https://jieys.com/  https://www.vv3nwjk.com/     https://www.jpyy2.com/   
 //{"key": "闪雷","name": "闪雷影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/闪电.js"},
 {"key": "雨见视频","name": "雨见蓝光","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/yg/raw/jar%2Fbhtv.txt?ref=main",
         "ext": {"影片类型": "类型：&&</li>","简介": "简介：&&</div>","分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"}},
@@ -57,6 +60,7 @@
 
 {"key": "白嫖TV","name": "白嫖影视","type": 3,"api": "csp_XBPQ","jar":"./jar/ttkx0801.jar",
     "ext": {"分类url": "https://www.baipiaotv.vip/vodshow/{cateId}-{area}--{class}--{letter}---{catePg}---{year}.html","分类": "电视剧$2#电影$1#综艺$3#动漫$4"}},
+
 {"key": "最全","name": "最全影视","type": 3,"api": "csp_XBPQ",
 	"ext": {"分类url": "https://www.zqystv.com/zqys/area/{area}/{cateId}/page/{catePg}/year/{year}.html","分类":"国产剧$gcj#电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}},
 {"key": "臻品","name": "臻品影视","type": 3,"api": "csp_XBPQ",
@@ -99,9 +103,7 @@
 //{"key":"全视1","name":"全网影视","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},  
 //https://m.91qkw.cc/,https://www.91qkw.com/,https://www.qkwaa.com/,https://888.qkw2.cc,https://888.91qkw.com ,https://888.qkw1.cc/
 	
-{"key": "csp_非凡资源","name": "非凡影院","type": 1,"api": "http://ffzy.tv/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,
-	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
-//非凡资源备用网址:ffzy1.tv ffzy2.tv ffzy3.tv ffzy4.tv ffzy5.tv      http://ffzy.tv/api.php/provide/vod/
+
 
 {"key":"极速资源","name":"极速影院","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,
 	 "categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧","日剧","韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺","日韩动漫","欧美动漫","港台动漫","海外动漫"]},

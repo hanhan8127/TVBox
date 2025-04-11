@@ -24,6 +24,7 @@
 	"ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}--------{catePg}---.html","分类":"空白$2#电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 
 //https://www.iysdq.net/       https://www.iysdq.com	https://www.iysdq.cc/
 	
+{"key": "热热","name": "热播影视","type": 3,"quickSearch": 1,"api": "csp_AppRJGuard","ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"},	
 {"key": "耐看观影","name": "耐看观影","type": 3,"api": "csp_XBPQ",
                              "ext": {"分类url":"https://www.nkvod.com/type/{cateId}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
 {"key": "白嫖影视","name": "白嫖影视","type": 3,"api": "csp_XBPQ",

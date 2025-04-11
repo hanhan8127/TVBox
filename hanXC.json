@@ -23,12 +23,10 @@
 //https://www.iysdq.net/       https://www.iysdq.com	https://www.iysdq.cc/
 		
 {"key": "耐看观影","name": "耐看观影","type": 3,"api": "csp_XBPQ",
-                             "ext": {"分类url":"https://www.nkvod.com/type/{cateId}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
+        "ext": {"分类url":"https://www.nkvod.com/type/{cateId}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
 {"key": "白嫖影视","name": "白嫖影视","type": 3,"api": "csp_XBPQ",
-                             "ext": {"分类url":"https://www.baipiaotv.vip/vodshow/{cateId}-----------.html","分类": "国产剧$13#日韩剧$15#电影$1#动漫$4#综艺$3"}},
-{"key": "白嫖TV","name": "白嫖影视","type": 3,"api": "csp_XBPQ",
-    "ext": {"分类url": "https://www.baipiaotv.vip/vodshow/{cateId}-{area}--{class}--{letter}---{catePg}---{year}.html","分类": "电视剧$2#电影$1#综艺$3#动漫$4"}},
-//"jar":"./jar/ttkx0801.jar",	
+         "ext": {"分类url":"https://www.baipiaotv.vip/vodshow/{cateId}-----------.html","分类": "国产剧$13#日韩剧$15#电影$1#动漫$4#综艺$3"}},
+
 {"key":"bestpipe","name":"百思影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.bestpipe.cn/vodshow/{cateId}-{area}----------.html","分类":"电影$20#剧集$21#短剧$24#综艺$23#动漫$22"}},	
 
 //{"key":"金牌2","name":"金牌秒播","jar":"https://6492.kstore.space/xnf/fty.jar","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://helloux9w23vc.com/"},
@@ -91,9 +89,7 @@
                   "播放数组": "<tbody>&&</tbody>","播放列表": "<a&&/a>[包含:magnet]","播放标题": ">&&<","播放链接": "href=\"&&\"","分类url": "https://www.foxjun.com/channel/{cateId}.html?apage1={catepg}",
                   "分类": "国产剧$guochanju#电影$dianying#动画$donghua#美欧剧$meiouju#日韩剧$rihanju"}},	
 
-{"key":"星芽短剧","name":"星芽短剧","jar":"./lib/jar0410.php","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},
-{"key":"星芽短剧2","name":"星芽短剧","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/xingya.js"},	
-{"key":"河马短剧","name":"河马短剧","jar":"./lib/jar0410.php","type":3,"api":"csp_AppHMDJ","searchable":1,"quickSearch":0,"filterable":0,"ext":"KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="},
+{"key":"星芽短剧","name":"星芽短剧","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/xingya.js"},	
 {"key":"csp_AppXY","name":"上头短剧","jar":"./lib/0408.jar","type":3,"quickSearch":1,"api":"csp_AppXYGuard"},
 //{"key":"全视1","name":"全网影视","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},  
 //https://m.91qkw.cc/,https://www.91qkw.com/,https://www.qkwaa.com/,https://888.qkw2.cc,https://888.91qkw.com ,https://888.qkw1.cc/

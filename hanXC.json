@@ -1,8 +1,6 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 
 {
-       	"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744092366140/0408.jar",	
-
 	//"spider":"./lib/jar.php",	
 // https://gitee.com/ouguoqiang/tvbox/blob/master/ziyong.json    https://xn--tkh-mf3g9f.v.nxog.top/m/111.php 
 //https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp          https://tv.nxog.top/m/111.php?ou=公众号欧歌 
@@ -17,14 +15,13 @@
 "sites":[
 	
 {"key":"豆豆","name":"胜寒提醒您：请勿相信视频中广告！","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
-{"key":"豆豆1","name":"胜寒提醒您：请勿相信视频中广告！","type":3,"api":"csp_DoubanGuard","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},	
+
 {"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
 {"key":"iysdq2","name":"影院大全","type":3,"api":"csp_XBPQ",
 	"ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}--------{catePg}---.html","分类":"空白$2#电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 
 //https://www.iysdq.net/       https://www.iysdq.com	https://www.iysdq.cc/
-	
-{"key": "热热","name": "热播影视","type": 3,"quickSearch": 1,"api": "csp_AppRJGuard","ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"},	
+		
 {"key": "耐看观影","name": "耐看观影","type": 3,"api": "csp_XBPQ",
                              "ext": {"分类url":"https://www.nkvod.com/type/{cateId}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
 {"key": "白嫖影视","name": "白嫖影视","type": 3,"api": "csp_XBPQ",
@@ -37,20 +34,21 @@
 
 {"key": "雨见视频","name": "雨见蓝光","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
         "ext": {"影片类型": "类型：&&</li>","简介": "简介：&&</div>","分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"}},
-
+//米
+{"key": "热热","name": "热播影视","jar":"./lib/0408.jar","type": 3,"quickSearch": 1,"api": "csp_AppRJGuard","ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"},
 {"key": "二三","name": "二三影视","jar":"./lib/0405.jar","type": 3,"api": "csp_AppMuouGuard",
         "ext": "sHR2rlsfjI4L3t4RXQMkn0a7cyj8hTgLGQDyWjFZkT61hGmE5R18ZhLMJJlIIHRp5ExOKgi452hnp8FuUY7LSxZQx7OJfbrcekZ9lorJy3crZXSce0hF8VSymV7+1QsLatyYXT/qCdOJ+V/ONvC8Qp4D3mMHMGs8t9j29y+1Zu2WCQDG7MkiImMiWgydsFhy"},	
 {"key": "天天","name": "天天影视","jar":"./lib/0405.jar","type": 3,"quickSearch": 1,"api": "csp_AppRJGuard",
 	"ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"},
 {"key":"TTYS","name":"天天影视","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"changeable":1,"playerType":1,
 	"ext":"baHR0cDovL3R0LnlzZHFqcy5jbg==","jar":"http://m1839732.ca.caoni.ru/8/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"},	
-{"key":"csp_Wwys","name":"农民影视","jar":"./lib/0405.jar","type":3,"quickSearch":1,"api":"csp_WwysGuard","ext":"https://www.wwgz.cn"},	
-{"key": "csp_Lgyy","name": "️流光影视","jar":"./lib/0405.jar","type": 3,"quickSearch": 1,"api": "csp_FreeOkGuard"},	
-{"key": "csp_Lkdy","name": "来看影视","jar":"./lib/0405.jar","type": 3,"quickSearch": 1,"api": "csp_LkdyGuard"},
-{"key":"csp_SAOHUO","name":"火火影视","jar":"./lib/0405.jar","type":3,"quickSearch":1,"api":"csp_SaoHuoGuard"},
-{"key":"csp_baibai","name":"白白影视","jar":"./lib/0405.jar","type":3,"quickSearch":1,"api":"csp_SuBaiBaiGuard","ext":"https://www.subaibai.com"},
-{"key": "csp_Gz360","name": "瓜子影视","jar":"./lib/0405.jar","type": 3,"quickSearch": 1,"api": "csp_Gz360Guard"},
-//https://subaibai.vip/   米https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json   
+{"key":"csp_Wwys","name":"农民影视","jar":"./lib/0408.jar","type":3,"quickSearch":1,"api":"csp_WwysGuard","ext":"https://www.wwgz.cn"},	
+{"key": "csp_Lgyy","name": "️流光影视","jar":"./lib/0408.jar","type": 3,"quickSearch": 1,"api": "csp_FreeOkGuard"},	
+{"key": "csp_Lkdy","name": "来看影视","jar":"./lib/0408.jar","type": 3,"quickSearch": 1,"api": "csp_LkdyGuard"},
+{"key":"csp_SAOHUO","name":"火火影视","jar":"./lib/0408.jar","type":3,"quickSearch":1,"api":"csp_SaoHuoGuard"},
+{"key":"csp_baibai","name":"白白影视","jar":"./lib/0408.jar","type":3,"quickSearch":1,"api":"csp_SuBaiBaiGuard","ext":"https://www.subaibai.com"},
+{"key": "csp_Gz360","name": "瓜子影视","jar":"./lib/0408.jar","type": 3,"quickSearch": 1,"api": "csp_Gz360Guard"},
+//米 https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json   
   
 {"key": "木耳","name": "木耳影院","type": 1,"api": "https://json02.heimuer.xyz/api.php/provide/vod","searchable": 1,"filterable": 1,"changeable": 1,"timeout":15,
       "categories": ["国产剧","国产综艺","国产动漫","韩剧","日本动漫","剧情片","动作片","冒险片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片", "动画电影","网络电影","港剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","韩国动漫","港台动漫"]},

@@ -93,12 +93,13 @@
         "分类url":"http://iyiwang.com//search.php?searchtype=5&area={area}&class={class}&by={by}&year={year}&tid={cateId}&yuyan={lang}&page={catePg}","分类": "国产剧&电视剧&电影&综艺&动漫","分类值": "13&2&1&3&4&40"}},	    
 //http://iyiwang.com/    https://www.huajie2.com
 	
-{"key": "狐狸君","name": "狐君4K","type": 3,"api": "csp_XBPQ", "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp","changeable": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,
+{"key": "狐狸君","name": "狐君4K","type": 3,"api": "csp_XBPQ","changeable": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,
           "ext": {"搜索模式": "1","搜索url": "https://www.foxjun.com/s/?q={wd}","搜索数组": "class=\"media\">&&/div>", "搜索图片": "src=\"&&\"","搜索标题": "《&&》",
                   "搜索副标题": "》&&\"","搜索链接": "href=\"&&\"","标题": "《&&》","副标题": "》&&\"","影片年代": "上映日期：&&</p>","影片类型": "类型：&&</p>","主演": "主演：&&</p>","简介": "简介：&&</p>",
                   "播放数组": "<tbody>&&</tbody>","播放列表": "<a&&/a>[包含:magnet]","播放标题": ">&&<","播放链接": "href=\"&&\"","分类url": "https://www.foxjun.com/channel/{cateId}.html?apage1={catepg}",
                   "分类": "国产剧$guochanju#电影$dianying#动画$donghua#美欧剧$meiouju#日韩剧$rihanju"}},	
 
+// "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp",
 {"key":"星芽短剧","name":"星芽短剧","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/xingya.js"},	
 {"key":"csp_AppXY","name":"上头短剧","jar":"./lib/0408.jar","type":3,"quickSearch":1,"api":"csp_AppXYGuard"},
 

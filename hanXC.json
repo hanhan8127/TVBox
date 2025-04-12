@@ -24,6 +24,7 @@
 {"key":"iysdq2","name":"影院大全","type":3,"api":"csp_XBPQ",
 	"ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}--------{catePg}---.html","分类":"空白$2#电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 
 //https://www.iysdq.net/       https://www.iysdq.com	https://www.iysdq.cc/
+{"key":"火火影视","name":"火火影视","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},
 	
 {"key": "lkvod","name": "爱看影视","type": 3,"api": "csp_XBPQ",
          "ext": {"分类url":"https://lkvod.me/show/{cateId}-----------.html","分类": "国产剧$13#电视剧$2#日韩剧$15#电影$1#动漫$4#综艺$3"}},		
@@ -32,7 +33,11 @@
 {"key": "白嫖影视","name": "白嫖影视","type": 3,"api": "csp_XBPQ",
          "ext": {"分类url":"https://www.baipiaotv.vip/vodshow/{cateId}-----------.html","分类": "国产剧$13#电视剧$2#日韩剧$15#电影$1#动漫$4#综艺$3"}},
 	
-//{"key":"bestpipe","name":"百思影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.bestpipe.cn/vodtype/{cateId}-{area}----------.html","分类":"电影$20#剧集$21#短剧$24#综艺$23#动漫$22"}},	
+{"key":"全视1","name":"全网影视","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},  
+{"key":"全视2","name":"全网影视","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.qkwaa.com/"},  
+//https://m.91qkw.cc/,https://www.91qkw.com/,https://www.qkwaa.com/,https://888.qkw2.cc,https://888.91qkw.com ,https://888.qkw1.cc/
+	
+{"key":"bestpipe","name":"百思影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.bestpipe.cn/vodtype/{cateId}-{area}----------.html","分类":"电影$20#剧集$21#短剧$24#综艺$23#动漫$22"}},	
 
 //{"key":"金牌2","name":"金牌秒播","jar":"https://6492.kstore.space/xnf/fty.jar","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://helloux9w23vc.com/"},
 //https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/  http://www.guanyugekj.com/
@@ -51,8 +56,8 @@
 {"key":"csp_baibai","name":"白白影视","jar":"./lib/0408.jar","type":3,"quickSearch":1,"api":"csp_SuBaiBaiGuard","ext":"https://www.subaibai.com"},
 {"key": "csp_Gz360","name": "瓜子影视","jar":"./lib/0408.jar","type": 3,"quickSearch": 1,"api": "csp_Gz360Guard"},
 //米 https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json   
-{"key":"旺旺","name":"旺旺影视","type":3,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},  
-{"key":"尘落影视","name":"💡尘落｜影视","type":3,"api":"csp_Wetv","searchable":1,"quickSearch":1,"ext":"https://v.wetv.wang"},
+
+{"key":"尘落影视","name":"尘落影视","type":3,"api":"csp_Wetv","searchable":1,"quickSearch":1,"ext":"https://v.wetv.wang"},
 {"key": "木耳","name": "木耳影院","type": 1,"api": "https://json02.heimuer.xyz/api.php/provide/vod","searchable": 1,"filterable": 1,"changeable": 1,"timeout":15,
       "categories": ["国产剧","国产综艺","国产动漫","韩剧","日本动漫","剧情片","动作片","冒险片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片", "动画电影","网络电影","港剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","韩国动漫","港台动漫"]},
 	
@@ -96,10 +101,8 @@
 
 {"key":"星芽短剧","name":"星芽短剧","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/xingya.js"},	
 {"key":"csp_AppXY","name":"上头短剧","jar":"./lib/0408.jar","type":3,"quickSearch":1,"api":"csp_AppXYGuard"},
-{"key":"全视1","name":"全网影视","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},  
-//https://m.91qkw.cc/,https://www.91qkw.com/,https://www.qkwaa.com/,https://888.qkw2.cc,https://888.91qkw.com ,https://888.qkw1.cc/
-{"key":"全网影视","name":"全看影视2","type":3,"api":"csp_Quanwk","ext":"https://www.91qkw.com"},
-{"key":"火火影视","name":"💡火火｜影视","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},	
+
+	
 {"key": "csp_非凡资源","name": "非凡影院","type": 1,"api": "http://ffzy.tv/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,
 	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","韩国剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","台湾剧","日本剧","海外剧","泰国剧","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
 //非凡资源备用网址:ffzy1.tv ffzy2.tv ffzy3.tv ffzy4.tv ffzy5.tv      http://ffzy.tv/api.php/provide/vod/

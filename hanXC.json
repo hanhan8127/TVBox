@@ -35,10 +35,7 @@
          "ext": {"分类url":"https://www.baipiaotv.vip/vodshow/{cateId}-----------.html","分类": "国产剧$13#电视剧$2#日韩剧$15#电影$1#动漫$4#综艺$3"}},
 {"key":"尘落影视","name":"尘落影视","type":3,"api":"csp_Wetv","searchable":1,"quickSearch":1,"ext":"https://v.wetv.wang"},
 	
-{"key": "快看","name": "看看影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": "http://kkwk123.top/api.php/app/"},
-{"key": "素白白","name": "白白影视","type": 3,"api": "csp_XBPQ","ext": "./lib/素白白.json"},	
-https://subaibai.vip/	
-{"key": "天天影视","name": "天天秒播","type": 3,"api": "csp_AppRJ","jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/leevi0321/null/raw/tt.jar;md5;EE4B07058D4EF7B5C42631C0BF9F0EEA","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://tt.ysdqjs.cn"},		
+
 {"key":"全视1","name":"全网影视","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},  
 //https://m.91qkw.cc/,https://www.91qkw.com/,https://www.qkwaa.com/,https://888.qkw2.cc,https://888.91qkw.com ,https://888.qkw1.cc/
 	
@@ -52,9 +49,6 @@ https://subaibai.vip/
         "ext": {"影片类型": "类型：&&</li>","简介": "简介：&&</div>","分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"}},
 //米
 {"key": "热热","name": "热播影视","jar":"./lib/0408.jar","type": 3,"quickSearch": 1,"api": "csp_AppRJGuard","ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"},
-
-{"key":"TTYS","name":"天天影视","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"changeable":1,"playerType":1,
-	"ext":"baHR0cDovL3R0LnlzZHFqcy5jbg==","jar":"http://m1839732.ca.caoni.ru/8/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"},	
 {"key":"csp_Wwys","name":"农民影视","jar":"./lib/0408.jar","type":3,"quickSearch":1,"api":"csp_WwysGuard","ext":"https://www.wwgz.cn"},	
 {"key": "csp_Lgyy","name": "️流光影视","jar":"./lib/0408.jar","type": 3,"quickSearch": 1,"api": "csp_FreeOkGuard"},	
 {"key": "csp_Lkdy","name": "来看影视","jar":"./lib/0408.jar","type": 3,"quickSearch": 1,"api": "csp_LkdyGuard"},

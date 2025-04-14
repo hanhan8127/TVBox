@@ -36,8 +36,8 @@
 {"key":"尘落影视","name":"尘落影视","type":3,"api":"csp_Wetv","searchable":1,"quickSearch":1,"ext":"https://v.wetv.wang"},
 {"key": "快看","name": "看看影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": "http://kkwk123.top/api.php/app/"},
 
-{"key": "天天影视","name": "天天秒播","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://tt.ysdqjs.cn"},	
-//"jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/leevi0321/null/raw/tt.jar;md5;EE4B07058D4EF7B5C42631C0BF9F0EEA",	
+//{"key": "天天影视","name": "天天秒播","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/leevi0321/null/raw/tt.jar;md5;EE4B07058D4EF7B5C42631C0BF9F0EEA","ext": "http://tt.ysdqjs.cn"},	
+
 {"key":"TTYS","name":"天天影视","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"changeable":1,"playerType":1,
 	"ext":"baHR0cDovL3R0LnlzZHFqcy5jbg==","jar":"http://m1839732.ca.caoni.ru/8/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"},
 	

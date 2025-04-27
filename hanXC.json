@@ -33,8 +33,8 @@
 {"key": "耐看观影","name": "耐看观影","type": 3,"api": "csp_XBPQ",
         "ext": {"分类url":"https://www.nkvod.com/type/{cateId}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
 	
-{"key":"drpy_js_金牌","name":"金牌影视[js]","jar":"./lib/custom_spider.jar","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视.js"},
-{"key":"可可影视","name":"可可影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},
+{"key":"drpy_js_金牌","name":"金牌影视","jar":"./lib/custom_spider.jar","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视.js"},
+{"key":"可可影视","name":"可可影视","jar":"./lib/custom_spider.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},
 	
 {"key":"尘落影视","name":"尘落影视","type":3,"api":"csp_Wetv","searchable":1,"quickSearch":1,"ext":"https://v.wetv.wang"},
 {"key": "快看","name": "看看影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": "http://kkwk123.top/api.php/app/"},

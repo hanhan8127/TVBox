@@ -34,7 +34,8 @@
         "ext": {"分类url":"https://www.nkvod.com/type/{cateId}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
 	
 {"key":"drpy_js_金牌","name":"金牌影视[js]","jar":"./lib/custom_spider.jar","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视.js"},
-
+{"key":"可可影视","name":"可可影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},
+	
 {"key":"尘落影视","name":"尘落影视","type":3,"api":"csp_Wetv","searchable":1,"quickSearch":1,"ext":"https://v.wetv.wang"},
 {"key": "快看","name": "看看影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": "http://kkwk123.top/api.php/app/"},
 
@@ -104,7 +105,6 @@
 {"key":"星芽短剧","name":"星芽短剧","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/xingya.js"},	
 {"key":"csp_AppXY","name":"上头短剧","jar":"./lib/0408.jar","type":3,"quickSearch":1,"api":"csp_AppXYGuard"},
 
-	
 {"key": "csp_非凡资源","name": "非凡影院","type": 1,"api": "http://ffzy.tv/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,
 	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","韩国剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","台湾剧","日本剧","海外剧","泰国剧","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
 //非凡资源备用网址:ffzy1.tv ffzy2.tv ffzy3.tv ffzy4.tv ffzy5.tv      http://ffzy.tv/api.php/provide/vod/

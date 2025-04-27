@@ -2,8 +2,8 @@
 
 {
 
-	"spider":"./lib/Xspider.jar",
-	
+	//"spider":"./lib/Xspider.jar",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745650876757/0426.jar;md5;469b6d2c3b78d1cfa899704f650a916b",
 // https://gitee.com/ouguoqiang/tvbox/blob/master/ziyong.json    https://xn--tkh-mf3g9f.v.nxog.top/m/111.php 
 //https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp          https://tv.nxog.top/m/111.php?ou=公众号欧歌 
 "lives": [{"name": "live","type": 0,

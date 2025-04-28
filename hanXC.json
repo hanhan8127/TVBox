@@ -33,7 +33,6 @@
         "ext": {"分类url":"https://www.nkvod.com/type/{cateId}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
 
 {"key":"尘落影视","name":"尘落影视","type":3,"api":"csp_Wetv","searchable":1,"quickSearch":1,"ext":"https://v.wetv.wang"},
-{"key": "快看","name": "看看影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": "http://kkwk123.top/api.php/app/"},
 
 //{"key": "天天影视","name": "天天秒播","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/leevi0321/null/raw/tt.jar;md5;EE4B07058D4EF7B5C42631C0BF9F0EEA","ext": "http://tt.ysdqjs.cn"},	
 
@@ -44,18 +43,16 @@
 {"key":"iysdq","name":"影院大全","type":3,"api":"csp_XBPQ",
 	"ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}-{area}-------{catePg}---.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 
 //https://www.iysdq.net/       https://www.iysdq.com	https://www.iysdq.cc   https://www.iysdq.cc/vodshow/1-%E5%A4%A7%E9%99%86-------2---.html
-	
+{"key": "雨见视频","name": "雨见蓝光","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+        "ext": {"影片类型": "类型：&&</li>","简介": "简介：&&</div>","分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "国产剧$13#电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"}},
+//米    http://yj.appss.cc   	
 //{"key":"全视1","name":"全网影视","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://m.91qkw.com/"},  
 //https://m.91qkw.cc/,https://www.91qkw.com/,https://www.qkwaa.com/,https://888.qkw2.cc,https://888.91qkw.com ,https://888.qkw1.cc/
 {"key":"农民影视","name":"农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/nmys.json"},		
-
-{"key": "雨见视频","name": "雨见蓝光","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
-        "ext": {"影片类型": "类型：&&</li>","简介": "简介：&&</div>","分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "国产剧$13#电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"}},
-//米    http://yj.appss.cc   
 {"key": "热热","name": "热播影视","jar":"./lib/0408.jar","type": 3,"quickSearch": 1,"api": "csp_AppRJGuard","ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"},
 {"key":"csp_Wwys","name":"农民影视","jar":"./lib/0408.jar","type":3,"quickSearch":1,"api":"csp_WwysGuard","ext":"https://www.wwgz.cn"},	
 {"key": "csp_Lgyy","name": "️流光影视","jar":"./lib/0408.jar","type": 3,"quickSearch": 1,"api": "csp_FreeOkGuard"},	
-{"key": "csp_Lkdy","name": "来看影视","jar":"./lib/0408.jar","type": 3,"quickSearch": 1,"api": "csp_LkdyGuard"},
+{"key": "csp_Lkdy","name": "来看影视","type": 3,"quickSearch": 1,"api": "csp_Lkdy"},
 {"key":"csp_SAOHUO","name":"火火影视","jar":"./lib/0408.jar","type":3,"quickSearch":1,"api":"csp_SaoHuoGuard"},
 {"key":"csp_baibai","name":"白白影视","jar":"./lib/0408.jar","type":3,"quickSearch":1,"api":"csp_SuBaiBaiGuard","ext":"https://www.subaibai.com"},
 {"key": "csp_Gz360","name": "瓜子影视","jar":"./lib/0408.jar","type": 3,"quickSearch": 1,"api": "csp_Gz360Guard"},
@@ -71,10 +68,6 @@
 {"key": "最全","name": "最全影视","type": 3,"api": "csp_XBPQ",
 	"ext": {"分类url": "https://www.zqystv.com/zqys/area/{area}/{cateId}/page/{catePg}/year/{year}.html","分类":"国产剧$gcj#热门短剧$rmdj#电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}},
 	//https://www.jileitv.com/    https://www.zpcxb.com   https://www.ysmdhk.com/ 
-	
-{"key": "花姐影院","name": "花姐影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"数组": "<li class=\"fed-list-item&&</li>","搜索url": "http://iyiwang.com/search.php?searchword={wd}",
-        "分类url":"http://iyiwang.com//search.php?searchtype=5&area={area}&class={class}&by={by}&year={year}&tid={cateId}&yuyan={lang}&page={catePg}","分类": "国产剧&电视剧&电影&综艺&动漫","分类值": "13&2&1&3&4&40"}},	    
-//http://iyiwang.com/    https://www.huajie2.com
 	
 {"key": "狐狸君","name": "狐君4K","type": 3,"api": "csp_XBPQ","changeable": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,
           "ext": {"搜索模式": "1","搜索url": "https://www.foxjun.com/s/?q={wd}","搜索数组": "class=\"media\">&&/div>", "搜索图片": "src=\"&&\"","搜索标题": "《&&》",

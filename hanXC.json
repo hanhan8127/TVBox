@@ -50,7 +50,7 @@
 //https://m.91qkw.cc/,https://www.91qkw.com/,https://www.qkwaa.com/,https://888.qkw2.cc,https://888.91qkw.com ,https://888.qkw1.cc/
 {"key":"农民影视","name":"农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/nmys.json"},		
 {"key": "热热","name": "热播影视","jar":"./lib/0408.jar","type": 3,"quickSearch": 1,"api": "csp_AppRJGuard","ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"},
-{"key":"csp_Wwys","name":"农民影视","jar":"./lib/0408.jar","type":3,"quickSearch":1,"api":"csp_WwysGuard","ext":"https://www.wwgz.cn"},	
+{"key":"csp_Wwys","name":"农民影视2","type":3,"quickSearch":1,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},	
 {"key": "csp_Lgyy","name": "️流光影视","jar":"./lib/0408.jar","type": 3,"quickSearch": 1,"api": "csp_FreeOkGuard"},	
 {"key": "csp_Lkdy","name": "来看影视","type": 3,"quickSearch": 1,"api": "csp_Lkdy"},
 {"key":"csp_SAOHUO","name":"火火影视","jar":"./lib/0408.jar","type":3,"quickSearch":1,"api":"csp_SaoHuoGuard"},

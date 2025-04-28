@@ -1,16 +1,13 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 
 {
-
  "spider":"./lib/Xspider.jar",
-// https://gitee.com/ouguoqiang/tvbox/blob/master/ziyong.json    https://xn--tkh-mf3g9f.v.nxog.top/m/111.php 
-//https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp          https://tv.nxog.top/m/111.php?ou=公众号欧歌 
-"lives": [{"name": "live","type": 0,
-
-	//https://raw.bgithub.xyz/wcb1969/iptv/refs/heads/main/TV2025
-	"url": "./live.txt","playerType":2,
-	"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-	"logo": "https://live.fanmingming.com/tv/{name}.png"
+// https://gitee.com/ouguoqiang/tvbox/blob/master/ziyong.json    https://xn--tkh-mf3g9f.v.nxog.top/m/111.php 	
+ "lives": [{"name": "live","type": 0,
+//https://raw.bgithub.xyz/wcb1969/iptv/refs/heads/main/TV2025
+"url": "./live.txt","playerType":2,
+"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+"logo": "https://live.fanmingming.com/tv/{name}.png"
 }],
 
 "sites":[
@@ -24,18 +21,13 @@
 //https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/  http://www.guanyugekj.com/
 //https://gitee.com/senno/tvbox/raw/master/api.json;    https://m.sunnafh.com/     https://www.gs4x7nq4.com/ 	   https://ndhfiohk.com/   https://jieys.com/  https://www.vv3nwjk.com/     https://www.jpyy2.com/   
 {"key":"可可影视","name":"可可影视","jar":"./lib/custom_spider.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},
-
 {"key":"火火影视","name":"火火影视","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},
-	
 {"key": "lkvod","name": "爱看影视","type": 3,"api": "csp_XBPQ",
          "ext": {"分类url":"https://lkvod.me/show/{cateId}-----------.html","分类": "国产剧$13#电视剧$2#日韩剧$15#电影$1#动漫$4#综艺$3"}},		
 {"key": "耐看观影","name": "耐看观影","type": 3,"api": "csp_XBPQ",
         "ext": {"分类url":"https://www.nkvod.com/type/{cateId}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
-
 {"key":"尘落影视","name":"尘落影视","type":3,"api":"csp_Wetv","searchable":1,"quickSearch":1,"ext":"https://v.wetv.wang"},
-
-//{"key": "天天影视","name": "天天秒播","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/leevi0321/null/raw/tt.jar;md5;EE4B07058D4EF7B5C42631C0BF9F0EEA","ext": "http://tt.ysdqjs.cn"},	
-
+	
 {"key":"TTYS","name":"天天影视","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"changeable":1,"playerType":1,
 	"ext":"baHR0cDovL3R0LnlzZHFqcy5jbg==","jar":"http://m1839732.ca.caoni.ru/8/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"},
 	

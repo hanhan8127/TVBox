@@ -1,7 +1,8 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 
 {
- "spider":"./lib/Xspider.jar",
+ "spider":"http://home.jundie.top:81/jar/top98_1.jar",
+//"spider":"./lib/Xspider.jar",
 // https://gitee.com/ouguoqiang/tvbox/blob/master/ziyong.json    https://xn--tkh-mf3g9f.v.nxog.top/m/111.php 	
  "lives": [{"name": "live","type": 0,
 //https://raw.bgithub.xyz/wcb1969/iptv/refs/heads/main/TV2025
@@ -22,6 +23,8 @@
 {"key":"文采","name":"文采秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},	
 //https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/  http://www.guanyugekj.com/
 //https://gitee.com/senno/tvbox/raw/master/api.json;    https://m.sunnafh.com/     https://www.gs4x7nq4.com/ 	   https://ndhfiohk.com/   https://jieys.com/  https://www.vv3nwjk.com/     https://www.jpyy2.com/   
+//https://www.sizhengxt.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn
+
 {"key":"可可影视","name":"可可影视","jar":"./lib/custom_spider.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},
 {"key":"火火影视","name":"火火影视","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},	
 {"key":"农民影视","name":"农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/nmys.json"},
@@ -30,7 +33,7 @@
 {"key": "csp_Lkdy","name": "来看影视","type": 3,"quickSearch": 1,"api": "csp_Lkdy"},
 
 {"key":"csp_baibai","name":"素白影视","jar":"./lib/0408.jar","type":3,"quickSearch":1,"api":"csp_SuBaiBaiGuard","ext":"https://www.subaibai.com"},
-{"key":"白白","name":"白白秒播","type":3,"api":"csp_Sbaibai","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},	
+{"key":"白白","name":"白白秒播","jar":"http://我不是.摸鱼儿.com/by/jar/moyu.php","type":3,"api":"csp_SbaibaiGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},	
 //米 https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json   //https://subaibai.vip/    
 {"key": "lkvod","name": "爱看影视","type": 3,"api": "csp_XBPQ",
          "ext": {"分类url":"https://lkvod.me/show/{cateId}-----------.html","分类": "国产剧$13#电视剧$2#日韩剧$15#电影$1#动漫$4#综艺$3"}},		

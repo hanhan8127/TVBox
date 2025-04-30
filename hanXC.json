@@ -2,8 +2,8 @@
 
 {
 
-"spider":"./lib/Xspider.jar",
-	
+"spider":"./lib/svip.jar",
+//"spider":"./lib/Xspider.jar",	
 // https://gitee.com/ouguoqiang/tvbox/blob/master/ziyong.json    https://xn--tkh-mf3g9f.v.nxog.top/m/111.php 	
  "lives": [{"name": "live","type": 0,
 //https://raw.bgithub.xyz/wcb1969/iptv/refs/heads/main/TV2025
@@ -33,7 +33,10 @@
 {"key":"csp_Wwys","name":"农民影视","type":3,"quickSearch":1,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},	
 {"key": "热热","name": "热播影视","type": 3,"quickSearch": 1,"api": "csp_AppRJ","ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"},	
 {"key": "csp_Lkdy","name": "来看影视","type": 3,"quickSearch": 1,"api": "csp_Lkdy"},
-
+ {"key": "浪酷影视","name": "浪酷影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://v.lkuys.cn"}},
+{"key": "天天影视","name": "天天影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://tt.ysdqjs.cn"}},
+{"key": "热播影视","name": "热播影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://v.rbotv.cn"}},
+{"key": "尘落影视","name": "尘落影视","type": 3,"api": "csp_Wetv","searchable": 1,"quickSearch": 1,"ext": "https://v.wetv.wang"},
 {"key":"csp_baibai","name":"素白影视","jar":"./lib/0408.jar","type":3,"quickSearch":1,"api":"csp_SuBaiBaiGuard","ext":"https://www.subaibai.com"},
 
 //米 https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json   //https://subaibai.vip/    

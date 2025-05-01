@@ -7,7 +7,9 @@
 //http://my.djian.top/yutih2025/uuyug2025/raw/branch/maing/svip.json
  "lives": [{"name": "live","type": 0,
 //https://raw.bgithub.xyz/wcb1969/iptv/refs/heads/main/TV2025
-"url": "./live.txt","playerType":2,
+//"url": "./live.txt","playerType":2,
+"url": "https://raw.bgithub.xyz/xiongjian83/TvBox/refs/heads/main/live.txt","playerType":2,
+	 
 "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
 "logo": "https://live.fanmingming.com/tv/{name}.png"
 }],

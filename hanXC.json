@@ -26,7 +26,7 @@
 {"key": "csp_Gz360","name":"瓜子影视","type": 3,"quickSearch": 1,"api": "csp_Gz360"},
 {"key":"尘落影视","name":"尘落影视","type": 3,"api": "csp_Wetv","searchable": 1,"quickSearch": 1,"ext": "https://v.wetv.wang"},
 {"key":"csp_红狐狸影视","name":"狐狸影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/show/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
-
+{"key": "HG影视","name": "HG影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cs.hgyx.vip/api2/api.php/app/"},
 {"key": "dianyiPQ","name": "电影先生","type": 3,"api": "csp_XBPQ","jar": "https://tv.xn--11x555b.top/lib/woniu.jar","searchable": 1,"filterable": 1,"quickSearch": 1,
       "ext": {"分类url": "https://xn--44qz85a01qpc.com/pianku-{cateId}-{class}-{by}-{area}-{lang}----{catePg}---{year}.html","分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman",
         "影片年代": "<div class=\"module-info-tag\">&&</div>","影片类型": "module-info-tag\">&&立即播放","搜索url": "https://xn--44qz85a01qpc.com/search--------------.html?wd={wd}",

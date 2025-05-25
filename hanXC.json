@@ -2,8 +2,8 @@
 
 {
 
-//"spider":"./lib/svip.jar",
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747582746447/spider.jar;md5;83FECE6FABF5543699D9280AD4A1CC2A",
+"spider":"./lib/spider.jar",
+//https://try.gogs.io/NB666/api/raw/main/config.bin
 //http://my.djian.top/yutih2025/uuyug2025/raw/branch/maing/svip.json
  "lives": [{"name": "live","type": 0,
 //https://raw.bgithub.xyz/wcb1969/iptv/refs/heads/main/TV2025
@@ -24,6 +24,9 @@
         "ext": {"影片类型": "类型：&&</li>","简介": "简介：&&</div>","分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "国产剧$13#电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"}},
 //米    http://yj.appss.cc   	
 {"key": "csp_Gz360","name":"瓜子影视","type": 3,"quickSearch": 1,"api": "csp_Gz360"},
+{"key":"baibai","name":"素白影视","type":3,"quickSearch":1,"api":"csp_SuBaiBaiGuard","ext":"https://www.subaibai.com"},
+//https://subaibai.vip/  
+	
 {"key":"尘落影视","name":"尘落影视","type": 3,"api": "csp_Wetv","searchable": 1,"quickSearch": 1,"ext": "https://v.wetv.wang"},
 {"key":"csp_红狐狸影视","name":"狐狸影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/show/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 {"key": "HG影视","name": "HG影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cs.hgyx.vip/api2/api.php/app/"},
@@ -31,8 +34,7 @@
       "ext": {"分类url": "https://xn--44qz85a01qpc.com/pianku-{cateId}-{class}-{by}-{area}-{lang}----{catePg}---{year}.html","分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman",
         "影片年代": "<div class=\"module-info-tag\">&&</div>","影片类型": "module-info-tag\">&&立即播放","搜索url": "https://xn--44qz85a01qpc.com/search--------------.html?wd={wd}",
         "简介": "style=\"line-height: 20px;\"&&</div>","线路数组": "data-dropdown-value=&&</div>[不包含:QI节点#QT节点#KU节点]","线路标题": "<span>&&</span>[排序:TK>HD>XS>YI>DI>]"}},
-//{"key": "dianyiPQ","name": "电影先生","type": 3,"api": "csp_XBPQ","jar": "https://tv.xn--11x555b.top/lib/woniu.jar","searchable": 1,"filterable": 1,"quickSearch": 1,
-	
+
 {"key":"drpy_js_金牌1","name":"金牌影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视.js"},
 {"key":"drpy_js_金牌","name":"金牌秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视2.js"},
 //https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/  http://www.guanyugekj.com/
@@ -50,10 +52,7 @@
 //{"key":"浪酷影视","name":"浪酷影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://v.lkuys.cn"}},
 //{"key":"天天影视","name":"天天影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://tt.ysdqjs.cn"}},	
 //{"key":"热播影视","name":"热播影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://v.rbotv.cn"}},
-	
-{"key":"baibai","name":"素白影视","type":3,"quickSearch":1,"api":"csp_SuBaiBaiGuard","ext":"https://www.subaibai.com"},
-{"key":"baibai","name":"素白影视","jar":"./lib/0408.jar","type":3,"quickSearch":1,"api":"csp_SuBaiBaiGuard","ext":"https://www.subaibai.com"},
-//米 https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json   //https://subaibai.vip/        
+      
 //{"key": "lkvod","name":"爱看影视","type": 3,"api": "csp_XBPQ","ext":{"分类url":"https://lkvod.me/show/{cateId}-----------.html","分类": "国产剧$13#电视剧$2#日韩剧$15#电影$1#动漫$4#综艺$3"}},		
 {"key":"bestpipe","name":"百思影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.bestpipe.cn/vodshow/{cateId}-{area}-------{catePg}---.html","分类":"电影$20#剧集$21#短剧$24#综艺$23#动漫$22"}},
 

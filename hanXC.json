@@ -29,7 +29,7 @@
 	
 {"key":"尘落影视","name":"尘落影视","type": 3,"api": "csp_Wetv","searchable": 1,"quickSearch": 1,"ext": "https://v.wetv.wang"},
 {"key":"csp_红狐狸影视","name":"狐狸影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/show/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
-{"key": "HG影视","name": "HG影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://hong.hgyx.vip/"},
+{"key": "HG影视","name": "HG影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cs.hgyx.vip/api2/api.php/app/"},
 //https://cs.hgyx.vip/
 	
 {"key": "dianyiPQ","name": "电影先生","type": 3,"api": "csp_XBPQ","searchable": 1,"filterable": 1,"quickSearch": 1,

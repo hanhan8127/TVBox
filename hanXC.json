@@ -58,7 +58,7 @@
 
 //{"key": "全集","name": "全集影视","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.qjwtv.com/qjw/area/{area}/{cateId}/page/{catePg}/year/{year}.html","分类":"国产剧$gcj#短剧$dj#电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}},
 {"key": "耐看观影","name": "耐看观影","type": 3,"api": "csp_XBPQ",
-	"ext": {"分类url":"https://www.nkvod.com/type/{cateId}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
+	"ext": {"分类url":"https://www.nkvod.com/show/{cateId}-----------.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
 	
 {"key":"iysdq","name":"影院大全","type":3,"api":"csp_XBPQ",
 	"ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}-{area}-------{catePg}---.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 

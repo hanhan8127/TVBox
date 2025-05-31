@@ -27,19 +27,20 @@
 {"key":"baibai","name":"素白影视","type":3,"quickSearch":1,"api":"csp_SuBaiBai","ext":"https://www.subaibai.com"},	
 //https://subaibai.vip/  
 	
-{"key":"尘落影视","name":"尘落影视","type": 3,"api": "csp_Wetv","searchable": 1,"quickSearch": 1,"ext": "https://v.wetv.wang"},
+//{"key":"尘落影视","name":"尘落影视","type": 3,"api": "csp_Wetv","searchable": 1,"quickSearch": 1,"ext": "https://v.wetv.wang"},
 {"key":"csp_红狐狸影视","name":"狐狸影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/show/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 
 {"key":"drpy_js_金牌1","name":"金牌影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视.js"},
 {"key":"drpy_js_金牌","name":"金牌秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视2.js"},	
+//https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/  http://www.guanyugekj.com/
+//https://gitee.com/senno/tvbox/raw/master/api.json;    https://m.sunnafh.com/     https://www.gs4x7nq4.com/ 	   https://ndhfiohk.com/   https://jieys.com/  https://www.vv3nwjk.com/     https://www.jpyy2.com/   
+//https://www.sizhengxt.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn
+
+	
 {"key": "dianyiPQ","name": "电影先生","type": 3,"api": "csp_XBPQ","searchable": 1,"filterable": 1,"quickSearch": 1,
       "ext": {"分类url": "https://xn--44qz85a01qpc.com/pianku-{cateId}-{class}-{by}-{area}-{lang}----{catePg}---{year}.html","分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman",
         "影片年代": "<div class=\"module-info-tag\">&&</div>","影片类型": "module-info-tag\">&&立即播放","搜索url": "https://xn--44qz85a01qpc.com/search--------------.html?wd={wd}",
         "简介": "style=\"line-height: 20px;\"&&</div>","线路数组": "data-dropdown-value=&&</div>[不包含:QI节点#QT节点#KU节点]","线路标题": "<span>&&</span>[排序:TK>HD>XS>YI>DI>]"}},
-
-//https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/  http://www.guanyugekj.com/
-//https://gitee.com/senno/tvbox/raw/master/api.json;    https://m.sunnafh.com/     https://www.gs4x7nq4.com/ 	   https://ndhfiohk.com/   https://jieys.com/  https://www.vv3nwjk.com/     https://www.jpyy2.com/   
-//https://www.sizhengxt.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn
 
 {"key":"厂长","name":"厂长影视","type":3,"playerType":"2","api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.czzymovie.com/"},
 

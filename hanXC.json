@@ -1,8 +1,8 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 
 {
-
-"spider":"./lib/spider.jar",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749038213490/PandaQ250604.jpg;md5;d4723dd9544a35b67c09ae2c096cb24e",
+//"spider":"./lib/spider.jar",
 //https://try.gogs.io/NB666/api/raw/main/config.bin
 //http://my.djian.top/yutih2025/uuyug2025/raw/branch/maing/svip.json
  "lives": [{"name": "live","type": 0,
@@ -25,20 +25,24 @@
 		"分类": "国产剧$13#电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"}},
 //米    http://yj.appss.cc   	
 
-{"key":"csp_Gz360","name":"瓜子影视","type": 3,"quickSearch": 1,"api": "csp_Gz360"},
+{"key":"csp_Gz360","name":"瓜子影视","type": 3,"quickSearch": 1,"api": "csp_Gz360","playerType":2},
 {"key":"baibai","name":"素白影视","type":3,"quickSearch":1,"api":"csp_SuBaiBai","ext":"https://www.subaibai.com"},	
 //https://subaibai.vip/  
 	
 //{"key":"尘落影视","name":"尘落影视","type": 3,"api":"csp_Wetv","searchable": 1,"quickSearch": 1,"ext": "https://v.wetv.wang"},
 {"key":"csp_红狐狸","name":"狐狸影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/show/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 
-	
+{"key":"csp_Quanwk","name":"全看影视","type":3,"api":"csp_Quanwk","ext":"https://www.91qkw.com"},
+{"key":"荐片","name":"荐片影视","api":"csp_Jianpian","type":3,"playerType":"2","ext":"http://api2.rinhome.com"},
+{"key":"梦回","name":"梦回影视","type":3,"api":"csp_AppRJ","ext":"sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"},
+{"key":"csp_Jpys","name":"金牌影视","type":3,"api":"csp_Jpys"},	
 {"key":"drpy_js_金牌1","name":"金牌影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视.js"},
 {"key":"drpy_js_金牌","name":"金牌秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视2.js"},	
 //https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/  http://www.guanyugekj.com/
 //https://gitee.com/senno/tvbox/raw/master/api.json;    https://m.sunnafh.com/     https://www.gs4x7nq4.com/ 	   https://ndhfiohk.com/   https://jieys.com/  https://www.vv3nwjk.com/     https://www.jpyy2.com/   
 //https://www.sizhengxt.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn
-		
+
+	
 {"key": "dianyiPQ","name": "电影先生","type": 3,"api": "csp_XBPQ","searchable": 1,"filterable": 1,"quickSearch": 1,
       "ext": {"分类url": "https://xn--44qz85a01qpc.com/pianku-{cateId}-{class}-{by}-{area}-{lang}----{catePg}---{year}.html","分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman",
         "影片年代": "<div class=\"module-info-tag\">&&</div>","影片类型": "module-info-tag\">&&立即播放","搜索url": "https://xn--44qz85a01qpc.com/search--------------.html?wd={wd}",

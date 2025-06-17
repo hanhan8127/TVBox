@@ -32,9 +32,7 @@
 	
 //{"key":"尘落影视","name":"尘落影视","type": 3,"api":"csp_Wetv","searchable": 1,"quickSearch": 1,"ext": "https://v.wetv.wang"},
 {"key":"csp_红狐狸","name":"狐狸影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/show/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
-{"key": "猫咪","name": "猫咪影视","type": 3,"api": "csp_XBPQ",
-	"ext": {"分类url":"http://www.rgfc.net/tags/{cateId}--time---------.html","分类": "国产剧$63#电视剧$62#电影$54#短剧$74#动漫$52#综艺$69"}},
-	
+
 {"key":"csp_Quanwk","name":"全看影视","type":3,"api":"csp_Quanwk","ext":"https://www.91qkw.com"},
 {"key":"荐片","name":"荐片影视","api":"csp_Jianpian","type":3,"playerType":"2","ext":"http://api2.rinhome.com"},
 {"key":"梦回","name":"梦回影视","type":3,"api":"csp_AppRJ","ext":"sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"},
@@ -102,6 +100,10 @@
 {"key":"星芽短剧2","name":"星芽短剧","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/xingya.js"},	
 {"key": "HG影视","name": "HG影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cs.hgyx.vip/api2/api.php/app/"},
 //https://cs.hgyx.vip/	
+
+{"key": "猫咪","name": "猫咪影视","type": 3,"api": "csp_XBPQ",
+	"ext": {"分类url":"http://www.rgfc.net/tags/{cateId}--time---------.html","分类": "国产剧$63#电视剧$62#电影$54#短剧$74#动漫$52#综艺$69"}},
+		
 {"key": "csp_非凡资源","name": "非凡影院","type": 1,"api": "http://ffzy.tv/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,
 	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","韩国剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","台湾剧","日本剧","海外剧","泰国剧","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
 //非凡资源备用网址:ffzy1.tv ffzy2.tv ffzy3.tv ffzy4.tv ffzy5.tv      http://ffzy.tv/api.php/provide/vod/

@@ -32,7 +32,9 @@
 	
 //{"key":"尘落影视","name":"尘落影视","type": 3,"api":"csp_Wetv","searchable": 1,"quickSearch": 1,"ext": "https://v.wetv.wang"},
 {"key":"csp_红狐狸","name":"狐狸影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/show/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
-
+{"key": "猫咪","name": "猫咪影视","type": 3,"api": "csp_XBPQ",
+	"ext": {"分类url":"http://www.rgfc.net/tags/{cateId}--time---------.html","分类": "国产剧$63#电视剧$62#电影$54#短剧$74#动漫$52#综艺$69"}},
+	
 {"key":"csp_Quanwk","name":"全看影视","type":3,"api":"csp_Quanwk","ext":"https://www.91qkw.com"},
 {"key":"荐片","name":"荐片影视","api":"csp_Jianpian","type":3,"playerType":"2","ext":"http://api2.rinhome.com"},
 {"key":"梦回","name":"梦回影视","type":3,"api":"csp_AppRJ","ext":"sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"},
@@ -55,8 +57,9 @@
 {"key": "飞飞","name": "飞飞影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
             "ext": {"影片年代": "<div class=\"module-info-tag\">&&</div>","影片地区": "","影片状态": "备注：&&</div>",
                 "影片类型": "module-info-tag\">&&立即播放","线路数组": "data-dropdown-value=&&</div>","线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-                "分类url": "https://www.ffys.fun/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类": "电影$20#剧集$21#动漫$22#综艺$23#记录片$24#爽剧$25"}},
-
+                "分类url": "https://www.ffys.fun/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类": "国产剧$34#电影$20#剧集$21#动漫$22#综艺$23#记录片$24#爽剧$25"}},
+//https://www.ffys.app
+	
 {"key":"Wwys","name":"农民影视","type":3,"quickSearch":1,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},	
 
 {"key":"Lkdy","name":"来看影视","type": 3,"quickSearch": 1,"api": "csp_Lkdy"},
@@ -71,9 +74,7 @@
 {"key": "耐看观影","name": "耐看观影","type": 3,"api": "csp_XBPQ",
 	"ext": {"分类url":"https://www.nkvod.com/show/{cateId}-----------.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
 
-{"key": "猫咪","name": "猫咪影视","type": 3,"api": "csp_XBPQ",
-	"ext": {"分类url":"http://www.rgfc.net/tags/{cateId}--time---------.html","分类": "国产剧$63#电视剧$62#电影$54#短剧$74#动漫$52#综艺$69"}},
-	
+
 {"key":"iysdq","name":"影院大全","type":3,"api":"csp_XBPQ",
 	"ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}-{area}-------{catePg}---.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 
 //https://www.iysdq.net/       https://www.iysdq.com	https://www.iysdq.cc   https://www.iysdq.cc/vodshow/1-%E5%A4%A7%E9%99%86-------2---.html

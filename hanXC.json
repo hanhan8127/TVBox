@@ -72,7 +72,7 @@
 	"ext": {"分类url":"https://www.nkvod.com/show/{cateId}-----------.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
 
 {"key": "猫咪","name": "猫咪影视","type": 3,"api": "csp_XBPQ",
-	"ext": {"分类url":"http://www.rgfc.net/tags/{cateId}-----------.html","分类": "国产剧$63#电视剧$62#电影$54#短剧$74#动漫$52#综艺$69"}},
+	"ext": {"分类url":"http://www.rgfc.net/tags/{cateId}--time---------.html","分类": "国产剧$63#电视剧$62#电影$54#短剧$74#动漫$52#综艺$69"}},
 	
 {"key":"iysdq","name":"影院大全","type":3,"api":"csp_XBPQ",
 	"ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}-{area}-------{catePg}---.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 

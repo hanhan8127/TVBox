@@ -32,7 +32,9 @@
 
 
 {"key": "猫咪","name": "猫咪影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"http://www.rgfc.net/tags/{cateId}--time---------.html","分类": "国产剧$63#电视剧$62#电影$54#短剧$74#动漫$52#综艺$69"}},
-{"key": "永乐影视","name": "永乐影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.ylys.tv/vodshow/{cateId}-----------/","分类": "国产剧$13#电视剧$2#电影$1#综艺$3#短剧$74#动漫$4"}},	
+{"key": "永乐影视","name": "永乐影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.ylys.tv/vodshow/{cateId}-----------/","分类": "国产剧$13#电视剧$2#电影$1#综艺$3#动漫$4"}},	
+{"key": "飞飞影视","name": "飞飞影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.ffys.fun/vodshow/id/{cateId}.html","分类": "国产剧$34#电影$20#电视剧$21#综艺$23#爽剧$25#动漫$22#记录片$24"}},	
+//https://www.ffys.app	
 //{"key":"尘落影视","name":"尘落影视","type": 3,"api":"csp_Wetv","searchable": 1,"quickSearch": 1,"ext": "https://v.wetv.wang"},
 {"key":"csp_红狐狸","name":"狐狸影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/show/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 
@@ -55,17 +57,6 @@
 
 {"key":"可可影视","name":"可可影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},
 //{"key":"火火影视","name":"火火影视","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},
-
-{"key": "永乐","name": "永乐影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
-            "ext": {"影片年代": "<div class=\"module-info-tag\">&&</div>","影片地区": "","影片状态": "备注：&&</div>",
-                "影片类型": "module-info-tag\">&&立即播放","线路数组": "data-dropdown-value=&&</div>","线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-                "分类url": "https://www.ylys.tv/vodshow/2-----------/   https://www.ffys.fun/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类": "国产剧$34#电影$20#剧集$21#动漫$22#综艺$23#记录片$24#爽剧$25"}},
-	
-{"key": "飞飞","name": "飞飞影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
-            "ext": {"影片年代": "<div class=\"module-info-tag\">&&</div>","影片地区": "","影片状态": "备注：&&</div>",
-                "影片类型": "module-info-tag\">&&立即播放","线路数组": "data-dropdown-value=&&</div>","线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-                "分类url": "https://www.ffys.fun/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类": "国产剧$34#电影$20#剧集$21#动漫$22#综艺$23#记录片$24#爽剧$25"}},
-//https://www.ffys.app
 	
 {"key":"Wwys","name":"农民影视","type":3,"quickSearch":1,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},	
 

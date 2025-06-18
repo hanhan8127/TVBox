@@ -32,6 +32,8 @@
 
 {"key": "忘忧影视","name": "忘忧影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.myripon.com/index.php/vod/show/id/{cateId}.html","分类": "国产剧$13#短剧$35#电视剧$2#电影$1#综艺$3#动漫$4"}},	
 //优质 高清资源主域名:yzzy.tv hdzyk.com（备用网址): 1080zyk1.com 至 1080zyk20.com
+{"key": "360影视","name": "360影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.360aikan.com/index.php/vod/show/id/{cateId}.html","分类": "国产剧$13#短剧$35#电视剧$2#电影$1#综艺$3#动漫$4"}},	
+//主域名 ： 360zy.com 360zy.net 360zy.vip 360zy.top 360zy.tv 备用域名 ：360zy1-10.com   https://360zy.com/api.php/provide/vod?
 	
 {"key": "永乐影视","name": "永乐影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.ylys.tv/vodshow/{cateId}-----------/","分类": "国产剧$13#电视剧$2#电影$1#综艺$3#动漫$4"}},	
 {"key": "飞飞影视","name": "飞飞影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.ffys.fun/vodshow/id/{cateId}.html","分类": "国产剧$34#电影$20#电视剧$21#综艺$23#爽剧$25#动漫$22#记录片$24"}},	
@@ -108,12 +110,6 @@
 	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","韩国剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","台湾剧","日本剧","海外剧","泰国剧","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
 //非凡资源备用网址:ffzy1.tv ffzy2.tv ffzy3.tv ffzy4.tv ffzy5.tv      http://ffzy.tv/api.php/provide/vod/
 	
-{"key": "1080资源","name": "1080秒播","type": 0,"api": "https://api.yzzy-api.com/inc/ldg_api.php","searchable": 1,"quickSearch": 1,
-"playurl": "https://vip.zykbf.com/?url=","categories": ["国产剧","短剧大全","大陆综艺","国产动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾片","韩国剧","欧美剧","香港剧","泰国剧","日本剧","纪录片","动画片","海外剧","港台综艺","日韩综艺","欧美综艺","日韩动漫","欧美动漫"]},
-//	高清资源主域名:yzzy.tv hdzyk.com（备用网址): 1080zyk1.com 至 1080zyk20.com
-{"key": "360","name": "360资源","type": 1,"api": "https://360zy.com/api.php/provide/vod?","searchable": 1,"changeable": 1,
-	"categories": ["国产剧","大陆综艺", "国产动漫","现代都市","年代穿越","古装仙侠","女频恋爱","成长逆袭","动作片","战争片","恐怖片","喜剧片","爱情片","科幻片","剧情片","古装片","悬疑片","犯罪片","灾难片","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","港台综艺","日韩综艺","欧美综艺","欧美动漫","日韩动漫"]},
-
 {"key":"极速资源","name":"极速影院","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,
 	 "categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧","日剧","韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 //https://jszyapi.com/   www.jisuzy.com    www.jisuzy.tv   www.jisuziyuan.com   www.jszy666.com         https://jisjiexi.com/play/?url=	    

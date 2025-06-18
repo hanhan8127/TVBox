@@ -29,7 +29,7 @@
 {"key":"csp_Gz360","name":"瓜子影视","type": 3,"quickSearch": 1,"api": "csp_Gz360","playerType":2},
 {"key":"baibai","name":"素白影视","type":3,"quickSearch":1,"api":"csp_SuBaiBai","ext":"https://www.subaibai.com"},	
 //https://subaibai.vip/  
-{"key": "坚果影视","name": "坚果影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://api1.bffree.cn/vodshow/{cateId}-----------.html","分类": "国产剧$13#电视剧$37#电影$20#综艺$45#动漫$43"}},	
+	
 {"key": "永乐影视","name": "永乐影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.ylys.tv/vodshow/{cateId}-----------/","分类": "国产剧$13#电视剧$2#电影$1#综艺$3#动漫$4"}},	
 {"key": "飞飞影视","name": "飞飞影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.ffys.fun/vodshow/id/{cateId}.html","分类": "国产剧$34#电影$20#电视剧$21#综艺$23#爽剧$25#动漫$22#记录片$24"}},	
 //https://www.ffys.app	

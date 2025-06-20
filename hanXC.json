@@ -26,6 +26,11 @@
 		"分类": "国产剧$13#电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"}},
 //米    http://yj.appss.cc   	
 
+{"key": "小红","name": "小红影视","type": 3,"quickSearch": 1,"api": "csp_AppGet",
+            "ext": {"url": "https://www.xiaohys.com","dataKey": "ENonBHeVBoYZhVUV","dataIv": "ENonBHeVBoYZhVUV","deviceId": "298e5fe29c74b35aabb9836ee2f6f449f","version": "166"}},
+
+{"key": "小红1","name": "小红影视2","type": 3,"quickSearch": 1,"api": "csp_AppGet","ext": "url": "https://www.xiaohys.com"},
+	
 {"key":"csp_Gz360","name":"瓜子影视","type": 3,"quickSearch": 1,"api": "csp_Gz360","playerType":2},
 {"key":"baibai","name":"素白影视","type":3,"quickSearch":1,"api":"csp_SuBaiBai","ext":"https://www.subaibai.com"},	
 //https://subaibai.vip/  
@@ -35,11 +40,6 @@
 {"key": "忘忧影视","name": "忘忧影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.myripon.com/index.php/vod/show/id/{cateId}/page/{catePg}.html","分类": "国产剧$13#短剧$35#电视剧$2#电影$1#综艺$3#动漫$4"}},	
 //优质 高清资源主域名:yzzy.tv hdzyk.com（备用网址): 1080zyk1.com 至 1080zyk20.com         
 
-{"key": "小红","name": "小红影视","type": 3,"quickSearch": 1,"api": "csp_AppGet",
-            "ext": {"url": "https://www.xiaohys.com","dataKey": "ENonBHeVBoYZhVUV","dataIv": "ENonBHeVBoYZhVUV","deviceId": "298e5fe29c74b35aabb9836ee2f6f449f","version": "166"}},
-
-{"key": "小红影视","name": "小红影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.xiaohys.com/show/{type}-----------/","分类": "国产剧$13#电视剧$tv#电影$movie#综艺$variety#动漫$anime"}},	
-	
 {"key": "永乐影视","name": "永乐影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.ylys.tv/vodshow/{cateId}-----------/","分类": "国产剧$13#电视剧$2#电影$1#综艺$3#动漫$4"}},	
 {"key": "飞飞影视","name": "飞飞影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.ffys.fun/vodshow/id/{cateId}.html","分类": "国产剧$34#电影$20#电视剧$21#综艺$23#爽剧$25#动漫$22#记录片$24"}},	
 //https://www.ffys.app	

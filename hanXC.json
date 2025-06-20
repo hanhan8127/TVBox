@@ -5,7 +5,7 @@
 //	http://肥猫.com
 //"spider":"./lib/spider.jar",
 //https://try.gogs.io/NB666/api/raw/main/config.bin
-//http://my.djian.top/yutih2025/uuyug2025/raw/branch/maing/svip.json
+
  "lives": [{"name": "live","type": 0,
 //https://raw.bgithub.xyz/wcb1969/iptv/refs/heads/main/TV2025
 "url": "./live.txt","playerType":2,
@@ -34,6 +34,7 @@
 
 {"key": "忘忧影视","name": "忘忧影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.myripon.com/index.php/vod/show/id/{cateId}/page/{catePg}.html","分类": "国产剧$13#短剧$35#电视剧$2#电影$1#综艺$3#动漫$4"}},	
 //优质 高清资源主域名:yzzy.tv hdzyk.com（备用网址): 1080zyk1.com 至 1080zyk20.com         
+{"key": "小红影视","name": "小红影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.ylys.tv/vodshow/{cateId}-----------/","分类": "国产剧$13#电视剧$2#电影$1#综艺$3#动漫$4"}},	
 	
 {"key": "永乐影视","name": "永乐影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.ylys.tv/vodshow/{cateId}-----------/","分类": "国产剧$13#电视剧$2#电影$1#综艺$3#动漫$4"}},	
 {"key": "飞飞影视","name": "飞飞影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.ffys.fun/vodshow/id/{cateId}.html","分类": "国产剧$34#电影$20#电视剧$21#综艺$23#爽剧$25#动漫$22#记录片$24"}},	

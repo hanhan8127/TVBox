@@ -29,7 +29,7 @@
 {"key": "小红","name": "小红影视","type": 3,"quickSearch": 1,"api": "csp_AppGet",
             "ext": {"url": "https://www.xiaohys.com","dataKey": "ENonBHeVBoYZhVUV","dataIv": "ENonBHeVBoYZhVUV","deviceId": "298e5fe29c74b35aabb9836ee2f6f449f","version": "166"}},
 
-{"key": "小红1","name": "小红影视2","type": 3,"quickSearch": 1,"api": "csp_AppGet","ext": "url": "https://www.xiaohys.com"},
+{"key": "小红1","name": "小红影视2","type": 3,"quickSearch": 1,"api": "csp_AppGet","ext":"https://www.xiaohys.com"},
 	
 {"key":"csp_Gz360","name":"瓜子影视","type": 3,"quickSearch": 1,"api": "csp_Gz360","playerType":2},
 {"key":"baibai","name":"素白影视","type":3,"quickSearch":1,"api":"csp_SuBaiBai","ext":"https://www.subaibai.com"},	

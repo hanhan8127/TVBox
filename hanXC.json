@@ -108,13 +108,9 @@
 	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","韩国剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","台湾剧","日本剧","海外剧","泰国剧","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
 //非凡资源备用网址:ffzy1.tv ffzy2.tv ffzy3.tv ffzy4.tv ffzy5.tv      http://ffzy.tv/api.php/provide/vod/
 
-{"key": "1080资源","name": "1080影院","type": 1,"api": "https://api.yzzy-api.com/inc/api.php","searchable": 1,"quickSearch": 1,"filterable": 1,
+{"key": "1080资源","name": "1080影院","type": 1,"api": "https://api.yzzy-api.com/inc/ldg_api_all.php","searchable": 1,"quickSearch": 1,"filterable": 1,
 	"categories": ["短剧大全","国产剧","大陆综艺", "国产动漫","连续剧","电影","综艺","动漫","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","韩国剧","欧美剧","香港剧","台湾剧","泰国剧","日韩动漫","欧美动漫","港台综艺","日韩综艺"]},
-//主域名 
-
-
-
-	
+//优质 高清资源主域名:yzzy.tv hdzyk.com（备用网址): 1080zyk1.com 至 1080zyk20.com
 {"key": "360资源","name": "360影院","type": 1,"api": "https://360zy.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,
 	"categories": ["爽文短剧","国产剧","大陆综艺", "国产动漫","韩国剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","台湾剧","泰国剧","日韩动漫","欧美动漫","港台综艺","日韩综艺"]},
 //主域名 ： 360zy.com 360zy.net 360zy.vip 360zy.top 360zy.tv 备用域名 ：360zy1.com-360zy10.com

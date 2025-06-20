@@ -34,7 +34,7 @@
    {
       "id": 1,
       "name": "胜寒1",
-      "url": "https://github.moeyy.xyz/raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt",
+      "url": "https://github.moeyy.xyz/raw.bgithub.xyz/hanhan8127/TVBox/main/live.txt",
       "type": "remote",
       "isActive": true,
       "epg": "https://epg.112114.xyz/"
@@ -42,7 +42,7 @@
     {
       "id": 2,
       "name": "胜寒2",
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt",
+      "url": "https://mirror.ghproxy.com/raw.bgithub.xyz/hanhan8127/TVBox/main/live.txt",
       "isActive": true,
       "type": "remote",
       "epg": "https://epg.112114.xyz/"
@@ -121,6 +121,7 @@
       "isActive": true,
       "resource": 48942
     },
+  //新浪资源备用网址：xinlangzy.com、xinlangziyuan.com
     {
       "key": "39kan",
       "name": "39影视",

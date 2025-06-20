@@ -37,6 +37,8 @@
 
 {"key": "人人","name": "👯‍♀┃人人┃影视","type": 3,"quickSearch": 1,"api": "csp_AppGet",
             "ext": {"url": "https://www.xiaohys.com","dataKey": "ENonBHeVBoYZhVUV","dataIv": "ENonBHeVBoYZhVUV","deviceId": "298e5fe29c74b35aabb9836ee2f6f449f","version": "166"}},
+
+{"key": "小红影视","name": "小红影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.xiaohys.com/show/{cateId}-----------/","分类": "国产剧$13#电视剧$tv#电影$movie#综艺$variety#动漫$anime"}},	
 	
 {"key": "永乐影视","name": "永乐影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.ylys.tv/vodshow/{cateId}-----------/","分类": "国产剧$13#电视剧$2#电影$1#综艺$3#动漫$4"}},	
 {"key": "飞飞影视","name": "飞飞影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.ffys.fun/vodshow/id/{cateId}.html","分类": "国产剧$34#电影$20#电视剧$21#综艺$23#爽剧$25#动漫$22#记录片$24"}},	

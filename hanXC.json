@@ -1,11 +1,11 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 
 {
-
-"spider":"./lib/spider.jar",
-
+//"spider":"./lib/spider.jar",
+"spider":"https://ykj-eos-wx2-01.eos-wuxi-3.cmecloud.cn/b2cc59173f05412a81dfdd741b1237f4086?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27spider.jar&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250622T000640Z&X-Amz-SignedHeaders=host&X-Amz-Expires=900&X-Amz-Credential=Y60FITYLOX7N6UJWBOEE%2F20250622%2Fdefault%2Fs3%2Faws4_request&t=2&u=1039983844910964617&ot=personal&oi=1039983844910964617&f=FnOysrou6yXJCY0criwlGAYkZ2CmVut3y&X-Amz-Signature=88f49d9bf550952af04c16639875f4614ccc94e9df798d6046c7ba625c9b0de6
  "lives": [{"name": "live","type": 0,
-"url": "./live.txt","playerType":2,
+"url": "./live.txt","playerType":2,",
+
 //https://raw.bgithub.xyz/xiongjian83/TvBox/refs/heads/main/live.txt
 //https://raw.bgithub.xyz/wcb1969/iptv/refs/heads/main/TV2025
 	 
@@ -17,7 +17,7 @@
 	
 {"key":"豆豆","name":"胜寒提醒您：请勿相信视频中广告！","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
 
-{"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"xiaozhen","name":"小镇影视2","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
 {"key":"雨见视频","name": "雨见蓝光","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
         "ext": {"影片类型": "类型：&&</li>","简介": "简介：&&</div>","分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",

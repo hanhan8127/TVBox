@@ -5,8 +5,7 @@
 
 "spider":"https://ykj-eos-wx2-01.eos-wuxi-3.cmecloud.cn/b2cc59173f05412a81dfdd741b1237f4086?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27spider.jar&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250622T000640Z&X-Amz-SignedHeaders=host&X-Amz-Expires=900&X-Amz-Credential=Y60FITYLOX7N6UJWBOEE%2F20250622%2Fdefault%2Fs3%2Faws4_request&t=2&u=1039983844910964617&ot=personal&oi=1039983844910964617&f=FnOysrou6yXJCY0criwlGAYkZ2CmVut3y&X-Amz-Signature=88f49d9bf550952af04c16639875f4614ccc94e9df798d6046c7ba625c9b0de6",	
 "lives": [{"name": "live","type": 0,
-"url": "./live.txt","playerType":2,",
-
+"url": "./live.txt","playerType":2,
 //https://raw.bgithub.xyz/xiongjian83/TvBox/refs/heads/main/live.txt
 //https://raw.bgithub.xyz/wcb1969/iptv/refs/heads/main/TV2025
 	 

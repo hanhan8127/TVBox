@@ -7,7 +7,7 @@
 "url": "./live.txt","playerType":2,
 //https://raw.bgithub.xyz/xiongjian83/TvBox/refs/heads/main/live.txt
 //https://raw.bgithub.xyz/wcb1969/iptv/refs/heads/main/TV2025
-	 
+//http://file.91kds.cn//tvlist/txtzztv2025060610/txtzztv/kds_all_ynyd_dc57da3d2ede7a9a155a484e0eee8d60.txt
 "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
 "logo": "https://live.fanmingming.com/tv/{name}.png"
 }],

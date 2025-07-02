@@ -22,7 +22,9 @@
         "ext": {"影片类型": "类型：&&</li>","简介": "简介：&&</div>","分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
 		"分类": "国产剧$13#电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"}},
 //米    http://yj.appss.cc   	
-
+{"key": "金牌影视","name": "🥇┃金牌┃影视","type": 3,"api": "https://git.acwing.com/iduoduo/orange/-/raw/main/py/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.py","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,
+	"ext": {"site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}},	
+	
 {"key": "小红","name": "小红影视","type": 3,"quickSearch": 1,"api": "csp_AppGet",
             "ext": {"url": "https://www.xiaohys.com","dataKey": "ENonBHeVBoYZhVUV","dataIv": "ENonBHeVBoYZhVUV","deviceId": "298e5fe29c74b35aabb9836ee2f6f449f","version": "166"}},
 {"key": "瓜萌","name": "瓜萌影视","type": 3,"quickSearch": 1,"api": "csp_AppGet",
@@ -49,7 +51,7 @@
 {"key":"drpy_js_金牌","name":"金牌秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视2.js"},	
 //https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/  http://www.guanyugekj.com/
 //https://gitee.com/senno/tvbox/raw/master/api.json;    https://m.sunnafh.com/     https://www.gs4x7nq4.com/ 	   https://ndhfiohk.com/   https://jieys.com/  https://www.vv3nwjk.com/     https://www.jpyy2.com/   
-//https://www.sizhengxt.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn
+//https://www.sizhengxt.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn   
 
 {"key": "dianyiPQ","name": "电影先生","type": 3,"api": "csp_XBPQ","searchable": 1,"filterable": 1,"quickSearch": 1,
       "ext": {"分类url": "https://xn--44qz85a01qpc.com/pianku-{cateId}-{class}-{by}-{area}-{lang}----{catePg}---{year}.html","分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman",

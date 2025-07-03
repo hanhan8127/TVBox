@@ -57,7 +57,7 @@
       "ext": {"分类url": "https://www.mtvod.cc/vodshow/id/{cateId}/page/{catePg}.html","分类": "爽剧$shuangju#国产剧$guochanju#电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman"}},
 
 {"key": "飞飞影视","name": "飞飞影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.mtvod.cc/vodshow/id/{cateId}/page/{catePg}.html","分类": "爽剧$shuangju#国产剧$guochanju#电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman"}},	
-{"key": "悟空影视","name": "悟空影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.wkvod.cc/vodshow/id/{cateId}/page/{catePg}.html","分类": "国产剧$中国大陆#台湾剧$中国台湾#韩剧$韩国#美剧$美国#香港剧$中国香港"}},	
+{"key": "悟空影视","name": "悟空影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.wkvod.cc/vodshow/area/{cateId}/id/juji/page/{catePg}.html","分类": "国产剧$中国大陆#台湾剧$中国台湾#韩剧$韩国#美剧$美国#香港剧$中国香港"}},	
 //https://www.ffys.app	  https://www.mtvod.cc/  www.wkvod.cc    
 
 

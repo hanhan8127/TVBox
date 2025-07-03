@@ -1,9 +1,8 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 
 {
-//"spider":"./lib/spider.jar",
-
-"spider": "https://ncstatic.clewm.net/rsrc/2025/0618/12/2a4cd67b9252a2e40b4227378566772f.png;md5;B10DC5669CB602E2E75FA6D57BFE841F",	
+"spider":"./lib/spider.jar",
+	
 "lives": [{"name": "live","type": 0,
 "url": "./live.txt","playerType":2,
 //https://raw.bgithub.xyz/xiongjian83/TvBox/refs/heads/main/live.txt
@@ -23,9 +22,7 @@
         "ext": {"影片类型": "类型：&&</li>","简介": "简介：&&</div>","分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
 		"分类": "国产剧$13#电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"}},
 //米    http://yj.appss.cc   	
-{"key": "金牌影视","name": "🥇┃金牌┃影视","type": 3,"api": "https://git.acwing.com/iduoduo/orange/-/raw/main/py/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.py","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,
-	"ext": {"site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}},	
-	
+
 {"key": "小红","name": "小红影视","type": 3,"quickSearch": 1,"api": "csp_AppGet",
             "ext": {"url": "https://www.xiaohys.com","dataKey": "ENonBHeVBoYZhVUV","dataIv": "ENonBHeVBoYZhVUV","deviceId": "298e5fe29c74b35aabb9836ee2f6f449f","version": "166"}},
 {"key": "瓜萌","name": "瓜萌影视","type": 3,"quickSearch": 1,"api": "csp_AppGet",
@@ -52,7 +49,7 @@
 {"key":"drpy_js_金牌","name":"金牌秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视2.js"},	
 //https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/  http://www.guanyugekj.com/
 //https://gitee.com/senno/tvbox/raw/master/api.json;    https://m.sunnafh.com/     https://www.gs4x7nq4.com/ 	   https://ndhfiohk.com/   https://jieys.com/  https://www.vv3nwjk.com/     https://www.jpyy2.com/   
-//https://www.sizhengxt.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn   
+//https://www.sizhengxt.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn  
 
 {"key": "dianyiPQ","name": "电影先生","type": 3,"api": "csp_XBPQ","searchable": 1,"filterable": 1,"quickSearch": 1,
       "ext": {"分类url": "https://xn--44qz85a01qpc.com/pianku-{cateId}-{class}-{by}-{area}-{lang}----{catePg}---{year}.html","分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman",
@@ -116,8 +113,6 @@
 //{"key": "非凡资源","name": "非凡影院","type": 1,"api": "http://ffzy.tv/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,
 //	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","韩国剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","台湾剧","日本剧","海外剧","泰国剧","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
 //非凡资源备用网址:ffzy1.tv ffzy2.tv ffzy3.tv ffzy4.tv ffzy5.tv      http://ffzy.tv/api.php/provide/vod/
-{"key": "量子资源","name": "量子资源","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,
-	"categories": ["短剧","国产剧","韩国剧","大陆综艺","国产动漫","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","台湾剧","日本剧","海外剧","泰国剧","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
 
 {"key": "360资源","name": "360影院","type": 1,"api": "https://360zy.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,
 	"categories": ["爽文短剧","国产剧","大陆综艺", "国产动漫","韩国剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","台湾剧","泰国剧","日韩动漫","欧美动漫","港台综艺","日韩综艺"]},

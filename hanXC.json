@@ -23,17 +23,15 @@
 		"分类": "国产剧$13#电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"}},
 //米    http://yj.appss.cc   	
 
-{"key": "小红","name": "小红影视","type": 3,"quickSearch": 1,"api": "csp_AppGet",
-            "ext": {"url": "https://www.xiaohys.com","dataKey": "ENonBHeVBoYZhVUV","dataIv": "ENonBHeVBoYZhVUV","deviceId": "298e5fe29c74b35aabb9836ee2f6f449f","version": "166"}},
-{"key": "瓜萌","name": "瓜萌影视","type": 3,"quickSearch": 1,"api": "csp_AppGet",
-            "ext": {"url": "https://www.guahd.com","dataKey": "f2A7D4B9E8C16531","dataIv": "f2A7D4B9E8C16531","deviceId": "","version": ""}},
 ////https://try.gogs.io/NB666/api/raw/main/config.bin
 
+{"key": "猫咪资源","name":"猫咪影院","type": 1,"api": "http://zy.xmm.hk//api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电影","连续剧","综艺","动漫"]},
+//主域名 ：http://zy.xiaomaomi.cc/#   zy.xmm.hk
+	
 {"key":"csp_Gz360","name":"瓜子影视","type": 3,"quickSearch": 1,"api": "csp_Gz360","playerType":2},
 {"key":"baibai","name":"素白影视","type":3,"quickSearch":1,"api":"csp_SuBaiBai","ext":"https://www.subaibai.com"},	
 //https://subaibai.vip/  
-{"key": "猫咪资源","name":"猫咪影院","type": 1,"api": "http://zy.xmm.hk//api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电影","连续剧","综艺","动漫"]},
-//主域名 ：http://zy.xiaomaomi.cc/#   zy.xmm.hk
+
 
 //{"key": "永乐影视","name": "永乐影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.ylys.tv/vodshow/{cateId}-----------/","分类": "国产剧$13#电视剧$2#电影$1#综艺$3#动漫$4"}},	
 //{"key": "飞飞影视","name": "飞飞影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.ffys.fun/vodshow/id/{cateId}.html","分类": "国产剧$34#电影$20#电视剧$21#综艺$23#爽剧$25#动漫$22#记录片$24"}},	

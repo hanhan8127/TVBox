@@ -34,9 +34,6 @@
 
 
 //{"key": "永乐影视","name": "永乐影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.ylys.tv/vodshow/{cateId}-----------/","分类": "国产剧$13#电视剧$2#电影$1#综艺$3#动漫$4"}},	
-//{"key": "飞飞影视","name": "飞飞影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.mtvod.cc/vodshow/id/{cateId}.html","分类": "爽剧$shuangju#国产剧$guochanju#电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman"}},	
-//{"key": "悟空影视","name": "悟空影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.wkvod.cc/vodshow/id/{cateId}.html","分类": "短剧$duanju#剧集$juji#电影$dianying#综艺$zongyi#动漫$dongman"}},	
-//https://www.ffys.app	  https://www.mtvod.cc/  www.wkvod.cc
 
 
 //{"key":"csp_红狐狸","name":"狐狸影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/show/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
@@ -55,6 +52,16 @@
         "影片年代": "<div class=\"module-info-tag\">&&</div>","影片类型": "module-info-tag\">&&立即播放","搜索url": "https://xn--44qz85a01qpc.com/search--------------.html?wd={wd}",
         "简介": "style=\"line-height: 20px;\"&&</div>","线路数组": "data-dropdown-value=&&</div>[不包含:QI节点#QT节点#KU节点]","线路标题": "<span>&&</span>[排序:TK>HD>XS>YI>DI>]"}},
 // DianYi.ng    XianShe.ng   电影先生.com
+
+
+	
+{"key": "蜜桃","name": "蜜桃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"filterable": 1,"quickSearch": 1,
+      "ext": {"分类url": "https://www.mtvod.cc/vodshow/id/{cateId}/page/{catePg}.html","分类": "爽剧$shuangju#国产剧$guochanju#电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman"}},
+
+{"key": "飞飞影视","name": "飞飞影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.mtvod.cc/vodshow/id/{cateId}/page/{catePg}.html","分类": "爽剧$shuangju#国产剧$guochanju#电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman"}},	
+//{"key": "悟空影视","name": "悟空影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.wkvod.cc/vodshow/id/{cateId}.html","分类": "短剧$duanju#剧集$juji#电影$dianying#综艺$zongyi#动漫$dongman"}},	
+//https://www.ffys.app	  https://www.mtvod.cc/  www.wkvod.cc
+	
 //{"key":"厂长","name":"厂长影视","type":3,"playerType":"2","api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.czzymovie.com/"},
 //易记域名CZ01.TV   https://cz01.vip/    推荐访问:www.czzymovie.com         WWW.CZZY77.COM
 {"key":"可可影视","name":"可可影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},

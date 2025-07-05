@@ -50,8 +50,8 @@
 {"key": "1080资源","name": "1080影院","type": 1,"api": "https://api.yzzy-api.com/inc/apijson.php","searchable": 1,"quickSearch": 1,"filterable": 1,
 	"categories": ["短剧大全","国产剧","大陆综艺", "国产动漫","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","韩国剧","欧美剧","香港剧","台湾剧","泰国剧","日韩动漫","欧美动漫","港台综艺","日韩综艺"]},
 //优质 高清资源主域名:yzzy.tv hdzyk.com（备用网址): 1080zyk1.com 至 1080zyk20.com
-//{"key": "非凡资源","name": "非凡影院","type": 1,"api": "http://ffzy.tv/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,
-//	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","韩国剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","台湾剧","日本剧","海外剧","泰国剧","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
+{"key": "非凡资源","name": "非凡影院","type": 1,"api": "http://ffzy.tv/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,
+	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","韩国剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","台湾剧","日本剧","海外剧","泰国剧","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
 //非凡资源备用网址:ffzy1.tv ffzy2.tv ffzy3.tv ffzy4.tv ffzy5.tv      http://ffzy.tv/api.php/provide/vod/
 
 {"key": "dianyiPQ","name": "电影先生","type": 3,"api": "csp_XBPQ","searchable": 1,"filterable": 1,"quickSearch": 1,
@@ -61,10 +61,10 @@
 // DianYi.ng    XianShe.ng   电影先生.com
 
 //{"key": "蜜桃","name": "飞飞影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.mtvod.cc/vodshow/id/{cateId}/page/{catePg}.html","分类": "爽剧$shuangju#国产剧$guochanju#电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman"}},	
-//{"key": "悟空","name": "悟空影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.wkvod.cc/vodshow/area/{cateId}/id/juji/page/{catePg}.html","分类": "国产剧$中国大陆#台湾剧$中国台湾#韩剧$韩国#美剧$美国#香港剧$中国香港"}},	
+//{"key": "悟空","name": "悟空影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.wkvod.cc/vodshow/area/{cateId}/id/juji/page/{catePg}.html","分类":"国产剧$中国大陆#台湾剧$中国台湾#韩剧$韩国#美剧$美国#香港剧$中国香港"}},	
 //https://www.ffys.app	  https://www.mtvod.cc/  www.wkvod.cc    https://www.wkvod.vip/  www.wkvod.top
 //{"key": "zhengsheng","name": "80影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"http://www.zhengshenggs.com/t/{cateId}-{catePg}.html","分类": "短剧$duanju#国产剧$guochanju#日韩剧$rihanju#欧美剧$oumeiju#港台剧$gangtaiju"}},	
-
+//http://www.zhengshenggs.com/s/guochanju/class/%E5%86%85%E5%9C%B0/page/2.html
 //{"key":"厂长","name":"厂长影视","type":3,"playerType":"2","api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.czzymovie.com/"},
 //易记域名CZ01.TV   https://cz01.vip/    推荐访问:www.czzymovie.com         WWW.CZZY77.COM
 

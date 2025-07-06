@@ -78,10 +78,10 @@
 //{"key":"bestpipe","name":"百思影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.bestpipe.cn/vodshow/{cateId}-{area}-------{catePg}---.html","分类":"电影$20#剧集$21#短剧$24#综艺$23#动漫$22"}},
 
 {"key": "耐看观影","name": "耐看观影","type": 3,"api": "csp_XBPQ",
-	"ext": {"分类url":"https://www.nkvod.com/show/{cateId}--------{catePg}---.html","分类": "国产剧$13#电视剧$2#日韩剧$15#电影$1#动漫$4#综艺$3"}},   
+	"ext": {"分类url":"https://www.nkvod.com/show/{cateId}--------{catePg}---.html","分类": "电视剧$2#日韩剧$15#电影$1#动漫$4#综艺$3"}},   
 {"key": "lkvod","name":"爱看影视","type": 3,"api": "csp_XBPQ",
-	"ext":{"分类url":"https://lkvod.me/show/{cateId}--------{catePg}---.html","分类": "国产剧$13#电视剧$2#日韩剧$15#电影$1#动漫$4#综艺$3"}},	
-	
+	"ext":{"分类url":"https://lkvod.me/show/{cateId}--------{catePg}---.html","分类": "电视剧$2#日韩剧$15#电影$1#动漫$4#综艺$3"}},	
+
 //{"key":"iysdq","name":"影院大全","type":3,"api":"csp_XBPQ", "ext":{"分类url":"https://www.iysdq.com/vodshow/{cateId}--time------{catePg}---.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 
 //https://www.iysdq.net/       https://www.iysdq.com	https://www.iysdq.cc   
 //	https://try.gogs.io/NB666/api/raw/main/config.bin          

@@ -37,7 +37,7 @@
 //https://dl.keke1.app/	
 
 {"key":"可可影视","name":"可可影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},
-{"key":"茶壶影视","name":"茶壶影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.htuys.com/frim/no{cateId}-{catePg}.html","分类": "国产剧$13#短剧$25#电视剧$2#电影$1#综艺$3#动漫$4"}},
+{"key":"茶壶影视","name":"茶壶影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.htuys.com/search.php?page={catePg}&searchtype=5&tid={cateId}","分类": "国产剧$13#短剧$25#电视剧$2#电影$1#综艺$3#动漫$4"}},
 
 {"key": "1080资源","name": "1080影院","type": 1,"api": "https://api.yzzy-api.com/inc/apijson.php","searchable": 1,"quickSearch": 1,"filterable": 1,
 	"categories": ["短剧大全","国产剧","大陆综艺", "国产动漫","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","韩国剧","欧美剧","香港剧","台湾剧","泰国剧","日韩动漫","欧美动漫","港台综艺","日韩综艺"]},

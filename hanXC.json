@@ -38,7 +38,8 @@
 {"key":"baibai","name":"素白影视","type":3,"quickSearch":1,"api":"csp_SuBaiBai","ext":"https://www.subaibai.com"},	
 //https://subaibai.vip/  
 
-	
+{"key": "优质影视","name": "优质影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.myripon.com/index.php/vod/show/id/{cateId}/page/{catePg}.html","分类": "国产剧$13#电影$1#电视剧$2#综艺$3#动漫$4"}},	
+
 {"key": "81影视","name": "八一影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://8scsi.com/by/{cateId}-{catePg}.html","分类": "国产剧$5#电视剧$1#电影$2#大陆综艺$22#综艺$3#动漫$4"}},
 //http://www.88tvs.org/	
 {"key": "永乐影视","name": "永乐影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.ylys.tv/vodshow/{cateId}--------{catePg}---/","分类": "国产剧$13#电视剧$2#电影$1#综艺$3#动漫$4"}},	
@@ -77,7 +78,7 @@
       
 //{"key":"bestpipe","name":"百思影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.bestpipe.cn/vodshow/{cateId}-{area}-------{catePg}---.html","分类":"电影$20#剧集$21#短剧$24#综艺$23#动漫$22"}},
 
-{"key": "耐看观影","name": "耐看观影","type": 3,"api": "csp_XBPQ",
+//{"key": "耐看观影","name": "耐看观影","type": 3,"api": "csp_XBPQ",
 	"ext": {"分类url":"https://www.nkvod.com/show/{cateId}--------{catePg}---.html","分类": "电视剧$2#日韩剧$15#电影$1#动漫$4#综艺$3"}},   
 {"key": "lkvod","name":"爱看影视","type": 3,"api": "csp_XBPQ",
 	"ext":{"分类url":"https://lkvod.me/show/{cateId}--------{catePg}---.html","分类": "电视剧$2#日韩剧$15#电影$1#动漫$4#综艺$3"}},	

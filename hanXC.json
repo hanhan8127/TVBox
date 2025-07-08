@@ -116,7 +116,7 @@
 	 "categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧","日剧","韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 //https://jszyapi.com/   www.jisuzy.com    www.jisuzy.tv   www.jisuziyuan.com   www.jszy666.com         https://jisjiexi.com/play/?url=	    
 
-{"key":"新浪资源","name":"新浪影院","type": 1,"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,
+{"key":"新浪资源","name":"新浪影院","type": 1,"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/","searchable": 1,"quickSearch": 1,"filterable": 1,
 	 "categories": ["短剧","大陆剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧","日剧","韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 
 

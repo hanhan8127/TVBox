@@ -52,26 +52,25 @@
 //https://dl.keke1.app/	 https://www.keke1.app/  https://dl.dushe7.app/   https://www.dushe7.app  dushe02.com  dushe03.com  dushe04.com
 	
 //{"key": "茶壶","name": "茶壶影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.htuys.com/search.php?page={catePg}&searchtype=5&tid={cateId}","分类": "国产剧$13#电视剧$2#电影$1#综艺$3#动漫$4"}},	
-	
+{"key": "枝枝影视","name": "枝枝影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://zzoc.cc/vodshow/{cateId}--time------{catePg}---.html","分类":"国产剧$13#电视剧$2#电影$1#综艺$3#短剧$20#动漫$4"}},	
+{"key": "81影视","name": "八一影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://8scsi.com/by/{cateId}-{catePg}.html","分类": "国产剧$5#电视剧$1#电影$2#大陆综艺$22#综艺$3#动漫$4"}},
+//http://www.88tvs.org/		
 {"key": "猫咪资源","name":"猫咪影院","type": 1,"api": "http://zy.xmm.hk/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电影","连续剧","综艺","动漫"]},
 //主域名 ：http://zy.xiaomaomi.cc/#   zy.xmm.hk
 	
+{"key":"Wwys","name":"农民影视","type":3,"quickSearch":1,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},		
 {"key":"csp_Gz360","name":"瓜子影视","type": 3,"quickSearch": 1,"api": "csp_Gz360","playerType":2},
 {"key":"baibai","name":"素白影视","type":3,"quickSearch":1,"api":"csp_SuBaiBai","ext":"https://www.subaibai.com"},	
 //https://subaibai.vip/  
 
 {"key": "优质影视","name": "优质影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.myripon.com/index.php/vod/show/id/{cateId}/page/{catePg}.html","分类": "国产剧$13#电影$1#电视剧$2#综艺$3#动漫$4"}},	
 
-{"key": "81影视","name": "八一影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://8scsi.com/by/{cateId}-{catePg}.html","分类": "国产剧$5#电视剧$1#电影$2#大陆综艺$22#综艺$3#动漫$4"}},
-//http://www.88tvs.org/	
-{"key": "永乐影视","name": "永乐影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.ylys.tv/vodshow/{cateId}--------{catePg}---/","分类": "国产剧$13#电视剧$2#电影$1#综艺$3#动漫$4"}},	
 
-{"key": "枝枝影视","name": "枝枝影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://zzoc.cc/vodshow/{cateId}--time------{catePg}---.html","分类":"国产剧$13#电视剧$2#电影$1#综艺$3#短剧$20#动漫$4"}},	
+{"key": "永乐影视","name": "永乐影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.ylys.tv/vodshow/{cateId}--------{catePg}---/","分类": "国产剧$13#电视剧$2#电影$1#综艺$3#动漫$4"}},	
 
 //{"key":"csp_红狐狸","name":"狐狸影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/show/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 
-{"key":"csp_Quanwk","name":"全看影视","type":3,"api":"csp_Quanwk","ext":"https://www.91qkw.com"},
-{"key":"荐片","name":"荐片影视","api":"csp_Jianpian","type":3,"playerType":"2","ext":"http://api2.rinhome.com"},
+//{"key":"csp_Quanwk","name":"全看影视","type":3,"api":"csp_Quanwk","ext":"https://www.91qkw.com"},
 
 {"key":"drpy_js_金牌1","name":"金牌影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视.js"},
 {"key":"drpy_js_金牌","name":"金牌秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视2.js"},	
@@ -95,26 +94,15 @@
 
 //{"key":"火火影视","name":"火火影视","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},
 	
-{"key":"Wwys","name":"农民影视","type":3,"quickSearch":1,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},	
 
 {"key":"天天影视","name":"天天影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://tt.ysdqjs.cn"}},	
 {"key":"热播影视","name":"热播影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://v.rbotv.cn"}},
       
 //{"key":"bestpipe","name":"百思影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.bestpipe.cn/vodshow/{cateId}-{area}-------{catePg}---.html","分类":"电影$20#剧集$21#短剧$24#综艺$23#动漫$22"}},
 
-//{"key": "耐看观影","name": "耐看观影","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.nkvod.com/show/{cateId}--------{catePg}---.html","分类": "电视剧$2#日韩剧$15#电影$1#动漫$4#综艺$3"}},   
-//{"key": "lkvod","name":"爱看影视","type": 3,"api": "csp_XBPQ","ext":{"分类url":"https://lkvod.me/show/{cateId}--------{catePg}---.html","分类": "电视剧$2#日韩剧$15#电影$1#动漫$4#综艺$3"}},	
+{"key": "耐看观影","name": "耐看观影","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.nkvod.com/show/{cateId}--------{catePg}---.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},   
+{"key": "lkvod","name":"爱看影视","type": 3,"api": "csp_XBPQ","ext":{"分类url":"https://lkvod.me/show/{cateId}--------{catePg}---.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},	
 
-
-{"key": "木耳","name": "木耳影院","type": 1,"api": "https://json02.heimuer.xyz/api.php/provide/vod","searchable": 1,"filterable": 1,"changeable": 1,"timeout":15,
-      "categories": ["国产剧","国产综艺","国产动漫","韩剧","日本动漫","剧情片","动作片","冒险片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片", "动画电影","网络电影","港剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","韩国动漫","港台动漫"]},
-
-{"key": "1080资源","name": "1080影院","type": 1,"api": "https://api.yzzy-api.com/inc/apijson.php","searchable": 1,"quickSearch": 1,"filterable": 1,
-	"categories": ["短剧大全","国产剧","大陆综艺", "国产动漫","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","韩国剧","欧美剧","香港剧","台湾剧","泰国剧","日韩动漫","欧美动漫","港台综艺","日韩综艺"]},
-//优质 高清资源主域名:yzzy.tv hdzyk.com（备用网址): 1080zyk1.com 至 1080zyk20.com
-{"key": "360资源","name": "360影院","type": 1,"api": "https://360zy.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,
-	"categories": ["爽文短剧","国产剧","大陆综艺", "国产动漫","韩国剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","台湾剧","泰国剧","日韩动漫","欧美动漫","港台综艺","日韩综艺"]},
-//主域名 ： 360zy.com 360zy.net 360zy.vip 360zy.top 360zy.tv 备用域名 ：360zy1.com-360zy10.com	
 //{"key": "最全","name": "最全影视","type": 3,"api": "csp_XBPQ",
 //	"ext": {"分类url": "https://www.zqystv.com/zqys/area/{area}/{cateId}/page/{catePg}/year/{year}.html","分类":"国产剧$gcj#热门短剧$rmdj#电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}},
 //https://www.jileitv.com/    https://www.zpcxb.com   https://www.ysmdhk.com/ 
@@ -124,8 +112,16 @@
 {"key":"红果短剧","name":"红果短剧","type": 3,"api": "./lib/红果短剧.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
 {"key":"甜圈短剧","name":"甜圈短剧","type": 3,"api": "./lib/甜圈短剧.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
 {"key":"河马短剧","name":"河马短剧","type": 3,"api": "./lib/河马短剧.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
-{"key":"星芽短剧2","name":"星芽短剧","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/xingya.js"},	
+{"key":"星芽短剧2","name":"星芽短剧","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/xingya.js"},
 
+{"key": "木耳","name": "木耳影院","type": 1,"api": "https://json02.heimuer.xyz/api.php/provide/vod","searchable": 1,"filterable": 1,"changeable": 1,"timeout":15,
+      "categories": ["国产剧","国产综艺","国产动漫","韩剧","日本动漫","剧情片","动作片","冒险片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片", "动画电影","网络电影","港剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","韩国动漫","港台动漫"]},
+{"key": "1080资源","name": "1080影院","type": 1,"api": "https://api.yzzy-api.com/inc/apijson.php","searchable": 1,"quickSearch": 1,"filterable": 1,
+	"categories": ["短剧大全","国产剧","大陆综艺", "国产动漫","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","韩国剧","欧美剧","香港剧","台湾剧","泰国剧","日韩动漫","欧美动漫","港台综艺","日韩综艺"]},
+//优质 高清资源主域名:yzzy.tv hdzyk.com（备用网址): 1080zyk1.com 至 1080zyk20.com
+{"key": "360资源","name": "360影院","type": 1,"api": "https://360zy.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,
+	"categories": ["爽文短剧","国产剧","大陆综艺", "国产动漫","韩国剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","台湾剧","泰国剧","日韩动漫","欧美动漫","港台综艺","日韩综艺"]},
+//主域名 ： 360zy.com 360zy.net 360zy.vip 360zy.top 360zy.tv 备用域名 ：360zy1.com-360zy10.com	
 {"key":"极速资源","name":"极速影院","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,
 	 "categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧","日剧","韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 //https://jszyapi.com/   www.jisuzy.com    www.jisuzy.tv   www.jisuziyuan.com   www.jszy666.com         https://jisjiexi.com/play/?url=	    

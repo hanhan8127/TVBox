@@ -33,7 +33,7 @@
 //米    http://yj.appss.cc   	////https://try.gogs.io/NB666/api/raw/main/config.bin
 
 {"key":"毒蛇影视","name":"毒蛇影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-    "ext":{"主页url":"https://www.dushe03.com/","分类url":"/show/{cateId}-----3-{catePg}.html	","分类":"电影$1#剧集$2#综艺$3#动漫$4#短剧$6",
+    "ext":{"主页url":"https://www.dushe04.com/","分类url":"/show/{cateId}-----3-{catePg}.html	","分类":"电影$1#剧集$2#综艺$3#动漫$4#短剧$6",
     "数组": "默认--<div class=\"module-item&&</a>||搜索--/detail&&</a>","标题": "title\">&&</div",
     "图片":"默认--https://vres1.ipvav.cn/+data-original=\"/&&\"||搜索--https://vres1.ipvav.cn/vod1/vod/+/vod1/vod/&&\"",
     "副标题": "bottom\">&&</span||搜索--tags\">&&</div","链接": "默认--href=\"&&\"||搜索--/detail/+/&&.html\"+.html",

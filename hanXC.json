@@ -32,8 +32,7 @@
 		"分类": "国产剧$13#电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"}},
 //米    http://yj.appss.cc   	////https://try.gogs.io/NB666/api/raw/main/config.bin
 	
-{"key":"keke影视","name":"可可影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.keke1.app/show/{cateId}-----3-{catePg}.html","分类": "短剧$6#电视剧$2#电影$1#综艺$3#动漫$4"}, 
-	"标题": "title\">&&</div","副标题": "bottom\">&&</span||搜索--tags\">&&</div","链接": "默认--href=\"&&\"||搜索--/detail/+/&&.html\"+.html"},	
+{"key":"keke影视","name":"可可影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/keke影视.json"},
 //https://dl.keke1.app/	
 
 {"key":"可可影视","name":"可可影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},

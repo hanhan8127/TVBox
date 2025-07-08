@@ -36,16 +36,14 @@
 //https://dl.keke1.app/	   https://dl.dushe7.app/   https://www.dushe7.app  https://www.dushe2，03，04.com
 
 {"key":"可可影视2","name":"可可影视3","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-    "ext":"{"主页url": "https://www.dushe03.com/", "首页": "120","起始页": "1",
-    "分类url": "https://www.dushe03.com/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html;;mrcd0","分类": "电影&剧集&综艺&动漫&短剧","分类值": "1&2&4&3&6",
+    "ext":{"分类url":"https://www.dushe03.com/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html","分类":"电影$1#剧集$2#综艺$3#动漫$4#短剧$6",
     "数组": "默认--<div class=\"module-item&&</a>||搜索--/detail&&</a>","标题": "title\">&&</div",
     "图片":"默认--https://vres1.ipvav.cn/+data-original=\"/&&\"||搜索--https://vres1.ipvav.cn/vod1/vod/+/vod1/vod/&&\"",
     "副标题": "bottom\">&&</span||搜索--tags\">&&</div","链接": "默认--href=\"&&\"||搜索--/detail/+/&&.html\"+.html",
     "影片年代": "--.html\"*>&&</a","状态": "备注:</div>&&</div","导演": "导演:</div>&&</div","主演": "演员:</div>&&</div","简介": "detail-desc\">&&</p",
     "线路数组": "source-item\">&&</a>[不包含:4K(高峰不卡)]","线路标题": "label\">&&<",
     "播放数组": "episode-list&&</div","播放列表": "<a&&/a>","播放标题": ">&&<","播放链接": "href=\"&&\"",
-    "嗅探词": ".mp4#.m3u8","搜索请求头": "User-Agent$MOBILE_UA","搜索url": "/search?k={wd}&page={pg}","搜索模式": "1"
-}},
+    "嗅探词": ".mp4#.m3u8","搜索请求头": "User-Agent$MOBILE_UA","搜索url": "/search?k={wd}&page={pg}","搜索模式": "1"}},
 
 {"key":"可可影视","name":"可可影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},
 //{"key": "茶壶","name": "茶壶影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.htuys.com/search.php?page={catePg}&searchtype=5&tid={cateId}","分类": "国产剧$13#电视剧$2#电影$1#综艺$3#动漫$4"}},	

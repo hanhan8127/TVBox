@@ -56,6 +56,8 @@
 //http://www.88tvs.org/	
 {"key": "永乐影视","name": "永乐影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.ylys.tv/vodshow/{cateId}--------{catePg}---/","分类": "国产剧$13#电视剧$2#电影$1#综艺$3#动漫$4"}},	
 
+{"key": "枝枝影视","name": "枝枝影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://zzoc.cc/vodshow/{cateId}--time------{catePg}---.html","分类":"国产剧$13#电视剧$2#电影$1#综艺$3#短剧$20#动漫$4"}},	
+
 //{"key":"csp_红狐狸","name":"狐狸影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/show/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 
 {"key":"csp_Quanwk","name":"全看影视","type":3,"api":"csp_Quanwk","ext":"https://www.91qkw.com"},

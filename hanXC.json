@@ -86,18 +86,14 @@
 {"key":"nkvod","name":"耐看观影","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.nkvod.com/show/{cateId}--------{catePg}---.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},   
 {"key":"lkvod","name":"爱看影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.lkvod.com/show/{cateId}--------{catePg}---.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},	
 //	https://www.lkvod.me        https://www.nkvod.me/  
-{"key":"桃子影视","name":"桃子影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-    "ext":{"主页url":"https://www.mtvod.cc/","分类url":"vodshow/id/{cateId}/page/{catePg}.html","分类":"国产剧$guochanju#电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman",
-    "数组": "默认--<div class=\"module-item&&</a>||搜索--/detail&&</a>","标题": "title\">&&</div",
-    "副标题": "bottom\">&&</span||搜索--tags\">&&</div","链接": "默认--href=\"&&\"||搜索--/detail/+/&&.html\"+.html",
-    "影片年代": "--.html\"*>&&</a","状态": "备注:</div>&&</div","导演": "导演:</div>&&</div","主演": "演员:</div>&&</div","简介": "detail-desc\">&&</p",
-    "线路数组": "source-item\">&&</a>[不包含:4K(高峰不卡)]","线路标题": "label\">&&<",
-    "播放数组": "episode-list&&</div","播放列表": "<a&&/a>","播放标题": ">&&<","播放链接": "href=\"&&\"",
-    "嗅探词": ".mp4#.m3u8","搜索请求头": "User-Agent$MOBILE_UA","搜索url": "/search?k={wd}&page={pg}","搜索模式": "1"}},
 
-{"key": "蜜桃","name": "桃子影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.mtvod.cc/vodshow/id/{cateId}/page/{catePg}.html","分类": "国产剧$guochanju#电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman"}},	
-//{"key": "悟空","name": "悟空影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.wkvod.cc/vodshow/area/{cateId}/id/juji/page/{catePg}.html","分类":"国产剧$中国大陆#台湾剧$中国台湾#韩剧$韩国#美剧$美国#香港剧$中国香港"}},	
-//https://www.ffys.app	  https://www.mtvod.cc/  www.wkvod.cc    https://www.wkvod.vip/  www.wkvod.top
+{"key":"桃子","name":"桃子影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url":"https://www.mtvod.cc"}},
+{"key":"悟空","name":"悟空影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url":"https://www.wkvod.cc"}},
+{"key":"80","name":"80影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url":"http://www.zhengshenggs.com"}},
+
+//{"key":"蜜桃","name": "桃子影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.mtvod.cc/vodshow/id/{cateId}/page/{catePg}.html","分类": "国产剧$guochanju#电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman"}},	
+//{"key":"悟空","name": "悟空影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.wkvod.cc/vodshow/area/{cateId}/id/juji/page/{catePg}.html","分类":"国产剧$中国大陆#台湾剧$中国台湾#韩剧$韩国#美剧$美国#香港剧$中国香港"}},	
+//https://www.ffys.app	  https://www.mtvod.cc/  www.wkvod.cc    https://www.wkvod.vip/  www.wkvod.top           
 //{"key": "zhengsheng","name": "80影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"http://www.zhengshenggs.com/s/{cateId}/page/{catePg}.html","分类": "短剧$duanju#国产剧$guochanju#日韩剧$rihanju#欧美剧$oumeiju#港台剧$gangtaiju"}},	
 //http://www.zhengshenggs.com/s/guochanju/class/{cateId}/page/{catePg}.html        
 //{"key":"厂长","name":"厂长影视","type":3,"playerType":"2","api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.czzymovie.com/"},

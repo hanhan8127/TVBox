@@ -19,8 +19,8 @@
 {"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},	
 
-{"key":"bbibi","name":"影视在线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.bbibi.cc/list/?{cateId}-{catePg}.html","分类":"大陆剧$13#短剧$37#电影$1#电视剧$2#综艺$3#动漫$4"}},	
+//{"key":"bbibi","name":"影视在线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+//"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.bbibi.cc/list/?{cateId}-{catePg}.html","分类":"大陆剧$13#短剧$37#电影$1#电视剧$2#综艺$3#动漫$4"}},	
 
 {"key":"nrnnnr","name":"电影天堂","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.nrnnnr.com/search.php?page={catePg}&searchtype=5&tid={cateId}","分类":"国产剧$5#短剧$13#电影$2#电视剧$1#综艺$3#动漫$4"}},	

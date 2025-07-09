@@ -75,7 +75,10 @@
 //http://www.88tvs.org/		
 {"key": "猫咪资源","name":"猫咪影院","type": 1,"api": "http://zy.xmm.hk/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电影","连续剧","综艺","动漫"]},
 //主域名 ：http://zy.xiaomaomi.cc/#   zy.xmm.hk
-	
+
+{"key":"xmxone","name":"影视聚合","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.xmxone.cn/vodshow/{cateId}--------{catePg}---/","分类":"电视剧$2#电影$1#综艺$3#动漫$4"}},	
+
 {"key":"Wwys","name":"农民影视","type":3,"quickSearch":1,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},		
 {"key":"csp_Gz360","name":"瓜子影视","type": 3,"quickSearch": 1,"api": "csp_Gz360","playerType":2},
 {"key":"baibai","name":"素白影视","type":3,"quickSearch":1,"api":"csp_SuBaiBai","ext":"https://www.subaibai.com"},	

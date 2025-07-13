@@ -73,9 +73,6 @@
 //https://gitee.com/senno/tvbox/raw/master/api.json;    https://m.sunnafh.com/     https://www.gs4x7nq4.com/ 	   https://ndhfiohk.com/   https://jieys.com/  https://www.vv3nwjk.com/     https://www.jpyy2.com/   
 //https://www.sizhengxt.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn  
 
-{"key":"subaibai","name":"素白影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.sunrookids.com/movie_bt/movie_bt_series/{cateId}/page/{catePg}",
-	       "分类":"国产剧$guochanju#国产电影$guochandy#日韩电影$rihandy#韩剧$hanju#综艺$zongyi#欧美剧$oumeidy#动漫剧$dongmanju#动漫电影$dongmandy"}},
 
 {"key":"Wwys","name":"农民影视","type":3,"quickSearch":1,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},		
 

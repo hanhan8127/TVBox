@@ -69,6 +69,11 @@
 {"key":"yuny","name":"云影影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.yuny.tv/videoClassify/{cateId}?current={catePg} ",
 		"分类":"剧集$2#电影$1#短剧$4#综艺$5#动漫$3"}},	
+{"key":"jktv","name":"即看影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.jktv.app/show/{cateId}--time_add------{catePg}---.html",
+                "分类":"国产剧$13#电视剧$2#电影$1#短剧$53#综艺$3#动漫$4"}},	
+{"key":"xl01","name":"修罗影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://xl01.com.de/s/all/{cateId}?type={cateId}","分类":"电视剧$1#电影$0"}},	
 
 {"key":"Wwys","name":"农民影视","type":3,"quickSearch":1,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},		
 

@@ -30,9 +30,6 @@
 {"key":"iysdq","name":"影院大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.iysdq.com/vodtype/{cateId}-{catePg}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 
 //https://www.iysdq.net/       https://www.iysdq.com	https://www.iysdq.cc           https://try.gogs.io/NB666/api/raw/main/config.bin  
 
-{"key":"zhuijuwu","name":"追剧影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://zhuijuwu.com/frim/index{cateId}-{catePg}.html","分类":"大陆剧$13#电影$1#电视剧$2#综艺$3#动漫$4"}},	
-
 {"key":"fdoruw","name":"全民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.fdoruw.com/qm/{cateId}-{catePg}.html","分类":"国产剧$5#短剧$13#电影$2#电视剧$1#综艺$3#动漫$4"}},
 		
@@ -67,8 +64,11 @@
 {"key":"drpy_js_金牌","name":"金牌秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视2.js"},
 //https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/  http://www.guanyugekj.com/
 //https://gitee.com/senno/tvbox/raw/master/api.json;    https://m.sunnafh.com/     https://www.gs4x7nq4.com/ 	   https://ndhfiohk.com/   https://jieys.com/  https://www.vv3nwjk.com/     https://www.jpyy2.com/   
-//https://www.sizhengxt.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn  
+//https://www.sizhengxt.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn
 
+{"key":"yuny","name":"云影影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.yuny.tv/videoClassify/{cateId}?current={catePg} ",
+		"分类":"剧集$2#电影$1#短剧$4#综艺$5#动漫$3"}},	
 
 {"key":"Wwys","name":"农民影视","type":3,"quickSearch":1,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},		
 
@@ -104,7 +104,6 @@
 {"key":"热播影视","name":"热播影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://v.rbotv.cn"}},
       
 //{"key":"bestpipe","name":"百思影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.bestpipe.cn/vodshow/{cateId}-{area}-------{catePg}---.html","分类":"电影$20#剧集$21#短剧$24#综艺$23#动漫$22"}},
-
 //{"key": "茶壶","name": "茶壶影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.htuys.com/search.php?page={catePg}&searchtype=5&tid={cateId}","分类": "国产剧$13#电视剧$2#电影$1#综艺$3#动漫$4"}},	
 //{"key": "枝枝影视","name": "枝枝影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://zzoc.cc/vodshow/{cateId}--time------{catePg}---.html","分类":"国产剧$13#电视剧$2#电影$1#综艺$3#短剧$20#动漫$4"}},	
 //{"key": "81影视","name": "八一影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://8scsi.com/by/{cateId}-{catePg}.html","分类": "国产剧$5#电视剧$1#电影$2#大陆综艺$22#综艺$3#动漫$4"}},
@@ -138,6 +137,9 @@
 {"key":"极速资源","name":"极速影院","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,
 	 "categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧","日剧","韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 //https://jszyapi.com/   www.jisuzy.com    www.jisuzy.tv   www.jisuziyuan.com   www.jszy666.com         https://jisjiexi.com/play/?url=	    
+
+{"key":"zhuijuwu","name":"追剧影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://zhuijuwu.com/frim/index{cateId}-{catePg}.html","分类":"大陆剧$13#电影$1#电视剧$2#综艺$3#动漫$4"}},	
 
 {"key": "csp_hanhan","name": "请勿相信影片广告！","type": 1,"playerType": 2,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1}
 

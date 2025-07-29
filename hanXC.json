@@ -57,8 +57,7 @@
     "线路数组": "source-item\">&&</a>[不包含:4K(高峰不卡)]","线路标题": "label\">&&<",
     "播放数组": "episode-list&&</div","播放列表": "<a&&/a>","播放标题": ">&&<","播放链接": "href=\"&&\"",
     "嗅探词": ".mp4#.m3u8","搜索请求头": "User-Agent$MOBILE_UA","搜索url": "/search?k={wd}&page={pg}","搜索模式": "1"}},
-	
-//{"key":"可可影视","name":"可可影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},
+
 //https://dl.keke1.app/	 https://www.keke1.app/  https://dl.dushe7.app/   https://www.dushe7.app  dushe02.com  dushe03.com  dushe04.com
 
 {"key":"drpy_js_金牌1","name":"金牌影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视.js"},
@@ -67,7 +66,13 @@
 //https://gitee.com/senno/tvbox/raw/master/api.json;    https://m.sunnafh.com/     https://www.gs4x7nq4.com/ 	   https://ndhfiohk.com/   https://jieys.com/  https://www.vv3nwjk.com/     https://www.jpyy2.com/   
 //https://www.sizhengxt.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn
 
-{"key":"Wwys","name":"农民影视","type":3,"quickSearch":1,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},		
+{"key":"Wwys1","name":"农民影视","type":3,"quickSearch":1,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},	
+{"key":"Wwys2","name":"旺旺影视","type":3,"api":"csp_XBPQ",
+	"ext":{"请求头": "手机","编码": "UTF-8","简介": "剧情介绍:+简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>","线路数组": "javascript:;\">&&</a>","数组": "<li>&&</li>","图片": "data-echo=\"&&\"",
+        "分类url": "https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by-time-class-0-year-{year}-letter--area-{area}-lang-.html",
+        "分类": "国产剧$5#短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
+
+
 {"key":"baibai","name":"素白影视","type":3,"quickSearch":1,"api":"csp_SuBaiBai","ext":"https://www.subaibai.com"},
 {"key":"素白白","name":"素白白","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"简介": "剧情介绍:+yp_context\">&&</div>","线路数组": "javascript:void(0);\">&&</a>","播放数组": "paly_list_btn\">&&</div>",

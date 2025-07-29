@@ -113,11 +113,9 @@
 {"key":"天天影视","name":"天天影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://tt.ysdqjs.cn"}},	
 {"key":"热播影视","name":"热播影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://v.rbotv.cn"}},
 
-{"key":"秀儿1","name":"秀儿影院1","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "https://www.xiuer.pro/"}},
-
 {"key": "秀儿","name": "秀儿影院","type": 3,"api": "csp_XBPQ","changeable": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,
           "ext": {"简介": "剧情介绍:+tt\" style=*>&&</div>","数组": "<a&&module-item-pic","副标题": "module-item-text\">&&</div>",
-		  "分类url": "https://www.xiuer.pro/show/{cateId}/by/year/page/{catePg}/","分类": "国产剧$guochanju#短剧$duanju#电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi"}},
+		  "分类url": "https://www.xiuer.pro/vodshow/{cateId}/by/year/page/{catePg}/","分类": "国产剧$guochanju#短剧$duanju#电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi"}},
 
 //{"key":"bestpipe","name":"百思影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.bestpipe.cn/vodshow/{cateId}-{area}-------{catePg}---.html","分类":"电影$20#剧集$21#短剧$24#综艺$23#动漫$22"}},
 //{"key": "茶壶","name": "茶壶影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.htuys.com/search.php?page={catePg}&searchtype=5&tid={cateId}","分类": "国产剧$13#电视剧$2#电影$1#综艺$3#动漫$4"}},	

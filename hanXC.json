@@ -42,7 +42,6 @@
 {"key":"198mv","name":"白嫖影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"分类url": "https://198mv.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html","分类": "国产剧$13#电影$1#剧集$2#综艺$3#动漫$4#短剧$39"}},
 
-
 {"key":"可可影视","name":"可可影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
     "ext":{"主页url":"https://www.keke1.app/","分类url":"/show/{cateId}-----3-{catePg}.html","分类":"电影$1#剧集$2#综艺$3#动漫$4#短剧$6",
     "数组": "默认--<div class=\"module-item&&</a>||搜索--/detail&&</a>","标题": "title\">&&</div",
@@ -81,9 +80,6 @@
                "分类url": "https://www.subaibai.com/{cateId}/page/{catePg}[https://www.subaibai.com/{cateId}]",
                "分类": "电视剧$tv-drama#国产剧$domestic-drama#欧美剧$american-drama#日韩剧$korean-drama#电影$new-movie#热门电影$hot-month#高分电影$high-movie#动漫电影$cartoon-movie#香港电影$cartoon-movie#动漫剧$anime-drama"}},
 //https://subaibai.vip/  
-
-
-
 {"key": "猫咪资源","name":"猫咪影院","type": 1,"api": "http://zy.xmm.hk/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电影","连续剧","综艺","动漫"]},
 //主域名 ：http://zy.xiaomaomi.cc/#   zy.xmm.hk
 
@@ -98,7 +94,7 @@
 {"key":"csp_红狐狸","name":"狐狸影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/show/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 
 //{"key":"csp_Quanwk","name":"全看影视","type":3,"api":"csp_Quanwk","ext":"https://www.91qkw.com"},
-
+//https://www.qkw1.com
 {"key": "dianyiPQ","name": "电影先生","type": 3,"api": "csp_XBPQ","searchable": 1,"filterable": 1,"quickSearch": 1,
       "ext": {"分类url": "https://xn--44qz85a01qpc.com/pianku-{cateId}-{class}-{by}-{area}-{lang}----{catePg}---{year}.html","分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman",
         "影片年代": "<div class=\"module-info-tag\">&&</div>","影片类型": "module-info-tag\">&&立即播放","搜索url": "https://xn--44qz85a01qpc.com/search--------------.html?wd={wd}",
@@ -126,7 +122,6 @@
 
 {"key":"上头短剧","name":"上头短剧","type":3,"quickSearch":1,"api":"csp_AppXY"},	
 {"key": "旺旺","name": "旺旺短剧","type": 1,"api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list","playerType": 1,"searchable": 1,"changeable": 1},
-
 {"key":"星芽短剧","name":"星芽短剧","type": 3,"api": "csp_AppXY","searchable": 1,"quickSearch": 0,"filterable": 0},
 {"key":"红果短剧","name":"红果短剧","type": 3,"api": "./lib/红果短剧.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
 {"key":"甜圈短剧","name":"甜圈短剧","type": 3,"api": "./lib/甜圈短剧.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
@@ -159,7 +154,7 @@
 "parses":[
 	
         {"name":"Json聚合","type":3,"url":"Demo"},
-	{"name": "00","url": "https://jx.nnxv.cn/tv.php?url=","type": 0}
+	{"name": "00","url": "https://jx.nnxv.cn/tv.php?url=","type": 0},
 	{"name":"线0","type":0,"url":"https://bd.jx.cn/?url="},
 	{"name":"线1","type":0,"url":"https://jx.hls.one/?url="},
 	{"name":"线2","type":0,"url":"https://jiexi.789jiexi.com/?url="},

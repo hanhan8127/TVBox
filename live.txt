@@ -139,9 +139,6 @@ CCTV-15音乐,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
 CCTV-16奥运,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 CCTV-17农村,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 
-
-
-
 CCTV-1综合,http://43.152.25.114:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 CCTV-2财经,http://43.152.25.114:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
 CCTV-3综艺,http://43.152.25.114:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
@@ -169,7 +166,6 @@ CCTV央视台球,http://43.152.25.114:80/tencent.live.cbncdn.cn/__cl/cg:live/__c
 CCTV风云足球,http://43.152.25.114:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
 CCTV文化精品,http://43.152.25.114:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8
 CCTV高尔夫网球,http://43.152.25.114:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8
-
 
 
 CCTV-1综合,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8 
@@ -494,50 +490,41 @@ CCTV-17农村,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88
 
 港澳台外,#genre#
 
-凤凰资讯,http://ali.hlspull.yximgs.com/live/7771ddsshabibscbmlfhzxteqoklhdjhflhfsdfagksh-9999547666-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbkasdfsbiiilllll1llllllllllllllllllilldfsldhfsfjlfjfdsklf4dlkfdfgksfhskfsfddlafakfhajdfsaad.flv
-凤凰资讯,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰中文,http://api.mytv666.top/api/hk.php?id=3635353536383939393264346132646363626433646461373332353365633339267469643d74762669643d3230
+凤凰资讯,http://api.mytv666.top/api/hk.php?id=3639313932626236616366636537633734323039313738383137613037633739267469643d74762669643d3231
+凤凰香港,http://api.mytv666.top/api/hk.php?id=6366393933363838303835353235313030313837656130343336356238356364267469643d74762669643d3232
+中天新闻,http://api.mytv666.top/api/hk.php?id=3432626438356234306332353339386439363836663664633634323164393061267469643d74762669643d3939
+有线新闻,http://api.mytv666.top/api/hk.php?id=3036613663316638306536306134313638356161316134316465636662356435267469643d74762669643d3432
+有线新闻,http://api.mytv666.top/api/hk.php?id=3432323435666131343964353936633530396335663430623762353532623439267469643d74762669643d3239
+无线新闻,http://api.mytv666.top/api/hk.php?id=3437643561316430306564303532666566613235653961373961303464386662267469643d74762669643d3235
+now新闻,http://api.mytv666.top/api/hk.php?id=3861666539393633313665393630366237386632616666343339393737373837267469643d74762669643d3336
+无线翡翠,http://api.mytv666.top/api/hk.php?id=6133373062306330636436323766386638333930633734343164306361626637267469643d74762669643d3234
+无线明珠,http://api.mytv666.top/api/hk.php?id=3234333631636531363838373231366566333832376434366264306332626165267469643d74762669643d3237
+有线综合,http://api.mytv666.top/api/hk.php?id=3861653835393966663939393434646663323366326630316438316232623939267469643d74762669643d3433
+中天新闻,http://api.mytv666.top/api/hk.php?id=3639303839636238623433393637353530386234626331346161646239336166267469643d74762669643d3439
+寰宇新闻,http://api.mytv666.top/api/hk.php?id=3262353734373966643964356430363336303339363333336436636262353133267469643d74762669643d3539
+寰宇新闻,http://api.mytv666.top/api/hk.php?id=6266346662396565336462643964373837326266373730326236353237383536267469643d74762669643d313132
+东森新闻,http://api.mytv666.top/api/hk.php?id=3034663439313837653865616166346561376139613235333434396531666564267469643d74762669643d3530
+东森新闻,http://api.mytv666.top/api/hk.php?id=3534346532363736323231376661333239383839363464666132363138313131267469643d74762669643d313037
+tvbs新闻,http://api.mytv666.top/api/hk.php?id=6437303339323237356232633666346535353937623264636361613238353236267469643d74762669643d3633
+tvbs新闻,http://api.mytv666.top/api/hk.php?id=6433326131333730353865386539346239623032306533346562653234623365267469643d74762669643d3938
+三立新闻,http://api.mytv666.top/api/hk.php?id=6664313166363665303363346537313533346630306337303761363333393839267469643d74762669643d3534
+非凡新闻,http://api.mytv666.top/api/hk.php?id=6439363266323437646533636237336130353439363933613039653965353631267469643d74762669643d313035
+闽镜新闻,http://api.mytv666.top/api/hk.php?id=3831313462356431643937343764333264343532343837356535666665623032267469643d74762669643d313036
+闽镜新闻,http://api.mytv666.top/api/hk.php?id=6132656663616366343664633865396464656462633736396337666532383663267469643d74762669643d3538
+民视新闻,http://api.mytv666.top/api/hk.php?id=6133333434353635663133373938343030353333343563353132326433396230267469643d74762669643d3536
+民视新闻,http://api.mytv666.top/api/hk.php?id=6333356235396430353565313132653234663436373463386363396139623936267469643d74762669643d313130
+中视新闻,http://api.mytv666.top/api/hk.php?id=3639313461653631653063653039636165353132386535623331623263316631267469643d74762669643d3532
+中视新闻,http://api.mytv666.top/api/hk.php?id=3935653434333461353033393966666364363031303466346131373436383437267469643d74762669643d313034
+华视新闻,http://api.mytv666.top/api/hk.php?id=6336363138633563363661326531343237616265653233303539356532363065267469643d74762669643d3537
+华视新闻,http://api.mytv666.top/api/hk.php?id=3537326339386632386464663735336532316461313764643035633834323661267469643d74762669643d313032
+台视新闻,http://api.mytv666.top/api/hk.php?id=3532663033343761633136633334333932346565303765616636633239323362267469643d74762669643d3533
+台视新闻,http://api.mytv666.top/api/hk.php?id=3663373532323635333633666462356635623632313130333233393162303838267469643d74762669643d313031
 
-凤凰中文,http://ali.hlspull.yximgs.com/live/7771ddsshabibscbmlfenghuangweishilzhongwen00eqoklhdjhflhfsdfagksh-9999547666-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbkasdfsbiiilllll1llllllllllllllllllilldfsldhfsfjlfjfdsklf4dlkfdfgksfhskfsfddlafakfhajdfsaad.flv
-
-凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
-凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv
-凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
-凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
-凤凰中文,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
-凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-中天新闻,https://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-凤凰资讯,http://203.205.220.194/qctv.fengshows.cn/live/0701pin72.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-环宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-中视综合,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-华视综合,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-MYTV,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-
-TVB-1,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-TVB综合,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-无线综合,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-
-TVB-1,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-TVB综合,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-无线综合,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-
-凤凰中文,http://203.205.220.194/qctv.fengshows.cn/live/0701pcc72.m3u8
-
-
-凤凰中文,https://epg.pw/stream/bed861174ca3f5d4dd96d8bfc52fd0e2990a69c3e02324ef736495435192d7fa.m3u8
-凤凰中文,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
-
-无线新闻,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 TVBS新闻,rtmp://f13h.mine.nu/sat/tv761
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 民视频道,rtmp://f13h.mine.nu/sat/tv051
@@ -547,6 +534,7 @@ TVBS新闻,rtmp://f13h.mine.nu/sat/tv761
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
+
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
@@ -562,6 +550,20 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来体育,https://epg.pw/stream/e5507bbdc9dfef925338d5e3be29d249880f5702d13b4519c7def49163aa386b.m3u8
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
+
+
+凤凰卫视频玛,https://live.catvod.com/catvod_com.php?id=phoenixtv_hd
+凤凰资讯频玛,https://live.catvod.com/catvod_com.php?id=phoenixinfo_hd
+凤凰香港频玛,https://live.catvod.com/catvod_com.php?id=hkphoenix_twn
+中天新闻,https://live.catvod.com/catvod_com.php?id=ctinews
+东森新闻,https://live.catvod.com/catvod_com.php?id=ettvnews
+寰宇新闻,https://live.catvod.com/catvod_com.php?id=huanyuxinwen_twn
+tvbs新闻,https://live.catvod.com/catvod_com.php?id=tvbs_n
+年代新闻,https://live.catvod.com/catvod_com.php?id=niandainews_twn
+民视新闻,https://live.catvod.com/catvod_com.php?id=ftvnew_taiwan
+中视新闻,https://live.catvod.com/catvod_com.php?id=zhongshinews_twn
+台视新闻,https://live.catvod.com/catvod_com.php?id=ttvnews_twn
+非凡新闻,https://live.catvod.com/catvod_com.php?id=feifannews_twn
 
 
 人间卫视,https://epg.pw/stream/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e330e85f4351f.m3u8

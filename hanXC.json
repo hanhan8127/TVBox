@@ -1,12 +1,12 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 
 {
-//"spider":"./lib/spider.jar",
-"spider":"https://lz.qaiu.top/d/lz/ijfdS2y7122j",	
+"spider":"./lib/spider.jar",
+//"spider":"https://lz.qaiu.top/d/lz/ijfdS2y7122j",	
 "lives": [{"name": "live","type": 0,
 "url": "./live.txt","playerType":2,
-//https://raw.bgithub.xyz/xiongjian83/TvBox/refs/heads/main/live.txt
-//https://raw.bgithub.xyz/wcb1969/iptv/refs/heads/main/TV2025
+//https://raw.bgithub.xyz/xiongjian83/TvBox/refs/heads/main/live.txt;http://rihou.cc:555/gggg.nzk/
+//https://raw.bgithub.xyz/wcb1969/iptv/refs/heads/main/TV2025;https://3043.kstore.space/bhvip/bh/bhzb2.txt;https://aktv.space/live.m3u;https://bgithub.xyz/PizazzGY/TV/tree/master/output
 //http://file.91kds.cn//tvlist/txtzztv2025060610/txtzztv/kds_all_ynyd_dc57da3d2ede7a9a155a484e0eee8d60.txt
 "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
 "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -59,10 +59,11 @@
     "嗅探词": ".mp4#.m3u8","搜索请求头": "User-Agent$MOBILE_UA","搜索url": "/search?k={wd}&page={pg}","搜索模式": "1"}},
 
 //https://dl.keke1.app/	 https://www.keke1.app/  https://dl.dushe7.app/   https://www.dushe7.app  dushe02.com  dushe03.com  dushe04.com
+
 {"key": "黑木耳克隆","name": "黑木耳","type": 4,"api": "http://zhangqun66.com/225.php","searchable": 1,"quickSearch": 1,"filterable": 0},
 
-{"key":"金牌影视","name":"金牌┃影视","type":3,"api":"http://150.158.112.123/jar/py/jp.py","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,
-	"ext":{"site":"https://www.ghw9zwp5.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"}},
+{"key":"金牌影视","name":"金牌┃影视","type":3,"api":"./lib/jp.py","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,
+	"ext":{"site":"https://www.ghw9zwp5.com,https://www.hkybqufgh.com,https://www.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"}},
 
 {"key":"drpy_js_金牌1","name":"金牌影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视.js"},
 {"key":"drpy_js_金牌","name":"金牌秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视2.js"},

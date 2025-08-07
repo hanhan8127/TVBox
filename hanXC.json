@@ -62,7 +62,7 @@
 
 {"key": "黑木耳克隆","name": "黑木耳","type": 4,"api": "http://zhangqun66.com/225.php","searchable": 1,"quickSearch": 1,"filterable": 0},
 
-{"key":"金牌影视","name":"金牌┃影视","type":3,"api":"./lib/jp.py","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,
+{"key":"金牌影视","name":"金牌┃影视","type":3,"api":"https://raw.bgithub.xyz/hanhan8127/TVBox/refs/heads/main/lib/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.py","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,
 	"ext":{"site":"https://www.ghw9zwp5.com,https://www.hkybqufgh.com,https://www.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"}},
 
 {"key":"drpy_js_金牌1","name":"金牌影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视.js"},

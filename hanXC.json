@@ -68,8 +68,6 @@
 //https://gitee.com/senno/tvbox/raw/master/api.json;    https://m.sunnafh.com/     https://www.gs4x7nq4.com/ 	   https://ndhfiohk.com/   https://jieys.com/  https://www.vv3nwjk.com/     https://www.jpyy2.com/   
 //https://www.sizhengxt.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn
 
-{"key":"金牌影视","name":"金牌┃影视","type":3,"api":"/lib/jinpai.js","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,
-	"ext":{"site":"https://www.ghw9zwp5.com,https://www.hkybqufgh.com,https://www.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"}},
 //https://fmbox.cc
 
 {"key":"Wwys","name":"旺旺影视","type":3,"quickSearch":1,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},	

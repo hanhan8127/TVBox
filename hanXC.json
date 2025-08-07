@@ -68,7 +68,7 @@
 //https://gitee.com/senno/tvbox/raw/master/api.json;    https://m.sunnafh.com/     https://www.gs4x7nq4.com/ 	   https://ndhfiohk.com/   https://jieys.com/  https://www.vv3nwjk.com/     https://www.jpyy2.com/   
 //https://www.sizhengxt.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn
 
-{"key":"金牌影视","name":"金牌┃影视","type":3,"api":"https://raw.bgithub.xyz/hanhan8127/TVBox/refs/heads/main/lib/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.js","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,
+{"key":"金牌影视","name":"金牌┃影视","type":3,"api":"/lib/jinpai.js","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,
 	"ext":{"site":"https://www.ghw9zwp5.com,https://www.hkybqufgh.com,https://www.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"}},
 //https://fmbox.cc
 

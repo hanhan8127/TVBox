@@ -62,21 +62,17 @@
 
 {"key": "黑木耳克隆","name": "黑木耳","type": 4,"api": "http://zhangqun66.com/225.php","searchable": 1,"quickSearch": 1,"filterable": 0},
 
-{"key":"金牌影视","name":"金牌┃影视","type":3,"api":"https://raw.bgithub.xyz/hanhan8127/TVBox/refs/heads/main/lib/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.py","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,
-	"ext":{"site":"https://www.ghw9zwp5.com,https://www.hkybqufgh.com,https://www.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"}},
-
 {"key":"drpy_js_金牌1","name":"金牌影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视.js"},
 {"key":"drpy_js_金牌","name":"金牌秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视2.js"},
 //https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/  http://www.guanyugekj.com/
 //https://gitee.com/senno/tvbox/raw/master/api.json;    https://m.sunnafh.com/     https://www.gs4x7nq4.com/ 	   https://ndhfiohk.com/   https://jieys.com/  https://www.vv3nwjk.com/     https://www.jpyy2.com/   
 //https://www.sizhengxt.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn
 
-{"key":"Wwys1","name":"农民影视","type":3,"quickSearch":1,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},	
-{"key":"Wwys2","name":"旺旺影视","type":3,"api":"csp_XBPQ",
-	"ext":{"请求头": "手机","编码": "UTF-8","简介": "剧情介绍:+简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>","线路数组": "javascript:;\">&&</a>","数组": "<li>&&</li>","图片": "data-echo=\"&&\"",
-        "分类url": "https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by-time-class-0-year-{year}-letter--area-{area}-lang-.html",
-        "分类": "短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
+{"key":"金牌影视","name":"金牌┃影视","type":3,"api":"https://raw.bgithub.xyz/hanhan8127/TVBox/refs/heads/main/lib/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.js","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,
+	"ext":{"site":"https://www.ghw9zwp5.com,https://www.hkybqufgh.com,https://www.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"}},
+//https://fmbox.cc
 
+{"key":"Wwys","name":"旺旺影视","type":3,"quickSearch":1,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},	
 
 {"key":"baibai","name":"素白影视","type":3,"quickSearch":1,"api":"csp_SuBaiBai","ext":"https://www.subaibai.com"},
 {"key":"素白白","name":"素白白","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,

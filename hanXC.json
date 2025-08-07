@@ -1,8 +1,8 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 
 {
-"spider":"./lib/spider.jar",
-	
+//"spider":"./lib/spider.jar",
+"spider":"https://lz.qaiu.top/d/lz/ijfdS2y7122j",	
 "lives": [{"name": "live","type": 0,
 "url": "./live.txt","playerType":2,
 //https://raw.bgithub.xyz/xiongjian83/TvBox/refs/heads/main/live.txt

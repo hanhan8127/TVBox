@@ -2,8 +2,7 @@
 
 {
 
-"spider":"https://tvbox.catvod.com/catvod.jar;md5;392df5f6a1c925c9f765c7e4b6f3eda4",
-//"spider":"./lib/spider.jar",
+"spider":"./lib/spider.jar",
 //"spider":"https://lz.qaiu.top/d/lz/ijfdS2y7122j",	
 "lives": [{"name": "live","type": 0,
 "url": "./live.txt","playerType":2,
@@ -89,7 +88,6 @@
 {"key":"198mv","name":"白嫖影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"分类url": "https://198mv.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html","分类": "国产剧$13#电影$1#剧集$2#综艺$3#动漫$4#短剧$39"}},
 {"key": "jieys","name": "界影视","type": 3,"api": "https://raw.bgithub.xyz/MingHoChen/tvbox_cluntop/refs/heads/main/py/py_jieyingshi.py","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0},
-
 
 {"key": "猫咪资源","name":"猫咪影院","type": 1,"api":"http://zy.xmm.hk/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电影","连续剧","综艺","动漫"]},
 //主域名 ：http://zy.xiaomaomi.cc/#   zy.xmm.hk

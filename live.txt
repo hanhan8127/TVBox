@@ -1,6 +1,7 @@
 
 央视频道,#genre#
 
+CCTV-13新闻,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13新闻,https://live.mxdyeah.top/live.php?id=CCTVNewsHD
 CCTV-4K,https://live.mxdyeah.top/live.php?id=CCTV4K
 CCTV-4K,http://2123bpne7449.vicp.fun:8188/udp/239.93.57.42:5140
@@ -239,6 +240,20 @@ CCTV-12社会,https://live.catvod.com/catvod_com.php?id=cctv12
 CCTV-13新闻,https://live.catvod.com/catvod_com.php?id=cctv13
 CCTV-14少儿,https://live.catvod.com/catvod_com.php?id=cctv14
 CCTV-15音乐,https://live.catvod.com/catvod_com.php?id=cctv15
+
+CCTV-1综合,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+CCTV-2财经,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+CCTV-3综艺,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+CCTV-4国际,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+CCTV-5体育,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+CCTV-5+赛事,https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+CCTV-6电影,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+CCTV-7军事,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+CCTV-8电视剧,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+CCTV-10科教,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+CCTV-12社会,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+CCTV-13新闻,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+CCTV-14少儿,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 
 
 CCTV-1综合,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8 

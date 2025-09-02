@@ -1,7 +1,6 @@
 
 央视频道,#genre#
 
-CCTV-13新闻,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13新闻,https://live.mxdyeah.top/live.php?id=CCTVNewsHD
 CCTV-4K,https://live.mxdyeah.top/live.php?id=CCTV4K
 CCTV-4K,http://2123bpne7449.vicp.fun:8188/udp/239.93.57.42:5140

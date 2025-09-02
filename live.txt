@@ -54,7 +54,7 @@ CCTV风云足球,https://live.mxdyeah.top/live.php?id=fyzqHD
 CCTV文化精品,https://live.mxdyeah.top/live.php?id=yswhHD
 CCTV高尔夫网球，https://live.mxdyeah.top/live.php?id=golfHD
 
-CCTV-1综合,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226163/1.m3u8
+CCTV-1综合,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226163/index.m3u8
 CCTV-2财经,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226122/index.m3u8
 CCTV-3综艺,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225766/index.m3u8
 CCTV-4国际,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226124/index.m3u8

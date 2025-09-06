@@ -27,9 +27,6 @@
 {"key":"nrnnnr","name":"电影天堂","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.nrnnnr.com/search.php?page={catePg}&searchtype=5&tid={cateId}","分类":"国产剧$5#短剧$13#电影$2#电视剧$1#综艺$3#动漫$4"}},	
 
-{"key":"sdsrty","name":"今日影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-	"ext":{"线路数组": "<li class=\"swiper-slide*\">&&</li>","线路标题": ">&&</a>","分类url": "https://www.sdsrty.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}}, 	
-
 {"key":"vx9d2","name":"影视大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.vx9d2.com/yingshi/{cateId}-{catePg}.html","分类": "国产剧$5#短剧$13#电视剧$1#电影$2#大陆综艺$22#综艺$3#动漫$4"}},
 {"key":"iysdq","name":"影院大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.iysdq.com/vodtype/{cateId}-{catePg}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 
 {"key":"大全","name":"影院大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}-{area}-------{catePg}---.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 	
